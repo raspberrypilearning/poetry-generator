@@ -1,17 +1,27 @@
-title: poetry-generator
+---
 hero_image: images/banner.png
-description: poetry-generator description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "games, robots, jokes/pranks, space, photography, music/sound, physical computing"
-technologies: "html/css, scratch, electronics, physical computing, python"
-site_areas:
+title: Ada's Poetry Generator
+description: Celebrate Ada Lovelace Day, by learning how to program your own poetry
+  generator!
+original_url: https://codeclubprojects.org/en-GB/scratch/poetry-generator
+interests: ''
+technologies: scratch
+site_areas: codeclub, scratch
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Ada Lovelace
+- title: 'Challenge: Code Ada to introduce herself'
+- title: Telling Ada your name
+- title: The Analytical Engine
+- title: More poetry
+- title: Animating the Analytical Engine
+- title: 'Challenge: Personalise your poem'
+- title: 'Challenge: More words'
+- title: 'Challenge: More poetry'
+
