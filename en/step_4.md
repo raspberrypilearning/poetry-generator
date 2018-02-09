@@ -6,7 +6,7 @@ Ada has introduced herself, but she doesn't know your name!
 
 + Drag an `ask`{:class="blocksensing"} block (from the `sensing`{:class="blocksensing"} section) onto your code. Here's how your code should look:
 
-```scratch
+```blocks
 when this sprite clicked
 say [Hi, I'm Ada!] for (2) secs
 ask [What's your name?] and wait
