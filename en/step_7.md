@@ -6,7 +6,7 @@ Let's animate your computer, so that it looks like it's generating poetry.
 
 + Click on your computer sprite, and add this code after the first `say`{:class="blocklooks"} block:
 
-```scratch
+```blocks
 repeat (10)
 	turn left (5) degrees
 	wait (0.1) secs
