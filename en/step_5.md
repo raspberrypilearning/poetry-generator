@@ -2,11 +2,9 @@
 
 Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
 
-
-
 + Add this code to your 'Computer' sprite, so that it speaks when clicked:
 
-```scratch
+```blocks
 when this sprite clicked
 say [Here is your poem...] for (2) secs
 ```
@@ -23,7 +21,7 @@ Let's use __verbs__ (action words) in the first line of your poem. Create a new 
 
 + The first line in your poem will be the word "I", followed by a random verb. This is the code that you'll need to add:
 
-```scratch
+```blocks
 when this sprite clicked
 say [Here is your poem...] for (2) secs
 say (join [I ] (item (random v) of [verbs v])) for (2) secs

@@ -6,7 +6,7 @@ Ada has introduced herself, but she doesn't know your name!
 
 + Drag an `ask`{:class="blocksensing"} block (from the `sensing`{:class="blocksensing"} section) onto your code. Here's how your code should look:
 
-```scratch
+```blocks
 when this sprite clicked
 say [Hi, I'm Ada!] for (2) secs
 ask [What's your name?] and wait
@@ -34,7 +34,7 @@ ask [What's your name?] and wait
 
 + You can now make use of your name in your code. Add this code:
 
-```scratch
+```blocks
 say (join [Hi ] (name))
 ```
 
@@ -54,13 +54,13 @@ If there's no space between the word 'Hi' and your name, you'll need to add a sp
 
 + Finally, add this code to explain what to do next:
 
-```scratch
+```blocks
 say [Click the computer to generate a poem!] for (2) secs
 ```
 
 + Test Ada's code one last time, to make sure that everything works. Here's How your code should look:
 
-```scratch
+```blocks
 when this sprite clicked
 say [Hi, I'm Ada!] for (2) secs
 ask [What's your name?] and wait

@@ -10,7 +10,7 @@ Your poem is quite short - let's add to it!
 
 + Add this line to your computer's code, to say a random adverb on the next line of your poem:
 
-```scratch
+```blocks
 say (item (random v) of [adverbs v]) for (2) secs
 ```
 
@@ -24,7 +24,7 @@ say (item (random v) of [adverbs v]) for (2) secs
 
 + Add code to use the nouns in your poem.
 
-```scratch
+```blocks
 say (join [by the ] (item (random v) of [nouns v])) for (2) secs
 ```
 
@@ -34,7 +34,7 @@ say (join [by the ] (item (random v) of [nouns v])) for (2) secs
 
 + Add code to use the adjectives in your poem:
 
-```scratch
+```blocks
 say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
 ```
 
@@ -44,7 +44,7 @@ say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
 
 + Test out your new poem. Here's the code you should have:
 
-```scratch
+```blocks
 when this sprite clicked
 say [Here is your poem...] for (2) secs
 say (join [I ] (item (random v) of [verbs v])) for (2) secs
