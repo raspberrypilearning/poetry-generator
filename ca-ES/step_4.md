@@ -1,68 +1,61 @@
-## Telling Ada your name
+## Digueu a Ada el vostre nom
 
-Ada has introduced herself, but she doesn't know your name!
+Ada s'ha presentat, però no sap el teu nom!
 
-+ Drag an `ask`{:class="blocksensing"} block (from the `sensing`{:class="blocksensing"} section) onto your code. Here's how your code should look:
++ Arrossegant un `pregunten`{: class = "blocksensing"} bloc (des del `de detecció de`{: class = "blocksensing"} secció) en el seu codi. A continuació s'explica com hauria d'aparèixer el vostre codi:
 
 ```blocks
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) secs
-ask [What's your name?] and wait
+quan aquest sprite fa clic fa clic a: [Hola, sóc Ada!] per (2) segs preguntar [Quin és el vostre nom?] i esperar
 ```
 
-+ Click on Ada to test your code. Ada should ask you your name, which you can type in!
++ Feu clic a Ada per provar el vostre codi. Ada hauria de demanar el vostre nom, que podeu escriure!
 
-![screenshot](images/poetry-input.png)
+![captura de pantalla](images/poetry-input.png)
 
-+ We can use a **variable** to store your name. Click `Data`{:class="blockdata"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="blockdata"}!
++ Podem utilitzar un **variable d'** a emmagatzemar el seu nom. Feu clic a `Dades`{: class = "blockdata"} i, a continuació, "Fes una variable". Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, truquem a la variable ... `nom`{: class = "blockdata"}!
 
-![screenshot](images/poetry-name.png)
+![captura de pantalla](images/poetry-name.png)
 
-+ To store your name, click the `Data`{:class="blockdata"} tab, and then drag the `set name`{:class="blockdata"} block onto the end of your code.
++ Per emmagatzemar el seu nom, feu clic al `Dades`{: class = "blockdata"} pestanya, i després arrossegar el `nom del conjunt`{: class = "blockdata"} bloquejar a l'extrem del seu codi.
 
-![screenshot](images/poetry-set.png)
+![captura de pantalla](images/poetry-set.png)
 
-+ Use the `answer`{:class="blocksensing"} block to store the answer you type in.
++ Utilitzeu el `respostes`{: class = "blocksensing"} de bloc per emmagatzemar la resposta s'escriu en.
 
-![screenshot](images/poetry-answer.png)
+![captura de pantalla](images/poetry-answer.png)
 
-+ Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="blockdata"} variable.
++ Feu clic a Ada per provar el vostre codi i introduïu el vostre nom quan se us demani. Hauria de veure que el seu nom ha estat emmagatzemat al `Nom`{: class = "blockdata"} variable.
 
-![screenshot](images/poetry-name-test.png)
+![captura de pantalla](images/poetry-name-test.png)
 
-+ You can now make use of your name in your code. Add this code:
++ Ara podeu fer ús del vostre nom al vostre codi. Afegiu aquest codi:
 
 ```blocks
-say (join [Hi ] (name))
+digues (uniu-vos-hi) (nom)
 ```
 
-To create this code, first drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block, and then add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+Per crear aquest codi, primer arrossegueu un `uniu-vos`{: class = "blockoperators"} bloqueja el bloc `diu`{: class = "blocklooks"} i, a continuació, afegiu el vostre `nom`{: class = "blockdata"} bloquejar a la `uneix-te`(: class = "blockoperators"} bloc.
 
-![screenshot](images/poetry-join.png)
+![captura de pantalla](images/poetry-join.png)
 
-+ To hide your `name`{:class="blockdata"} variable on the stage, click the tick next to the variable.
++ Per ocultar la seva `Nom`{: class = "blockdata"} variable sobre l'escenari, feu clic a la marca al costat de la variable.
 
-![screenshot](images/poetry-tick.png)
+![captura de pantalla](images/poetry-tick.png)
 
-+ Test your new code. Ada should say hello to you, using your name!
++ Proveu el codi nou. Ada hauria de saludar, usant el vostre nom!
 
-![screenshot](images/poetry-name-test2.png)
+![captura de pantalla](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+Si no hi ha espai entre la paraula "Hola" i el vostre nom, haureu d'afegir-hi un espai al codi.
 
-+ Finally, add this code to explain what to do next:
++ Finalment, afegiu aquest codi per explicar què fer següent:
 
 ```blocks
-say [Click the computer to generate a poem!] for (2) secs
+digues [Feu clic a l'ordinador per generar un poema!] per a (2) segons
 ```
 
-+ Test Ada's code one last time, to make sure that everything works. Here's How your code should look:
++ Prova el codi d'Ada per última vegada, per assegurar-te que tot funciona. A continuació us indiquem com hauria de veure el vostre codi:
 
 ```blocks
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) secs
-ask [What's your name?] and wait
-set [name v] to (answer)
-say (join [Hi ] (name)) for (2) secs 
-say [Click the computer to generate a poem.] for (2) secs 
+quan aquest sprite va fer clic a [Hi, sóc Ada!] per (2) segs preguntareu [Quin és el vostre nom?] i espereu que estableixi [nom v] a (respongui) dir (uniu-vos-hi (nom)) per (2 ) Diuen [Feu clic a l'ordinador per generar un poema.] per a (2) segons 
 ```
