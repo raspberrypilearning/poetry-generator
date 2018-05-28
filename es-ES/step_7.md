@@ -1,36 +1,31 @@
-## Animating the Analytical Engine
+## Animar el motor analítico
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Animemos su computadora, para que parezca que está generando poesía.
 
-+ Click on your computer sprite, and add this code after the first `say`{:class="blocklooks"} block:
++ Haga clic en el sprite de su computadora y agregue este código después del primer bloque de `decir`{: class = "blocklooks"}:
 
 ```blocks
-repeat (10)
-    turn left (5) degrees
-    wait (0.1) secs
-    turn right (5) degrees
-    wait (0.1) secs 
-end
+repetir (10) girar a la izquierda (5) grados esperar (0.1) segundos girar a la derecha (5) grados esperar (0.1) segundos
 ```
 
-Here's how your code should look:
+Así es como debería verse su código:
 
-![screenshot](images/poetry-animate.png)
+![captura de pantalla](images/poetry-animate.png)
 
-You'll find the `repeat`{:class="blockcontrol"} and `wait`{:class="blockcontrol"} blocks are in the `Control`{:class="blockcontrol"} section.
+Encontrará que los bloques `repeat`{: class = "blockcontrol"} y `wait`{: class = "blockcontrol"} están en la sección `Control`{: class = "blockcontrol"}.
 
-+ Test your project. You should see the computer shake before producing a poem!
++ Prueba tu proyecto ¡Deberías ver la computadora temblar antes de producir un poema!
 
-![screenshot](images/poetry-animate-test.png)
+![captura de pantalla](images/poetry-animate-test.png)
 
-+ Click the 'Sounds' tab, and click 'Choose sound from library'.
++ Haga clic en la pestaña 'Sonidos' y haga clic en 'Elegir sonido de la biblioteca'.
 
-![screenshot](images/poetry-sound.png)
+![captura de pantalla](images/poetry-sound.png)
 
-+ Choose a 'computer beeps' sound and click OK.
++ Elija un sonido 'computer beeps' y haga clic en OK.
 
-![screenshot](images/poetry-beeps.png)
+![captura de pantalla](images/poetry-beeps.png)
 
-+ Add a `play sound`{:class="blocksound"} block, to play your sound just before your animation starts.
++ Agrega un bloque de sonido `play`{: class = "blocksound"}, para reproducir tu sonido justo antes de que comience la animación.
 
-![screenshot](images/poetry-play.png)
+![captura de pantalla](images/poetry-play.png)
