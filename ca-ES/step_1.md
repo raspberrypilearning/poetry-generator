@@ -1,79 +1,79 @@
-## Introduction
+## Introducció
 
-You are going to learn how to program your own poetry generator!
+Aneu a aprendre a programar el vostre propi generador de poesia.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/77844926/?autostart=false" frameborder="0"></iframe>
   <img src="images/poetry-final.png">
 </div>
 
-### Additional information for club leaders
+### Informació addicional per als líders del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print).
+Si necessita imprimir aquest projecte, si us plau utilitzeu el [Versió per a imprimir](https://projects.raspberrypi.org/en/projects/poetry-generator/print).
 
-## \--- collapse \---
+## \--- col·lapsar \---
 
-## title: Club leader notes
+## títol: notes del líder del club
 
-## Introduction:
+## Introducció:
 
-In this project, children will learn how to use variables and lists to make their own random poetry.
+En aquest projecte, els nens aprendran a utilitzar variables i llistes per fer la seva pròpia poesia aleatòria.
 
-## Ada Lovelace Day
+## Dia d'Ada Lovelace
 
-This project has been created to celebrate Ada Lovalace Day. If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Aquest projecte s'ha creat per celebrar el Dia Ada Lovalace. Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) per introduir els fills a Ada i les seves idees revolucionàries.
 
-## Resources
+## Recursos
 
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+Per a aquest projecte, s'ha d'utilitzar Scratch 2. Scratch 2 es pot utilitzar en línia a [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) o es pot descarregar de [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) i es fa servir fora de línia.
 
-The 'Project Materials' link for this project contains the following resources:
+L'enllaç "Project Materials" d'aquest projecte conté els següents recursos:
 
-##### Club leader Resources
+##### Recursos del líder del club
 
-You can find a completed version of this project [online](http://scratch.mit.edu/projects/77844926/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+Podeu trobar una versió completa d'aquest projecte [en línia](http://scratch.mit.edu/projects/77844926/#editor), o es pot descarregar fent clic a l'enllaç "Materials del projecte" per a aquest projecte, que conté:
 
 * PoetryGenerator.sb2
 
-##### Project Resources
+##### Recursos del projecte
 
-For this project, club members can make use of a Scratch project containing the required resources. This project is available at [jumpto.cc/poetry-resources](http://jumpto.cc/poetry-resources), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+Per a aquest projecte, els membres del club poden fer ús d'un projecte Scratch que contingui els recursos necessaris. Aquest projecte està disponible a [jumpto.cc/poetry-resources](http://jumpto.cc/poetry-resources), o es pot descarregar fent clic a l'enllaç "Materials del projecte" per a aquest projecte, que conté:
 
 * PoetryGeneratorResources.sb2
 
-Make sure that each child has access to a copy of these resources.
+Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos.
 
-## Learning Objectives
+## Objectius d'aprenentatge
 
-* Variables;
-* Lists and random list items;
-* Repetition (the `repeat`{:class="blockcontrol"} block).
+* Les variables;
+* Llistes i elements de la llista a l'atzar;
+* Repetició (el bloc de `repetició`{: class = "blockcontrol"}).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Aquest projecte abasta elements de les següents línies del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utilitzeu les construccions de programació bàsiques per crear programes senzills.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafiaments
 
-* "Code Ada to introduce herself" - Changing the text in a `say`{:class="blocklooks"} code block;
-* "Personalise your poem" - Using a variable within a `say`{:class="blocklooks"} block;
-* "More words" - Adding more verbs, adverbs nouns and adjectives to the lists;
-* "More poetry" - Use of different lists to create a different poem.
+* "Codi Ada per presentar-se": canviant el text en un bloc de codi `:`{: class = "blocklooks"};
+* "Personalitza el teu poema": utilitzant una variable dins d'un bloc de `:`{: class = "blocklooks"};
+* "Més paraules": afegint més verbs, adverbis substantius i adjectius a les llistes;
+* "Més poesia": ús de llistes diferents per crear un poema diferent.
 
-\--- /collapse \---
+\--- / col · lapse \---
 
-## \--- collapse \---
+## \--- col·lapsar \---
 
-## title: Project materials
+## títol: materials del projecte
 
-## Project resources
+## Recursos del projecte
 
-* [Online Scratch 2 project containing external resources](http://jumpto.cc/poetry-resources)
-* [Downloadable Scratch 2 project containing external resources](resources/PoetryGeneratorResources.sb2)
+* [Projecte Scratch 2 en línia que conté recursos externs](http://jumpto.cc/poetry-resources)
+* [Projecte Scratch 2 que es pot baixar amb recursos externs](resources/PoetryGeneratorResources.sb2)
 
-## Club leader resources
+## Recursos del líder del club
 
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/77844926/#editor)
-* [Downloadable completed Scratch 2 project](resources/PoetryGenerator.sb2)
+* [Projecte Scratch 2 completat en línia](http://scratch.mit.edu/projects/77844926/#editor)
+* [Projecte Scratch 2 descarregable completat](resources/PoetryGenerator.sb2)
 
-\--- /collapse \---
+\--- / col · lapse \---
