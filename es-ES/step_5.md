@@ -1,32 +1,29 @@
-## The Analytical Engine
+## El motor analítico
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Vamos a programar la computadora de Ada (llamada el 'Motor Analítico') para generar poesía.
 
-+ Add this code to your 'Computer' sprite, so that it speaks when clicked:
-
-```blocks
-when this sprite clicked
-say [Here is your poem...] for (2) secs
-```
-
-+ To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="blockdata"} tab.
-
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called 'verbs'.
-
-![screenshot](images/poetry-list.png)
-
-+ Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
-
-![screenshot](images/poetry-verbs.png)
-
-+ The first line in your poem will be the word "I", followed by a random verb. This is the code that you'll need to add:
++ Agregue este código a su sprite 'Computer', para que hable al hacer clic:
 
 ```blocks
-when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
+cuando este duende hizo clic diga [Aquí está su poema ...] durante (2) segundos
 ```
 
-+ Test your code a few times. Your computer should say a random word from your verb list each time.
++ Para crear un poema al azar, primero se necesita un **lista** de palabras a utilizar. Para crear una nueva lista, haga clic en la pestaña `Data`{: class = "blockdata"}.
 
-![screenshot](images/poetry-random-test.png)
+Usemos **verbos** (palabras de acción) en la primera línea de su poema. Crea una nueva lista llamada 'verbos'.
+
+![captura de pantalla](images/poetry-list.png)
+
++ Tu nueva lista estará vacía. Haga clic en el `+` en la parte inferior de su lista vacía y agregue estos verbos:
+
+![captura de pantalla](images/poetry-verbs.png)
+
++ La primera línea de tu poema será la palabra "I", seguida de un verbo aleatorio. Este es el código que deberá agregar:
+
+```blocks
+cuando este objeto hizo clic diga [Aquí está su poema ...] durante (2) segundos diga (únase [I] (elemento (v al azar) de [verbos v]) durante (2) segundos
+```
+
++ Pruebe su código algunas veces. Su computadora debe decir una palabra aleatoria de su lista de verbos cada vez.
+
+![captura de pantalla](images/poetry-random-test.png)
