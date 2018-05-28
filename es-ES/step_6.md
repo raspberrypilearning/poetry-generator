@@ -1,52 +1,47 @@
-## More poetry
+## Más poesía
 
-Your poem is quite short - let's add to it!
+Tu poema es bastante corto, ¡vamos a agregarlo!
 
-+ Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
++ Usemos adverbios en la siguiente línea de tu poema. Un **adverbio** es una palabra que describe un verbo. Crea otra lista llamada adverbios y agrega estas 3 palabras:
 
-![screenshot](images/poetry-adverbs.png)
+![captura de pantalla](images/poetry-adverbs.png)
 
-+ Add this line to your computer's code, to say a random adverb on the next line of your poem:
++ Agregue esta línea al código de su computadora, para decir un adverbio aleatorio en la siguiente línea de su poema:
 
 ```blocks
-say (item (random v) of [adverbs v]) for (2) secs
+decir (elemento (v al azar) de [adverbios v]) durante (2) segundos
 ```
 
-+ Test your code a few times. You should see a random poem each time.
++ Pruebe su código algunas veces. Deberías ver un poema al azar cada vez.
 
-![screenshot](images/poetry-adverb-test.png)
+![captura de pantalla](images/poetry-adverb-test.png)
 
-+ Add a list of nouns to your project. A **noun** is a place or a thing.
++ Agregue una lista de sustantivos a su proyecto. A **sustantivo** es un lugar o una cosa.
 
-![screenshot](images/poetry-nouns.png)
+![captura de pantalla](images/poetry-nouns.png)
 
-+ Add code to use the nouns in your poem.
++ Agrega código para usar los sustantivos en tu poema.
 
 ```blocks
-say (join [by the ] (item (random v) of [nouns v])) for (2) secs
+say (join [by the] (item (random v) of [nouns v])) for (2) secs
 ```
 
-+ Add a list of adjectives to your project. An **adjective** is a describing word.
++ Agregue una lista de adjetivos a su proyecto. Un **adjetivo** es una palabra descriptiva.
 
-![screenshot](images/poetry-adjectives.png)
+![captura de pantalla](images/poetry-adjectives.png)
 
-+ Add code to use the adjectives in your poem:
++ Agregue código para usar los adjetivos en su poema:
 
 ```blocks
-say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
+di (join [I feel] (item (random v) of [adjectives v])) for (2) secs
 ```
 
-+ You can click the boxes next to your lists to hide them.
++ Puede hacer clic en los cuadros junto a sus listas para ocultarlos.
 
-![screenshot](images/poetry-lists-tick.png)
+![captura de pantalla](images/poetry-lists-tick.png)
 
-+ Test out your new poem. Here's the code you should have:
++ Pon a prueba tu nuevo poema. Aquí está el código que debes tener:
 
 ```blocks
-when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
-say (item (random v) of [adverbs v]) for (2) secs
-say (join [by the ] (item (random v) of [nouns v])) for (2) secs
-say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
+cuando este objeto hizo clic diga [Aquí está su poema ...] durante (2) segundos diga (únase [I] (elemento (v aleatorio) de [verbos v])) para (2) segundos diga (elemento (v aleatorio) de [adverbios v]) durante (2) segundos digamos (unir [por el] (ítem (v al azar) de [nombres v])) para (2) secs decir (unir [Siento] (ítem (v aleatorio) de [adjetivos v])) durante (2) segundos
 ```
