@@ -1,39 +1,39 @@
 ---
-hero_image: images/banner.png
-theme: navy
+hero_image: images / banner.png
+theme: Armada
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+curriculum: 1, diseño-0, programación-1, phys-comp-0, fabricación-0, comunidad-0
+title: Generador de poesía de Ada
+description: '¡Celebre Ada Lovelace Day, aprendiendo cómo programar su propio generador de poesía!'
 original_url: https://codeclubprojects.org/en-GB/scratch/poetry-generator
-interests: literature
-technologies: scratch
-site_areas: projects
+interests: literatura
+technologies: rasguño
+site_areas: proyectos
 hardware: ''
-software: scratch
+software: rasguño
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
     title: Ada Lovelace
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: 'Desafío: Codifique a Ada para presentarse'
   - 
-    title: Telling Ada your name
+    title: Diciéndole a Ada tu nombre
   - 
-    title: The Analytical Engine
+    title: El motor analítico
   - 
-    title: More poetry
+    title: Más poesía
   - 
-    title: Animating the Analytical Engine
+    title: Animar el motor analítico
   - 
-    title: 'Challenge: Personalise your poem'
+    title: 'Desafío: personaliza tu poema'
   - 
-    title: 'Challenge: More words'
+    title: 'Desafío: Más palabras'
   - 
-    title: 'Challenge: More poetry'
+    title: 'Desafío: más poesía'
