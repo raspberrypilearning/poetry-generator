@@ -1,19 +1,19 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+El 1842, Ada Lovelace va escriure sobre l'ús d'una màquina anomenada 'Motor Analític' per fer càlculs, i es considera el primer programador informàtic del món. Ada també va ser el primer en veure que les computadores podrien ser més que grans calculadores.
 
-+ Open the 'Poetry Generator' Scratch project online at <a href="http://jumpto.cc/poetry-go" target="_blank">jumpto.cc/poetry-go</a> or download from <a href="http://jumpto.cc/poetry-get" target="_blank">jumpto.cc/poetry-get</a> and then open if you are using the offline editor.
++ Obriu el projecte Scratch 'Poetry Generator' en línia a <a href="http://jumpto.cc/poetry-go" target="_blank">jumpto.cc/poetry-go</a> o descarregueu des de <a href="http://jumpto.cc/poetry-get" target="_blank">jumpto.cc/poetry-get</a> i obriu-lo si utilitzeu l'editor fora de línia.
 
-+ Click on your 'Ada' sprite, and click the `Events`{:class="blockevents"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="blockevents"} block onto the coding area on the right.
++ Feu clic al sprite 'Ada' i feu clic a la pestanya `Esdeveniments`{: class = "blockevents"} a la secció de codificació "Scripts". Arrossegueu el `quan aquest sprite faci clic a`{: class = "blockevents"} bloqueig a l'àrea de codificació de la dreta.
 
-![screenshot](images/poetry-click.png)
+![captura de pantalla](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Qualsevol codi agregat sota aquest bloc s'executarà quan es fa clic a Ada!
 
-+ Click the `Looks`{:class="blocklooks"} tab, and drag the `say`{:class="blocklooks"} `Hello!` `for 2 secs`{:class="blocklooks"} block underneath the code you've already added.
++ Feu clic a la pestanya `visualitzacions`{: class = "blocklooks"} i arrossegueu `dir`{: class = "blocklooks"} `Hola!` `per 2 segons`{: class = "blocklooks"} bloca per sota del codi que ja heu afegit.
 
-![screenshot](images/poetry-say.png)
+![captura de pantalla](images/poetry-say.png)
 
-+ Click on Ada, and you should see her talk to you.
++ Feu clic a Ada i hauríeu de veure la vostra xerrada.
 
-![screenshot](images/poetry-say-test.png)
+![captura de pantalla](images/poetry-say-test.png)
