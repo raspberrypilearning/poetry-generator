@@ -1,7 +1,7 @@
-\--- challenge \---
+\--- desafiament \---
 
-## Challenge: More poetry
+## Desafiament: més poesia
 
-Can you use your own lists to generate you own poetry?
+Podeu utilitzar les vostres pròpies llistes per generar-vos la pròpia poesia?
 
-\--- /challenge \---
+\--- /desafiament \---
