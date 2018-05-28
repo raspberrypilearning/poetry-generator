@@ -1,52 +1,47 @@
-## More poetry
+## Més poesia
 
-Your poem is quite short - let's add to it!
+El teu poema és bastant curt: afegim-ho!
 
-+ Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
++ Anem a utilitzar adverbis a la següent línia del vostre poema. Un **adverbial** és una paraula que descriu un verb. Creeu una altra llista anomenada adverbis i afegiu aquestes 3 paraules:
 
-![screenshot](images/poetry-adverbs.png)
+![captura de pantalla](images/poetry-adverbs.png)
 
-+ Add this line to your computer's code, to say a random adverb on the next line of your poem:
++ Afegiu aquesta línia al codi de l'ordinador, per dir un adverbi a l'atzar a la següent línia del vostre poema:
 
 ```blocks
-say (item (random v) of [adverbs v]) for (2) secs
+diguem (element (aleatori v) de [adverbis v]) per (2) secs
 ```
 
-+ Test your code a few times. You should see a random poem each time.
++ Proveu el codi diverses vegades. Hauríeu de veure un poema aleatori cada vegada.
 
-![screenshot](images/poetry-adverb-test.png)
+![captura de pantalla](images/poetry-adverb-test.png)
 
-+ Add a list of nouns to your project. A **noun** is a place or a thing.
++ Afegiu una llista de noms al vostre projecte. Un **nom** és un lloc o una cosa.
 
-![screenshot](images/poetry-nouns.png)
+![captura de pantalla](images/poetry-nouns.png)
 
-+ Add code to use the nouns in your poem.
++ Afegiu codi per utilitzar els substantius del vostre poema.
 
 ```blocks
-say (join [by the ] (item (random v) of [nouns v])) for (2) secs
+dir (unir-se per l'element (aleatori v) de [substantius v])) per (2) secs
 ```
 
-+ Add a list of adjectives to your project. An **adjective** is a describing word.
++ Afegiu una llista d'adjectius al vostre projecte. Un **adjectiu** és una paraula que descriu.
 
-![screenshot](images/poetry-adjectives.png)
+![captura de pantalla](images/poetry-adjectives.png)
 
-+ Add code to use the adjectives in your poem:
++ Afegiu codi per utilitzar els adjectius del vostre poema:
 
 ```blocks
-say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
+dir (unir-me a [sento] (element (aleatori v) de [adjectius v])) per (2) secs
 ```
 
-+ You can click the boxes next to your lists to hide them.
++ Podeu fer clic a les caselles que hi ha al costat de les vostres llistes per ocultar-les.
 
-![screenshot](images/poetry-lists-tick.png)
+![captura de pantalla](images/poetry-lists-tick.png)
 
-+ Test out your new poem. Here's the code you should have:
++ Proveu el vostre nou poema. Aquí teniu el codi que hauria de tenir:
 
 ```blocks
-when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
-say (item (random v) of [adverbs v]) for (2) secs
-say (join [by the ] (item (random v) of [nouns v])) for (2) secs
-say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
+quan aquest sprite va fer clic a [Aquí està el vostre poema ...] per (2) segons diu (uniu-vos [I] (element (aleatori v) de [verbs v])) per (2) segons (article (aleatori v) de [adverbis v]) per (2) segons dic (uniu-ho per l'element (aleatori v) de [substantius v])) per (2) segons dic (uniu-vos-hi) (element (aleatori v) de [adjectius v])) per (2) secs
 ```
