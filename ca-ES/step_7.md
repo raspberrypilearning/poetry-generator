@@ -1,36 +1,31 @@
-## Animating the Analytical Engine
+## Animació del motor analític
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Anem a animar l'ordinador, de manera que sembla que està generant poesia.
 
-+ Click on your computer sprite, and add this code after the first `say`{:class="blocklooks"} block:
++ Feu clic al sprite de l'ordinador i afegiu aquest codi després del primer `diu`{: class = "blocklooks"} bloc:
 
 ```blocks
-repeat (10)
-    turn left (5) degrees
-    wait (0.1) secs
-    turn right (5) degrees
-    wait (0.1) secs 
-end
+repetir (10) girar a l'esquerra (5) graus d'espera (0.1) segons girar a la dreta (5) graus d'espera (0,1) segons final
 ```
 
-Here's how your code should look:
+A continuació s'explica com hauria d'aparèixer el vostre codi:
 
-![screenshot](images/poetry-animate.png)
+![captura de pantalla](images/poetry-animate.png)
 
-You'll find the `repeat`{:class="blockcontrol"} and `wait`{:class="blockcontrol"} blocks are in the `Control`{:class="blockcontrol"} section.
+Trobareu el `repetició`{: class = "blockcontrol"} i `espera`blocs {: class = "blockcontrol"} estan a la secció `Control`{: class = "blockcontrol"}.
 
-+ Test your project. You should see the computer shake before producing a poem!
++ Proveu el vostre projecte. Hauríeu de veure la batuda de l'ordinador abans de produir un poema!
 
-![screenshot](images/poetry-animate-test.png)
+![captura de pantalla](images/poetry-animate-test.png)
 
-+ Click the 'Sounds' tab, and click 'Choose sound from library'.
++ Feu clic a la pestanya "Sons" i feu clic a "Selecciona so de la biblioteca".
 
-![screenshot](images/poetry-sound.png)
+![captura de pantalla](images/poetry-sound.png)
 
-+ Choose a 'computer beeps' sound and click OK.
++ Trieu un so de "sonorització de l'ordinador" i feu clic a Acceptar.
 
-![screenshot](images/poetry-beeps.png)
+![captura de pantalla](images/poetry-beeps.png)
 
-+ Add a `play sound`{:class="blocksound"} block, to play your sound just before your animation starts.
++ Afegir un `joc de so`{: class = "blocksound"} bloc, per reproduir el seu so just abans d'iniciar l'animació.
 
-![screenshot](images/poetry-play.png)
+![captura de pantalla](images/poetry-play.png)
