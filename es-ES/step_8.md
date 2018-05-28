@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Personalise your poem
+## Desafío: personaliza tu poema
 
-Can you use your `name`{:class="blockdata"} variable to personalise your poem?
+¿Puedes usar tu variable `name`{: class = "blockdata"} para personalizar tu poema?
 
-![screenshot](images/poetry-name-comp.png)
+![captura de pantalla](images/poetry-name-comp.png)
 
-\--- /challenge \---
+\--- / desafío \---
