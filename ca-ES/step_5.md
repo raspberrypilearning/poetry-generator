@@ -1,32 +1,29 @@
-## The Analytical Engine
+## El motor analític
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Anem a programar l'ordinador d'Ada (anomenat 'motor analític') per generar poesia.
 
-+ Add this code to your 'Computer' sprite, so that it speaks when clicked:
-
-```blocks
-when this sprite clicked
-say [Here is your poem...] for (2) secs
-```
-
-+ To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="blockdata"} tab.
-
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called 'verbs'.
-
-![screenshot](images/poetry-list.png)
-
-+ Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
-
-![screenshot](images/poetry-verbs.png)
-
-+ The first line in your poem will be the word "I", followed by a random verb. This is the code that you'll need to add:
++ Afegiu aquest codi al vostre sprite "Computadora", perquè parleu quan feu clic a:
 
 ```blocks
-when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
+quan aquest sprite va fer clic, digueu [Aquí està el vostre poema ...] per a (2) segons
 ```
 
-+ Test your code a few times. Your computer should say a random word from your verb list each time.
++ Per crear un poema a l'atzar, primer es necessita un **llista** de paraules a utilitzar. Per crear una nova llista, feu clic a la pestanya `Dades`{: class = "blockdata"}.
 
-![screenshot](images/poetry-random-test.png)
+Anem a utilitzar **verbs** (paraules d'acció) a la primera línia del vostre poema. Creeu una nova llista anomenada "verbs".
+
+![captura de pantalla](images/poetry-list.png)
+
++ La vostra nova llista estarà buida. Feu clic al `+` al final de la llista buida i afegiu aquests verbs:
+
+![captura de pantalla](images/poetry-verbs.png)
+
++ La primera línia del vostre poema serà la paraula "jo", seguit d'un verb aleatori. Aquest és el codi que haureu d'afegir:
+
+```blocks
+quan aquest sprite va fer clic, diu [Aquí està el vostre poema ...] per (2) segons diu (uniu-vos [I] (element (aleatori v) de [verbs v])) per (2) segons
+```
+
++ Proveu el codi diverses vegades. L'equip ha de dir una paraula aleatòria de la vostra llista de verbs cada vegada.
+
+![captura de pantalla](images/poetry-random-test.png)
