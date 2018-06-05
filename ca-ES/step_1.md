@@ -11,9 +11,9 @@ Aneu a aprendre a programar el vostre propi generador de poesia.
 
 Si necessita imprimir aquest projecte, si us plau utilitzeu el [Versió per a imprimir](https://projects.raspberrypi.org/en/projects/poetry-generator/print).
 
-## \--- col·lapsar \---
+## \--- collapse \---
 
-## títol: notes del líder del club
+## title: notes del líder del club
 
 ## Introducció:
 
@@ -60,11 +60,11 @@ Aquest projecte abasta elements de les següents línies del [Raspberry Pi Digit
 * "Més paraules": afegint més verbs, adverbis substantius i adjectius a les llistes;
 * "Més poesia": ús de llistes diferents per crear un poema diferent.
 
-\--- / col · lapse \---
+\--- /collapse \---
 
-## \--- col·lapsar \---
+## \--- collapse \---
 
-## títol: materials del projecte
+## title: materials del projecte
 
 ## Recursos del projecte
 
@@ -76,4 +76,4 @@ Aquest projecte abasta elements de les següents línies del [Raspberry Pi Digit
 * [Projecte Scratch 2 completat en línia](http://scratch.mit.edu/projects/77844926/#editor)
 * [Projecte Scratch 2 descarregable completat](resources/PoetryGenerator.sb2)
 
-\--- / col · lapse \---
+\--- / collapse \---
