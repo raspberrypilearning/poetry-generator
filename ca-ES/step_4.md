@@ -1,4 +1,4 @@
-## Digueu a Ada el vostre nom
+## Digueu-li a l'Ada el vostre nom
 
 Ada s'ha presentat, però no sap el teu nom!
 
