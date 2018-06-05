@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, disseny-0, programació-1, phys-comp-0, fabricació-0, comunitat-0
 title: Generador de poesia d'Ada
-description: Celebreu el Dia Ada Lovelace, aprenent a programar el vostre propi generador de poesia.
+description: Celebreu el Dia d'Ada Lovelace, aprenent a programar el vostre propi generador de poesia!
 original_url: https://codeclubprojects.org/en-GB/scratch/poetry-generator
 interests: literatura
 technologies: rascar
@@ -22,9 +22,9 @@ steps:
   - 
     title: Ada Lovelace
   - 
-    title: 'Desafiament: Codi Ada per presentar-se'
+    title: 'Desafiament: Programa l''Ada per a què es presenti'
   - 
-    title: Digueu a Ada el vostre nom
+    title: Digueu-li a l'Ada el vostre nom
   - 
     title: El motor analític
   - 
