@@ -1,6 +1,6 @@
 ## Ada Lovelace
 
-El 1842, Ada Lovelace va escriure sobre l'ús d'una màquina anomenada 'Motor Analític' per fer càlculs, i es considera el primer programador informàtic del món. Ada també va ser el primer en veure que les computadores podrien ser més que grans calculadores.
+El 1842, Ada Lovelace va escriure sobre l'ús d'una màquina anomenada 'Motor Analític' per fer càlculs, i es considera el primer programador informàtic del món. Ada també va ser la primera en veure que les computadores podrien ser més que grans calculadores.
 
 + Obriu el projecte Scratch 'Poetry Generator' en línia a <a href="http://jumpto.cc/poetry-go" target="_blank">jumpto.cc/poetry-go</a> o descarregueu des de <a href="http://jumpto.cc/poetry-get" target="_blank">jumpto.cc/poetry-get</a> i obriu-lo si utilitzeu l'editor fora de línia.
 
