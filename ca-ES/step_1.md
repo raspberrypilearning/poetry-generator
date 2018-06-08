@@ -76,4 +76,4 @@ title: Materials del projecte
 * [Projecte Scratch 2 completat en línia](https://scratch.mit.edu/projects/228167153/#editor)
 * [Projecte Scratch 2 descarregable completat](resources/PoetryGenerator.sb2)
 
---- / collapse ---
+--- /collapse ---
