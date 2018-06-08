@@ -6,8 +6,8 @@ Ada s'ha presentat, però no sap el teu nom!
 
 ```blocks
 quan es cliqui aquest personatge 
-digues: [Hola, sóc l'Ada!] per (2) secs 
-pregunta [Quin és el vostre nom?] i espera
+digues [Hola, soc l'Ada!] durant (2) segons 
+pregunta [Com et dius tu?] i espera
 ```
 
 + Feu clic a l'Ada per provar el vostre codi. L'Ada hauria de demanar el vostre nom, que podeu escriure!
@@ -33,7 +33,7 @@ pregunta [Quin és el vostre nom?] i espera
 + Ara podeu fer ús del vostre nom al vostre codi. Afegiu aquest codi:
 
 ```blocks
-digues (uneix) (nom)
+digues (uneix [Hola] i (nom))
 ```
 
 Per crear aquest codi, primer arrossegueu un `uneix`{:class="blockoperators"} bloqueja el bloc `digues`{:class="blocklooks"} i, a continuació, afegiu el vostre `nom`{:class="blockdata"} bloquejar a la `uneix`(:class="blockoperators"} bloc.
@@ -53,16 +53,16 @@ Si no hi ha espai entre la paraula "Hola" i el vostre nom, haureu d'afegir-hi un
 + Finalment, afegiu aquest codi per explicar què fer següent:
 
 ```blocks
-digues [Feu clic a l'ordinador per generar un poema!] per a (2) segons
+digues [Feu clic a l'ordinador per generar un poema!] durant (2) segons
 ```
 
 + Prova el codi d'Ada per última vegada, per assegurar-te que tot funciona. A continuació us indiquem com hauria de veure el vostre codi:
 
 ```blocks
 quan es cliqui aquest personatge
-digues [Hi, sóc Ada!] durant (2) secs 
+digues [Hola, sóc l'Ada!] durant (2) segons
 pregunta [Quin és el vostre nom?] i espera
 assigna a [nom v] el valor (resposta) 
-digues (uneix [Hola ] i (nom)) durant (2) secs
-digues [Feu clic a l'ordinador per generar un poema.] durant (2) secs 
+digues (uneix [Hola] i (nom)) durant (2) segons
+digues [Feu clic a l'ordinador per generar un poema!] durant (2) segons
 ```
