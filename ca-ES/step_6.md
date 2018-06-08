@@ -44,7 +44,7 @@ digues (uneix [em trobo] i (element (aleatori v) de [adjectives v] :: list)) dur
 
 ```blocks
 quan es cliqui aquest personatge
-digues [Aquí està el vostre poema ...] durant (2) secs 
+digues [Aquí està el vostre poema ...] durant (2) segons
 digues (uneix [Jo] i (element (aleatori v) de [verbs v] :: list)) durant (2) segons
 digues (element (aleatori v) de [adverbs v] :: list) durant (2) segons
 digues (uneix [amb la] i (element (aleatori v) de [nouns v] :: list)) durant (2) segons
