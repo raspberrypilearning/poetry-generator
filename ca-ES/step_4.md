@@ -2,25 +2,27 @@
 
 Ada s'ha presentat, però no sap el teu nom!
 
-+ Arrossegant un `pregunten`{: class = "blocksensing"} bloc (des del `de detecció de`{: class = "blocksensing"} secció) en el seu codi. A continuació s'explica com hauria d'aparèixer el vostre codi:
++ Arrossegant un `pregunta`{: class = "blocksensing"} bloc (des del `Sensors`{: class = "blocksensing"} secció) en el seu codi. A continuació s'explica com hauria d'aparèixer el vostre codi:
 
 ```blocks
-quan aquest sprite fa clic fa clic a: [Hola, sóc Ada!] per (2) segs preguntar [Quin és el vostre nom?] i esperar
+quan es cliqui aquest personatge 
+digues: [Hola, sóc l'Ada!] per (2) secs 
+pregunta [Quin és el vostre nom?] i espera
 ```
 
-+ Feu clic a Ada per provar el vostre codi. Ada hauria de demanar el vostre nom, que podeu escriure!
++ Feu clic a l'Ada per provar el vostre codi. L'Ada hauria de demanar el vostre nom, que podeu escriure!
 
 ![captura de pantalla](images/poetry-input.png)
 
-+ Podem utilitzar un **variable d'** a emmagatzemar el seu nom. Feu clic a `Dades`{: class = "blockdata"} i, a continuació, "Fes una variable". Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, truquem a la variable ... `nom`{: class = "blockdata"}!
++ Podem utilitzar una **variable d'** a emmagatzemar el seu nom. Feu clic a `Dades`{: class = "blockdata"} i, a continuació, "Crea una variable". Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, anomenem la variable... `nom`{: class = "blockdata"}!
 
 ![captura de pantalla](images/poetry-name.png)
 
-+ Per emmagatzemar el seu nom, feu clic al `Dades`{: class = "blockdata"} pestanya, i després arrossegar el `nom del conjunt`{: class = "blockdata"} bloquejar a l'extrem del seu codi.
++ Per emmagatzemar el seu nom, feu clic al `Dades`{: class = "blockdata"} pestanya, i després arrossegar el `assigna a`{: class = "blockdata"} bloquejar a l'extrem del seu codi.
 
 ![captura de pantalla](images/poetry-set.png)
 
-+ Utilitzeu el `respostes`{: class = "blocksensing"} de bloc per emmagatzemar la resposta s'escriu en.
++ Utilitzeu el `resposta`{: class = "blocksensing"} de bloc per emmagatzemar la resposta s'escriu en.
 
 ![captura de pantalla](images/poetry-answer.png)
 
