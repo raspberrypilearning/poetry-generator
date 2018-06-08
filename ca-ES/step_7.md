@@ -17,9 +17,9 @@ A continuació s'explica com hauria d'aparèixer el vostre codi:
 
 ![captura de pantalla](images/poetry-animate.png)
 
-Trobareu el `repetició`{: class = "blockcontrol"} i `espera`blocs {: class = "blockcontrol"} estan a la secció `Control`{: class = "blockcontrol"}.
+Trobareu el `repeteix`{: class = "blockcontrol"} i `espera`blocs {: class = "blockcontrol"} estan a la secció `Control`{: class = "blockcontrol"}.
 
-+ Proveu el vostre projecte. Hauríeu de veure la batuda de l'ordinador abans de produir un poema!
++ Proveu el vostre projecte. Hauríeu de veure tremolar l'ordinador abans de produir un poema!
 
 ![captura de pantalla](images/poetry-animate-test.png)
 
@@ -31,6 +31,6 @@ Trobareu el `repetició`{: class = "blockcontrol"} i `espera`blocs {: class = "b
 
 ![captura de pantalla](images/poetry-beeps.png)
 
-+ Afegir un `joc de so`{: class = "blocksound"} bloc, per reproduir el seu so just abans d'iniciar l'animació.
++ Afegir un `toca el so`{: class = "blocksound"} bloc, per reproduir el seu so just abans d'iniciar l'animació.
 
 ![captura de pantalla](images/poetry-play.png)
