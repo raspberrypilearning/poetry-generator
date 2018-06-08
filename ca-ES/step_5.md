@@ -2,7 +2,7 @@
 
 Anem a programar l'ordinador d'Ada (anomenat 'motor analític') per generar poesia.
 
-+ Afegiu aquest codi al vostre sprite "Computadora", perquè parleu quan feu clic a:
++ Afegiu aquest codi al vostre personatge "Ordinador", perquè parli quan feu clic a:
 
 ```blocks
 quan aquest sprite va fer clic, digueu [Aquí està el vostre poema ...] per a (2) segons
