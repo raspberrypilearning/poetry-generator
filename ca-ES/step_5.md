@@ -6,7 +6,7 @@ Anem a programar l'ordinador d'Ada (anomenat 'motor analític') per generar poes
 
 ```blocks
 quan es cliqui aquest personatge
-digues [Aquí està el vostre poema ...] durant (2) secs
+digues [Aquí està el vostre poema ...] durant (2) segons
 ```
 
 + Per crear un poema a l'atzar, primer es necessita un **llista** de paraules a utilitzar. Per crear una nova llista, feu clic a la pestanya `Dades`{:class="blockdata"}.
@@ -23,8 +23,8 @@ Anem a utilitzar **verbs** (paraules d'acció) a la primera línia del vostre po
 
 ```blocks
 quan es cliqui aquest personatge
-digues [Aquí està el vostre poema ...] durant (2) secs 
-digues (uneix [I] (element (aleatori v) de [verbs v])) durant (2) secs
+digues [Aquí està el vostre poema ...] durant (2) segons 
+digues (uneix [Jo] i (element (aleatori v) de [verbs v] :: list)) durant (2) segons
 ```
 
 + Proveu el codi diverses vegades. L'equip ha de dir una paraula aleatòria de la vostra llista de verbs cada vegada.
