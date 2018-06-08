@@ -17,11 +17,11 @@ Si necessita imprimir aquest projecte, si us plau utilitzeu el [Versió per a im
 
 ## Introducció:
 
-En aquest projecte, els nens aprendran a utilitzar variables i llistes per fer la seva pròpia poesia aleatòria.
+En aquest projecte, nens i nenes aprendran a utilitzar variables i llistes per fer la seva pròpia poesia aleatòria.
 
 ## Dia d'Ada Lovelace
 
-Aquest projecte s'ha creat per celebrar el Dia Ada Lovalace. Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) per introduir els fills a Ada i les seves idees revolucionàries.
+Aquest projecte s'ha creat per celebrar el Dia Ada Lovalace. Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) per presentar als alumnes l'Ada i les seves idees revolucionàries.
 
 ## Recursos
 
