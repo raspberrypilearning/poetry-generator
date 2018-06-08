@@ -26,17 +26,17 @@ pregunta [Quin és el vostre nom?] i espera
 
 ![captura de pantalla](images/poetry-answer.png)
 
-+ Feu clic a Ada per provar el vostre codi i introduïu el vostre nom quan se us demani. Hauria de veure que el seu nom ha estat emmagatzemat al `Nom`{: class = "blockdata"} variable.
++ Feu clic a l'Ada per provar el vostre codi i introduïu el vostre nom quan se us demani. Hauria de veure que el seu nom ha estat emmagatzemat al `Nom`{: class = "blockdata"} variable.
 
 ![captura de pantalla](images/poetry-name-test.png)
 
 + Ara podeu fer ús del vostre nom al vostre codi. Afegiu aquest codi:
 
 ```blocks
-digues (uniu-vos-hi) (nom)
+digues (uneix) (nom)
 ```
 
-Per crear aquest codi, primer arrossegueu un `uniu-vos`{: class = "blockoperators"} bloqueja el bloc `diu`{: class = "blocklooks"} i, a continuació, afegiu el vostre `nom`{: class = "blockdata"} bloquejar a la `uneix-te`(: class = "blockoperators"} bloc.
+Per crear aquest codi, primer arrossegueu un `uneix`{: class = "blockoperators"} bloqueja el bloc `digues`{: class = "blocklooks"} i, a continuació, afegiu el vostre `nom`{: class = "blockdata"} bloquejar a la `uneix`(: class = "blockoperators"} bloc.
 
 ![captura de pantalla](images/poetry-join.png)
 
@@ -44,7 +44,7 @@ Per crear aquest codi, primer arrossegueu un `uniu-vos`{: class = "blockoperator
 
 ![captura de pantalla](images/poetry-tick.png)
 
-+ Proveu el codi nou. Ada hauria de saludar, usant el vostre nom!
++ Proveu el codi nou. Ada hauria de saludar-vos amb el vostre nom!
 
 ![captura de pantalla](images/poetry-name-test2.png)
 
@@ -59,5 +59,10 @@ digues [Feu clic a l'ordinador per generar un poema!] per a (2) segons
 + Prova el codi d'Ada per última vegada, per assegurar-te que tot funciona. A continuació us indiquem com hauria de veure el vostre codi:
 
 ```blocks
-quan aquest sprite va fer clic a [Hi, sóc Ada!] per (2) segs preguntareu [Quin és el vostre nom?] i espereu que estableixi [nom v] a (respongui) dir (uniu-vos-hi (nom)) per (2 ) Diuen [Feu clic a l'ordinador per generar un poema.] per a (2) segons 
+quan es cliqui aquest personatge
+digues [Hi, sóc Ada!] durant (2) secs 
+pregunta [Quin és el vostre nom?] i espera
+assigna a [nom v] el valor (resposta) 
+digues (uneix [Hola ] i (nom)) durant (2) secs
+digues [Feu clic a l'ordinador per generar un poema.] durant (2) secs 
 ```
