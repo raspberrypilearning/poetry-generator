@@ -2,10 +2,15 @@
 
 Anem a animar l'ordinador, de manera que sembla que està generant poesia.
 
-+ Feu clic al sprite de l'ordinador i afegiu aquest codi després del primer `diu`{: class = "blocklooks"} bloc:
++ Feu clic al personatge de l'ordinador i afegiu aquest codi després del primer `digues`{: class = "blocklooks"} bloc:
 
 ```blocks
-repetir (10) girar a l'esquerra (5) graus d'espera (0.1) segons girar a la dreta (5) graus d'espera (0,1) segons final
+repeteix (10) vegades
+  gira a l'esquerra (5) graus 
+  espera (0.1) secs 
+  gira a la dreta (5) graus 
+  espera (0,1) secs 
+final
 ```
 
 A continuació s'explica com hauria d'aparèixer el vostre codi:
