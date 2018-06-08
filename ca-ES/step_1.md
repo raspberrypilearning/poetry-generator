@@ -13,7 +13,7 @@ Si necessita imprimir aquest projecte, si us plau utilitzeu el [Versió per a im
 
 --- collapse ---
 ---
-title: notes del líder del club
+title: Notes del líder del club
 ---
 ## Introducció:
 
