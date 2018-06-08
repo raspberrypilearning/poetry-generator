@@ -27,7 +27,7 @@ Aquest projecte s'ha creat per celebrar el Dia Ada Lovalace. Si sou un professor
 
 Per a aquest projecte, s'ha d'utilitzar Scratch 2. Scratch 2 es pot utilitzar en línia a [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) o es pot descarregar de [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) i es fa servir fora de línia.
 
-L'enllaç "Project Materials" d'aquest projecte conté els següents recursos:
+L'enllaç "Materials del projecte" d'aquest projecte conté els següents recursos:
 
 ##### Recursos del líder del club
 
