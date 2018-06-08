@@ -9,7 +9,7 @@ El teu poema és bastant curt: afegim més text!
 + Afegiu aquesta línia al codi de l'ordinador, per dir un adverbi a l'atzar a la següent línia del vostre poema:
 
 ```blocks
-digues (element (aleatori v) de [adverbis v]) durant (2) secs
+digues (element (aleatori v) de [adverbs v] :: list) durant (2) segons
 ```
 
 + Proveu el codi diverses vegades. Hauríeu de veure un poema aleatori cada vegada.
@@ -23,7 +23,7 @@ digues (element (aleatori v) de [adverbis v]) durant (2) secs
 + Afegiu codi per utilitzar els substantius del vostre poema.
 
 ```blocks
-digus (uneix (element (aleatori v) de [substantius v])) durant (2) secs
+digues (uneix [amb la] i (element (aleatori v) de [nouns v] :: list)) durant (2) segons
 ```
 
 + Afegiu una llista d'adjectius al vostre projecte. Un **adjectiu** és una paraula que descriu.
@@ -33,7 +33,7 @@ digus (uneix (element (aleatori v) de [substantius v])) durant (2) secs
 + Afegiu codi per utilitzar els adjectius del vostre poema:
 
 ```blocks
-digues (uneix [em sento] (element (aleatori v) de [adjectius v])) durant (2) secs
+digues (uneix [em trobo] i (element (aleatori v) de [adjectives v] :: list)) durant (2) segons
 ```
 
 + Podeu fer clic a les caselles que hi ha al costat de les vostres llistes per ocultar-les.
@@ -45,8 +45,8 @@ digues (uneix [em sento] (element (aleatori v) de [adjectius v])) durant (2) sec
 ```blocks
 quan es cliqui aquest personatge
 digues [Aquí està el vostre poema ...] durant (2) secs 
-digues (uneix [Jo ] (element (aleatori v) de [verbs v])) durant (2) secs 
-digues (element (aleatori v) de [adverbis v]) durant (2) secs 
-digues (uneix [amb el] (element (aleatori v) de [substantius v])) durant (2) secs 
-digues (uneix) [Em sento] (element (aleatori v) de [adjectius v])) durant (2) secs
+digues (uneix [Jo] i (element (aleatori v) de [verbs v] :: list)) durant (2) segons
+digues (element (aleatori v) de [adverbs v] :: list) durant (2) segons
+digues (uneix [amb la] i (element (aleatori v) de [nouns v] :: list)) durant (2) segons
+digues (uneix [em trobo] i (element (aleatori v) de [adjectives v] :: list)) durant (2) segons
 ```
