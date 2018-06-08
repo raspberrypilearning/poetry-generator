@@ -21,7 +21,7 @@ En aquest projecte, nens i nenes aprendran a utilitzar variables i llistes per f
 
 ## Dia d'Ada Lovelace
 
-Aquest projecte s'ha creat per celebrar el Dia Ada Lovalace. Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](https://github.com/raspberrypilearning/poetry-generator/raw/master/ca-ES/resources/PoetryGenerator.sb2)) per presentar als alumnes l'Ada i les seves idees revolucionàries.
+Aquest projecte s'ha creat per celebrar el Dia Ada Lovalace. 
 
 ## Recursos
 
