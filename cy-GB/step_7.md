@@ -7,11 +7,11 @@ Awn ati i animeiddio dy gyfrifiadur, fel ei fod yn edrych fel ei fod yn creu cer
 + Clicia ciplun y cyfrifiadur, ac ychwanega'r côd yma ar ôl y bloc cyntaf `dweud`{:class="blocklooks"}:
 
 ```blocks
-repeat (10)
-	troi ↺ (5) gradd
-aros (0.1) eiliad
-troi ↻ (5) gradd
-aros (0.1) eiliad
+ailwna (10) 
+  troi ↺ (5) gradd
+  aros (0.1) eiliad
+  troi ↻ (5) gradd
+  aros (0.1) eiliad
 end
 ```
 
