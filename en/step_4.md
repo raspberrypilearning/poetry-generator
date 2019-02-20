@@ -77,7 +77,11 @@ You can now make use of your name in your code. Add this code:
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks
-say (join [Hi ] (name))
+when this sprite clicked
+say [Hi, I'm Ada!] for (2) secs
+ask [What's your name?] and wait
+set [name v] to (answer)
++say (join [Hi ] (name)) for (2) secs 
 ```
 
 To create this code, first drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block, and then add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
@@ -111,25 +115,18 @@ Finally, add this code to explain what to do next:
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks
-say [Click the computer to generate a poem!] for (2) secs
+when this sprite clicked
+say [Hi, I'm Ada!] for (2) secs
+ask [What's your name?] and wait
+set [name v] to (answer)
+say (join [Hi ] (name)) for (2) secs 
++ say [Click the computer to generate a poem.] for (2) secs 
 ```
 
 --- /task ---
 
 --- task ---
 
-Test Ada's code one last time, to make sure that everything works. Here's How your code should look:
-
-![ada sprite](images/ada-sprite.png)
-
-```blocks
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) secs
-ask [What's your name?] and wait
-set [name v] to (answer)
-say (join [Hi ] (name)) for (2) secs 
-say [Click the computer to generate a poem.] for (2) secs 
-```
-
+Test Ada's code one last time, to make sure that everything works. 
 
 --- /task ---

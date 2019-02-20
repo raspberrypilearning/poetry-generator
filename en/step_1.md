@@ -17,8 +17,6 @@ You are going to learn how to program your own poetry generator!
 
 --- /print-only ---
 
---- /collapse ---
-
 --- collapse ---
 ---
 title: What you will learn
