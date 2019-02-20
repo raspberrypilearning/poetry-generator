@@ -35,11 +35,11 @@ title: What you will need
 
 #### Hardware
 
-+ A computer capable of running Scratch 3
++ A computer capable of running Scratch 2.0
 
 #### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 #### Downloads
 
