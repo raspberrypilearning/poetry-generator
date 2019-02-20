@@ -2,21 +2,47 @@
 
 In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
 
+--- task ---
 
+Open the 'Poetry Generator' Scratch starter project.
 
-+ Open the 'Poetry Generator' Scratch project online at <a href="http://jumpto.cc/poetry-go" target="_blank">jumpto.cc/poetry-go</a> or download from <a href="http://jumpto.cc/poetry-get" target="_blank">jumpto.cc/poetry-get</a> and then open if you are using the offline editor.
+**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
 
-+ Click on your 'Ada' sprite, and click the `Events`{:class="blockevents"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="blockevents"} block onto the coding area on the right.
+**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
 
-![screenshot](images/poetry-click.png)
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+Click on your 'Ada' sprite, and click the `Events`{:class="blockevents"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="blockevents"} block onto the coding area on the right.
+
+![ada sprite](images/ada-sprite.png)
+
+![dragging when this sprite clicked block](images/poetry-click.png)
 
 Any code added underneath this block will run when Ada is clicked!
 
-+ Click the `Looks`{:class="blocklooks"} tab, and drag the `say`{:class="blocklooks"} `Hello!` `for 2 secs`{:class="blocklooks"} block underneath the code you've already added.
+--- /task ---
 
-![screenshot](images/poetry-say.png)
+--- task ---
 
-+ Click on Ada, and you should see her talk to you.
+Click the `Looks`{:class="blocklooks"} tab, and drag the `say`{:class="blocklooks"} `Hello!` `for 2 secs`{:class="blocklooks"} block underneath the `when this sprite clicked`{:class="blockevents"} block you've already added.
+
+![ada sprite](images/ada-sprite.png)
+
+```blocks
+when this sprite clicked
+say [Hello!] for (2) secs
+```
+
+--- /task ---
+
+--- task ---
+
+Click on Ada, and you should see her talk to you.
 
 ![screenshot](images/poetry-say-test.png)
 
+--- /task ---
