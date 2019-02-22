@@ -1,7 +1,7 @@
-\--- desafiament \---
+\--- repte \---
 
-## Desafiament: més poesia
+## Repte: Més poesia
 
-Podeu utilitzar les vostres pròpies llistes per generar-vos la pròpia poesia?
+Pots utilitzar les teves pròpies llistes per generar la teva pròpia poesia?
 
-\--- /desafiament \---
+\--- /repte \---
