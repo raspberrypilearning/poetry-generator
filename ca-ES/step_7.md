@@ -1,8 +1,8 @@
 ## Animació del motor analític
 
-Anem a animar l'ordinador, de manera que sembla que està generant poesia.
+Ara animarem el teu ordinador, de manera que sembli que està generant poesia.
 
-+ Feu clic al personatge de l'ordinador i afegiu aquest codi després del primer `digues`{: class = "blocklooks"} bloc:
++ Fes clic al personatge de l'ordinador i afegeix aquest codi després del primer bloc `digues`{: class = "blocklooks"}:
 
 ```blocks
 repeteix (10) vegades
@@ -10,27 +10,27 @@ repeteix (10) vegades
   espera (0.1) secs 
   gira a la dreta (5) graus 
   espera (0,1) secs 
-final
+fi
 ```
 
-A continuació s'explica com hauria d'aparèixer el vostre codi:
+Així és com s'hauria de veure el teu codi:
 
 ![captura de pantalla](images/poetry-animate.png)
 
-Trobareu el `repeteix`{: class = "blockcontrol"} i `espera`blocs {: class = "blockcontrol"} estan a la secció `Control`{: class = "blockcontrol"}.
+Trobareu els blocs `repeteix`{: class = "blockcontrol"} i `espera` {: class = "blockcontrol"}a la secció `Control`{: class = "blockcontrol"}.
 
-+ Proveu el vostre projecte. Hauríeu de veure tremolar l'ordinador abans de produir un poema!
++ Prova el teu projecte. Hauríes de veure tremolar l'ordinador abans de crear un poema!
 
 ![captura de pantalla](images/poetry-animate-test.png)
 
-+ Feu clic a la pestanya "Sons" i feu clic a "Selecciona so de la biblioteca".
++ Fes clic a la pestanya "Sons" i després clica a "Selecciona so de la biblioteca".
 
 ![captura de pantalla](images/poetry-sound.png)
 
-+ Trieu un so de "sonorització de l'ordinador" i feu clic a Acceptar.
++ Tria un so de "sonorització de l'ordinador" i fes clic a Acceptar.
 
 ![captura de pantalla](images/poetry-beeps.png)
 
-+ Afegir un `toca el so`{: class = "blocksound"} bloc, per reproduir el seu so just abans d'iniciar l'animació.
++ Afegeix un bloc `toca el so`{: class = "blocksound"}, per reproduir el teu so just abans d'iniciar l'animació.
 
 ![captura de pantalla](images/poetry-play.png)
