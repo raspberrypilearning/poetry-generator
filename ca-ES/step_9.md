@@ -1,7 +1,7 @@
-\--- desafiament \---
+\--- repte \---
 
-## Desafiament: més paraules
+## Repte: Més paraules
 
-Podeu afegir més paraules a les vostres llistes perquè pugueu generar més poemes?
+Pots afegir més paraules a les teves llistes perquè puguis generar més poemes?
 
-\--- /desafiament \---
+\--- /repte \---
