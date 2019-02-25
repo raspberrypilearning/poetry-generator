@@ -29,7 +29,7 @@ Let's use __verbs__ (action words) in the first line of your poem. Create a new 
 
 Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
 
-![list with the + highlighted](images/poetry-verbs.png)
+![list with the + highlighted](images/poetry-verbs-annotated.png)
 
 --- /task ---
 

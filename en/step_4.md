@@ -87,17 +87,14 @@ set [name v] to (answer)
 To create this code: 
 
 1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
-    ```blocks
+    ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
 2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
-    ```blocks
-    say (join [Hi :: +] (name :: variables +)) for (2) seconds
+    ```blocks3
+    say (join [Hi] (name :: variables +)) for (2) seconds
     ```
-
-![using a join block to append Hi to name](images/poetry-join.png)
-
 --- /task ---
 
 --- task ---
