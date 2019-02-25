@@ -1,3 +1,9 @@
+--- no-print ---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+
+--- /no-print ---
+
 ## Introduction
 
 You are going to learn how to program your own poetry generator!
@@ -24,7 +30,7 @@ title: What you will learn
 
 + Variables;
 + Lists and random list items;
-+ Repetition (the `repeat`{:class="blockcontrol"} block).
++ Repetition (the `repeat`{:class="block3control"} block).
 
 --- /collapse ---
 
@@ -35,11 +41,11 @@ title: What you will need
 
 #### Hardware
 
-+ A computer capable of running Scratch 2.0
++ A computer capable of running Scratch 3
 
 #### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 #### Downloads
 

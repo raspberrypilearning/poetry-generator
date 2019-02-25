@@ -16,11 +16,11 @@ Add this line to your computer's code, to say a random adverb on the next line o
 
 ![computer sprite](images/computer-sprite.png)
 
-```blocks
+```blocks3
 when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
-+say (item (random v) of [adverbs v]) for (2) secs
+say [Here is your poem...] for (2) seconds
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
++say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
 ```
 
 --- /task ---
@@ -47,12 +47,12 @@ Add code to use the nouns in your poem.
 
 ![computer sprite](images/computer-sprite.png)
 
-```blocks
+```blocks3
 when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
-say (item (random v) of [adverbs v]) for (2) secs
-+say (join [by the ] (item (random v) of [nouns v])) for (2) secs
+say [Here is your poem...] for (2) seconds
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
++say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
 ```
 
 --- /task ---
@@ -71,13 +71,13 @@ Add code to use the adjectives in your poem:
 
 ![computer sprite](images/computer-sprite.png)
 
-```blocks
+```blocks3
 when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
-say (item (random v) of [adverbs v]) for (2) secs
-say (join [by the ] (item (random v) of [nouns v])) for (2) secs
-+say (join [I feel ] (item (random v) of [adjectives v])) for (2) secs
+say [Here is your poem...] for (2) seconds
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
+say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
++ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
 ```
 
 --- /task ---
