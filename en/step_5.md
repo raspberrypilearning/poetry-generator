@@ -57,7 +57,7 @@ To do this you should:
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3operators"} block to display it.
+4. Use a `say`{:class="block3looks"} block to display it.
 
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
