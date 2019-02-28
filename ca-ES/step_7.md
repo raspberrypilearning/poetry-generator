@@ -29,7 +29,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Prova el teu projecte. Hauríes de veure tremolar l'ordinador abans de crear un poema!
 
 ![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
@@ -45,7 +45,7 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Tria un so de "sonorització de l'ordinador" i fes clic a Acceptar.
 
 ![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
 
