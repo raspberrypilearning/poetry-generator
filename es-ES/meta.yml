@@ -1,21 +1,11 @@
 ---
 hero_image: images / banner.png
-theme: Armada
-duration: 2
 listed: true
 ingredient: false
-copyedit: false
-curriculum: 1, diseño-0, programación-1, phys-comp-0, fabricación-0, comunidad-0
 title: Generador de poesía de Ada
 description: '¡Celebre Ada Lovelace Day, aprendiendo cómo programar su propio generador de poesía!'
-original_url: https://codeclubprojects.org/en-GB/scratch/poetry-generator
-interests: literatura
-technologies: rasguño
-site_areas: proyectos
-hardware: ''
-software: rasguño
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2019-02-20
 steps:
   - 
     title: Introducción
@@ -23,6 +13,7 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Desafío: Codifique a Ada para presentarse'
+    challenge: true
   - 
     title: Diciéndole a Ada tu nombre
   - 
@@ -33,7 +24,12 @@ steps:
     title: Animar el motor analítico
   - 
     title: 'Desafío: personaliza tu poema'
+    challenge: true
   - 
     title: 'Desafío: Más palabras'
+    challenge: true
   - 
     title: 'Desafío: más poesía'
+    challenge: true
+  - 
+    title: What next?
