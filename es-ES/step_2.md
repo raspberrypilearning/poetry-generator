@@ -8,9 +8,9 @@ Open the 'Poetry Generator' Scratch starter project.
 
 **Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline**: abre el [proyecto de inicio](http://rpf.io/p/en/beat-the-goalie-go){:target=_blank"} en el editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -43,6 +43,6 @@ say [Hello!] for (2) seconds
 
 Click on Ada, and you should see her talk to you.
 
-![screenshot](images/poetry-say-test.png)
+![captura de pantalla](images/poetry-say-test.png)
 
 \--- /task \---
