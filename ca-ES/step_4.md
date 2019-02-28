@@ -4,7 +4,7 @@ L'Ada s'ha presentat, però ella no sap el teu nom!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Així és com s'hauria de veure el teu codi:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Feu clic a l'Ada per provar el vostre codi. L'Ada t'hauria de demanar el teu nom, que pots escriure!
 
 ![ada sprite asking whats your name](images/poetry-input.png)
 
@@ -26,7 +26,7 @@ Click on Ada to test your code. Ada should ask you your name, which you can type
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Podem utilitzar una **variable** per emmagatzemar el teu nom. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, anomenem la variable... `name`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -64,7 +64,7 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Fes clic a l'Ada per provar el teu codi i introdueix el teu nom quan s'et demani. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
 
 ![screenshot](images/poetry-name-test.png)
 
@@ -72,7 +72,7 @@ Click on Ada to test your code, and enter your name when asked. You should see t
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Ara ja pots fer ús del del teu nom en el teu codi. Afegeix aquest codi:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -110,17 +110,17 @@ To hide your `name`{:class="block3variables"} variable on the stage, click the t
 
 \--- task \---
 
-Test your new code. Ada should say hello to you, using your name!
+Prova el codi nou. L'Ada hauria de saludar-te amb el teu nom!
 
 ![screenshot](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+Si no hi ha espai entre la paraula "Hola" i el teu nom, hauràs d'afegir-hi un espai al codi!
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Finalment, afegeix aquest codi per explicar què fer a continuació:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Prova el codi de l'Ada per última vegada, per assegurar-te que tot funciona.
 
 \--- /task \---
