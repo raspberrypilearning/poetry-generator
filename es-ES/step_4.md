@@ -66,7 +66,7 @@ set [name v] to (answer :: +)
 
 Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
 
-![screenshot](images/poetry-name-test.png)
+![captura de pantalla](images/poetry-name-test.png)
 
 \--- /task \---
 
@@ -112,7 +112,7 @@ To hide your `name`{:class="block3variables"} variable on the stage, click the t
 
 Test your new code. Ada should say hello to you, using your name!
 
-![screenshot](images/poetry-name-test2.png)
+![captura de pantalla](images/poetry-name-test2.png)
 
 If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
 
