@@ -2,11 +2,11 @@
 
 This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
-\--- /no-print \---
+\--- / no-print \---
 
 ## Introducció
 
-You are going to learn how to program your own poetry generator!
+Aprendràs a programar el teu propi generador de poesia!
 
 \--- no-print \---
 
@@ -15,37 +15,37 @@ You are going to learn how to program your own poetry generator!
   <img src="imatges / poetry-final.png">
 </div>
 
-\--- /no-print \---
+\--- / no-print \---
 
-\--- print-only \---
+\--- només imprimir \---
 
 ![game screenshot](images/poetry-final.png)
 
-\--- /print-only \---
+\--- / print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## títol: Què aprendràs
 
-+ Variables;
-+ Lists and random list items;
++ Les variables;
++ Llistes i elements de la llista aleatoris;
 + Repetition (the `repeat`{:class="block3control"} block).
 
-\--- /collapse \---
+\--- / collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## títol: què necessitaràs
 
-#### Hardware
+#### Maquinari
 
-+ A computer capable of running Scratch 3
++ Un ordinador capaç d'executar Scratch 3
 
-#### Software
+#### Programari
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (tant [en línia](http://rpf.io/scratchon){: target = "_ blank"} o [fora de línia](http://rpf.io/scratchoff){: target = "_ blank"})
 
-#### Downloads
+#### Descàrregues
 
 The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
@@ -55,14 +55,14 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## title: Additional information for educators
 
-This project has been created to celebrate [Ada Lovalace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+This project has been created to celebrate [Ada Lovalace Day](https://findingada.com). Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) per presentar l'Ada i les seves idees revolucionàries als alumnes.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [Versió per imprimir](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
-\--- /no-print \---
+\--- / no-print \---
 
 You can download the [completed project](http://rpf.io/p/en/poetry-generator-get).
 
-\--- /collapse \---
+\--- / collapse \---
