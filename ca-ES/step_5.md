@@ -4,7 +4,7 @@ Anem a programar l'ordinador de l'Ada (anomenat 'motor analític') per generar p
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Afegeix aquest codi al teu personatge "Ordinador", perquè parli quan el cliquis:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Per crear un poema a l'atzar, primer es necessita una**llista** de paraules per utilitzar. To create a new list, click the `Data`{:class="block3variables"} tab.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Ara utilitzarem **verbs** (paraules d'acció) a la primera línia del teu poema. Create a new list called `verbs`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,7 +27,7 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+La teva nova llista estarà buida. Fes clic al `+` al final de la llista buida i afegeix aquests verbs:
 
 ![list with the + highlighted](images/poetry-verbs-annotated.png)
 
@@ -77,7 +77,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Prova el codi diverses vegades. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
 
 ![3 speech bubbles saying different things](images/poetry-random-test.png)
 
