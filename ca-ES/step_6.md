@@ -2,51 +2,96 @@
 
 El teu poema és bastant curt: afegim més text!
 
-+ Ara utilitzarem adverbis a la següent línia del teu poema. Un **adverbi** és una paraula que descriu un verb. Crea una altra llista anomenada adverbis i afegiu aquestes 3 paraules:
+\--- task \---
 
-![captura de pantalla](images/poetry-adverbs.png)
+Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
 
-+ Afegeix aquesta línia al codi de l'ordinador, per dir un adverbi a l'atzar a la següent línia del teu poema:
+![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
 
-```blocks
-digues (element (aleatori v) de [adverbis v]) durant (2) secs
+\--- /task \---
+
+\--- task \---
+
+Add this line to your computer's code, to say a random adverb on the next line of your poem:
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
+when this sprite clicked
+say [Here is your poem...] for (2) seconds
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
++say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
 ```
 
-+ Prova el codi diverses vegades. Hauries de veure un poema aleatori cada vegada.
+\--- /task \---
 
-![captura de pantalla](images/poetry-adverb-test.png)
+\--- task \---
 
-+ Afegeix una llista de substantius al teu projecte. Un **substantiu** és un lloc o una cosa.
+Test your code a few times. You should see a random poem each time.
 
-![captura de pantalla](images/poetry-nouns.png)
+![random speech bubbles with adverbs](images/poetry-adverb-test.png)
 
-+ Afegeix codi per utilitzar els substantius al teu poema.
+\--- /task \---
 
-```blocks
-digues (uneix (element (aleatori v) de [substantius v])) durant (2) secs
+\--- task \---
+
+Add a list of nouns to your project. A **noun** is a place or a thing.
+
+![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add code to use the nouns in your poem.
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
+when this sprite clicked
+say [Here is your poem...] for (2) seconds
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
++say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
 ```
 
-+ Afegeix una llista d'adjectius al teu projecte. Un **adjectiu** és una paraula que descriu.
+\--- /task \---
 
-![captura de pantalla](images/poetry-adjectives.png)
+\--- task \---
 
-+ Afegeix codi per utilitzar els adjectius del teu poema:
+Add a list of adjectives to your project. An **adjective** is a describing word.
 
-```blocks
-digues (uneix [em sento] (element (aleatori v) de [adjectius v])) durant (2) secs
+![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add code to use the adjectives in your poem:
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
+when this sprite clicked
+say [Here is your poem...] for (2) seconds
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
+say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
++ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
 ```
 
-+ Pots fer clic a les caselles que hi ha al costat de les teves llistes per ocultar-les.
+\--- /task \---
 
-![captura de pantalla](images/poetry-lists-tick.png)
+\--- task \---
 
-+ Prova el teu nou poema. Aquí s'et mostra com haura de veure's el teu codi:
+You can click the boxes next to your lists to hide them.
 
-```blocks
-quan es cliqui aquest personatge
-digues [Aquí tens el teu poema...] durant (2) secs 
-digues (uneix [Jo ] (element (aleatori v) de [verbs v])) durant (2) secs 
-digues (element (aleatori v) de [adverbis v]) durant (2) secs 
-digues (uneix [amb el] (element (aleatori v) de [substantius v])) durant (2) secs 
-digues (uneix) [Em sento] (element (aleatori v) de [adjectius v])) durant (2) secs
-```
+![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+
+\--- /task \---
+
+\--- task \---
+
+Test out your new poem.
+
+\--- /task \---
