@@ -2,34 +2,83 @@
 
 Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
 
-+ Add this code to your 'Computer' sprite, so that it speaks when clicked:
+--- task ---
 
-```blocks
+Add this code to your 'Computer' sprite, so that it speaks when clicked:
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
 when this sprite clicked
-say [Here is your poem...] for (2) secs
+say [Here is your poem...] for (2) seconds
 ```
 
-+ To create a random poem, first you'll need a __list__ of words to use. To create a new list, click the `Data`{:class="blockdata"} tab.
+--- /task ---
 
-Let's use __verbs__ (action words) in the first line of your poem. Create a new list called 'verbs'.
+--- task ---
 
-![screenshot](images/poetry-list.png)
+To create a random poem, first you'll need a __list__ of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
 
-+ Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Let's use __verbs__ (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
 
-![screenshot](images/poetry-verbs.png)
+[[[generic-scratch3-make-list]]]
 
-+ The first line in your poem will be the word "I", followed by a random verb. This is the code that you'll need to add:
+--- /task ---
 
-```blocks
+--- task ---
+
+Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+
+![list with the + highlighted](images/poetry-verbs-annotated.png)
+
+--- /task ---
+
+--- task ---
+
+The first line of your poem should be the word "I", followed by a random verb. 
+
+To create this line of poetry, you need to:
+
+1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+
+    ```blocks3
+    (pick random (1) to (length of [verbs v]))
+    ```
+
+1. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+
+    ```blocks3
+    (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
+    ```
+
+1. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+
+    ```blocks3
+    (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
+    ```
+
+1. Use a `say`{:class="block3looks"} block to display the line of poetry:
+
+    ```blocks3
+    say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
+    ```
+
+Your code should look like this:
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
 when this sprite clicked
-say [Here is your poem...] for (2) secs
-say (join [I ] (item (random v) of [verbs v])) for (2) secs
+say [Here is your poem...] for (2) seconds
++ say (join [I ](item (pick random (1) to (length of [verbs v])) of verbs v])) for (2) seconds
 ```
 
-+ Test your code a few times. Your computer should say a random word from your verb list each time.
+--- /task ---
 
-![screenshot](images/poetry-random-test.png)
+--- task ---
 
+Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
 
+![3 speech bubbles saying different things](images/poetry-random-test.png)
 
+--- /task ---
