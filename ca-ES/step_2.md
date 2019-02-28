@@ -22,7 +22,7 @@ Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in
 
 ![dragging when this sprite clicked block](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Qualsevol codi agregat sota aquest bloc s'executarà quan es faci clic a l'Ada!
 
 \--- /task \---
 
@@ -41,7 +41,7 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Fes clic a l'Ada i hauries de veure com parla amb tu.
 
 ![screenshot](images/poetry-say-test.png)
 
