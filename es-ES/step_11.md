@@ -1,3 +1,3 @@
-## What next?
+## Desafío: más colores
 
 Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
