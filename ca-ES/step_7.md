@@ -2,35 +2,75 @@
 
 Ara animarem el teu ordinador, de manera que sembli que està generant poesia.
 
-+ Fes clic al personatge de l'ordinador i afegeix aquest codi després del primer bloc `digues`{: class = "blocklooks"}:
+\--- task \---
 
-```blocks
-repeteix (10) vegades
-  gira a l'esquerra (5) graus 
-  espera (0.1) secs 
-  gira a la dreta (5) graus 
-  espera (0,1) secs 
-fi
+Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+
+You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
+when this sprite clicked
+say [Here is your poem...] for (2) seconds
++ repeat (10)
+    turn left (5) degrees
+    wait (0.1) seconds
+    turn right (5) degrees
+    wait (0.1) seconds  
+end
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
+say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
+say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
 ```
 
-Així és com s'hauria de veure el teu codi:
+\--- /task \---
 
-![captura de pantalla](images/poetry-animate.png)
+\--- task \---
 
-Trobareu els blocs `repeteix`{: class = "blockcontrol"} i `espera` {: class = "blockcontrol"}a la secció `Control`{: class = "blockcontrol"}.
+Test your project. You should see the computer shake before producing a poem!
 
-+ Prova el teu projecte. Hauríes de veure tremolar l'ordinador abans de crear un poema!
+![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
-![captura de pantalla](images/poetry-animate-test.png)
+\--- /task \---
 
-+ Fes clic a la pestanya "Sons" i després clica a "Selecciona so de la biblioteca".
+\--- task \---
 
-![captura de pantalla](images/poetry-sound.png)
+Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
-+ Tria un so de "sonorització de l'ordinador" i fes clic a Acceptar.
+[[[generic-scratch3-sound-from-library]]]
 
-![captura de pantalla](images/poetry-beeps.png)
+\--- /task \---
 
-+ Afegeix un bloc `toca el so`{: class = "blocksound"}, per reproduir el teu so just abans d'iniciar l'animació.
+\--- task \---
 
-![captura de pantalla](images/poetry-play.png)
+Choose a 'computer beeps' sound and click OK.
+
+![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+
+![computer sprite](images/computer-sprite.png)
+
+```blocks3
+when this sprite clicked
+say [Here is your poem...] for (2) seconds
++ start sound (computer beeps1 v)
+repeat (10)
+    turn left (5) degrees
+    wait (0.1) seconds
+    turn right (5) degrees
+    wait (0.1) seconds  
+end
+say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
+say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
+say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+```
+
+\--- /task \---
