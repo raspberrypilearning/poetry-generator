@@ -66,6 +66,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-You can download the [completed project](http://rpf.io/p/en/poetry-generator-get).
+You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 --- /collapse ---
