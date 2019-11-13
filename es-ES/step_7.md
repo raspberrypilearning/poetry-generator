@@ -1,43 +1,43 @@
-## Animar el motor analítico
+## Animando el motor analítico
 
-Animemos su computadora, para que parezca que está generando poesía.
+Animemos el ordenador, para que parezca que está generando poesía.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Haz clic en la imagen del ordenador y añade este código despues del primer bloque `decir`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Encontrarás los bloques `repetir`{:class="block3control"} y `esperar`{:class="block3control"} en la sección `Control`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![imagen ordenador](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ repeat (10)
-    turn left (5) degrees
-    wait (0.1) seconds
-    turn right (5) degrees
-    wait (0.1) seconds  
-end
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+al hacer clic en este objeto
+decir [Aquí está tu poema...] durante (2) segundos
++ repetir (10)
+girar a la izquierda (5) grados
+esperar (0.1) segundos
+girar a la derecha (5) grados
+ esperar (0.1) segundos
+fin
+decir (unir [Yo ](elemento (número aleatorio entre (1) y (longitud de [verbos v])) de [verbos v])) durante (2) segundos
+decir (elemento (número aleatorio entre (1) y (longitud de [adverbios v])) de [adverbios v]) durante (2) segundos
+decir (unir [por](elemento (número aleatorio entre (1) y (longitud de [nombres v])) de [nombres v])) durante (2) segundos
+decir (unir [me siento ](elemento (número aleatorio entre (1) y (longitud de [adjetivos v])) de [adjetivos v])) durante (2) segundos
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Prueba tu proyecto. ¡Deberías ver que el ordenador tiembla antes de producir un poema!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![imagen ordenador temblando](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Haz clic en la pestaña de "Sonidos", y haz clic en el icono "Elige un sonido" en la esquina inferior izquierda.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,32 +45,32 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Elige el sonido "computer beep" y haz clic en OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![pitidos de ordenador 1 y 2 en la librería de sonidos](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Añadir un bloque `iniciar sonido`{:class="block3sound"} para reproducir el sonido justo antes de que la animación comience.
 
-![computer sprite](images/computer-sprite.png)
+![imagen ordenador](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ start sound (computer beeps1 v)
-repeat (10)
-    turn left (5) degrees
-    wait (0.1) seconds
-    turn right (5) degrees
-    wait (0.1) seconds  
-end
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+al hacer clic en este objeto
+decir [Aquí está tu poema...] durante (2) segundos
++ iniciar sonido (computer beep 1 v)
+repetir (10)
+girar a la izquierda (5) grados
+esperar (0.1) segundos
+girar a la derecha (5) grados
+ esperar (0.1) segundos
+fin
+decir (unir [Yo ](elemento (número aleatorio entre (1) y (longitud de [verbos v])) de [verbos v])) durante (2) segundos
+decir (elemento (número aleatorio entre (1) y (longitud de [adverbios v])) de [adverbios v]) durante (2) segundos
+decir (unir [por](elemento (número aleatorio entre (1) y (longitud de [nombres v])) de [nombres v])) durante (2) segundos
+decir (unir [me siento ](elemento (número aleatorio entre (1) y (longitud de [adjetivos v])) de [adjetivos v])) durante (2) segundos
 ```
 
 \--- /task \---
