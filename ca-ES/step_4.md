@@ -66,7 +66,7 @@ set [name v] to (answer :: +)
 
 Fes clic a l'Ada per provar el teu codi i introdueix el teu nom quan s'et demani. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
 
-![screenshot](images/poetry-name-test.png)
+![captura de pantalla](images/poetry-name-test.png)
 
 \--- /task \---
 
@@ -112,7 +112,7 @@ To hide your `name`{:class="block3variables"} variable on the stage, click the t
 
 Prova el codi nou. L'Ada hauria de saludar-te amb el teu nom!
 
-![screenshot](images/poetry-name-test2.png)
+![captura de pantalla](images/poetry-name-test2.png)
 
 Si no hi ha espai entre la paraula "Hola" i el teu nom, hauràs d'afegir-hi un espai al codi!
 
