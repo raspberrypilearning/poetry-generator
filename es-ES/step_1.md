@@ -63,6 +63,6 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/en/poetry-generator-get){:target ="_blank"}.
 
 \--- /collapse \---
