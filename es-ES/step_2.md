@@ -1,16 +1,18 @@
 ## Ada Lovelace
 
-En 1842, Ada Lovelace escribió sobre el uso de una máquina llamada 'Motor Analítico' para hacer cálculos, ¡y es visto como el primer programador de computadoras del mundo! Ada también fue la primera en ver que las computadoras podían ser más que simples calculadoras.
+En 1842, Ada Lovelace escribió sobre el uso de una máquina llamada 'Motor Analítico' para hacer cálculos, ¡y es visto como el primer ordenador del mundo! Ada también fue la primera en ver que los ordenadores podían ser más que simples calculadoras.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Abre el proyecto de iniciación en el "Generador de Poesías" de Scratch.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: abre el [poryecto de iniciación](http://rpf.io/poetry-on){:target="_blank"}.
 
-**Offline**: abre el [proyecto de inicio](http://rpf.io/p/en/beat-the-goalie-go){:target=_blank"} en el editor offline.
+If you have a Scratch account you can make a copy by clicking **Remix**.
 
-Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -33,8 +35,8 @@ Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3lo
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hello!] for (2) seconds
+al hacer clic en este objeto
+decir [¡Hola!] durante (2) segundos
 ```
 
 \--- /task \---
@@ -43,6 +45,6 @@ say [Hello!] for (2) seconds
 
 Click on Ada, and you should see her talk to you.
 
-![captura de pantalla](images/poetry-say-test.png)
+![screenshot](images/poetry-say-test.png)
 
 \--- /task \---
