@@ -1,0 +1,35 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: Peiriant Barddoniaeth Ada
+description: I ddathlu Diwrnod Ada Lovelace, dysga sut i raglenni peiriant barddoniaeth!
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Cyflwyniad
+  - 
+    title: Ada Lovelace
+  - 
+    title: 'Her: Codio Ada i gyflwyno ei hunan'
+    challenge: true
+  - 
+    title: Dweud dy enw wrth Ada
+  - 
+    title: Y Peiriant Dadansoddol
+  - 
+    title: Mwy o farddoniaeth
+  - 
+    title: Animeiddio'r Peiriant Dadansoddol
+  - 
+    title: 'Her: Personoleiddio dy gerdd'
+    challenge: true
+  - 
+    title: 'Her: Mwy o eiriau'
+    challenge: true
+  - 
+    title: 'Her: Mwy o gerddi'
+    challenge: true
+  - 
+    title: What next?
