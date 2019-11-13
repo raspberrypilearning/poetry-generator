@@ -8,31 +8,31 @@ Abre el proyecto de iniciación en el "Generador de Poesías" de Scratch.
 
 **Online**: abre el [poryecto de iniciación](http://rpf.io/poetry-on){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline**: abre el [proyecto de iniciación](http://rpf.io/p/en/beat-the-goalie-go){:target=_blank"} en el editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
-
-\--- /task \---
-
-\--- task \---
-
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
-
-![ada sprite](images/ada-sprite.png)
-
-![dragging when this sprite clicked block](images/poetry-click.png)
-
-Any code added underneath this block will run when Ada is clicked!
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Haz clic en la imagen de "Ada", y haz click en la pestaña `Eventos`{:class="block3events"} en la sección de codificación "Programas". Arrastra el bloque `al hacer clic en este objeto`{:class="block3events"} en el área de codificación a la derecha.
 
-![ada sprite](images/ada-sprite.png)
+![imagen ada](images/ada-sprite.png)
+
+![arrastrando el bloque al hacer clic en este objeto](images/poetry-click.png)
+
+¡Cualquier código añadido por debajo de este bloque se ejecutará cuando se haga clic sobre Ada!
+
+\--- /task \---
+
+\--- task \---
+
+Haz clic en la pestaña `Apariencia`{:class="block3looks"}, y arrastra el bloque `decir`{:class="block3looks"} `¡Hola!` `durante 2 segundos`{:class="block3looks"} debajo del bloque de ` al hacer clic en este objeto`{:class="block3events"} que ya habías añadido.
+
+![imagen ada](images/ada-sprite.png)
 
 ```blocks3
 al hacer clic en este objeto
@@ -43,8 +43,8 @@ decir [¡Hola!] durante (2) segundos
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Haz clic en Ada, y verás cómo te habla.
 
-![screenshot](images/poetry-say-test.png)
+![captura de pantalla](images/poetry-say-test.png)
 
 \--- /task \---
