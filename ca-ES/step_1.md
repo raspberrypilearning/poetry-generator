@@ -45,7 +45,7 @@ Aprendràs a programar el teu propi generador de poesia!
 
 + Scratch 3 (tant [en línia](http://rpf.io/scratchon){: target = "_ blank"} o [fora de línia](http://rpf.io/scratchoff){: target = "_ blank"})
 
-#### Descàrregues
+#### Baixades
 
 The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
@@ -53,16 +53,16 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## títol: Informació addicional per educadors
 
 This project has been created to celebrate [Ada Lovalace Day](https://findingada.com). Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) per presentar l'Ada i les seves idees revolucionàries als alumnes.
 
 \--- no-print \---
 
-Si necessites imprimir aquest projecte, si us plau, utilitza la [Versió per imprimir](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- / no-print \---
 
-You can download the [completed project](http://rpf.io/p/en/poetry-generator-get).
+You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- / collapse \---
