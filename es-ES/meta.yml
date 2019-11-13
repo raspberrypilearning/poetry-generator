@@ -3,7 +3,7 @@ hero_image: images / banner.png
 listed: true
 ingredient: false
 title: Generador de poesía de Ada
-description: '¡Celebre Ada Lovelace Day, aprendiendo cómo programar su propio generador de poesía!'
+description: '¡Celebra Ada Lovelace Day, aprendiendo cómo programar tu propio generador de poesía!'
 version: 4
 last_tested: 2019-02-20
 steps:
@@ -12,7 +12,7 @@ steps:
   - 
     title: Ada Lovelace
   - 
-    title: 'Desafío: Codifique a Ada para presentarse'
+    title: 'Desafío: Codifica a Ada para presentarse'
     challenge: true
   - 
     title: Diciéndole a Ada tu nombre
@@ -32,4 +32,4 @@ steps:
     title: 'Desafío: más poesía'
     challenge: true
   - 
-    title: 'Desafío: Pantalla de instrucciones'
+    title: '¿Qué sigue?'
