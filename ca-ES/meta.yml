@@ -4,8 +4,8 @@ listed: true
 ingredient: false
 title: Generador de poesia de l'Ada
 description: Celebreu el Dia d'Ada Lovelace, aprenent a programar el vostre propi generador de poesia!
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2019-02-20
 steps:
   - 
     title: Introducció
@@ -32,4 +32,4 @@ steps:
     title: 'Repte: Més poesia'
     challenge: true
   - 
-    title: What next?
+    title: I ara què ve?
