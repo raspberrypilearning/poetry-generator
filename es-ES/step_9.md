@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Más palabras
+## Desafío: más palabras
 
 ¿Puedes agregar más palabras a tus listas para que puedas generar más poemas?
 

@@ -39,7 +39,7 @@ Para guardar tu nombre, haz clic en la pestaña `Variables`{:class="block3variab
 ![imagen ada](images/ada-sprite.png)
 
 ```blocks3
-cuando se haga clic en la imagen
+al hacer clic en este objeto
 decir [¡Hola, soy Ada!] durante (2) segundos
 preguntar [¿Cómo te llamas?] y esperar
 + dar a [nombre v] el valor [0]
@@ -54,7 +54,7 @@ Utiliza el bloque `respuesta`{:class="block3sensing"} para almacenar la respuest
 ![imagen ada](images/ada-sprite.png)
 
 ```blocks3
-cuando se haga clic en la imagen
+al hacer clic en este objeto
 decir [¡Hola, soy Ada!] durante (2) segundos
 preguntar [¿Cómo te llamas?] y esperar
  dar a [nombre v] el valor (respuesta:: +)
@@ -77,7 +77,7 @@ Ahora puedes usar tu nombre en tu código. Añade este código:
 ![imagen ada](images/ada-sprite.png)
 
 ```blocks3
-cuando se haga clic en la imagen
+al hacer clic en este objeto
 decir [¡Hola, soy Ada!] durante (2) segundos
 preguntar [¿Cómo te llamas?] y esperar
  dar a [nombre v] el valor(respuesta)
@@ -86,7 +86,7 @@ preguntar [¿Cómo te llamas?] y esperar
 
 Para crear este código:
 
-1. Arrastra el bloque `unir`{:class="blockoperators"} en el bloque `deciri`{:class="blocklooks"} block
+1. Arrastra el bloque `unir`{:class="blockoperators"} en el bloque `decir`{:class="blocklooks"} block
     
     ```blocks3
     decir (unir [manzana] [plátano] :: +) durante (2) segundos
@@ -118,6 +118,7 @@ Si no hay espacio entre la palabra "Hola" y tu nombre, ¡necesitarás añadir un
 
 --- /task ---
 
+--- task ---
 Si no hay espacio entre. la palabra "Hola" y tu nombre, ¡necesitarás añadir un espacio en el código tú mismo
 
 Finalmente, añade este código para explicar lo que hacer a continuación:

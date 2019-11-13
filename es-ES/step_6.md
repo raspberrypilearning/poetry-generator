@@ -52,7 +52,7 @@ al hacer clic en este objeto
 decir [Aquí está tu poema...] durante (2) segundos
 decir (unir [Yo ](elemento (número aleatorio entre (1) y (longitud de [verbos v])) de [verbos v])) durante (2) segundos
 decir (elemento (número aleatorio entre (1) y (longitud de [adverbios v])) de [adverbios v]) durante (2) segundos
-decir (unir [en](elemento (número aleatorio entre (1) y (longitud de [nombres v])) de [nombres v])) durante (2) segundos
++ decir (unir [en](elemento (número aleatorio entre (1) y (longitud de [nombres v])) de [nombres v])) durante (2) segundos
 ```
 
 --- /task ---
@@ -77,8 +77,7 @@ decir [Aquí está tu poema...] durante (2) segundos
 decir (unir [Yo ](elemento (número aleatorio entre (1) y (longitud de [verbos v])) de [verbos v])) durante (2) segundos
 decir (elemento (número aleatorio entre (1) y (longitud de [adverbios v])) de [adverbios v]) durante (2) segundos
 decir (unir [en ](elemento (número aleatorio entre (1) y (longitud de [nombres v])) de [nombres v])) durante (2) segundos
-+ decir (unir [me siento ](elemento (número aleatorio entre (1) y (longitud 
-de [adjetivos v])) de [adjetivos v])) durante (2) segundos
++ decir (unir [me siento ](elemento (número aleatorio entre (1) y (longitud de [adjetivos v])) de [adjetivos v])) durante (2) segundos
 ```
 
 --- /task ---
