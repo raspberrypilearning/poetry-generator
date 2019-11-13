@@ -8,6 +8,8 @@ Open the 'Poetry Generator' Scratch starter project.
 
 **Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
 
+If you have a Scratch account you can make a copy by clicking **Remix**.
+
 **Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
@@ -22,7 +24,7 @@ Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in
 
 ![dragging when this sprite clicked block](images/poetry-click.png)
 
-Qualsevol codi agregat sota aquest bloc s'executarà quan es faci clic a l'Ada!
+Any code added underneath this block will run when Ada is clicked!
 
 \--- /task \---
 
@@ -41,7 +43,7 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Fes clic a l'Ada i hauries de veure com parla amb tu.
+Click on Ada, and you should see her talk to you.
 
 ![screenshot](images/poetry-say-test.png)
 
