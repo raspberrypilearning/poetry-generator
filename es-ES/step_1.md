@@ -6,7 +6,7 @@ Esta es una versión de **Scratch 3** del proyecto. También hay una [versión d
 
 ## Introducción
 
-You are going to learn how to program your own poetry generator!
+¡Vas a aprender a programar tu propio generador de poesías!
 
 \--- no-print \---
 
@@ -19,17 +19,17 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![captura de pantalla del juego](images/poetry-final.png)
 
 \--- /print-only \---
 
-## \--- colapso \---
+## \--- collapse \---
 
 ## title: Lo que vas a aprender
 
 + Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
++ Listas y elementos aleatorios;
++ Repetición (el bloque `repetir`{:class="block3control"}).
 
 \--- /collapse \---
 
@@ -39,7 +39,7 @@ You are going to learn how to program your own poetry generator!
 
 #### Hardware
 
-+ Una computadora capaz de hacer correr Scratch 3
++ Un ordenador capaz de hacer correr Scratch 3
 
 #### Software
 
@@ -47,15 +47,15 @@ You are going to learn how to program your own poetry generator!
 
 #### Descargas
 
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+El proyecto de iniciación puede encontrarse [aquí](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
-\--- /colapso \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: Información adicional para educadores
 
-This project has been created to celebrate [Ada Lovalace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+El proyecto se ha creado para celebrar [ El día de Ada Lovalace](https://findingada.com). Si es maestro, puede descargar un paquete de recursos escolares que también contiene un plan de montaje ([ downloads.codeclub.org.uk/ada.zip ](http://downloads.codeclub.org.uk/ada.zip)), para presentar a los niños a Ada y sus ideas revolucionarias.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 \--- /no-print \---
 
-You can download the [completed project](http://rpf.io/p/en/poetry-generator-get).
+You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
