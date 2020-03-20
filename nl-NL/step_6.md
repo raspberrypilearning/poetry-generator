@@ -1,97 +1,97 @@
-## More poetry
+## Meer poëzie
 
-Your poem is quite short - let's add to it!
+Je gedicht is vrij kort - laten we er wat aan toevoegen!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Laten we bijwoorden in de volgende regel van je gedicht gebruiken. Een **bijwoord** is een woord dat een werkwoord beschrijft. Maak nog een lijst met als naam bijwoorden en voeg deze 3 woorden toe:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![lijst met de woorden luidruchtig, stilletjes, oneindig](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Voeg deze regel toe aan de code van de computer, om een willekeurig bijwoord op de volgende regel van je gedicht te zeggen:
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-+say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
+wanneer op deze sprite is geklikt
+zeg [Hier is je gedicht ...] gedurende (2) seconden
+zeg (voeg [Ik ] en (item (kies willekeurig (1) tot (lengte van [werkwoorden v])) van [werkwoorden v] ) samen) gedurende (2) seconden
++ zeg (item (kies willekeurig (1) tot (lengte van [bijwoorden v])) van [bijwoorden v]) gedurende (2) seconden
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Test je code een paar keer. Je zou elke keer een willekeurig gedicht moeten zien.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![willekeurige tekstballonnen met bijwoorden](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Voeg een lijst met zelfstandige naamwoorden toe aan je project. Een **zelfstandig naamwoord** is een plaats of een ding.
+
+![een lijst met zelfstandige naamwoorden met de woorden zee, maan, boom](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Voeg code toe om de zelfstandige naamwoorden in je gedicht te gebruiken.
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-+say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
+wanneer op deze sprite wordt geklikt
+zeg [Hier is je gedicht ...] (2) sec.
+zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v] samen)) (2) sec.
+zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
++ zeg (voeg [bij de] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v])) en [zelfstandige naamwoorden v] samen)) (2) sec.
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Voeg een lijst met bijvoeglijke naamwoorden toe aan je project. Een **bijvoeglijk naamwoord** is een beschrijvend woord.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![een lijst met bijvoeglijke naamwoorden blij, moe, hongerig](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Voeg code toe om de bijvoeglijke naamwoorden in je gedicht te gebruiken:
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-+ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+wanneer op deze sprite wordt geklikt
+zeg [Hier is je gedicht ...] (2) sec.
+zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v] samen)) (2) sec.
+zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
+zeg (voeg [door de] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v] samen)) en [zelfstandige naamwoorden v] samen)) (2) sec.
++ zeg (voeg [Ik voel me] (item (willekeurig getal tussen (1) en (lengte van [bijvoeglijke naamwoorden v)])) en [bijvoeglijke naamwoorden v] samen)) (2) sec.
 ```
 
 \--- /task \---
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Je kunt op de vakjes naast je lijsten klikken om ze te verbergen.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![lijst variabelen met de geselecteerde selectievakjes](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Test je nieuwe gedicht.
 
 \--- /task \---
