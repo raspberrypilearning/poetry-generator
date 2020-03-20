@@ -1,25 +1,25 @@
-## The Analytical Engine
+## De analytische machine
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Laten we Ada's computer (de 'Analytical Engine' of de 'Analytische Machine' genoemd) programmeren om poëzie te genereren.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Voeg deze code toe aan de 'Computer' sprite, zodat deze spreekt wanneer erop wordt geklikt:
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
+wanneer op deze sprite wordt geklikt
+zeg [Hier is je gedicht ...] (2) sec.
 ```
 
 \--- /task \---
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Om een willekeurig gedicht te maken, heb je eerst een **lijst** met woorden nodig om te gebruiken. Klik op het tabblad `Variabelen`{:class="block3variables"} om een nieuwe lijst te maken.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Laten we **werkwoorden** gebruiken in de eerste regel van je gedicht. Maak een nieuwe lijst met de naam `werkwoorden`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,58 +27,58 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Je nieuwe lijst is leeg. Klik op `+` onderaan de lege lijst en voeg deze werkwoorden toe:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![lijst met de + gemarkeerd](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+De eerste regel van je gedicht moet het woord "Ik" zijn, gevolgd door een willekeurig werkwoord.
 
-To create this line of poetry, you need to:
+Om deze zin te maken, moet je:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `willekeurig getal`{:class="block3operators"} tussen `1` en de `lengte van werkwoordenlijst`{:class="block3variables"}:
     
     ```blocks3
-    (pick random (1) to (length of [verbs v]))
+    (willekeurig getal tussen (1) en (lengte van [werkwoorden v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Gebruik dit blok om een willekeurig `item`{:class="block3variables"} te krijgen uit de `werkwoorden`{:class="block3variables"} lijst:
     
     ```blocks3
-    (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
+    (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v]) :: +) van [werkwoorden v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Voeg`{:class="block3operators"} "Ik" samen met het willekeurige werkwoord om de eerste regel van je gedicht te maken:
     
     ```blocks3
-    (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
+    (voeg [Ik ] (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v] samen)) van [werkwoorden v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Gebruik een `zeg`{:class="block3looks"} blok om de poëzieregel weer te geven:
     
     ```blocks3
-    say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
+    zeg (voeg [Ik ] (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v] samen)) van [werkwoorden v]) :: +) (2) sec.
     ```
 
-Your code should look like this:
+Je code zou er als volgt uit moeten zien:
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
 say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of verbs v])) for (2) seconds
++ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Test je code een paar keer. Je computer moet elke keer een willekeurig woord kiezen uit de lijst `werkwoorden`{:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 tekstballonnen die verschillende dingen zeggen](images/poetry-random-test.png)
 
 \--- /task \---
