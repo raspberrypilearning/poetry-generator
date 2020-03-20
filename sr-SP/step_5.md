@@ -70,7 +70,7 @@ Your code should look like this:
 ```blocks3
 when this sprite clicked
 say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of verbs v])) for (2) seconds
++ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
 ```
 
 \--- /task \---
