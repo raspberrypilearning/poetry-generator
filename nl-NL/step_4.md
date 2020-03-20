@@ -1,32 +1,32 @@
-## Telling Ada your name
+## Ada je naam vertellen
 
-Ada has introduced herself, but she doesn't know your name!
+Ada heeft zichzelf voorgesteld, maar ze kent je naam niet!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Sleep een `vraag`{:class="block3sensing"} blok (uit de sectie `waarnemen`{:class="block3sensing"}) naar je code. Zo zou de code eruit moeten zien:
 
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-+ ask [What's your name?] and wait
+wanneer op deze sprite wordt geklikt
+zeg [Hoi, ik ben Ada!] (2) sec.
++ vraag [Hoe heet jij?] en wacht
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Klik op Ada om de code te testen. Ada zou om je naam moeten vragen, die je kunt typen!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![ada sprite vraagt wat je naam is](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+We kunnen een **variabele** gebruiken om je naam op te slaan. Klik op `Variabelen`{:class="block3variables"} en vervolgens op 'Maak een variabele'. Omdat deze variabele wordt gebruikt om naam op te slaan, noemen we de variabele... `naam`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,71 +34,71 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Om je naam op te slaan, klik je op het tabblad `Variabelen`{:class="block3variables"} en sleep je vervolgens het blok `maak naam`{:class="block3variables"} naar het einde van de code.
 
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-+ set [name v] to [0]
+wanneer op deze sprite wordt geklikt
+zeg [Hoi, ik ben Ada!] (2) sec.
+vraag [Hoe heet jij?] en wacht
++ maak [naam v] [0]
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Gebruik het blok `antwoord`{:class="block3sensing"} om het antwoord op te slaan dat je typt.
 
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-set [name v] to (answer :: +)
+wanneer op deze sprite wordt geklikt
+zeg [Hoi, ik ben Ada!] (2) sec.
+vraag [Hoe heet jij?] en wacht
+maak [naam v] (antwoord :: +)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Klik op Ada om de code te testen en voer je naam in wanneer daarom wordt gevraagd. Je zou moeten zien dat je naam is opgeslagen in de variabele `naam`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![schermafbeelding](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Je kunt nu jouw naam gebruiken in je code. Voeg deze code toe:
 
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-set [name v] to (answer)
-+say (join [Hi ] (name)) for (2) seconds 
+wanneer op deze sprite wordt geklikt
+zeg [Hoi, ik ben Ada!] (2) sec.
+vraag [Hoe heet jij?] en wacht
+maak [naam v] (antwoord)
++ zeg (voeg [Hoi ] en (naam) samen) (2) sec. 
 ```
 
-To create this code:
+Om deze code te maken:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Sleep een `voeg samen`{:class="block3operators"} blok naar het `zeg`{:class="block3looks"} blok
     
     ```blocks3
-    say (join [apple] [banana] :: +) for (2) seconds
+    zeg (voeg [appel] en [banaan] samen :: +) (2) sec.
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Voeg je `naam`{:class="block3data"} blok toe aan het `voeg samen`{:class="block3operators"} blok.
     
     ```blocks3
-    say (join [Hi] (name :: variables +)) for (2) seconds
+    zeg (voeg [Hoi] en (naam :: variabelen +) samen) (2) sec.
     ```
-    
-    \--- /task \---
+
+\--- /task \---
 
 \--- task \---
 
@@ -125,12 +125,12 @@ Finally, add this code to explain what to do next:
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-set [name v] to (answer)
-say (join [Hi ] (name)) for (2) seconds 
-+ say [Click the computer to generate a poem.] for (2) seconds 
+wanneer op deze sprite wordt geklikt
+zeg [Hoi, ik ben Ada!] (2) sec.
+vraag [Hoe heet jij?] en wacht
+maak [naam v] (antwoord)
+zeg (voeg [Hoi ] en (naam) samen) (2) sec. 
++ zeg [Klik op de computer om een gedicht te maken!] (2) sec. 
 ```
 
 \--- /task \---
