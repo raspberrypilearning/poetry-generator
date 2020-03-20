@@ -1,43 +1,43 @@
-## Animating the Analytical Engine
+## Animatie van de analytische machine
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Laten we de computer animeren, zodat het lijkt alsof deze poëzie genereert.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Klik op de computer sprite en voeg deze code toe na het eerste `zeg`{:class="block3looks"} blok:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Je vindt de `herhaal`{:class="block3control"} en `wacht`{:class="block3control"} blokken in de sectie `Besturen`{:class="block3control"}.
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ repeat (10)
-    turn left (5) degrees
-    wait (0.1) seconds
-    turn right (5) degrees
-    wait (0.1) seconds  
-end
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+wanneer op deze sprite wordt geklikt
+zeg [Hier is je gedicht...] (2) sec.
++ herhaal (10)
+    draai links (5) graden
+    wacht (0.1) seconden
+    draai rechts (5) graden
+    wacht (0.1 ) seconden  
+einde
+zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v]) samen) (2) sec.
+zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
+zeg (voeg [bij de] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v])) van [ zelfstandige naamwoorden v] samen)) (2) sec.
+zeg (voeg [Ik voel me ] (item (willekeurig getal tussen (1) en (lengte van [bijvoeglijke naamwoorden v])) van [bijvoeglijke naamwoorden v] samen)) (2) sec.
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Test je project. Je zou de computer moeten zien schudden voordat je een gedicht maakt!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![computer sprite schudt heen en weer](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Klik op het tabblad 'Geluiden' en klik linksonder op het pictogram 'Kies een geluid'.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,32 +45,32 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Kies een 'computer beep' geluid en klik op OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![computer beeps 1 en 2 geluiden in geluidsbibliotheek](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Voeg een `start geluid`{:class="block3sound"} toe om een geluid af te spelen net voordat je animatie begint.
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ start sound (computer beeps1 v)
-repeat (10)
-    turn left (5) degrees
-    wait (0.1) seconds
-    turn right (5) degrees
-    wait (0.1) seconds  
-end
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+wanneer op deze sprite wordt geklikt
+zeg [Hier is je gedicht ...] (2) sec.
++ start geluid (computer beeps1 v)
+herhaal (10)
+    draai links (5) graden
+    wacht (0.1) seconden
+    draai rechts (5) graden
+    wachten (0.1) seconden  
+einde
+zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v] samen)) (2) sec.
+zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
+zeg (voeg [bij de ] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v])) van [zelfstandige naamwoorden v] samen)) (2) sec.
+zeg (voeg [Ik voel me ] (item (willekeurig getal tussen (1) en (lengte van [bijvoeglijke naamwoorden v])) van [bijvoeglijke naamwoorden v] samen)) (2) sec.
 ```
 
 \--- /task \---
