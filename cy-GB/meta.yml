@@ -2,34 +2,34 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Peiriant Barddoniaeth Ada
-description: I ddathlu Diwrnod Ada Lovelace, dysga sut i raglenni peiriant barddoniaeth!
-version: 3
-last_tested: 2017-01-01
+title: Ada's Poetry Generator
+description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+version: 4
+last_tested: 2019-02-20
 steps:
   - 
-    title: Cyflwyniad
+    title: Introduction
   - 
     title: Ada Lovelace
   - 
-    title: 'Her: Codio Ada i gyflwyno ei hunan'
+    title: 'Challenge: Code Ada to introduce herself'
     challenge: true
   - 
-    title: Dweud dy enw wrth Ada
+    title: Telling Ada your name
   - 
-    title: Y Peiriant Dadansoddol
+    title: The Analytical Engine
   - 
-    title: Mwy o farddoniaeth
+    title: More poetry
   - 
-    title: Animeiddio'r Peiriant Dadansoddol
+    title: Animating the Analytical Engine
   - 
-    title: 'Her: Personoleiddio dy gerdd'
+    title: 'Challenge: Personalise your poem'
     challenge: true
   - 
-    title: 'Her: Mwy o eiriau'
+    title: 'Challenge: More words'
     challenge: true
   - 
-    title: 'Her: Mwy o gerddi'
+    title: 'Challenge: More poetry'
     challenge: true
   - 
     title: What next?
