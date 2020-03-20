@@ -4,7 +4,7 @@ El teu poema és bastant curt: afegim més text!
 
 \--- task \---
 
-Ara utilitzarem adverbis a la següent línia del teu poema. Un **adverbi** és una paraula que descriu un verb. Crea una altra llista anomenada adverbis i afegiu aquestes 3 paraules:
+Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
 
 ![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
 
@@ -12,7 +12,7 @@ Ara utilitzarem adverbis a la següent línia del teu poema. Un **adverbi** és 
 
 \--- task \---
 
-Afegeix aquesta línia al codi de l'ordinador, per dir un adverbi a l'atzar a la següent línia del teu poema:
+Add this line to your computer's code, to say a random adverb on the next line of your poem:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -27,7 +27,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Prova el codi diverses vegades. Hauries de veure un poema aleatori cada vegada.
+Test your code a few times. You should see a random poem each time.
 
 ![random speech bubbles with adverbs](images/poetry-adverb-test.png)
 
@@ -35,7 +35,7 @@ Prova el codi diverses vegades. Hauries de veure un poema aleatori cada vegada.
 
 \--- task \---
 
-Afegeix una llista de substantius al teu projecte. Un **substantiu** és un lloc o una cosa.
+Add a list of nouns to your project. A **noun** is a place or a thing.
 
 ![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
 
@@ -43,7 +43,7 @@ Afegeix una llista de substantius al teu projecte. Un **substantiu** és un lloc
 
 \--- task \---
 
-Afegeix codi per utilitzar els substantius al teu poema.
+Add code to use the nouns in your poem.
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -59,7 +59,7 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Afegeix una llista d'adjectius al teu projecte. Un **adjectiu** és una paraula que descriu.
+Add a list of adjectives to your project. An **adjective** is a describing word.
 
 ![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
 
@@ -67,7 +67,7 @@ Afegeix una llista d'adjectius al teu projecte. Un **adjectiu** és una paraula 
 
 \--- task \---
 
-Afegeix codi per utilitzar els adjectius del teu poema:
+Add code to use the adjectives in your poem:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -84,7 +84,7 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-Pots fer clic a les caselles que hi ha al costat de les teves llistes per ocultar-les.
+You can click the boxes next to your lists to hide them.
 
 ![list variables with the tick boxes selected](images/poetry-lists-tick.png)
 
@@ -92,6 +92,6 @@ Pots fer clic a les caselles que hi ha al costat de les teves llistes per oculta
 
 \--- task \---
 
-Prova el teu nou poema.
+Test out your new poem.
 
 \--- /task \---
