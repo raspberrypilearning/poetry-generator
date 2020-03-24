@@ -4,7 +4,7 @@ Vamos a programar el ordenador de Ada (llamado el 'Motor Analítico') para gener
 
 \--- task \---
 
-Añade este código a tu imagen "ordenador", para que hable cuando le hagas clic:
+Añade este código a tu objeto "ordenador", para que hable cuando le hagas clic:
 
 ![imagen de ordenador](images/computer-sprite.png)
 
