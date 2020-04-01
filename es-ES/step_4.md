@@ -86,7 +86,7 @@ preguntar [¿Cómo te llamas?] y esperar
 
 Para crear este código:
 
-1. Arrastra el bloque `unir`{:class="blockoperators"} en el bloque `deciri`{:class="blocklooks"} block
+1. Arrastra el bloque `unir`{:class="blockoperators"} en el bloque `decir`{:class="blocklooks"} block
     
     ```blocks3
     decir (unir [manzana] [plátano] :: +) durante (2) segundos
