@@ -4,7 +4,7 @@ En 1842, Ada Lovelace escribió sobre el uso de una máquina llamada 'Motor Anal
 
 --- task ---
 
-Abre el proyecto de iniciación en el "Generador de Poesías" de Scratch.
+Abre el proyecto de iniciación en el "Generador de Poesía" de Scratch.
 
 **Online**: abre el [proyecto de iniciación](https://scratch.mit.edu/projects/344580953){:target="_blank"}.
 
