@@ -4,7 +4,7 @@ Animemos el ordenador, para que parezca que está generando poesía.
 
 --- task ---
 
-Haz clic en la imagen del ordenador y añade este código despues del primer bloque `decir`{:class="block3looks"}:
+Haz clic en el objeto ordenador y añade este código después del primer bloque `decir`{:class="block3looks"}:
 
 Encontrarás los bloques `repetir`{:class="block3control"} y `esperar`{:class="block3control"} en la sección `Control`{:class="block3control"}.
 

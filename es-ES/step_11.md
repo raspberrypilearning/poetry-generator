@@ -20,8 +20,13 @@ Elimina los globos haciendo clic en ellos.
 --- /print-only ---
 
 
-**Traducción aportada por la comunidad**
+***
+Este proyecto fue traducido por voluntarios:
 
-Este proyecto fue traducido por **Valeria Pérez Suárez** y revisado por **Laura Lurati**.
+Valeria Pérez Suárez
 
-Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translate](https://rpf.io/translate).
+Laura Lurati
+
+José María Honrado
+
+Gracias a los voluntarios, podemos dar a las personas de todo el mundo la oportunidad de aprender en su propio idioma. Puede ayudarnos a llegar a más personas ofreciéndose como voluntario para traducir; más información en [rpf.io/translate](https://rpf.io/translate).

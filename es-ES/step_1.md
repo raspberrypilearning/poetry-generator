@@ -58,7 +58,7 @@ El proyecto de iniciación puede encontrarse [aquí](http://rpf.io/p/es-ES/poetr
 title: Información adicional para educadores
 ---
 
-El proyecto se ha creado para celebrar [El día de Ada Lovalace](https://findingada.com). Si es maestro, puede descargar un paquete de recursos escolares que también contiene un plan de montaje ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), para presentar a los niños a Ada y sus ideas revolucionarias.
+El proyecto se ha creado para celebrar [El día de Ada Lovelace](https://findingada.com). Si es maestro, puede descargar un paquete de recursos escolares que también contiene un plan de montaje ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), para presentar a los niños a Ada y sus ideas revolucionarias.
 
 --- no-print ---
 
@@ -66,6 +66,6 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 --- /no-print ---
 
-Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/es-ES/poetry-generator-get){:target ="_blank"}.
+Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/es-ES/poetry-generator-get){:target="_blank"}.
 
 --- /collapse ---
