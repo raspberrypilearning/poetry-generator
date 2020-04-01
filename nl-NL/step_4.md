@@ -95,7 +95,7 @@ Om deze code te maken:
 2. Voeg je `naam`{:class="block3data"} blok toe aan het `voeg samen`{:class="block3operators"} blok.
     
     ```blocks3
-    zeg (voeg [Hoi] en (naam :: variabelen +) samen) (2) sec.
+    zeg (voeg [Hoi] en (naam :: variables +) samen) (2) sec.
     ```
 
 --- /task ---

@@ -17,10 +17,10 @@ Voeg deze regel toe aan de code van de computer, om een willekeurig bijwoord op 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-wanneer op deze sprite is geklikt
-zeg [Hier is je gedicht ...] gedurende (2) seconden
-zeg (voeg [Ik ] en (item (kies willekeurig (1) tot (lengte van [werkwoorden v])) van [werkwoorden v] ) samen) gedurende (2) seconden
-+ zeg (item (kies willekeurig (1) tot (lengte van [bijwoorden v])) van [bijwoorden v]) gedurende (2) seconden
+when this sprite clicked
+say [Hier is je gedicht...] for (2) seconds
+say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v])) for (2) seconds
++say (item (pick random (1) to (length of [bijwoorden v])) of [bijwoorden v]) for (2) seconds
 ```
 
 --- /task ---
@@ -48,11 +48,11 @@ Voeg code toe om de zelfstandige naamwoorden in je gedicht te gebruiken.
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-zeg [Hier is je gedicht ...] (2) sec.
-zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v] samen)) (2) sec.
-zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
-+ zeg (voeg [bij de] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v])) en [zelfstandige naamwoorden v] samen)) (2) sec.
+when this sprite clicked
+say [Hier is je gedicht...] for (2) seconds
+say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v])) for (2) seconds
+say (item (pick random (1) to (length of [bijwoorden v])) of [bijwoorden v]) for (2) seconds
++say (join [bij de ](item (pick random (1) to (length of [zelfstandige naamwoorden v])) of [zelfstandige naamwoorden v])) for (2) seconds
 ```
 
 --- /task ---
@@ -72,12 +72,12 @@ Voeg code toe om de bijvoeglijke naamwoorden in je gedicht te gebruiken:
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-zeg [Hier is je gedicht ...] (2) sec.
-zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v] samen)) (2) sec.
-zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
-zeg (voeg [door de] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v] samen)) en [zelfstandige naamwoorden v] samen)) (2) sec.
-+ zeg (voeg [Ik voel me] (item (willekeurig getal tussen (1) en (lengte van [bijvoeglijke naamwoorden v)])) en [bijvoeglijke naamwoorden v] samen)) (2) sec.
+when this sprite clicked
+say [Hier is je gedicht...] for (2) seconds
+say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v])) for (2) seconds
+say (item (pick random (1) to (length of [bijwoorden v])) of [bijwoorden v]) for (2) seconds
+say (join [bij de ](item (pick random (1) to (length of [zelfstandige naamwoorden v])) of [zelfstandige naamwoorden v])) for (2) seconds
++ say (join [Ik voel me ](item (pick random (1) to (length of [bijvoeglijke naamwoorden v])) of [bijvoeglijke naamwoorden v])) for (2) seconds
 ```
 
 --- /task ---

@@ -11,18 +11,18 @@ Je vindt de `herhaal`{:class="block3control"} en `wacht`{:class="block3control"}
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-zeg [Hier is je gedicht...] (2) sec.
-+ herhaal (10)
-    draai links (5) graden
-    wacht (0.1) seconden
-    draai rechts (5) graden
-    wacht (0.1 ) seconden  
-einde
-zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v]) samen) (2) sec.
-zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
-zeg (voeg [bij de] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v])) van [ zelfstandige naamwoorden v] samen)) (2) sec.
-zeg (voeg [Ik voel me ] (item (willekeurig getal tussen (1) en (lengte van [bijvoeglijke naamwoorden v])) van [bijvoeglijke naamwoorden v] samen)) (2) sec.
+when this sprite clicked
+say [Hier is je gedicht...] for (2) seconds
++ repeat (10)
+	turn left (5) degrees
+	wait (0.1) seconds
+	turn right (5) degrees
+	wait (0.1) seconds	
+end
+say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v])) for (2) seconds
+say (item (pick random (1) to (length of [bijwoorden v])) of [bijwoorden v]) for (2) seconds
+say (join [bij de ](item (pick random (1) to (length of [zelfstandige naamwoorden v])) of [zelfstandige naamwoorden v])) for (2) seconds
+say (join [Ik voel me ](item (pick random (1) to (length of [bijvoeglijke naamwoorden v])) of [bijvoeglijke naamwoorden v])) for (2) seconds
 ```
 
 --- /task ---
@@ -58,19 +58,19 @@ Voeg een `start geluid`{:class="block3sound"} toe om een geluid af te spelen net
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-zeg [Hier is je gedicht ...] (2) sec.
-+ start geluid (computer beeps1 v)
-herhaal (10)
-    draai links (5) graden
-    wacht (0.1) seconden
-    draai rechts (5) graden
-    wachten (0.1) seconden  
-einde
-zeg (voeg [Ik ] en (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van [werkwoorden v] samen)) (2) sec.
-zeg (item (willekeurig getal tussen (1) en (lengte van [bijwoorden v])) van [bijwoorden v]) (2) sec.
-zeg (voeg [bij de ] (item (willekeurig getal tussen (1) en (lengte van [zelfstandige naamwoorden v])) van [zelfstandige naamwoorden v] samen)) (2) sec.
-zeg (voeg [Ik voel me ] (item (willekeurig getal tussen (1) en (lengte van [bijvoeglijke naamwoorden v])) van [bijvoeglijke naamwoorden v] samen)) (2) sec.
+when this sprite clicked
+say [Hier is je gedicht...] for (2) seconds
++ start sound (computer beeps1 v)
+repeat (10)
+	turn left (5) degrees
+	wait (0.1) seconds
+	turn right (5) degrees
+	wait (0.1) seconds	
+end
+say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v])) for (2) seconds
+say (item (pick random (1) to (length of [bijwoorden v])) of [bijwoorden v]) for (2) seconds
+say (join [bij de ](item (pick random (1) to (length of [zelfstandige naamwoorden v])) of [zelfstandige naamwoorden v])) for (2) seconds
+say (join [Ik voel me ](item (pick random (1) to (length of [bijvoeglijke naamwoorden v])) of [bijvoeglijke naamwoorden v])) for (2) seconds
 ```
 
 --- /task ---

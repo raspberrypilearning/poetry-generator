@@ -54,13 +54,13 @@ Om deze zin te maken, moet je:
 3. `Voeg`{:class="block3operators"} "Ik" samen met het willekeurige werkwoord om de eerste regel van je gedicht te maken:
     
     ```blocks3
-    (voeg [Ik ] (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v] samen)) van [werkwoorden v] :: +))
+    (join [Ik ] (item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v] :: +))
     ```
 
 4. Gebruik een `zeg`{:class="block3looks"} blok om de poëzieregel weer te geven:
     
     ```blocks3
-    zeg (voeg [Ik ] (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v] samen)) van [werkwoorden v]) :: +) (2) sec.
+    say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of [werkwoorden v]) :: +) for (2) seconds
     ```
 
 Je code zou er als volgt uit moeten zien:
@@ -68,9 +68,9 @@ Je code zou er als volgt uit moeten zien:
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-zeg [Hier is je gedicht...] (2) sec.
-+ zeg (voeg [Ik ] (item (willekeurig getal tussen (1) en (lengte van [werkwoorden v])) van werkwoorden v] samen)) (2) sec.
+when this sprite clicked
+say [Hier is je gedicht...] for (2) seconds
++ say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of werkwoorden v])) for (2) seconds
 ```
 
 --- /task ---
