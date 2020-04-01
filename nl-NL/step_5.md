@@ -69,8 +69,13 @@ Je code zou er als volgt uit moeten zien:
 
 ```blocks3
 when this sprite clicked
+say [Here is your poem...] for (2) seconds
++ say (join [I ](item (pick random (1) to (length of [verbs v])) of verbs v])) for (2) seconds
+
+
+when this sprite clicked
 say [Hier is je gedicht...] for (2) seconds
-+ say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of werkwoorden v])) for (2) seconds
++ say (join [Ik ](item (pick random (1) to (length of [werkwoorden v])) of werkwoorden v]) for (2) seconds
 ```
 
 --- /task ---
