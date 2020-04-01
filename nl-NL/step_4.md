@@ -102,25 +102,25 @@ Om deze code te maken:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Om je `naam`{:class="block3variables"} variabele in het speelveld te verbergen, klik je op het vinkje naast de variabele.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![vink naam variabele aan](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Test je nieuwe code. Ada moet hoi tegen je zeggen, met je naam!
+
+![schermafbeelding](images/poetry-name-test2.png)
+
+Als er geen spatie staat tussen het woord 'Hoi' en je naam, moet je zelf een spatie toevoegen aan de code!
+
+\--- /task \---
+
+\--- task \---
+
+Voeg ten slotte deze code toe om uit te leggen wat je vervolgens moet doen:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -137,6 +137,6 @@ zeg (voeg [Hoi ] en (naam) samen) (2) sec.
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Test Ada's code nog een laatste keer om er zeker van te zijn dat alles werkt.
 
 \--- /task \---
