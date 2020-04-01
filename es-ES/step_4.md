@@ -97,8 +97,8 @@ Para crear este código:
     ```blocks3
     decir (unir [Hola] (nombre:: variables +)) durante (2) segundos
     ```
-    
-    --- /task ---
+
+--- /task ---
 
 --- task ---
 
@@ -110,7 +110,7 @@ Para esconder la variable `nombre`{:class="block3variables"} en la pantalla, haz
 
 --- task ---
 
-Pon a prueba tu código. Ada te debería decir hola, ¡usando tu nombre!
+Prueba tu nuevo código. Ada te debería decir hola, ¡usando tu nombre!
 
 ![captura de pantalla](images/poetry-name-test2.png)
 
@@ -119,11 +119,10 @@ Si no hay espacio entre la palabra "Hola" y tu nombre, ¡necesitarás añadir un
 --- /task ---
 
 --- task ---
-Si no hay espacio entre. la palabra "Hola" y tu nombre, ¡necesitarás añadir un espacio en el código tú mismo
 
-Finalmente, añade este código para explicar lo que hacer a continuación:
+Finalmente, añade este código para explicar qué hacer a continuación:
 
-![imagen ada](images/ada-sprite.png)
+![objeto ada](images/ada-sprite.png)
 
 ```blocks3
 al hacer clic en este objeto
