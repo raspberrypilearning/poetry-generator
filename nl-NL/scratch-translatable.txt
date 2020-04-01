@@ -1,27 +1,27 @@
-Hello!
+Hoi!
 
-Hi, I’m Ada!
+Hoi, ik ben Ada!
 
-What’s your name?
+Hoe heet jij?
 
-name
+naam
 
-Hi
+Hoi
 
-Click the computer to generate a poem.
+Klik op de computer om een gedicht te maken.
 
-Here is your poem…
+Hier is je gedicht...
 
-verbs
+werkwoorden
 
-adverbs
+bijwoorden
 
-nouns
+zelfstandig naamwoorden
 
-adjectives
+bijvoeglijk naamwoorden
 
-I
+Ik
 
-by the
+bij de
 
-I feel
+Ik voel me
