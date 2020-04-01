@@ -1,0 +1,24 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: Ada's Gedichten Generator
+description: Vier Ada Lovelace Day door te leren hoe je je eigen gedichtengenerator kunt programmeren!
+version: 4
+last_tested: 2019-02-20
+steps:
+  - title: Inleiding
+  - title: Ada Lovelace
+  - title: 'Uitdaging: programmeer Ada om zichzelf voor te stellen'
+    challenge: true
+  - title: Ada je naam vertellen
+  - title: De analytische machine
+  - title: Meer poëzie
+  - title: Animatie van de analytische machine
+  - title: 'Uitdaging: personaliseer je gedicht'
+    challenge: true
+  - title: 'Uitdaging: meer woorden'
+    challenge: true
+  - title: 'Uitdaging: meer poëzie'
+    challenge: true
+  - title: Wat kun je verder nog doen?
