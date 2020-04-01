@@ -102,27 +102,27 @@ Para crear este código:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Para esconder la variable `nombre`{:class="block3variables"} en la pantalla, haz clic en la marca al lado de la variable.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![marca variable nombre](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Prueba tu nuevo código. Ada te debería decir hola, ¡usando tu nombre!
 
-![ada sprite](images/ada-sprite.png)
+![captura de pantalla](images/poetry-name-test2.png)
+
+Si no hay espacio entre la palabra "Hola" y tu nombre, ¡necesitarás añadir un espacio en el código tú mismo!
+
+\--- /task \---
+
+\--- task \---
+
+Finalmente, añade este código para explicar qué hacer a continuación:
+
+![objeto ada](images/ada-sprite.png)
 
 ```blocks3
 al hacer clic en este objeto
@@ -137,6 +137,6 @@ decir (unir [¡Hola!] (nombre)) durante (2) segundos
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Prueba el código de Ada una última vez, para asegurarte que todo funciona.
 
 \--- /task \---
