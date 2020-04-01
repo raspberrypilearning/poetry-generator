@@ -55,7 +55,7 @@ Het startproject kan [hier](http://rpf.io/p/en/poetry-generator-go){:target="_bl
 
 ## title: Aanvullende informatie voor docenten
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). Als je een leraar bent, kun je een School Resource Pack downloaden dat ook een plan bevat ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) om kinderen kennis te laten maken met Ada en haar revolutionaire ideeën.
+Dit project is gemaakt om [Ada Lovelace dag](https://findingada.com)te vieren. Als je een leraar bent, kun je een School Resource Pack downloaden dat ook een plan bevat ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) om kinderen kennis te laten maken met Ada en haar revolutionaire ideeën.
 
 \--- no-print \---
 
