@@ -27,58 +27,58 @@ Usiamo dei **verbi** (parole d'azione) nella prima riga della tua poesia. Crea u
 
 \--- task \---
 
-La tua nuova lista sarà vuota. Click the `+` at the bottom of your empty list and add these verbs:
+La tua nuova lista sarà vuota. Fai clic su `+` nella parte inferiore della tua lista vuota e aggiungi questi verbi:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![lista con + evidenziato](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+La prima riga della tua poesia dovrebbe essere la parola "Io", seguita da un verbo a caso.
 
-To create this line of poetry, you need to:
+Per creare questa riga di poesia, devi fare così:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. Scegli un `numero a caso`{:class="block3operators"} tra `1` e la `lunghezza della lista verbi`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Usa questo blocco per ottenere un `elemento`{:class="block3variables"} a caso dalla lista `verbi`{:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Unisci`{:class="block3operators"} "Io " con il verbo scelto a caso per creare la prima riga della tua poesia:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Usa un blocco `dire`{:class="block3looks"} per visualizzare la riga della poesia:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Il tuo codice dovrebbe apparire così:
 
-![computer sprite](images/computer-sprite.png)
+![sprite computer](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+quando si clicca su questo sprite
+dire [Ecco la tua poesia...] per (2) secondi
++ dire (unione [Io ] e (elemento (numero a caso tra (1) e (lunghezza di [verbi v])) di [verbi v])) per (2) secondi
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Ora prova il tuo codice qualche volta. Il tuo computer dovrebbe scegliere ogni volta una parola a caso dalla lista `verbi`{:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 fumetti che dicono cose diverse](images/poetry-random-test.png)
 
 \--- /task \---
