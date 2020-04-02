@@ -1,27 +1,27 @@
-Hello!
+Ciao!
 
-Hi, I’m Ada!
+Ciao, sono Ada!
 
-What’s your name?
+Come ti chiami?
 
-name
+nome
 
-Hi
+Ciao
 
-Click the computer to generate a poem.
+Fai clic sul computer per generare una poesia.
 
-Here is your poem…
+Ecco la tua poesia…
 
-verbs
+verbi
 
-adverbs
+avverbi
 
-nouns
+nomi
 
-adjectives
+aggettivi
 
-I
+Io
 
-by the
+dal
 
-I feel
+Mi sento
