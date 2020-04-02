@@ -1,12 +1,12 @@
-## Telling Ada your name
+## Dire ad Ada il tuo nome
 
-Ada has introduced herself, but she doesn't know your name!
+Ada si è presentata, ma non conosce il tuo nome!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Trascina un blocco `chiedi`{:class="block3sensing"} (dalla sezione `sensori`{:class="block3sensing"}) nel tuo codice. Il tuo codice dovrebbe essere più o meno così:
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Fai clic su Ada per testare il tuo codice. Ada dovrebbe chiederti il tuo nome, che puoi digitare!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![sprite ada che chiede come ti chiami](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Possiamo usare una **variabile** per memorizzare il tuo nome. Fai clic su `Variabili`{:class="block3variables"}, quindi su "Crea una Variabile". Poiché questa variabile verrà utilizzata per memorizzare il tuo nome, chiamiamo la variabile... `nome`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
