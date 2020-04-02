@@ -8,7 +8,7 @@ Fai clic sullo sprite del tuo computer e aggiungi questo codice dopo il primo bl
 
 Troverai i blocchi `ripeti`{:class="block3control"} e `attendi`{:class="block3control"} nella sezione `Controllo`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![sprite computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Prova il tuo progetto. Dovresti vedere il computer scuotersi prima di produrre una poesia!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![sprite del computer che si scuote avanti e indietro](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Fai clic sulla scheda 'Suoni' e fai clic sull'icona 'Scegli un Suono' in basso a sinistra.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Scegli un suono 'Computer Beep' e fai clic su OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![suoni computer beep 1 e 2 nella libreria suoni](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Aggiungi un blocco `avvia riproduzione suono`{:class="block3sound"}, per riprodurre il suono appena prima dell'inizio dell'animazione.
 
-![computer sprite](images/computer-sprite.png)
+![sprite computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
