@@ -32,7 +32,7 @@ Qualsiasi codice aggiunto sotto questo blocco verrà eseguito quando si fa clic 
 
 Fare clic sulla scheda `Aspetto`{:class="block3looks"} e trascinare il blocco `dire`{:class="block3looks"} `Ciao!` `per 2 secondi`{:class="block3looks"} sotto al blocco `quando si clicca su questo sprite`{:class="block3events"} che hai già aggiunto.
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Fai clic su Ada e dovresti vederla parlare con te.
 
-![screenshot](images/poetry-say-test.png)
+![schermata](images/poetry-say-test.png)
 
 \--- /task \---
