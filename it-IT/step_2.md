@@ -1,36 +1,36 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+Nel 1842, Ada Lovelace scrisse a proposito dell'uso di una macchina chiamata "Motore Analitico" per fare calcoli ed è riconosciuta come il primo programmatore di computer al mondo! Ada è stata anche la prima a capire che i computer potevano essere più che semplici calcolatori.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Apri il progetto di avvio Scratch 'Generatore di Poesie'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: apri il [progetto per principianti](http://rpf.io/poetry-on){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Se hai un account su Scratch, puoi farne una copia facendo clic su **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline:** apri il [progetto per principianti](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} nell'editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Fai clic sullo sprite "Ada" e fai clic sulla scheda `Eventi`{:class="block3events"} nella sezione di codifica "Codice". Trascina il blocco `quando si clicca su questo sprite`{:class="block3events"} nell'area di codifica sulla destra.
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![trascinando il blocco quando si clicca su questo sprite](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Qualsiasi codice aggiunto sotto questo blocco verrà eseguito quando si fa clic su Ada!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Fare clic sulla scheda `Aspetto`{:class="block3looks"} e trascinare il blocco `dire`{:class="block3looks"} `Ciao!` `per 2 secondi`{:class="block3looks"} sotto al blocco `quando si clicca su questo sprite`{:class="block3events"} che hai già aggiunto.
 
 ![ada sprite](images/ada-sprite.png)
 
