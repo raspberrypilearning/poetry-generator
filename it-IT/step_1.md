@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Questa è la versione **Scratch 3** del progetto. C'è anche una versione [Scratch 2 del progetto](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introduzione
 
-You are going to learn how to program your own poetry generator!
+Imparerai come programmare il tuo generatore di poesie!
 
 \--- no-print \---
 
@@ -19,7 +19,7 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![schermata del gioco](images/poetry-final.png)
 
 \--- /print-only \---
 
