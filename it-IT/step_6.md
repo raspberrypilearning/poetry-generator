@@ -1,20 +1,20 @@
-## More poetry
+## Altra poesia
 
-Your poem is quite short - let's add to it!
+La tua poesia è piuttosto breve - allunghiamola!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Usiamo gli avverbi nella riga successiva della tua poesia. Un **avverbio** è una parola che descrive un verbo. Crea un'altra lista chiamata avverbi, e aggiungi queste 3 parole:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![lista con le parole rumorosamente, silenziosamente, all'infinito](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Aggiungi questa riga al codice del tuo computer, per dire un avverbio casuale nella riga successiva della tua poesia:
 
-![computer sprite](images/computer-sprite.png)
+![sprite computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Prova il tuo codice alcune volte. Dovresti vedere una poesia casuale ogni volta.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![fumetti casuali con avverbi](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Add a list of nouns to your project. Un **nome** è un posto o una cosa.
 
-![computer sprite](images/computer-sprite.png)
+![una lista di nomi con le parole mare, luna, albero](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Aggiungi il codice per usare i nomi nella tua poesia.
+
+![sprite computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Aggiungi una lista di aggettivi al tuo progetto. Un **aggettivo** è una parola che descrive.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![un elenco di parole aggettivo felice, stanco, affamato](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Aggiungi il codice per usare gli aggettivi nella tua poesia:
 
-![computer sprite](images/computer-sprite.png)
+![sprite computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Puoi fare clic sulle caselle accanto alle tue liste per nasconderle.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![lista di variabili con le caselle di spunta selezionate](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Prova la tua nuova poesia.
 
 \--- /task \---
