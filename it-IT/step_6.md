@@ -35,7 +35,7 @@ Prova il tuo codice alcune volte. Dovresti vedere una poesia casuale ogni volta.
 
 \--- task \---
 
-Add a list of nouns to your project. Un **nome** è un posto o una cosa.
+Aggiungi una lista di nomi al tuo progetto. Un **nome** è un posto o una cosa.
 
 ![una lista di nomi con le parole mare, luna, albero](images/poetry-nouns.png)
 
