@@ -1,4 +1,4 @@
-## The Analytical Engine
+## Il Motore Analitico
 
 Programmiamo il computer di Ada (chiamato 'Motore Analitico') per generare poesia.
 
