@@ -34,9 +34,9 @@ Possiamo usare una **variabile** per memorizzare il tuo nome. Fai clic su `Varia
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Per memorizzare il tuo nome, fai clic sulla scheda `Variabili`{:class="block3variables"}, quindi trascina il blocco `imposta nome`{:class="block3variables"} alla fine del codice.
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Usa il blocco `risposta`{:class="block3sensing"} per memorizzare la risposta digitata.
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Fai clic su Ada per testare il tuo codice e inserisci il tuo nome quando richiesto. Dovresti vedere che il tuo nome è stato memorizzato nella variabile `nome`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![schermata](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Ora puoi usare il tuo nome nel tuo codice. Aggiungi questo codice:
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Per creare questo codice:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Trascina un blocco `unione`{:class="blockoperators"} nel blocco `dire`{:class="blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Aggiungi il tuo blocco `nome`{:class="blockdata"} nel blocco `unione`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Per nascondere la variabile `nome`{:class="block3variables"} dallo stage, fai clic sul segno di spunta accanto alla variabile.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![spunta variabile nome](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Prova il tuo nuovo codice. Ada dovrebbe salutarti, usando il tuo nome!
 
-![ada sprite](images/ada-sprite.png)
+![schermata](images/poetry-name-test2.png)
+
+Se non c'è spazio tra la parola "Ciao" e il tuo nome, dovrai aggiungere tu uno spazio nel codice!
+
+\--- /task \---
+
+\--- task \---
+
+Infine, aggiungi questo codice per spiegare cosa fare dopo:
+
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Prova il codice di Ada un'ultima volta, per assicurarti che tutto funzioni.
 
 \--- /task \---
