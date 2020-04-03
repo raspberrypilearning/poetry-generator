@@ -2,34 +2,34 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+title: Generador de poesía de Ada
+description: '¡Celebra el día de Ada Lovelace, aprendiendo cómo programar tu propio generador de poesía!'
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
     title: Ada Lovelace
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: 'Desafío: Codifica a Ada para presentarse'
     challenge: true
   - 
-    title: Telling Ada your name
+    title: Diciéndole a Ada tu nombre
   - 
-    title: The Analytical Engine
+    title: El motor analítico
   - 
-    title: More poetry
+    title: Más poesía
   - 
-    title: Animating the Analytical Engine
+    title: Animando el motor analítico
   - 
-    title: 'Challenge: Personalise your poem'
+    title: 'Desafío: personaliza tu poema'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: 'Desafío: Más palabras'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: 'Desafío: más poesía'
     challenge: true
   - 
     title: What next?
