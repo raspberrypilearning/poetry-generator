@@ -35,7 +35,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+시의 첫 번째 줄은 무작위 동사가 붙은 "나" 라는 단어이어야 합니다.
 
 이 시를 만들려면 이렇게 해 보세요:
 
@@ -51,13 +51,13 @@ The first line of your poem should be the word "I", followed by a random verb.
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `~와(과) ~결합하기`{:class="block3operators"} 블록으로 "나" 와 무작위 동사를 결합해 시의 첫 줄을 만듭니다:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. `말하기`{:class="block3looks"} 블록을 사용하여 시의 라인을 출력할 수 있도록 하세요:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
