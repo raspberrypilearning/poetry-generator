@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-코드를 테스트하려면 에이다 스프라이트를 클릭하세요. Ada should ask you your name, which you can type in!
+코드를 테스트하려면 에이다 스프라이트를 클릭하세요. 에이다는 당신이 입력할 수 있게 당신의 이름을 물어봐야 합니다!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![당신의 이름을 묻는 에이다 스프라이트](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+여러분은 자신의 이름을 저장 하기 위해 **변수** 를 사용해 볼 수 있습니다. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -72,9 +72,9 @@ Click on Ada to test your code, and enter your name when asked. You should see t
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+You can now make use of your name in your code. 아래 코드를 추가하세요:
 
-![ada sprite](images/ada-sprite.png)
+![에이다 스프라이트](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
