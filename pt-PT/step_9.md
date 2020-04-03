@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More words
+## Desafio: Mais palavras
 
-Can you add more words to your lists, so that you can generate more poems?
+Consegues acrescentar mais palavras às tuas listas para criar mais poemas?
 
 \--- /challenge \---
