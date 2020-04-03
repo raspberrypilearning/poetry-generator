@@ -4,24 +4,24 @@
 
 ¿Cuál es tu nombre?
 
-name
+nombre
 
-Hi
+Hola
 
-Click the computer to generate a poem.
+Haz clic en la computadora para generar un poema.
 
-Here is your poem…
+Aquí está tu poema…
 
-verbs
+verbos
 
-adverbs
+adverbios
 
-nouns
+nombres
 
-adjectives
+adjetivos
 
-I
+Yo
 
-by the
+por el
 
-I feel
+Me siento
