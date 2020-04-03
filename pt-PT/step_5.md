@@ -1,12 +1,12 @@
-## The Analytical Engine
+## O Motor Analítico
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Vamos programar o computador da Ada (chamado 'Motor Analítico') de forma a criar poesia.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Acrescenta este código ao teu ator 'Computador', para que fale quando é clicado:
 
-![computer sprite](images/computer-sprite.png)
+![ator computador](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Para criar um poema aleatório, primeiro terás que criar uma **lista** de palavras a usar. Para criar uma lista, clica na categoria `Dados` {:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Vamos usar **verbos** (palavras de ação) na primeira linha do teu poema. Cria uma nova variável chamada `pontuação`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+A tua nova lista vai estar vazia. Clica no `+` ao fundo da tua lista vazia e adiciona estes verbos:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![lista com o + destacado](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+A primeira linha do teu poema deve ser começar com a palavra "Eu", seguida de um verbo aleatório.
 
-To create this line of poetry, you need to:
+Para criar esta linha de poesia, vais necessitar de:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. Escolhe `um valor ao acaso` {:class="block3operators"} entre `1` e o `comprimento da lista de verbos` {:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Usa este bloco para obter um `elemento` {:class="block3variables"} ao acaso a partir da lista de `verbos` {:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. Faz a `junção` {:class="block3operators"} de "Eu" com um verbo ao acaso para criar a primeira linha do teu poema:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Usa o bloco `diz` {:class="block3looks"} para mostrar a linha de poesia:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+O teu código deverá ter este aspeto:
 
-![computer sprite](images/computer-sprite.png)
+![ator computador](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Testa o teu código algumas vezes. O teu computador deverá escolher uma palavra ao acaso a partir da lista de `verbos ` {:class="block3variables"} a cada vez.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 balões de diálogo a dizer coisas diferentes](images/poetry-random-test.png)
 
 \--- /task \---
