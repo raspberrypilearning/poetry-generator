@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## 분석 엔진 애니메이션
 
-Let's animate your computer, so that it looks like it's generating poetry.
+컴퓨터가 시를 생성하는 것처럼 보이도록 컴퓨터 스프라이트에 애니메이션을 적용 해 봅시다.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+컴퓨터 스프라이트를 클릭하고, 아래 코드를 첫 번째 `말하기`{:class="block3looks"} 블록 이후에 추가하세요:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+`반복하기`{:class="block3control"} 블록과 `기다리기`{:class="block3control"} 블록은 `제어`{:class="block3control"} 섹션에서 찾을 수 있을 것입니다.
 
-![computer sprite](images/computer-sprite.png)
+![컴퓨터 스프라이트](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+프로젝트를 테스트하십시오. 시를 제작하기 전에 컴퓨터 스프라이트가 흔들리는 것을 볼수 있어야 합니다!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![앞 뒤로 흔들리는 컴퓨터 스프라이트](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+'소리' 탭을 클릭하여 ('코드' 탭 옆에 있는 '소리' 탭) 왼쪽 하단에 있는 '소리 고르기' 를 클릭합니다.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+'computer beeps' 소리를 클릭하고, OK 버튼을 누르세요.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![사운드 라이브러리 내 내장된 'computer beeps 1, 2' 사운드](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+`재생하기`{:class="block3sound"} 블록을 추가하여, 애니메이션이 시작하기 전에 사운드가 연주될 수 있도록 하세요.
 
-![computer sprite](images/computer-sprite.png)
+![컴퓨터 스프라이트](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
