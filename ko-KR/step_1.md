@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+이 프로젝트의 **스크래치 3** 버전입니다. [프로젝트의 스크래치 2 버전](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2)도 있습니다.
 
 \--- /no-print \---
 
-## Introduction
+## 들어가며
 
-You are going to learn how to program your own poetry generator!
+이 프로젝트에서는 자신만의 시 생성기를 프로그래밍하는 방법을 배우게 됩니다.
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![게임 스크린샷](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 배우게 될 것
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ 변수
++ 리스트와 랜덤리스트 아이템;
++ 반복 ( `반복`{:class="block3control"} 블록 ) 사용
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 준비물
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### 하드웨어
+
++ 스크래치 3를 실행할 수 있는 컴퓨터
+
+#### 소프트웨어
+
++ 스크래치 3 ([온라인](http://rpf.io/scratchon){:target="_blank"} 또는 [오프라인](http://rpf.io/scratchoff){:target="_blank"})
+
+#### 다운로드
+
+스타터 프로젝트는 [여기](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}를 클릭하면 열 수 있습니다.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: 교육자를 위한 추가 정보
+
+이 프로젝트는 [Ada Lovelace Day](https://findingada.com)를 기념하기 위해 만들어졌습니다. 교사인 경우, Ada의 혁신적인 아이디어를 소개하는 어샘블리 플랜이 포함된 School Resource Pack ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) 을 다운로드 받을 수 있습니다.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+이 프로젝트를 인쇄할 필요가 있다면 [프린트용 버전](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}을 사용해 주십시오.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+여기서 찾을 수 있습니다 [완료된 프로젝트](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
