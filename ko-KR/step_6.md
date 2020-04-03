@@ -52,7 +52,7 @@ when this sprite clicked
 say [Here is your poem...] for (2) seconds
 say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
 say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-+say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
++say (join (item (pick random (1) to (length of [nouns v])) of [nouns v])[by the ]) for (2) seconds
 ```
 
 \--- /task \---
@@ -76,8 +76,8 @@ when this sprite clicked
 say [Here is your poem...] for (2) seconds
 say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
 say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-+ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+say (join (item (pick random (1) to (length of [nouns v])) of [nouns v])[by the ]) for (2) seconds
++ say (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v])[I feel ]) for (2) seconds
 ```
 
 \--- /task \---
