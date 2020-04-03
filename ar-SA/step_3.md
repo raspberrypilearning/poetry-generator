@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Code Ada to introduce herself
+## التحدي: برمج آدا لتقديم نفسها
 
-هل يمكنك تغيير الرمز الخاص بك، بحيث تقول ادا "مرحبًا ، أنا ادا!" عندما تضغط عليها؟ ![ada sprite saying Hi, I'm Ada!](images/poetry-ada-intro.png)
+هل يمكنك تغيير الرمز الخاص بك، بحيث تقول ادا "مرحبًا ، أنا ادا!" عندما تضغط عليها؟ ![كائن ادا تقول "مرحبًا ، أنا ادا!](images/poetry-ada-intro.png)
 
 \--- /challenge \---
