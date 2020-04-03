@@ -23,13 +23,13 @@ steps:
   - 
     title: 분석 엔진 애니메이션
   - 
-    title: 'Challenge: Personalise your poem'
+    title: '도전 과제: 여러분의 시를 개인화하세요.'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: '도전과제: 더 많은 단어'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: '도전과제: 더 많은시'
     challenge: true
   - 
     title: 더 나아가기
