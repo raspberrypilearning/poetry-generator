@@ -1,12 +1,12 @@
-## Telling Ada your name
+## Dizer à Ada o teu nome
 
-Ada has introduced herself, but she doesn't know your name!
+A Ada apresentou-se, mas ela não sabe o teu nome!
 
 \--- task \---
 
 Arrasta um bloco `pergunta`{:class="block3sensing"} (da categoria `Sensores`{:class="block3sensing"}) e acrescenta-o ao teu código. Este é o aspeto com que o teu código deve ficar:
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. A Ada deverá perguntar o teu nome, que poderás então digitar!
+Clica na Ada para testar o teu código. A Ada deverá perguntar o teu nome, que poderás então digitar!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![o ator Ada a perguntar o teu nome](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-Podemos usar uma **variável** para armazenar o teu nome. Clica em `Dados`{:class="block3variables"} e depois em 'Criar uma Variável'. As this variable will be used to store your name, let's call the variable... `nome`{:class="block3variables"}!
+Podemos usar uma **variável** para armazenar o teu nome. Clica em `Dados`{:class="block3variables"} e depois em 'Criar uma Variável'. Como a variável vai servir para armazenar o teu nome, vamos chamar à variável... `nome`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -36,7 +36,7 @@ Podemos usar uma **variável** para armazenar o teu nome. Clica em `Dados`{:clas
 
 Para armazenar o teu nome, clica na secção `Dados`{:class="block3variables"} e arrasta o bloco `altera o nome`{:class="block3variables"} e coloca-o no final do teu código.
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Usa o bloco `resposta`{:class="block3sensing"} para armazenar a resposta recebida.
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Clique na Ada para testar o teu código e digita o teu nome quando for solicitado. Deves conseguir ver que o teu nome foi armazenado na variável `nome`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![captura de ecrã](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Agora podes usar o teu nome no teu código. Acrescenta este código:
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,7 +84,7 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Para criar este código:
 
 1. Arrasta um bloco `a junção de ... com`{:class="blockoperators"} para dentro do bloco `diz`{:class="blocklooks"}
     
@@ -112,17 +112,17 @@ Para ocultar a tua variável `nome`{:class="block3variables"} do palco, clica na
 
 Testa o teu novo código. A Ada deverá dizer-te olá, usando o teu nome!
 
-![screenshot](images/poetry-name-test2.png)
+![captura de ecrã](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+Se não houver um espaço entre a palavra 'Olá' e o teu nome, terás tu que o adicionar no teu código!
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Finalmente, adiciona este código para explicar os passos seguintes:
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Testa o código da Ada uma última vez, para garantir que está tudo a funcionar.
 
 \--- /task \---
