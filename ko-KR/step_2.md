@@ -1,18 +1,18 @@
-## Ada Lovelace
+## 에이다 러브레이스
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+1842년, 에이다 러브레이스는 해석기관이라 불리는 기계를 이용한 계산에 대한 논문을 작성 했으며, 세계 최초의 컴퓨터 프로그래머로 여겨집니다! 또한 에이다는 컴퓨터가 단순한 큰 계산기, 그 이상이 될 수 있음을 알았습니다.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+'시 생성기' 스크래치 스타터 프로젝트를 여세요.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**온라인**: [스타터 프로젝트](http://rpf.io/poetry-on){: target = "_ blank"}을 엽니다.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+스크래치 계정이 있는 경우 **Remix를 클릭** 하여 사본을 만들 수 있습니다.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**오프라인**: [스타터 프로젝트](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+스크래치 온라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
 \--- /task \---
 
