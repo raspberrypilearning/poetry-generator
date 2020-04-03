@@ -102,9 +102,9 @@ set [name v] to (answer)
 
 \--- task \---
 
-스테이지에서 `이름`{:class="block3variables"} 변수를 숨기려면 변수 옆에 있는 체크박스를 클릭하십시오.
+스테이지에서 `이름`{:class="block3variables"} 변수를 숨기려면 변수 옆에 있는 틱박스를 클릭하십시오.
 
-![이름 변수 체크박스](images/poetry-tick-annotated.png)
+![이름 변수 틱](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
