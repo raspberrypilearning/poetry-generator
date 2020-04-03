@@ -8,7 +8,7 @@ Clica no teu ator computador e adiciona-lhe este código a seguir ao primeiro bl
 
 Vais encontrar os blocos `repete`{:class="block3control"} e `espera`{:class="block3control"} na categoria `Controlo`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![ator computador](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,9 +29,9 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. Deverás ver o computador a tremer antes de produzir um poema!
+Testa o teu projeto. Deverás ver o computador a tremer antes de produzir um poema!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![ator computador a tremer para frente e para trás](images/poetry-animate-test.png)
 
 \--- /task \---
 
@@ -45,17 +45,17 @@ Vai ao separador 'Sons' e clica no ícone 'Escolher um Som' que está no canto i
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Escolhe o som 'computer beeps' e clica em OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![sons 'Computer Beep' 1 e 2 da biblioteca de sons](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Acrescenta um bloco `toca o som`{:class="block3sound"}, para que o som seja reproduzido imediatamente antes do início da animação.
 
-![computer sprite](images/computer-sprite.png)
+![ator computador](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
