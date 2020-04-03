@@ -28,41 +28,41 @@ Esta es la versión **Scratch 3** del proyecto. También hay una [versión del p
 ## title: Lo que vas a aprender
 
 + Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
++ Listas y elementos aleatorios;
++ Repetición (el bloque `repetir`{:class="block3control"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Lo que vas a necesitar
 
-#### Hardware
+#### Equipo
 
-+ A computer capable of running Scratch 3
++ Una computadora capaz de correr Scratch 3
 
-#### Software
+#### Programas
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [en línea](http://rpf.io/scratchon){:target="_blank"} o [sin conexión](http://rpf.io/scratchoff) {:target="_blank"})
 
-#### Downloads
+#### Descargas
 
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+El proyecto de iniciación puede encontrarse [aquí](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Información adicional para educadores
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+El proyecto se ha creado para celebrar [ El día de Ada Lovelace](https://findingada.com). Si es maestro, puede descargar un paquete de recursos escolares que también contiene un plan de montaje ([ downloads.codeclub.org.uk/ada.zip ](http://downloads.codeclub.org.uk/ada.zip)), para presentar a los niños a Ada y sus ideas revolucionarias.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, por favor utiliza la [versión para imprimir](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
