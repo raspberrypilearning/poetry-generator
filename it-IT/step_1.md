@@ -47,7 +47,7 @@ Imparerai come programmare il tuo generatore di poesie!
 
 #### Download
 
-Il progetto per principianti si trova [qui](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
+Il progetto iniziale si trova [qui](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
 
 \--- /collapse \---
 
