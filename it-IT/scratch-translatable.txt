@@ -1,0 +1,27 @@
+Ciao!
+
+Ciao, sono Ada!
+
+Come ti chiami?
+
+nome
+
+Ciao
+
+Fai clic sul computer per generare una poesia.
+
+Ecco la tua poesia…
+
+verbi
+
+avverbi
+
+nomi
+
+aggettivi
+
+Io
+
+dal
+
+Mi sento
