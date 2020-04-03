@@ -1,10 +1,10 @@
-## Telling Ada your name
+## إخبار آدا بأسمك
 
-Ada has introduced herself, but she doesn't know your name!
+قدمت ادا نفسها، لكنها لا تعرف اسمك!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+اسحب كتلة `اسأل`{: class = "block3sensing"} (من قسم التحسس ``{: class = "block3sensing"}) إلى الكود الخاص بك. هذا ما ينبغي ان تبدو عليه تعليماتك البرمجية:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+انقر على ادا لأختبار الكود البرمجي الخاص بك. يجب أن تسألك ادا عن اسمك، والذي يمكنك كتابته!
 
 ![ada sprite asking whats your name](images/poetry-input.png)
 
@@ -26,7 +26,7 @@ Click on Ada to test your code. Ada should ask you your name, which you can type
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+يمكننا استخدام **متغير** لتخزين اسمك. انقر فوق `المتغيرات`{: class = "block3variables"} ، ثم "إنشاء متغير". نظرًا لأنه سوف يتم استخدام هذا المتغير لتخزين اسمك، فلندعو المتغير... `name`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+لتخزين اسمك، انقر فوق علامة التبويب `المتغيرات`{: class = "block3variables"} ، ثم اسحب كتلة `إجعل الاسم مساوياً`: {= class = "block3variables"} إلى نهاية الكود البرمجي الخاص بك.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -49,7 +49,7 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+استخدم كتلة `الإجابة`{: class = "block3sensing"} لتخزين الإجابة التي تكتبها.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -64,7 +64,7 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+أنقر على ادا لأختبار الكود البرمجي الخاص بك، وأدخل اسمك عندما يُطلب منك ذلك. يجب أن ترى أن اسمك قد تم تخزينه في متغير الاسم `{`: class = "block3variables"}.
 
 ![screenshot](images/poetry-name-test.png)
 
@@ -72,7 +72,7 @@ Click on Ada to test your code, and enter your name when asked. You should see t
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+يمكنك الآن الاستفادة من اسمك في التعليمات البرمجية الخاصة بك. Add this code:
 
 ![ada sprite](images/ada-sprite.png)
 
