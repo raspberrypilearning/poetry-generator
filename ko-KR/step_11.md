@@ -1,10 +1,10 @@
-## What next?
+## 더 나아가기
 
-Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
+[풍선](https://projects.raspberrypi.org/en/projects/balloons) 스크래치 프로젝트를 살펴 보세요.
 
 \--- no-print \---
 
-Pop the balloons by clicking on them.
+풍선을 클릭해서 풍선을 터트릴 수 있습니다.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![완료된 프로젝트](images/balloons-final.png)
 
 \--- /print-only \---
