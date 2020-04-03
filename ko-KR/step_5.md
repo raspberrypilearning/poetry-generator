@@ -39,13 +39,13 @@ The first line of your poem should be the word "I", followed by a random verb.
 
 이 시를 만들려면 이렇게 해 보세요:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `~부터 ~사이의 난수`{:class="block3operators"} 블록을 사용하여 `1` 부터 `동사 리스트의 길이`{:class="block3variables"} 사이의 난수를 출력하도록 합니다.
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. 무작위로 `아이템`{:class="block3variables"} 을 `동사`{:class="block3variables"} 리스트에서 가져오기 위해 이 블럭을 사용하세요:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
