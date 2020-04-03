@@ -19,7 +19,7 @@
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![لقطة شاشة للعبة](images/poetry-final.png)
 
 \--- /print-only \---
 
@@ -55,14 +55,14 @@
 
 ## title: معلومات إضافية للمعلمين
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). إذا كنت معلمًا، يمكنك تنزيل حزمة موارد المدرسة التي تحتوي أيضًا على خطة تجميع ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) ، لتقديم الأطفال إلى ادا وأفكارها الثورية.
+تم إنشاء هذا المشروع للاحتفال بـيوم آدا لوفلاس [ Ada Lovelace Day](https://findingada.com). إذا كنت معلمًا، يمكنك تنزيل حزمة موارد المدرسة التي تحتوي أيضًا على خطة تجميع ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) ، لتقديم الأطفال إلى ادا وأفكارها الثورية.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
