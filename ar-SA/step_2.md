@@ -18,21 +18,21 @@
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. اسحب `عند نقر هذه الشخصية على كتلة {`: class = "block3events"} على منطقة الترميز على اليمين.
+انقر على شخصية "ادا" ، وانقر على علامة التبويب `الأحداث`{: class = "block3events"} في قسم "المقاطع البرمجية". اسحب كتلة `عند النقر على هذا الكائن {`: class = "block3events"} الى منطقة الترميز على اليمين.
 
-![ada sprite](images/ada-sprite.png)
+![كائن ادا](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![سحب كتلة عند النقر على هذا الكائن](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+سيتم تشغيل أي رمز يضاف أسفل هذا الكتلة عند النقر فوق ادا!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+انقر على علامة تبويب `المظاهر`{: class = "block3looks"} ، واسحب كتلة `قل`{: class = "block3looks"} `مرحبًا!` `لمدة ثانيتين`{: class = "block3looks"} وضعها أسفل `عند النقر على هذا الكائن`{: class = "block3events"} الذي قمت بإضافته بالفعل.
 
-![ada sprite](images/ada-sprite.png)
+![كائن ادا](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+انقر على ادا، ويجب أن تراها تتحدث إليك.
 
-![screenshot](images/poetry-say-test.png)
+![لقطة الشاشة](images/poetry-say-test.png)
 
 \--- /task \---
