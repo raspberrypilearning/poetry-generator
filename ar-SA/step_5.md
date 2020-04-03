@@ -1,10 +1,10 @@
-## The Analytical Engine
+## المحرك التحليلي
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+دعنا نبرمج كمبيوتر ادا (يسمى "المحرك التحليلي") لتوليد الشعر.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+أضف هذا الكود البرمجي إلى "الكمبيوتر" الخاص بك، ليتحدث عند النقر عليه:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+لإنشاء قصيدة عشوائية، أولاً يجب عليك ان تحصل على **لائحة** من الكلمات لأستخدامها. لإنشاء قائمة جديدة، انقر فوق علامة التبويب `المتغيرات`{: class = "block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+دعونا نستخدم **أفعال** (افعال الحركة) في السطر الأول من قصيدتك. Create a new list called `verbs`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
