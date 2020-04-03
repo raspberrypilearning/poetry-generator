@@ -1,12 +1,12 @@
-## Telling Ada your name
+## 에이다에게 자신의 이름을 말하다
 
-Ada has introduced herself, but she doesn't know your name!
+에이다는 자기소개를 했지만, 아직 에이다는 당신의 이름을 모릅니다!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+`라고 묻고 기다리기`{: class = "block3sensing"} 블록을 (`감지`{:class="block3sensing"} 섹션 내) 코딩 영역으로 드래그하세요. 코드는 다음과 같이 설계되어야 합니다:
 
-![ada sprite](images/ada-sprite.png)
+![에이다 스프라이트](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+코드를 테스트하려면 에이다 스프라이트를 클릭하세요. Ada should ask you your name, which you can type in!
 
 ![ada sprite asking whats your name](images/poetry-input.png)
 
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+마지막으로 에이다 스프라이트 코드를 테스트하여 모든 것이 작동하는지 확인하십시오.
 
 \--- /task \---
