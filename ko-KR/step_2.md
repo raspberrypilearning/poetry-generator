@@ -22,7 +22,7 @@
 
 ![에이다 스프라이트](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![이 스프라이트를 클릭했을 때 블록을 드래그](images/poetry-click.png)
 
 이 블록 아래에 추가 된 모든 코드는 에이다 스프라이트를 클릭하면 실행됩니다!
 
