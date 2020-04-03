@@ -3,14 +3,14 @@ hero_image: images/banner.png
 listed: true
 ingredient: false
 title: مولد شِعر آدا
-description: احتفل بيوم آدا لوفيلانس، من خلال تعلم كيفية برمجة مولد الشعر الخاص بك!
+description: احتفل بيوم آدا لوفيلاس، من خلال تعلم كيفية برمجة مولد الشعر الخاص بك!
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
     title: المقدمة
   - 
-    title: آدا لوفيلانس
+    title: آدا لوفيلاس
   - 
     title: 'التحدي: برمج آدا لتقديم نفسها'
     challenge: true
