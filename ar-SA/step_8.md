@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## التحدي: أضافة الطابع الشخصي على قصيدتك
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+هل يمكنك استخدام متغير { `الاسم`{: class = "block3variables"} لتخصيص قصيدتك؟
 
-![screenshot](images/poetry-name-comp.png)
+![لقطة شاشة](images/poetry-name-comp.png)
 
 \--- /challenge \---
