@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+형용사 목록을 프로젝트에 추가하십시오. **형용사** 는 사물의 상태, 성질을 나타내는 품사입니다.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![행복, 피곤, 배고픔 데이터를 담고 있는 형용사 리스트](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+아래 코드를 추가하여 시에서 형용사를 사용할 수 있도록 하세요:
 
-![computer sprite](images/computer-sprite.png)
+![컴퓨터 스프라이트](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+이것들을 숨기려면 리스트 옆에 있는 박스를 클릭하면 됩니다.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![틱 박스가 선택된 리스트 변수들](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+새로운 시를 시험해 보세요.
 
 \--- /task \---
