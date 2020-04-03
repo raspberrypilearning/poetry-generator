@@ -28,8 +28,8 @@ You are going to learn how to program your own poetry generator!
 ## title: What you will learn
 
 + Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
++ Listas e elementos aleatórios de uma lista;
++ Repetição (o bloco `repete`{:class="block3control"}).
 
 \--- /collapse \---
 
