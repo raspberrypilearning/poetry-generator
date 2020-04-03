@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## التحدي: المزيد من الشعر
 
-Can you use your own lists to generate you own poetry?
+هل يمكنك استخدام قوائمك الخاصة لتوليد الشعر الخاص بك؟
 
 \--- /challenge \---
