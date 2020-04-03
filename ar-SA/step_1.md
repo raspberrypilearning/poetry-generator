@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+هذا هو إصدار ** Scratch 3 ** من المشروع. هنالك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## المقدمة
 
-You are going to learn how to program your own poetry generator!
+سوف تتعلم كيفية برمجة مولّد الشِعر الخاص بك!
 
 \--- no-print \---
 
@@ -25,35 +25,35 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: ما الذي ستتعلمه
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ المتغيرات؛
++ القوائم وعناصر القوائم العشوائية؛
++ التكرار (كتلة `كرّر`{: class = "block3control"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: ما ستحتاج إليه
+
+#### الأجهزة
+
++ جهاز كمبيوتر يدعم تشغيل برنامج Scratch 3
+
+#### البرمجيات
+
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
+
+#### للتحميل
+
+برنامج البداية ستجدة [هنا ](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: معلومات إضافية للمعلمين
 
 This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
