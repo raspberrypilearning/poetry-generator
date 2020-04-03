@@ -1,27 +1,27 @@
-Hello!
+안녕!
 
-Hi, I’m Ada!
+안녕하세요, 전 에이다에요!
 
-What’s your name?
+이름이 뭐에요?
 
-name
+이름
 
-Hi
+안녕하세요
 
-Click the computer to generate a poem.
+시를 생성하기 위해 컴퓨터를 클릭하세요
 
-Here is your poem…
+시는 다음과 같습니다:
 
-verbs
+동사
 
-adverbs
+부사
 
-nouns
+명사
 
-adjectives
+형용사
 
-I
+나
 
-by the
+에 의해
 
-I feel
+느낌
