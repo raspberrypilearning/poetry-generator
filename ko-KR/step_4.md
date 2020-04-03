@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-여러분은 자신의 이름을 저장 하기 위해 **변수** 를 사용해 볼 수 있습니다. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+여러분은 자신의 이름을 저장 하기 위해 **변수** 를 사용해 볼 수 있습니다. `변수`{:class="block3variables"}를 클릭 한 다음 '변수 만들기'를 클릭하세요. 이 변수는 이름을 저장하는 데 사용되므로, 변수를 이렇게 부릅시다... `이름`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+여러분의 이름을 저장하려면, `변수`{:class="block3variables"} 탭을 클릭하여, `이름을 ~로 정하기`{:class="block3variables"} 블록을 코드의 끝에 추가하세요.
 
-![ada sprite](images/ada-sprite.png)
+![에이다 스프라이트](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+입력한 답변을 저장하려면 `대답`{:class="block3sensing"} 블록을 사용하십시오.
 
-![ada sprite](images/ada-sprite.png)
+![에이다 스프라이트](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,15 +64,15 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+코드를 테스트 해보기 위해 에이다를 클릭하고, 물어볼때 이름을 입력하세요. 이름이 `이름`{:class="block3variables"} 변수에 저장되어 있어야합니다.
 
-![screenshot](images/poetry-name-test.png)
+![스크린샷](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. 아래 코드를 추가하세요:
+이제 코드에서 이름을 사용할 수 있습니다. 아래 코드를 추가하세요:
 
 ![에이다 스프라이트](images/ada-sprite.png)
 
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+이 코드를 만들려면:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. `결합하기`{:class="blockoperators"} 블록을 `말하기`{:class="blocklooks"} 블록으로 드래그하십시오.
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. `이름`{:class="blockdata"} 블록을 `결합하기`{:class="blockoperators"} 블록에 추가하십시오.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+스테이지에서 `이름`{:class="block3variables"} 변수를 숨기려면 변수 옆에 있는 체크박스를 클릭하십시오.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![이름 변수 체크박스](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+새로워진 여러분의 코드를 테스트해 보세요. 에이다는 당신의 이름을 사용하여 당신에게 인사해야 합니다!
 
-![ada sprite](images/ada-sprite.png)
+![스크린샷](images/poetry-name-test2.png)
+
+'안녕' 이라는 단어와 이름 사이에 공백이 없으면 코드에 공백을 직접 추가해줘야 합니다.
+
+\--- /task \---
+
+\--- task \---
+
+마지막으로 이 코드를 추가하여 다음에 수행 할 작업을 설명하세요:
+
+![에이다 스프라이트](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
