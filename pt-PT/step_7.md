@@ -1,12 +1,12 @@
-## Animating the Analytical Engine
+## Animar o Motor Analítico
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Vamos animar o teu computador, para que pareça que está a gerar poesia.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Clica no teu ator computador e adiciona-lhe este código a seguir ao primeiro bloco `diz`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Vais encontrar os blocos `repete`{:class="block3control"} e `espera`{:class="block3control"} na categoria `Controlo`{:class="block3control"}.
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -29,7 +29,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Test your project. Deverás ver o computador a tremer antes de produzir um poema!
 
 ![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
@@ -37,7 +37,7 @@ Test your project. You should see the computer shake before producing a poem!
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Vai ao separador 'Sons' e clica no ícone 'Escolher um Som' que está no canto inferior esquerdo.
 
 [[[generic-scratch3-sound-from-library]]]
 
