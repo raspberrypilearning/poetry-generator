@@ -12,27 +12,27 @@
 
 **오프라인**: [스타터 프로젝트](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
 
-스크래치 온라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+'에이다' 스프라이트를 클릭하고 '스크립트' 코딩 섹션에서 `이벤트`{:class = "block3events"} 탭을 클릭하세요. `이 스프라이트가 클릭되었을 때`{:class="block3events"} 블록을 오른쪽의 코딩 영역으로 드래그 하세요.
 
-![ada sprite](images/ada-sprite.png)
+![에이다 스프라이트](images/ada-sprite.png)
 
 ![dragging when this sprite clicked block](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+이 블록 아래에 추가 된 모든 코드는 에이다 스프라이트를 클릭하면 실행됩니다!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+`모양`{:class="block3looks"} 탭을 클릭하여, `안녕!` `을 2초 동안 말하기`{:class="block3looks"} 블록을 드래그하여, `이 스프라이트를 클릭했을 때`{:class="block3events"} 블록 아래에 추가하세요.
 
-![ada sprite](images/ada-sprite.png)
+![에이다 스프라이트](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+에이다를 클릭하면 그녀가 당신에게 말하는 것을 볼 수 있습니다.
 
-![screenshot](images/poetry-say-test.png)
+![스크린샷](images/poetry-say-test.png)
 
 \--- /task \---
