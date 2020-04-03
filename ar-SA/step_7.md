@@ -4,11 +4,11 @@
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+انقر على جهاز الكمبيوتر الخاص بك، وأضف هذا الرمز بعد أول كتلة `قل`{: class = "block3looks"}:
 
 ستجد كتل `كرر`{: فئة = "block3control"} و `أنتظر`{: فئة = "block3control"} الموجودة في قسم `التحكم`{: فئة = "block3control"}.
 
-![الكمبيوتر](images/computer-sprite.png)
+![كائن الكمبيوتر](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -31,7 +31,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 اختبر مشروعك. يجب أن ترى اهتزاز الكمبيوتر قبل إنتاج قصيدة!
 
-![الكمبيوتر يهتز ذهاباً وإياباً](images/poetry-animate-test.png)
+![كائن الكمبيوتر يهتز ذهاباً وإياباً](images/poetry-animate-test.png)
 
 \--- /task \---
 
@@ -55,7 +55,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 إضف كتلة `شغل الصوت`{: فئة = "block3sound"}، للعب الصوت فقط قبل البدء بتحريك جهازك الخاص.
 
-![الكمبيوتر](images/computer-sprite.png)
+![كائن الكمبيوتر](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
