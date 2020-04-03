@@ -1,24 +1,24 @@
-## Ada Lovelace
+## ادا لوفيلاس
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+في عام 1842، كتبت ادا لوفيلاس عن استخدام آلة تسمى "المحرك التحليلي" لإجراء العمليات الحسابية، وتعتبر أول مبرمجة كمبيوتر في العالم! كانت ادا أيضًا أول شخص اكتشف أن أجهزة الكمبيوتر يمكن أن تكون أكثر من مجرد حاسبات كبيرة.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+افتح مشروع بداية سكراتش "مولد الشعر".
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**متصل بالانترنيت**: افتح مشروع البداية [](http://rpf.io/poetry-on){: target = "_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+اذا كنت تملك حساب على منصة السكراتش (Scratch) فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج الى تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. اسحب `عند نقر هذه الشخصية على كتلة {`: class = "block3events"} على منطقة الترميز على اليمين.
 
 ![ada sprite](images/ada-sprite.png)
 
