@@ -1,14 +1,14 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+Em 1842, Ada Lovelace escreveu sobre da utilização de uma máquina chamada 'Motor Analítico' para fazer cálculos e é considerada como a primeira pessoa a programar computadores no mundo! Ada was also the first to see that computers could be more than just big calculators.
 
 \--- task \---
 
 Open the 'Poetry Generator' Scratch starter project.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: abre o projeto [inicial](http://rpf.io/poetry-on){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Se tiveres uma 'conta Scratch' podes fazer uma cópia ao clicar em **Remisturar**.
 
 **Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
 
