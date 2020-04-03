@@ -6,7 +6,7 @@
 
 اسحب كتلة `اسأل`{: class = "block3sensing"} (من قسم التحسس ``{: class = "block3sensing"}) إلى الكود الخاص بك. هذا ما ينبغي ان تبدو عليه تعليماتك البرمجية:
 
-![ada sprite](images/ada-sprite.png)
+![كائن ادا](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -20,13 +20,13 @@ say [Hi, I'm Ada!] for (2) seconds
 
 انقر على ادا لأختبار الكود البرمجي الخاص بك. يجب أن تسألك ادا عن اسمك، والذي يمكنك كتابته!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![كائن ادا يسأل ما هو اسمك](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-يمكننا استخدام **متغير** لتخزين اسمك. انقر فوق `المتغيرات`{: class = "block3variables"} ، ثم "إنشاء متغير". نظرًا لأنه سوف يتم استخدام هذا المتغير لتخزين اسمك، فلندعو المتغير... `name`{:class="block3variables"}!
+يمكننا استخدام **متغير** لتخزين اسمك. انقر فوق `المتغيرات`{: class = "block3variables"} ، ثم "إنشاء متغير". نظرًا لأنه سوف يتم استخدام هذا المتغير لتخزين اسمك، فلندعو المتغير... `الاسم`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -36,7 +36,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 لتخزين اسمك، انقر فوق علامة التبويب `المتغيرات`{: class = "block3variables"} ، ثم اسحب كتلة `إجعل الاسم مساوياً`: {= class = "block3variables"} إلى نهاية الكود البرمجي الخاص بك.
 
-![ada sprite](images/ada-sprite.png)
+![كائن ادا](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -51,7 +51,7 @@ ask [What's your name?] and wait
 
 استخدم كتلة `الإجابة`{: class = "block3sensing"} لتخزين الإجابة التي تكتبها.
 
-![ada sprite](images/ada-sprite.png)
+![كائن ادا](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -66,7 +66,7 @@ set [name v] to (answer :: +)
 
 أنقر على ادا لأختبار الكود البرمجي الخاص بك، وأدخل اسمك عندما يُطلب منك ذلك. يجب أن ترى أن اسمك قد تم تخزينه في متغير الاسم `{`: class = "block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![لقطة الشاشة](images/poetry-name-test.png)
 
 \--- /task \---
 
@@ -74,7 +74,7 @@ set [name v] to (answer :: +)
 
 يمكنك الآن الاستفادة من اسمك في التعليمات البرمجية الخاصة بك. Add this code:
 
-![ada sprite](images/ada-sprite.png)
+![كائن ادا](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+لإنشاء هذا الكود البرمجي:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. اسحب كتلة `اربط`{: class = "blockoperators"} إلى الكتلة `قل`{: class = "blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. اضف كتلة `الاسم`{: فئة = "blockdata"} الى كتلة `اربط`{: فئة = "blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+لإخفاء متغير `الأسم`{: فئة = "block3variables"} الخاص بك من المنصة، انقر فوق العلامة بجانب المتغير.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![متغير الاسم](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+اختبر الكود البرمجي الجديد. يجب أن تقول لك ادا مرحباً، باستخدام اسمك!
 
-![ada sprite](images/ada-sprite.png)
+![لقطة الشاشة](images/poetry-name-test2.png)
+
+إذا لم تكن هناك مسافة بين كلمة "مرحبا" واسمك، فستحتاج إلى إضافة مسافة إلى الكود البرمجي بنفسك!
+
+\--- /task \---
+
+\--- task \---
+
+أخيرًا، أضف هذا الكود البرمجي لشرح ما يجب فعله بعد ذلك:
+
+![كائن ادا](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+اختبر الكود البرمجي الخاص ب ادا للمرة الأخيرة، للتأكد من أن كل شيء يعمل.
 
 \--- /task \---
