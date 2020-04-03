@@ -4,7 +4,7 @@ Ada has introduced herself, but she doesn't know your name!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Arrasta um bloco `pergunta`{:class="block3sensing"} (da categoria `Sensores`{:class="block3sensing"}) e acrescenta-o ao teu código. Este é o aspeto com que o teu código deve ficar:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Click on Ada to test your code. A Ada deverá perguntar o teu nome, que poderás então digitar!
 
 ![ada sprite asking whats your name](images/poetry-input.png)
 
@@ -26,7 +26,7 @@ Click on Ada to test your code. Ada should ask you your name, which you can type
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Podemos usar uma **variável** para armazenar o teu nome. Clica em `Dados`{:class="block3variables"} e depois em 'Criar uma Variável'. As this variable will be used to store your name, let's call the variable... `nome`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Para armazenar o teu nome, clica na secção `Dados`{:class="block3variables"} e arrasta o bloco `altera o nome`{:class="block3variables"} e coloca-o no final do teu código.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -86,13 +86,13 @@ set [name v] to (answer)
 
 To create this code:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Arrasta um bloco `a junção de ... com`{:class="blockoperators"} para dentro do bloco `diz`{:class="blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Adiciona o teu bloco `nome`{:class="blockdata"} ao bloco `junção de ... com`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,15 +102,15 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Para ocultar a tua variável `nome`{:class="block3variables"} do palco, clica na cruz ao lado da variável.
 
-![tick name variable](images/poetry-tick-annotated.png)
+![visto do nome da variável](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test your new code. Ada should say hello to you, using your name!
+Testa o teu novo código. A Ada deverá dizer-te olá, usando o teu nome!
 
 ![screenshot](images/poetry-name-test2.png)
 
