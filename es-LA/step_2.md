@@ -1,30 +1,30 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+En 1842, Ada Lovelace escribió sobre el uso de una máquina llamada 'Motor Analítico' para hacer cálculos, ¡y por eso es vista como la primera programadora de computadores del mundo! Ada también fue la primera en ver que las computadoras podían ser más que simples calculadoras.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Abre el proyecto de iniciación "Generador de Poesías" en Scratch.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**En línea**: abre el [proyecto de iniciación](http://rpf.io/poetry-on){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Reinventar**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Sin conexión**: abre el [proyecto de iniciación](http://rpf.io/p/en/beat-the-goalie-go){:target=_blank"} en el editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Haz clic en la imagen de "Ada", y haz click en la pestaña `Eventos`{:class="block3events"} en la sección de codificación "Programas". Arrastra el bloque `al hacer clic en este objeto`{:class="block3events"} en el área de codificación a la derecha.
 
-![ada sprite](images/ada-sprite.png)
+![objeto ada](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![arrastrando el bloque al hacer clic en este objeto](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+¡Cualquier código añadido por debajo de este bloque se ejecutará cuando se haga clic sobre Ada!
 
 \--- /task \---
 
