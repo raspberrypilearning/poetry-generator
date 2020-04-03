@@ -1,27 +1,27 @@
-Hello!
+مرحباً!
 
-Hi, I’m Ada!
+مرحبًا، أنا ادا!
 
-What’s your name?
+ما هو اسمك؟
 
-name
+الاسم
 
-Hi
+مرحباً
 
-Click the computer to generate a poem.
+انقر على الكمبيوتر لإنشاء قصيدة.
 
-Here is your poem…
+هذه هي قصيدتك…
 
-verbs
+الأفعال
 
-adverbs
+ظرف الحال
 
-nouns
+الأسماء
 
-adjectives
+الصفات
 
-I
+أنا
 
-by the
+بواسطة
 
-I feel
+انا أشعر
