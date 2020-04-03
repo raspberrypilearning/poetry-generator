@@ -1,8 +1,8 @@
-Hello!
+¡Hola!
 
-Hi, I’m Ada!
+¡Hola, soy Ada!
 
-What’s your name?
+¿Cuál es tu nombre?
 
 name
 
