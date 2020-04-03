@@ -1,10 +1,10 @@
-## What next?
+## ما التالي؟
 
-Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
+ألق نظرة على مشروع [البالونات](https://projects.raspberrypi.org/en/projects/balloons) في برنامج Scratch.
 
 \--- no-print \---
 
-Pop the balloons by clicking on them.
+فرقع البالونات بالضغط عليها.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![المشروع كامل](images/balloons-final.png)
 
 \--- /print-only \---
