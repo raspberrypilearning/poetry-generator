@@ -15,6 +15,6 @@ Jette un œil au projet Scratch [Ballons](https://projects.raspberrypi.org/en/pr
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![projet terminé](images/balloons-final.png)
 
 \--- /print-only \---
