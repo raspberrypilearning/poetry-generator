@@ -1,18 +1,18 @@
-Hello!
+こんにちは！
 
-Hi, I’m Ada!
+はーい、私はエイダよ！
 
-What’s your name?
+あなたのお名前は？
 
-name
+名前
 
-Hi
+こんにちは
 
-Click the computer to generate a poem.
+コンピュータをクリックすると詩を作ります。
 
-Here is your poem…
+あなたのための詩です。
 
-verbs
+動詞
 
 adverbs
 
