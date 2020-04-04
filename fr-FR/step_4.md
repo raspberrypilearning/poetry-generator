@@ -6,7 +6,7 @@ Ada s'est présentée, mais elle ne connaît pas ton nom!
 
 Fais glisser un bloc `demander`{: class = "block3sensing"} (de la section `capteurs`{: class = "block3sensing"}) sur ton code. Voici à quoi ton code devrait ressembler :
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -20,7 +20,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 Clique sur Ada pour tester votre code. Ada devrait te demander ton nom, que tu peux taper!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![sprite ada demandant quel est ton nom](images/poetry-input.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@ Nous pouvons utiliser une variable **** pour stocker ton nom. Clique sur `Variab
 
 Pour stocker ton nom, clique sur l'onglet `variables`{: class = "block3variables"}, puis fais glisser le bloc `mettre nom`{: class = "block3variables"} à la fin de votre code.
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -51,7 +51,7 @@ ask [What's your name?] and wait
 
 Utilise le bloc `réponse`{: class = "block3sensing"} pour stocker la réponse que tu saisis.
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Clique sur Ada pour tester ton code et entre ton nom lorsque tu y es invité. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Clique sur Ada pour tester ton code et entre ton nom lorsque tu y es invité. Tu devrais voir que ton nom a été stocké dans la variable `nom`{: class = "block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![capture d'écran](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Tu peux désormais utiliser ton nom dans ton code. Ajoute ce code:
 
-![ada sprite](images/ada-sprite.png)
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Pour créer ce code:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Fais glisser un bloc `regrouper`{: class = "blockoperators"} sur le bloc `dire`{: class = "blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Ajoute ton bloc `nom`{: class = "blockdata"} sur le bloc `regrouper`{: class = "blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Pour masquer ta variable `nom`{: class = "block3variables"} sur la scène, clique sur la coche à côté de la variable.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![coche la variable de nom](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Teste ton nouveau code. Ada devrait te dire bonjour en utilisant ton nom!
 
-![ada sprite](images/ada-sprite.png)
+![capture d'écran](images/poetry-name-test2.png)
+
+S'il n'y a pas d'espace entre le mot "Salut" et ton nom, tu dois ajouter toi-même un espace dans le code!
+
+\--- /task \---
+
+\--- task \---
+
+Enfin, ajoute ce code pour expliquer quoi faire ensuite:
+
+![sprite ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Teste le code d'Ada une dernière fois, pour t'assurer que tout fonctionne.
 
 \--- /task \---
