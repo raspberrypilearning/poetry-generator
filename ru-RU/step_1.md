@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Это версия проекта для **Scratch 3**. Есть также [версия проекта для Scratch 2](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Введение
 
-You are going to learn how to program your own poetry generator!
+Ты сможешь создать программу для своего собственного генератора стихов!
 
 \--- no-print \---
 
@@ -19,41 +19,41 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![скриншот игры](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Чему ты научишься
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ Переменные;
++ Списки и случайные элементы списка;
++ Повторение (блок `повторить`{:class="block3control"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Что тебе понадобится
+
+#### Оборудование
+
++ Компьютер, способный запускать Scratch 3
+
+#### Программное обеспечение
+
++ Scratch 3 (либо [онлайн](http://rpf.io/scratchon){:target="_blank"}, либо [оффлайн (без подключения к Интернету) версия](http://rpf.io/scratchoff){:target="_blank"})
+
+#### Загрузки
+
+Начальный проект можно найти [здесь](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Дополнительная информация для преподавателей
 
 This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
