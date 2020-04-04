@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More words
+## チャレンジ：単語をもっとたくさん
 
-Can you add more words to your lists, so that you can generate more poems?
+より多くの詩を生成できるように、リストに単語を追加できますか？
 
 \--- /challenge \---
