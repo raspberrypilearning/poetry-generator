@@ -6,7 +6,7 @@ Programmons l'ordinateur d'Ada (appelé la 'Machine Analytique') pour générer 
 
 Ajoute ce code à ton sprite "Ordinateur", pour qu'il parle lorsqu'il est cliqué :
 
-![computer sprite](images/computer-sprite.png)
+![sprite de l'ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,7 +29,7 @@ Utilisons **verbes** (mots d'action) dans la première ligne de ton poème. Cré
 
 Ta nouvelle liste sera vide. Clique sur le `+` en bas de ta liste vide et ajoute ces verbes :
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![liste avec le + en surbrillance](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
@@ -57,15 +57,15 @@ Pour créer cette ligne de poésie, tu dois :
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Utiliser un bloc `dire`{:class="block3looks"} pour afficher la ligne de la poésie:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Ton code devrait ressembler à ceci:
 
-![computer sprite](images/computer-sprite.png)
+![sprite de l'ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Maintenant, teste ton code quelques fois. Ton ordinateur doit choisir un mot aléatoire dans la liste `verbes`{:class="block3variables"} à chaque fois.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 bulles de parole disant différentes choses](images/poetry-random-test.png)
 
 \--- /task \---
