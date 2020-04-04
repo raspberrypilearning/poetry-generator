@@ -19,10 +19,10 @@ say [Ecco la tua poesia…] for (2) seconds
     turn right (5) degrees
     wait (0.1) seconds  
 end
-say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
+say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
 say (item (pick random (1) to (length of [avverbi v])) of [avverbi v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [aggettivi v])) of [aggettivi v])) for (2) seconds
+say (join [dal ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
+say (join [Mi sento ](item (pick random (1) to (length of [aggettivi v])) of [aggettivi v])) for (2) seconds
 ```
 
 --- /task ---
@@ -67,10 +67,10 @@ repeat (10)
     turn right (5) degrees
     wait (0.1) seconds  
 end
-say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
+say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
 say (item (pick random (1) to (length of [avverbi v])) of [avverbi v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [aggettivi v])) of [aggettivi v])) for (2) seconds
+say (join [dal ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
+say (join [Mi sento ](item (pick random (1) to (length of [aggettivi v])) of [aggettivi v])) for (2) seconds
 ```
 
 --- /task ---

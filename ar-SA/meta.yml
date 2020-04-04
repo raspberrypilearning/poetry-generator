@@ -1,0 +1,24 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: مولد شِعر آدا
+description: احتفل بيوم آدا لوفيلاس، من خلال تعلم كيفية برمجة مولد الشعر الخاص بك!
+version: 4
+last_tested: 2019-02-20
+steps:
+  - title: المقدمة
+  - title: آدا لوفيلاس
+  - title: 'التحدي: برمج آدا لتقديم نفسها'
+    challenge: true
+  - title: إخبار آدا بأسمك
+  - title: المحرك التحليلي
+  - title: المزيد من الشِعر
+  - title: تحريك المحرك التحليلي
+  - title: 'التحدي: أضف الطابع الشخصي على قصيدتك'
+    challenge: true
+  - title: 'التحدي: المزيد من الكلمات'
+    challenge: true
+  - title: 'التحدي: المزيد من الشعر'
+    challenge: true
+  - title: ما التالي؟
