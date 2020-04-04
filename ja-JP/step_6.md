@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+コードを何回かテストしてください。 毎回ランダムな詩が表示されるはずです。
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![副詞のランダムな吹き出し](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+名詞のリストをプロジェクトに追加します。 **名詞**は場所や物を表す言葉です。
 
-![computer sprite](images/computer-sprite.png)
+![海、月、木が入った名詞のリスト](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+名詞を詩で使用するコードを追加します。
+
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+形容詞のリストをプロジェクトに追加します。 **形容詞**は名詞を説明する言葉です。
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![幸せだ、疲れた、お腹が減ったの形容詞のリスト](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+形容詞を詩で使用するコードを追加します。
 
-![computer sprite](images/computer-sprite.png)
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+リストの横にあるボックスをクリックしてリストを表示しないようにすることができます。
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![チェックボックスが選ばれたリスト変数](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+新しい詩を試してみてください。
 
 \--- /task \---
