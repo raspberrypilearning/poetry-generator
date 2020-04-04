@@ -4,9 +4,9 @@ Zaprogramujmy komputer Ady (zwany „Silnikiem Analitycznym”) do generowania p
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Dodaj ten kod do duszka "Komputer, aby mówił po kliknięciu:
 
-![computer sprite](images/computer-sprite.png)
+![duszek komputera](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Aby utworzyć losowy wiersz, najpierw potrzebujesz **listy** słów. Aby utworzyć nową listę, kliknij kartę `Zmienne`{:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Użyjmy **czasowników** (słów czynności) w pierwszej linii Twojego wiersza. Utwórz nową listę o nazwie `czasowniki`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Twoja nowa lista będzie pusta. Kliknij `+` na dole pustej listy i dodaj te czasowniki:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![lista z podświetlonym +](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+Pierwszym wersem wiersza powinno być słowo „Ja”, a po nim losowy czasownik.
 
-To create this line of poetry, you need to:
+Aby stworzyć tę linijkę poezji, musisz:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Losuj liczbę od`{:class="block3operators"} pomiędzy `1` a `długością listy czasowników`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Użyj tego bloku, aby otrzymać losowy `element`{:class="block3variables"} z listy `czasowniki`{:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Połącz`{:class="block3operators"} "Ja " z losowym czasownikiem, aby utworzyć pierwszą linijkę Twojego wiersza:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Użyj bloku `powiedz`{:class="block3looks"}, aby wyświetlić linijkę poezji:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Twój kod powinien wyglądać tak:
 
-![computer sprite](images/computer-sprite.png)
+![duszek komputera](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Teraz przetestuj swój kod kilka razy. Twój komputer powinien za każdym razem wybrać losowe słowo z listy `czasowniki`{:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 dymki mówiące różne rzeczy](images/poetry-random-test.png)
 
 \--- /task \---
