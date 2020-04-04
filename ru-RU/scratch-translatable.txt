@@ -1,24 +1,24 @@
-Hello!
+Привет!
 
-Hi, I’m Ada!
+Привет, я Ада!
 
-What’s your name?
+Как тебя зовут?
 
-name
+имя
 
-Hi
+Привет
 
-Click the computer to generate a poem.
+Нажми на компьютер, чтобы сгенерировать стихотворение.
 
-Here is your poem…
+Вот твое стихотворение…
 
-verbs
+глаголы
 
-adverbs
+наречия
 
-nouns
+существительные
 
-adjectives
+прилагательные
 
 I
 
