@@ -24,15 +24,15 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 ![「このスプライト押されたとき」ブロックをドラッグ中](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+このブロックの下に追加されたコードは、Adaがクリックされたときに実行されます。
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+`見た目`{:class="block3looks"}タブをクリックし、`こんにちは！` `と2秒言う`{:class="block3looks"}ブロックを、すでに追加している`このスプライトが押されたとき`{:class="block3events"}ブロックの下にドラッグします。
 
-![ada sprite](images/ada-sprite.png)
+![ada スプライト](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Adaをクリックすると、彼女があなたに話しかけます。
 
-![screenshot](images/poetry-say-test.png)
+![スクリーンショット](images/poetry-say-test.png)
 
 \--- /task \---
