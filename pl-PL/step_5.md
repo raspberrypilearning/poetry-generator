@@ -1,6 +1,6 @@
-## The Analytical Engine
+## Silnik analityczny
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Zaprogramujmy komputer Ady (zwany „Silnikiem Analitycznym”) do generowania poezji.
 
 \--- task \---
 
