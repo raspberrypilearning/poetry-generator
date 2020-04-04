@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## 解析機関を動かす
 
-Let's animate your computer, so that it looks like it's generating poetry.
+コンピュータを動かして、詩を生み出しているように見せます。
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+computerスプライトをクリックし、最初の`と(2)秒言う`{:class="block3looks"}ブロックの後にこのコードを追加します：
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+You'll find the `(10)回繰り返す`{:class="block3control"} and `(1)秒待つwait`{:class="block3control"}ブロックは`制御`{:class="block3control"}セクションにあります。
 
-![computer sprite](images/computer-sprite.png)
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+プロジェクトをテストします。 詩を作る前にコンピュータが揺れ動きます！
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![前後に揺れているcomputerスプライト](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+「音」タブをクリックし、左下にある「音を選ぶ」アイコンをクリックします。
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,9 +45,9 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+「computer beeps」を選択し、[OK]をクリックします。
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![音のライブラリの中のcomputer beeps 1と2](images/poetry-beeps.png)
 
 \--- /task \---
 
