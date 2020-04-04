@@ -1,28 +1,28 @@
-## Ada Lovelace
+## エイダ・ラブレース
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+1842年、エイダ・ラブレースは「解析機関(アナリティカルエンジン)」と呼ばれる装置を使用して計算を行うことについて書物を書き、世界初のコンピュータプログラマーと見なされています。 エイダはまた、コンピュータが単なる大きな計算機以上のもとなる可能性があることを見抜いた最初の人でした。
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+「自動作詩機」のScratchスタータープロジェクトを開きます。
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**オンライン**： [スタータープロジェクト](http://rpf.io/poetry-on){:target="_ blank"}を開きます。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Scratchのアカウントをお持ちの場合は**リミックス**をクリックしてコピーを作成できます。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**オフライン**: オフラインエディタで[スタータープロジェクト](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"}を開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}にあります。
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+「Ada」スプライトをクリックし、「スクリプト」のコーディングセクションにある `イベント`{:class="block3events"}タブをクリックします。 `このスプライトが押されたとき`{:class="block3events"}ブロックを、右側のコーディングエリアにドラッグします。
 
-![ada sprite](images/ada-sprite.png)
+![ada スプライト](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![「このスプライト押されたとき」ブロックをドラッグ中](images/poetry-click.png)
 
 Any code added underneath this block will run when Ada is clicked!
 
