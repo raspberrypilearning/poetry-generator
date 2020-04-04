@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Dies ist die **Scratch 3** Version des Projekts. Es gibt auch eine [Scratch 2 Version des Projekts](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Einleitung
 
-You are going to learn how to program your own poetry generator!
+Du wirst lernen, deinen eigenen Gedichtsersteller zu programmieren!
 
 \--- no-print \---
 
@@ -25,10 +25,10 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Was du lernen wirst
 
-+ Variables;
-+ Lists and random list items;
++ Variablen;
++ Listen und zufällige Listenelemente;
 + Repetition (the `repeat`{:class="block3control"} block).
 
 \--- /collapse \---
