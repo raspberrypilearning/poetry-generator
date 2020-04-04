@@ -2,31 +2,31 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+title: エイダの自動作詩機
+description: 自分用の自動作詩機のプログラム方法を学んで、エイダ・ラブレースの日を祝おう！
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Ada Lovelace
+    title: エイダ・ラブレース
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: 'チャレンジ：エイダが自己紹介するコードを作りましょう'
     challenge: true
   - 
-    title: Telling Ada your name
+    title: エイダにあなたの名前を伝える
   - 
-    title: The Analytical Engine
+    title: アナリティカル エンジン
   - 
-    title: More poetry
+    title: もっとたくさんの詩
   - 
-    title: Animating the Analytical Engine
+    title: アナリティカル エンジンを動かす
   - 
-    title: 'Challenge: Personalise your poem'
+    title: 'チャレンジ：詩を個人用にする'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: 'チャレンジ：単語をもっとたくさん'
     challenge: true
   - 
     title: 'Challenge: More poetry'
