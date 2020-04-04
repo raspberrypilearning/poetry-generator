@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## Provocare: Personalizează-ți poezia
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+Poți folosi variabila `nume`{:class="block3variables"} pentru a personaliza poezia?
 
-![screenshot](images/poetry-name-comp.png)
+![captură de ecran](images/poetry-name-comp.png)
 
 \--- /challenge \---
