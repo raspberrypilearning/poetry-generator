@@ -1,12 +1,12 @@
-## The Analytical Engine
+## 解析機関(アナリティカルエンジン)
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+エイダのコンピュータ(「アナリティカルエンジン」と呼ばれています)が詩を生成するようにプログラムしてみましょう。
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+このコードを 'Computer'スプライトに追加して、クリックしたときに読み上げられるようにします。
 
-![computer sprite](images/computer-sprite.png)
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+ランダムな詩を作成するには、使用する言葉の**リスト**が最初に必要です。 新しいリストを作成するには、`変数` {:class="block3variables"}タブをクリックします。
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+詩の最初の行に**動詞**(動きを表す言葉)を使いましょう。 `動詞`{:class="block3variables"}という新しいリストを作成します。
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,31 +27,31 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+新しいリストには何も入っていません。 空のリストの一番下にある`+`をクリックして次の動詞を追加します。
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![+が強調表示されたリスト](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+詩の最初の行は「私は」という単語で始まり、ランダムに選ばれた動詞が続きます。
 
-To create this line of poetry, you need to:
+この一行の詩を作成するには、次のことを行う必要があります。
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `1`から`動詞リストの長さ`{:class="block3variables"}`までの乱数`の間の{:class = "block3operators"}：
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. このブロックを使用して`動詞`{:class="block3variables"}リストからランダム`番目`{:class="block3variables"}を取得します：
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. 「私は」`と`{:class="block3operators"}ランダムな動詞で詩の最初の行を作成します：
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
