@@ -1,10 +1,10 @@
-## More poetry
+## Mai multă poezie
 
-Your poem is quite short - let's add to it!
+Poezia ta este destul de scurtă - hai să o mărim!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Să folosim adverbe în următorul vers al poeziei tale. Un ** adverb ** este un cuvânt care descrie un verb. Creează o altă listă numită adverbe și adaugă aceste 3 cuvinte:
 
 ![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
 
@@ -12,7 +12,7 @@ Let's use adverbs in the next line of your poem. An **adverb** is a word that de
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Adaugă această linie la codul computerului tău pentru ca acesta să pună un adverb aleatoriu pe următorul vers al poeziei:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -27,7 +27,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Testează-ți codul de câteva ori. Ar trebui să vezi o poezie aleatorie de fiecare dată.
 
 ![random speech bubbles with adverbs](images/poetry-adverb-test.png)
 
@@ -35,7 +35,7 @@ Test your code a few times. You should see a random poem each time.
 
 \--- task \---
 
-Add a list of nouns to your project. A **noun** is a place or a thing.
+Adaugă o listă de substantive la proiectul tău. Un **substantiv** este un loc sau un lucru.
 
 ![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
 
@@ -43,7 +43,7 @@ Add a list of nouns to your project. A **noun** is a place or a thing.
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Adaugă cod pentru a folosi substantivele în poezia ta.
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -59,7 +59,7 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Adaugă o listă de adjective la proiectul tău. An **adjective** is a describing word.
 
 ![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
 
