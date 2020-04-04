@@ -1,36 +1,36 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+În 1842, Ada Lovelace a scris despre utilizarea unei mașini numite „motorul analitic” pentru a face calcule și este văzută ca primul programator de calculatoare din lume! Ada a fost și prima care a observat că, de fapt, computerele pot fi mai mult decât niște calculatoare mari.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Deschide proiectul Scratch de început „Generatorul de poezie”.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Offline**: deschide [proiectul de bază](http://rpf.io/poetry-on){:target="_blank"} în editorul offline.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Dacă ai un cont Scratch, poți să creezi o copie dând click pe **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline**: deschide [proiectul de bază](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} în editorul offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți găsi la [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Dă click pe personajul tău „Ada” și dă click pe `Evenimente`{:class="block3events"} din secțiunea de „Scripts”. Trage blocul `când se dă click pe acest personaj`{:class="block3events"} în zona de programare din dreapta.
 
 ![ada sprite](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![trăgând atunci când acest sprite a făcut clic pe bloc](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Orice cod adăugat sub acest bloc se va executa atunci când se dă click pe Ada!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Dă click pe tab-ul `Aspect`{:class="block3looks"} și glisează blocul `spune`{:class="block3looks"} `Salut!` `pentru 2 puncte `{:class="block3looks"} sub blocul `când se dă click pe acest personaj`{:class="block3events"} pe care l-ai adăugat deja.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Dă click pe Ada și ar trebui să o vezi vorbind cu tine.
 
-![screenshot](images/poetry-say-test.png)
+![captură de ecran](images/poetry-say-test.png)
 
 \--- /task \---
