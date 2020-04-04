@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More words
+## Provocare: Mai multe cuvinte
 
-Can you add more words to your lists, so that you can generate more poems?
+Poți adăuga mai multe cuvinte la listele tale, astfel încât să poți genera mai multe poezii?
 
 \--- /challenge \---
