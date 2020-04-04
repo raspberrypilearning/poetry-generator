@@ -1,27 +1,27 @@
-Hello!
+Salut!
 
-Hi, I’m Ada!
+Salut, sunt Ada!
 
-What’s your name?
+Cum te cheamă?
 
-name
+nume
 
-Hi
+Salut
 
-Click the computer to generate a poem.
+Dă click pe computer pentru a genera o poezie.
 
-Here is your poem…
+Aici este poezia ta…
 
-verbs
+verbe
 
-adverbs
+adverbe
 
-nouns
+substantive
 
-adjectives
+adjective
 
-I
+Eu
 
-by the
+lângă
 
-I feel
+Mă simt
