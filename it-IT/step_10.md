@@ -2,6 +2,6 @@
 
 ## Sfida: Più poesia
 
-Riesci a usare liste di parole scelte da te per generare la tua poesia?
+Riesci a usare liste create da te per generare la tua poesia?
 
 \--- /challenge \---
