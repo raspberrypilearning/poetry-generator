@@ -4,17 +4,17 @@ Your poem is quite short - let's add to it!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. 副詞という名前のリストを作成し、次の3つの単語を追加します。
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![うるさく、静かに、終わりなくの言葉が入ったリスト](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+次の行をcomputerのコードに追加して、詩の次の行でランダムな副詞を言うようにしましょう：
 
-![computer sprite](images/computer-sprite.png)
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
