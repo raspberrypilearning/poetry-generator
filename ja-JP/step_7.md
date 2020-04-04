@@ -53,9 +53,9 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+コンピュータが揺れ動く直前に音が再生されるよう、`の音を鳴らす`{:class="block3sound"}ブロックを追加します。
 
-![computer sprite](images/computer-sprite.png)
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
