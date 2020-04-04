@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης η [έκδοση Scratch 2 του έργου](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Εισαγωγή
 
-You are going to learn how to program your own poetry generator!
+Θα μάθεις πώς να προγραμματίσεις τη δική σου γεννήτρια ποίησης!
 
 \--- no-print \---
 
@@ -19,47 +19,47 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![στιγμιότυπο οθόνης παιχνιδιού](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Τι θα μάθεις
 
-+ Variables;
++ Μεταβλητές
 + Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
++ Επανάληψη (μπλοκ `επαναλήψεων`{:class="block3control"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Τι θα χρειαστείς
 
-#### Hardware
+#### Υλικό
 
-+ A computer capable of running Scratch 3
++ Ένας υπολογιστής ικανός να τρέχει το Scratch 3
 
-#### Software
+#### Λογισμικό
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-#### Downloads
+#### Λήψεις
 
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Το αρχικό project μπορεί να βρεθεί [εδώ](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Το έργο αυτό έχει δημιουργηθεί για τη γιορτή της [Ημέρας Ada Lovelace](https://findingada.com). Εάν είσαι δάσκαλος, μπορείς να κατεβάσεις ένα πακέτο σχολικού υλικού το οποίο περιέχει επίσης ένα σχέδιο συναρμολόγησης ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), για να εισαγάγει τα παιδιά στην Ada και τις επαναστατικές ιδέες της.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/poetry-generator/print)"{:target="_blank"}.
 
 \--- /no-print \---
 
