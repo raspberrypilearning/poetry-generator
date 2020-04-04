@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## チャレンジ：詩をもっとたくさん
 
-Can you use your own lists to generate you own poetry?
+あなたの作ったのリストを使って独自の詩を生成できますか？
 
 \--- /challenge \---
