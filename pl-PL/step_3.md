@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Code Ada to introduce herself
+## Wyzwanie: Zaprogramuj Adę, aby się przedstawiła
 
-Can you change your code, so that Ada says 'Hi, I'm Ada!' when you click on her? ![ada sprite saying Hi, I'm Ada!](images/poetry-ada-intro.png)
+Czy możesz zmienić kod, aby Ada powiedziała „Cześć, jestem Ada!” kiedy na nią klikniesz? ![duszek ada mówiący Cześć, jestem Ada!](images/poetry-ada-intro.png)
 
 \--- /challenge \---
