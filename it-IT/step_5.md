@@ -19,7 +19,7 @@ say [Here is your poem...] for (2) seconds
 
 Per creare una poesia casuale, per prima cosa avrai bisogno di una **lista** di parole da usare. Per creare una nuova lista, fai clic sulla scheda `Variabili`{:class="block3variables"}.
 
-Usiamo dei **verbi** (parole d'azione) nella prima riga della tua poesia. Crea una nuova lista chiamata `verbi`{:class="block3variables"}.
+Usiamo dei **verbi** (azioni) nella prima riga della tua poesia. Crea una nuova lista chiamata `verbi`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
