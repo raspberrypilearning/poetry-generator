@@ -43,7 +43,7 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Clique sur Ada, et tu devrais la voir te parler.
 
 ![capture d'écran](images/poetry-say-test.png)
 
