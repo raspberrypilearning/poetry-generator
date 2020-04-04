@@ -1,6 +1,6 @@
 ## Mehr Poesie
 
-Your poem is quite short - let's add to it!
+Dein Gedicht ist sehr kurz - lass uns etwas hinzufügen!
 
 \--- task \---
 
