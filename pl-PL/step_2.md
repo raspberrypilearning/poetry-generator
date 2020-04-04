@@ -24,7 +24,7 @@ Kliknij duszka „Ada” i kliknij kartę `Zdarzenia`{: class = "block3events"} 
 
 ![przeciąganie, gdy duszek kliknie blok](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Każdy kod dodany pod tym blokiem zostanie uruchomiony po kliknięciu Ady!
 
 \--- /task \---
 
