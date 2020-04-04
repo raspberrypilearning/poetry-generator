@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## Animarea motorului analitic
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Hai să animăm computer-ul astfel încât acesta să arate că generează poezie.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Dă click pe personajul computer-ului tău și adaugă acest cod după primul bloc `spune`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Vei găsi blocurile `repetă`{:class="block3control"} și `așteaptă`{:class="block3control"} în secțiunea `Control`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![personaj computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Testează-ți proiectul. Ar trebui să vezi cum se mișcă computer-ul tău înainte de a produce un poem!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![personajul calculatorului zguduindu-se înainte și înapoi](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Dă click pe secțiunea „Sunet” și apoi pe pictograma „Alege un sunet” din partea stângă jos.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Alege un sunet de tip „Computer Beeps” și apasă OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![computerul emite sunete de 1 și 2 sunete din sunetoteca](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Adaugă un bloc `pornește sunetul`{:class="block3sound"}, pentru a reda sunetul chiar înainte ca animația să înceapă.
 
-![computer sprite](images/computer-sprite.png)
+![personaj computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
