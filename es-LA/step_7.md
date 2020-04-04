@@ -45,17 +45,17 @@ Haz clic en la pestaña de "Sonidos", y haz clic en el icono "Elige un sonido" e
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Elige el sonido "computer beep" y haz clic en OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![sonidos 1 y 2 de la computadora en la biblioteca de sonido](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Añadir un bloque `iniciar sonido`{:class="block3sound"} para reproducir el sonido justo antes de que la animación comience.
 
-![computer sprite](images/computer-sprite.png)
+![objeto computadora](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
