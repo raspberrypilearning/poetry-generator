@@ -1,10 +1,10 @@
-## More poetry
+## Mehr Poesie
 
 Your poem is quite short - let's add to it!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Lass uns Adverbien in der nächsten Gedichtszeile benutzen. Ein **Adverb** ist ein Wort, welches ein Verb beschreibt. Erstelle eine weitere Liste namens Adverbien und füge diese 3 Wörter hinzu:
 
 ![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
 
@@ -12,7 +12,7 @@ Let's use adverbs in the next line of your poem. An **adverb** is a word that de
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Füge diese Zeile zu deinem Computer Code hinzu, um ein zufälliges Adverb auf der nächsten Gedichtszeile zu sagen:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -27,7 +27,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Teste deinen Code mehrmals. Du solltest jedes Mal ein zufälliges Gedicht sehen.
 
 ![random speech bubbles with adverbs](images/poetry-adverb-test.png)
 
@@ -35,7 +35,7 @@ Test your code a few times. You should see a random poem each time.
 
 \--- task \---
 
-Add a list of nouns to your project. A **noun** is a place or a thing.
+Füge eine Liste mit Nomen zu deinem Projekt hinzu. Ein **Nomen** ist ein Ort oder Gegenstand.
 
 ![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
 
@@ -43,7 +43,7 @@ Add a list of nouns to your project. A **noun** is a place or a thing.
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Füge einen Code hinzu, um die Nomen in deinen Gedicht zu benutzen.
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -59,7 +59,7 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Füge eine Liste mit Adjektiven zu deinem Projekt hinzu. Ein **Adjektiv** ist ein Wort zum Umschreiben.
 
 ![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
 
@@ -67,7 +67,7 @@ Add a list of adjectives to your project. An **adjective** is a describing word.
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Füge einen Code zu deinen Gedicht hinzu, um Adjektive zu benutzen:
 
 ![computer sprite](images/computer-sprite.png)
 
