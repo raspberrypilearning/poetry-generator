@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## Provocare: Mai multă poezie
 
-Can you use your own lists to generate you own poetry?
+Poți folosi propriile liste pentru a-ți genera propria poezie?
 
 \--- /challenge \---
