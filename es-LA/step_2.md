@@ -30,9 +30,9 @@ Haz clic en la imagen de "Ada", y haz click en la pestaña `Eventos`{:class="blo
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Haz clic en la pestaña `Apariencia`{:class="block3looks"}, y arrastra el bloque `decir`{:class="block3looks"} `¡Hola!` `durante 2 segundos`{:class="block3looks"} debajo del bloque de ` al hacer clic en este objeto`{:class="block3events"} que ya habías añadido.
 
-![ada sprite](images/ada-sprite.png)
+![imagen ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Haz clic en Ada, y verás cómo te habla.
 
-![screenshot](images/poetry-say-test.png)
+![captura de pantalla](images/poetry-say-test.png)
 
 \--- /task \---
