@@ -1,10 +1,10 @@
-## What next?
+## Что дальше?
 
-Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
+Взгляни на проект Scratch [Воздушные шары](https://projects.raspberrypi.org/en/projects/balloons).
 
 \--- no-print \---
 
-Pop the balloons by clicking on them.
+Лопай воздушные шары, нажав на них.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![завершенный проект](images/balloons-final.png)
 
 \--- /print-only \---
