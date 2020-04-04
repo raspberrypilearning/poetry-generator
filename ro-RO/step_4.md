@@ -1,12 +1,12 @@
-## Telling Ada your name
+## Spune-i Adei numele tău
 
-Ada has introduced herself, but she doesn't know your name!
+Ada s-a prezentat, dar nu știe numele tău!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Trage un bloc `întreabă`{:class="block3sensing"} (de la secțiunea `detectare`{:class="block3sensing"}) la codul tău. Așa ar trebui să arate codul tău:
 
-![ada sprite](images/ada-sprite.png)
+![personajul Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Dă click pe Ada pentru a-ți testa codul. Ada ar trebui să-ți solicite numele, pe care îl poți introduce!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![personajul Ada care întreabă numele tău](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Putem folosi o **variabilă** pentru a stoca numele. Dă click pe `Variabile`{:class="block3variables"}, apoi pe „Creează o variabilă”. Deoarece această variabilă va fi folosită pentru a-ți stoca numele, să numim variabila... `nume`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Pentru a-ți stoca numele, dă click pe blocul `Variabile`{:class="block3variables"} și trage apoi numele `setează`{:class="block3variables"} până la sfârșitul codului tău.
 
-![ada sprite](images/ada-sprite.png)
+![personajul Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Folosește blocul `răspuns`{:class="block3sensing"} pentru a stoca răspunsul pe care îl introduci.
 
-![ada sprite](images/ada-sprite.png)
+![personajul Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Dă click pe Ada pentru a testa codul tău și introdu numele tău atunci când este solicitat. Ar trebui să vezi că numele tău a fost stocat în variabila `nume`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![captură de ecran](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Acum poți folosi numele tău în codul tău. Adaugă acest cod:
 
-![ada sprite](images/ada-sprite.png)
+![personajul Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Pentru a crea acest cod:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Trage un bloc `alătură`{:class="blockoperators"} pe blocul `spune`{:class="blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Adaugă blocul `nume`{:class="blockdata"} pe blocul `alătură-te`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Pentru a ascunde variabila `nume`{:class="block3variables"} de pe scenă, dă click pe bifa de lângă variabilă.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![bifa de lângă numele variabilei](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Testează-ți noul cod. Ada ar trebui să te salute, folosindu-ți numele!
 
-![ada sprite](images/ada-sprite.png)
+![captură de ecran](images/poetry-name-test2.png)
+
+Dacă nu există spațiu între cuvântul „Salut” și numele tău, va trebui să adaugi un spațiu în cod!
+
+\--- /task \---
+
+\--- task \---
+
+În cele din urmă, adaugă acest cod pentru a explica ce trebuie să faci în continuare:
+
+![personajul Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Testează codul Adei încă odată, pentru a te asigura că totul funcționează.
 
 \--- /task \---
