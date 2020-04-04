@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## Animons le Moteur Analytique
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Animons l'ordinateur, afin qu'il ait l'air de générer de la poésie.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Clique sur ton sprite informatique, et ajoute ce code après le premier bloc `dire`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Tu trouveras les blocs `répéter`{:class="block3control"} et `attendre`{:class="block3control"} dans la section `Contrôle`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![sprite de l'ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Teste ton projet. Tu devrais voir l'ordinateur trembler avant de produire un poème !
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![sprite de l'ordinateur secouant d'avant en arrière](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Clique sur l’onglet « Sons » et clique sur l’icône « Choisir un son » en bas à gauche.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Choisis le son "computer beep" et clique sur OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![les deux bips sons dans la bibliothèque de sons](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Ajoute un bloc `commencer le son`{:class="block3sound"}, pour jouer ton son juste avant le début de ton animation.
 
-![computer sprite](images/computer-sprite.png)
+![sprite de l'ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
