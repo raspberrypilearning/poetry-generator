@@ -1,27 +1,27 @@
-Hello!
+Witaj!
 
-Hi, I’m Ada!
+Cześć, jestem Ada!
 
-What’s your name?
+Jak masz na imię?
 
-name
+imię
 
-Hi
+Cześć
 
-Click the computer to generate a poem.
+Kliknij komputer, aby wygenerować wiersz.
 
-Here is your poem…
+Oto twój wiersz…
 
-verbs
+czasowniki
 
-adverbs
+przysłówki
 
-nouns
+rzeczowniki
 
-adjectives
+przymiotniki
 
-I
+Ja
 
-by the
+przy
 
-I feel
+czuję się
