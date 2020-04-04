@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## Анимируем аналитический двигатель
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Давай оживим твой компьютер, чтобы он выглядел так, как будто он генерирует стихи.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Нажми на спрайт компьютера и добавь этот код после первого блока `говорить`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Ты найдешь блоки `повторить`{:class="block3control"} и `ждать`{:class="block3control"} в секции `Управление`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Протестируй свой проект. Ты должен увидеть как компьютер трясется, перед ткм, как создать стихотворение!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![спрайт компьютера трясется](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Перейди на вкладку «Звуки» и нажмите значок «Выбрать звук» в левом нижнем углу.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Выбери звук «компьютерный сигнал» и нажми «ОК».
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![компьютер издает звуки 1 и 2 из звуковой библиотеки](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Добавь блок `включить звук`{:class="block3sound"}, чтобы воспроизвести звук непосредственно перед началом анимации.
 
-![computer sprite](images/computer-sprite.png)
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
