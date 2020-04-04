@@ -72,9 +72,9 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+これで、あなたの名前がコードで使えるようになりました。 このコードを追加します。
 
-![ada sprite](images/ada-sprite.png)
+![ada スプライト](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,7 +84,7 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+このコードを作るには：
 
 1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
     
