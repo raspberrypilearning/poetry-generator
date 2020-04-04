@@ -29,7 +29,7 @@ Vamos usar **verbos** (palavras de ação) na primeira linha do teu poema. Cria 
 
 A tua nova lista vai estar vazia. Clica no `+` ao fundo da tua lista vazia e adiciona estes verbos:
 
-![lista com o + destacado](images/poetry-verbos-annotated.png)
+![lista com o + destacado](images/poetry-verbs-annotated.png)
 
 --- /task ---
 

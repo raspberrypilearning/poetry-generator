@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Wyzwanie: Spersonalizuj swój wiersz
+## Wyzwanie: spersonalizuj swój wiersz
 
 Czy możesz użyć zmiennej `name`{:class="block3variables"} do spersonalizowania wiersza?
 

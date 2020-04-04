@@ -66,7 +66,7 @@ set [이름 v] to (answer :: +)
 
 코드를 테스트 해보기 위해 에이다를 클릭하고, 물어볼때 이름을 입력하세요. 이름이 `이름`{:class="block3variables"} 변수에 저장되어 있어야합니다.
 
-![스크린샷](images/poetry-이름-test.png)
+![스크린샷](images/poetry-name-test.png)
 
 --- /task ---
 
@@ -112,7 +112,7 @@ set [이름 v] to (answer)
 
 새로워진 여러분의 코드를 테스트해 보세요. 에이다는 당신의 이름을 사용하여 당신에게 인사해야 합니다!
 
-![스크린샷](images/poetry-이름-test2.png)
+![스크린샷](images/poetry-name-test2.png)
 
 '안녕' 이라는 단어와 이름 사이에 공백이 없으면 코드에 공백을 직접 추가해줘야 합니다.
 

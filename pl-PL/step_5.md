@@ -29,7 +29,7 @@ Użyjmy **czasowników** (słów czynności) w pierwszej linii Twojego wiersza. 
 
 Twoja nowa lista będzie pusta. Kliknij `+` na dole pustej listy i dodaj te czasowniki:
 
-![lista z podświetlonym +](images/poetry-czasowniki-annotated.png)
+![lista z podświetlonym +](images/poetry-verbs-annotated.png)
 
 --- /task ---
 

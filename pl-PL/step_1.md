@@ -29,7 +29,7 @@ title: Czego się nauczysz
 ---
 + Zmienne
 + Listy i losowe elementy listy;
-+ Powtórzenie (blok `powtarzaj`blok {:class="block3control"}).
++ Powtórzenie (blok `powtarzaj`blok{:class="block3control"}).
 
 --- /collapse ---
 

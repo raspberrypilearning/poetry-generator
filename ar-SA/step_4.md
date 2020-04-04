@@ -81,7 +81,7 @@ when this sprite clicked
 say [مرحبًا، أنا ادا!] for (2) seconds
 ask [ما هو اسمك؟] and wait
 set [الاسم v] to (answer)
-+say (join [Hi ] (الاسم)) for (2) seconds 
++say (join [مرحباً ] (الاسم)) for (2) seconds 
 ```
 
 لإنشاء هذا الكود البرمجي:
@@ -112,7 +112,7 @@ set [الاسم v] to (answer)
 
 اختبر الكود البرمجي الجديد. يجب أن تقول لك ادا مرحباً، باستخدام اسمك!
 
-![لقطة الشاشة](images/poetry-الاسم-test2.png)
+![لقطة الشاشة](images/poetry-name-test2.png)
 
 إذا لم تكن هناك مسافة بين كلمة "مرحبا" واسمك، فستحتاج إلى إضافة مسافة إلى الكود البرمجي بنفسك!
 

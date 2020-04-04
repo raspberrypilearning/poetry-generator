@@ -66,7 +66,7 @@ set [nome v] to (answer :: +)
 
 Clique na Ada para testar o teu código e digita o teu nome quando for solicitado. Deves conseguir ver que o teu nome foi armazenado na variável `nome`{:class="block3variables"}.
 
-![captura de ecrã](images/poetry-nome-test.png)
+![captura de ecrã](images/poetry-name-test.png)
 
 --- /task ---
 
@@ -112,7 +112,7 @@ Para ocultar a tua variável `nome`{:class="block3variables"} do palco, clica na
 
 Testa o teu novo código. A Ada deverá dizer-te olá, usando o teu nome!
 
-![captura de ecrã](images/poetry-nome-test2.png)
+![captura de ecrã](images/poetry-name-test2.png)
 
 Se não houver um espaço entre a palavra 'Olá' e o teu nome, terás tu que o adicionar no teu código!
 

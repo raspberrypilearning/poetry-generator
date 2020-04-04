@@ -9,7 +9,7 @@ last_tested: 2019-02-20
 steps:
   - title: Wprowadzenie
   - title: Ada Lovelace
-  - title: 'Wyzwanie: Zaprogramuj Adę, aby się przedstawiła'
+  - title: 'Wyzwanie: zaprogramuj Adę, aby się przedstawiła'
     challenge: true
   - title: Powiedz Adzie swoje imię
   - title: Silnik analityczny
@@ -19,6 +19,6 @@ steps:
     challenge: true
   - title: 'Wyzwanie: więcej słów'
     challenge: true
-  - title: 'Wyzwanie: Więcej poezji'
+  - title: 'Wyzwanie: więcej poezji'
     challenge: true
   - title: Co dalej?

@@ -26,7 +26,7 @@ Kliknij Adę, aby przetestować kod. Ada powinna zapytać cię o imię, które m
 
 --- task ---
 
-Możemy użyć **zmiennej ** do przechowywania twojego imienia. Kliknij `Zmienne`{:class="block3variables"}, a następnie „Utwórz zmienną”. Ponieważ ta zmienna będzie używana do przechowywania twojego imienia, wywołajmy zmienną ... `imię`{:class="block3variables"}!
+Możemy użyć **zmiennej** do przechowywania twojego imienia. Kliknij `Zmienne`{:class="block3variables"}, a następnie „Utwórz zmienną”. Ponieważ ta zmienna będzie używana do przechowywania twojego imienia, wywołajmy zmienną ... `imię`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -66,7 +66,7 @@ set [imię v] to (answer :: +)
 
 Kliknij na Ada, aby przetestować kod i wpisz swoje imię, gdy zostaniesz o to poproszony. Powinieneś zobaczyć, że twoje imię zostało zapisane w zmiennej `imię`{:class="block3variables"}.
 
-![zrzut ekranu](images/poetry-imię-test.png)
+![zrzut ekranu](images/poetry-name-test.png)
 
 --- /task ---
 
@@ -112,13 +112,13 @@ Aby ukryć zmienną `imię`{:class="block3variables"} na scenie, kliknij znaczni
 
 Przetestuj swój nowy kod. Ada powinna się z tobą przywitać, używając twojego imienia!
 
-![zrzut ekranu](images/poetry-imię-test2.png)
+![zrzut ekranu](images/poetry-name-test2.png)
 
 Jeśli między słowem „Cześć” a twoim imieniem nie ma spacji, musisz samodzielnie dodać spację do kodu!
 
 --- /task ---
 
---- zadanie---
+--- task ---
 
 Na koniec dodaj ten kod, aby wyjaśnić, co robić dalej:
 

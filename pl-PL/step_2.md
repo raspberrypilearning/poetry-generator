@@ -10,7 +10,7 @@ Otwórz projekt startowy Scratch „Poetry Generator”.
 
 Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
-**Offline**: otwórz projekt początkowy [ ](http://rpf.io/p/pl-PL/poetry-generator-go) {:target="_ blank"} w edytorze offline.
+**Offline**: otwórz projekt początkowy [ ](http://rpf.io/p/pl-PL/poetry-generator-go){:target="_blank"} w edytorze offline.
 
 Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
