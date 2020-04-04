@@ -1,12 +1,12 @@
-## Telling Ada your name
+## エイダにあなたの名前を伝える
 
-Ada has introduced herself, but she doesn't know your name!
+エイダは自己紹介しましたが、彼女はあなたの名前を知りません！
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+`と聞いて待つ`{:class="block3sensing"}ブロックを(`調べる`{:class="block3sensing"}セクションから)作成中のコードにドラッグします。 コードは次のようになります。
 
-![ada sprite](images/ada-sprite.png)
+![ada スプライト](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+エイダをクリックしてコードをテストします。 エイダはあなたの名前を聞いてきます。そしてあなたは名前をキーボードから入力できます！
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![あなたの名前を尋ねるadaスプライト](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+**変数** を使用すればあなたの名前を保存できます。 `変数`{:class="block3variables"}をクリックし、次に「変数を作る」をクリックします。 この変数はあなたの名前を保存するために使用されるので、変数名は... `名前`{:class="block3variables"}にしましょう！
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+名前を保存するには、`変数`{:class="block3variables"}タブをクリックし、 `名前を(0)にする`{:class="block3variables"}ブロックをコードの最後にドラッグします。
 
-![ada sprite](images/ada-sprite.png)
+![ada スプライト](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+入力した内容を保存するには、`答え`{:class="block3sensing"}ブロックを使います。
 
-![ada sprite](images/ada-sprite.png)
+![ada スプライト](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,9 +64,9 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+エイダをクリックして、問いかけられたらあなたの名前を入力し、コードをテストします。 あなたの名前が`名前`{:class="block3variables"}変数に保存されたことがわかります。
 
-![screenshot](images/poetry-name-test.png)
+![スクリーンショット](images/poetry-name-test.png)
 
 \--- /task \---
 
