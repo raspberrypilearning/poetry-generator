@@ -68,9 +68,9 @@ Tu código debe parecerse a esto:
 ![objeto computadora](images/computer-sprite.png)
 
 ```blocks3
-al hacer clic en este objeto
-decir [Aquí está tu poema...] durante (2) segundos
-+ decir (unir[Yo ](elemento(número aleatorio entre (1) y (longitud de [verbos v])) de [verbos v])) durante (2) segundos
+when this sprite clicked
+say [Here is your poem...] for (2) seconds
++ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
 ```
 
 \--- /task \---
