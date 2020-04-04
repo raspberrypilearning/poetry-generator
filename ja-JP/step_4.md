@@ -86,13 +86,13 @@ set [name v] to (answer)
 
 このコードを作るには：
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. `(apple)と(bananna)`{:class="blockoperators"}ブロックを `(こんにちは！)と(2)秒言う`{:class="blocklooks"}ブロックにドラッグします
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. `名前`{:class="blockdata"}ブロックを `(apple)と(bananna)`{:class="blockoperators"}ブロックに追加します。
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ set [name v] to (answer)
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+`名前`{:class="block3variables"}変数をステージに表示しないようにするには、変数の横のチェックマークをクリックします。
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![名前変数のチェックマーク](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+新しいコードをテストします。 エイダはあなたの名前を使ってあなたに挨拶するはずです！
 
-![ada sprite](images/ada-sprite.png)
+![スクリーンショット](images/poetry-name-test2.png)
+
+「ハーイ」とあなたの名前の間にスペースがない場合は、コードにスペースを自分で追加する必要があります。
+
+\--- /task \---
+
+\--- task \---
+
+最後に、このコードを追加して、次に何をすべきかを説明します。
+
+![ada スプライト](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Adaのコードを最後にもう一度テストして、すべてが機能することを確認します。
 
 \--- /task \---
