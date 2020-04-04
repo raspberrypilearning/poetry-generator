@@ -17,11 +17,11 @@ steps:
   - 
     title: エイダにあなたの名前を伝える
   - 
-    title: アナリティカル エンジン
+    title: 解析機関(アナリティカルエンジン)
   - 
-    title: もっとたくさんの詩
+    title: 詩をもっとたくさん
   - 
-    title: アナリティカル エンジンを動かす
+    title: 解析機関を動かす
   - 
     title: 'チャレンジ：詩を個人用にする'
     challenge: true
@@ -29,7 +29,7 @@ steps:
     title: 'チャレンジ：単語をもっとたくさん'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: 'チャレンジ：詩をもっとたくさん'
     challenge: true
   - 
-    title: What next?
+    title: 次は何をしますか？
