@@ -1,27 +1,27 @@
-Hello!
+Hallo!
 
-Hi, I’m Ada!
+Hallo, ich bin Ada!
 
-What’s your name?
+Wie heißt du?
 
-name
+Name
 
-Hi
+Hallo
 
-Click the computer to generate a poem.
+Klicke auf den Computer, um ein Gedicht zu erstellen.
 
-Here is your poem…
+Hier ist dein Gedicht…
 
-verbs
+Verben
 
-adverbs
+Adverbien
 
-nouns
+Nomen
 
-adjectives
+Adjektive
 
-I
+Ich
 
-by the
+am
 
-I feel
+Ich fühle
