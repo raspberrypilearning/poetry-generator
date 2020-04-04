@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## Πρόκληση: Περισσότερη ποίηση
 
-Can you use your own lists to generate you own poetry?
+Μπορείς να χρησιμοποιήσεις τις δικές σου λίστες για να δημιουργήσεις τη δική σου ποίηση;
 
 \--- /challenge \---
