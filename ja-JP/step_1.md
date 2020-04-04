@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+これは**Scratch 3**用のプロジェクトです。 [Scratch 2用のプロジェクト](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2)もあります。
 
 \--- /no-print \---
 
-## Introduction
+## はじめに
 
-You are going to learn how to program your own poetry generator!
+自分用の自動作詩機のプログラム方法を学びます！
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![ゲームのスクリーンショット](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 学習すること
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ 変数
++ リストとランダムなリストアイテム。
++ 繰り返し (`繰り返し`{:class="block3control"}ブロック)。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 必要なもの
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### ハードウェア
+
++ Scratch 3を実行できるコンピュータ
+
+#### ソフトウェア
+
++ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
+
+#### ダウンロードするもの
+
+基本(きほん)のプロジェクトは [こちら](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}にあります。
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: 教育者向けの追加情報
+
+このプロジェクトは、 [エイダ・ラブレースの日](https://findingada.com)を祝うために作成されました。 あなたが教師の場合、集会の手引きを含む学校用のリソースパックをダウンロード([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip))し、子供たちにエイダと彼女の革新的なアイデアを紹介することもできます。
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_ blank"}を使用してください。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+[完成したプロジェクトはこちらに](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}あります 。
 
 \--- /collapse \---
