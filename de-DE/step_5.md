@@ -1,12 +1,12 @@
-## The Analytical Engine
+## Die analytische Maschine
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Programmieren wir Adas Computer (genannt "Analytische Maschine"), um Gedichte zu erstellen.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Füge diesen Code zu deiner Computer Figur hinzu, so dass es spricht, wenn es geklickt wird:
 
-![computer sprite](images/computer-sprite.png)
+![Computer Sprite](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Um ein zufälliges Gedicht zu erstellen, brauchst du als erstes eine **Liste** mit Wörtern, die du benutzen willst. Um eine neue Liste zu erstellen, klicke auf die `Daten`{:class="block3variables"} Tabelle.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Lass uns **Verben** (Aktionswörter) in der ersten Gedichtszeile benutzen. Erstelle eine neue Liste mit dem Namen `Verben`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Deine neue Liste wird leer sein. Klicke auf das `+` am unteren Teil deiner leeren Liste und füge diese Verben hinzu:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![Liste mit dem + hervorgehobenen](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+Die erste Linie deines Gedichtes sollte das Wort "Ich" gefolgt von einem zufälligen Verb sein.
 
-To create this line of poetry, you need to:
+Um eine neue Gedichtszeile zu erstellen, musst du:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Wähle eine zufällige (englisch: random) Zahl`{:class="block3operators"} zwischen `1` und der `Länge der Liste mit Verben`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Benutze diesen Codeblock, um ein zufälliges `Element`{:class="block3variables"} von der `Verben`{:class="block3variables"} Liste:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Verbinde`{:class="block3operators"} 'Ich' mit einem zufälligem Verb um die erste Gedichtszeile zu erstellen:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Benutze einen `sage`{:class="block3looks"} Block, um die Gedichtszeile darzustellen:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Dein Code sollte so aussehen:
 
-![computer sprite](images/computer-sprite.png)
+![Computer Sprite](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Teste deinen Code ein paar Mal. Dein Computer sollte jedes Mal ein zufälliges Wort von der `Verben`{:class="block3variables"} Liste auswählen.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 Sprechblasen, die verschiedene Dinge sagen](images/poetry-random-test.png)
 
 \--- /task \---
