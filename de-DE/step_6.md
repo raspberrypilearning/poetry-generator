@@ -6,7 +6,7 @@ Your poem is quite short - let's add to it!
 
 Lass uns Adverbien in der nächsten Gedichtszeile benutzen. Ein **Adverb** ist ein Wort, welches ein Verb beschreibt. Erstelle eine weitere Liste namens Adverbien und füge diese 3 Wörter hinzu:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![Liste mit den Wörtern geräuschvoll, lautlos, unendlich](images/poetry-adverbs.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@ Lass uns Adverbien in der nächsten Gedichtszeile benutzen. Ein **Adverb** ist e
 
 Füge diese Zeile zu deinem Computer Code hinzu, um ein zufälliges Adverb auf der nächsten Gedichtszeile zu sagen:
 
-![computer sprite](images/computer-sprite.png)
+![Computer Sprite](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,7 +29,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 Teste deinen Code mehrmals. Du solltest jedes Mal ein zufälliges Gedicht sehen.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
+![zufällige Sprechblasen mit Adverbien](images/poetry-adverb-test.png)
 
 \--- /task \---
 
@@ -37,7 +37,7 @@ Teste deinen Code mehrmals. Du solltest jedes Mal ein zufälliges Gedicht sehen.
 
 Füge eine Liste mit Nomen zu deinem Projekt hinzu. Ein **Nomen** ist ein Ort oder Gegenstand.
 
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![eine Liste von Substantiven mit den Wörtern Meer, Mond, Baum](images/poetry-nouns.png)
 
 \--- /task \---
 
@@ -45,7 +45,7 @@ Füge eine Liste mit Nomen zu deinem Projekt hinzu. Ein **Nomen** ist ein Ort od
 
 Füge einen Code hinzu, um die Nomen in deinen Gedicht zu benutzen.
 
-![computer sprite](images/computer-sprite.png)
+![Computer Sprite](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -61,7 +61,7 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 Füge eine Liste mit Adjektiven zu deinem Projekt hinzu. Ein **Adjektiv** ist ein Wort zum Umschreiben.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![eine Liste von Adjektivwörtern glücklich, müde, hungrig](images/poetry-adjectives.png)
 
 \--- /task \---
 
@@ -69,7 +69,7 @@ Füge eine Liste mit Adjektiven zu deinem Projekt hinzu. Ein **Adjektiv** ist ei
 
 Füge einen Code zu deinen Gedicht hinzu, um Adjektive zu benutzen:
 
-![computer sprite](images/computer-sprite.png)
+![Computer Sprite](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Du kannst auf die Boxen neben deinen Listen klicken, um sie zu verstecken.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![die Variablen mit den markierten Kästchen auflisten](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Teste dein neues Gedicht.
 
 \--- /task \---
