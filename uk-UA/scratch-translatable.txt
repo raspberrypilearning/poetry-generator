@@ -1,14 +1,14 @@
-Hello!
+Привіт!
 
-Hi, I’m Ada!
+Привіт, я — Ада!
 
-What’s your name?
+Як тебе звати?
 
-name
+ім’я
 
-Hi
+Привіт
 
-Click the computer to generate a poem.
+Клікни на комп’ютер, щоб згенерувати вірш.
 
 Here is your poem…
 
