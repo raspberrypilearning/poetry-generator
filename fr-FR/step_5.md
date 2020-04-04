@@ -1,10 +1,10 @@
-## The Analytical Engine
+## La Machine Analytique
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Programmons l'ordinateur d'Ada (appelé la 'Machine Analytique') pour générer de la poésie.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Ajoute ce code à ton sprite "Ordinateur", pour qu'il parle lorsqu'il est cliqué :
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Pour créer un poème aléatoire, tu aurasq besoin d'une **liste** de mots à utiliser. Pour créer une nouvelle liste, clique sur l'onglet `Variables`{:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Utilisons **verbes** (mots d'action) dans la première ligne de ton poème. Crée une liste appelée `verbes`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,7 +27,7 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Ta nouvelle liste sera vide. Clique sur le `+` en bas de ta liste vide et ajoute ces verbes :
 
 ![list with the + highlighted](images/poetry-verbs-annotated.png)
 
@@ -35,23 +35,23 @@ Your new list will be empty. Click the `+` at the bottom of your empty list and 
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+La première ligne de ton poème devrait être le mot "Je", suivi d'un verbe aléatoire.
 
-To create this line of poetry, you need to:
+Pour créer cette ligne de poésie, tu dois :
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Choisir un nombre aléatoire`{:class="block3operators"} entre `1` et la `longueur de la liste des verbes`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Utiliser ce bloc pour obtenir un `élément aléatoire`{:class="block3variables"} de la liste `verbes`{:class="block3variables"} :
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Regrouper`{:class="block3operators"} "Je" avec le verbe aléatoire pour créer la première ligne de votre poème:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
