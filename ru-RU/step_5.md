@@ -1,12 +1,12 @@
-## The Analytical Engine
+## Аналитический двигатель
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Давай запрограммируем компьютер Ады (так называемый «Аналитический двигатель»), чтобы он генерировал поэзию.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Добавь этот код к спрайту «Компьютер», чтобы он говорил при нажатии:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Чтобы создать случайное стихотворение, сначала тебе понадобится использовать **список** слов. Чтобы создать новый список, нажми на вкладку `Переменные`{:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Давай использовать **глаголы** (слова-действия) в первой строке нашего стихотворения. Создай новый список с именем `глаголы`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Твой новый список будет пустым. Нажми `+` внизу твоего пустого списка и добавь эти глаголы:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![список с выделенным +](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+Первая строка твоего стихотворения должна быть словом «Я», за которым следует случайный глагол.
 
-To create this line of poetry, you need to:
+Для создания этой строки стихотворения, необходимо:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Выдать случайное число`{:class="block3operators"} от `1` и до `длины списка глаголов`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Используй этот блок, чтобы получить случайный `элемент`{:class="block3variables"} из списка `глаголов`{:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Объедини`{:class="block3operators"} "Я" со случайным глаголом, чтобы создать первую строку твоего стихотворения:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Используйте блок `говорить` {: class = "block3looks"} для отображения строки стихотворения:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Твой код должен выглядеть вот так:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Протестируй свой код несколько раз. Твой компьютер должен каждый раз выбирать случайное слово из списка `глаголов`{:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 облачка с разным текстом](images/poetry-random-test.png)
 
 \--- /task \---
