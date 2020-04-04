@@ -1,10 +1,10 @@
-## More poetry
+## 詩をもっとたくさん
 
-Your poem is quite short - let's add to it!
+いまのままでは詩はとても短いです ー 追加しましょう！
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. 副詞という名前のリストを作成し、次の3つの単語を追加します。
+詩の次の行で副詞を使ってみましょう。 **副詞**は動詞を説明する言葉です。 副詞という名前のリストを作成し、次の3つの単語を追加します。
 
 ![うるさく、静かに、終わりなくの言葉が入ったリスト](images/poetry-adverbs.png)
 
