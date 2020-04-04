@@ -57,15 +57,15 @@ say [Here is your poem...] for (2) seconds
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. `と(2)秒言う`{:class="block3looks"}ブロックを使って詩の行を表示します：
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+コードは次のようになります:
 
-![computer sprite](images/computer-sprite.png)
+![computer スプライト](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+コードを何回かテストしてください。 コンピュータは`動詞`{:class="block3variables"}リストから、毎回ランダムに単語を選んで表示します。
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![異なることを言っている3つの吹き出し](images/poetry-random-test.png)
 
 \--- /task \---
