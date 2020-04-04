@@ -1,12 +1,12 @@
-## The Analytical Engine
+## Motorul analitic
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Să programăm computerul Adei (denumit „Motorul Analitic”) să genereze poezie.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Adaugă acest cod la personajul „Computer”, astfel încât acesta să vorbească atunci când dă click pe el:
 
-![computer sprite](images/computer-sprite.png)
+![personaj computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Pentru a crea o poezie aleatorie, mai întâi ai nevoie de o **listă** de cuvinte pentru a le folosi. Pentru a crea o nouă listă, dă click pe blocul `Variabile` {:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Să folosim **verbe** (cuvinte de acțiune) în prima linie a poeziei tale. Creează o nouă listă numită `verbe`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,58 +27,57 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Noua ta listă va fi goală. Dă click pe `+` din partea de jos a listei tale goale și adaugă aceste versuri:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-The first line of your poem should be the word "I", followed by a random verb.
-
-To create this line of poetry, you need to:
-
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
-    
-    ```blocks3
-    (pick random (1) to (length of [verbs v]))
-    ```
-
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
-    
-    ```blocks3
-    (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
-    ```
-
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
-    
-    ```blocks3
-    (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
-    ```
-
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
-    
-    ```blocks3
-    say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
-    ```
-
-Your code should look like this:
-
-![computer sprite](images/computer-sprite.png)
-
-```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-```
+![lista cu + evidențiat](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Primul vers al poeziei tale ar trebui să fie cuvântul „eu”, urmat de un verb aleatoriu.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+Pentru a crea acest vers, trebuie să:
 
-\--- /task \---
+1. `Alegi un număr aleator`{:class="block3operators"} între `1` și `lungimea listei „verbe<”/0>{:class="block3variables"}:</p>
+
+<pre><code class="blocks3">(pick random (1) to (length of [verbs v]))
+`</pre></li> 
+    
+    - Folosește acest bloc pentru a obține un `element`{:class="block3variables"} aleatoriu din lista `verbe`{:class="block3variables"}:
+        
+        ```blocks3
+        (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
+        ```
+    
+    - `Alătură` {:class="block3operators"} „Eu” cu verbul aleator pentru a crea primul vers al poeziei tale:
+        
+        ```blocks3
+        (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
+        ```
+    
+    - Folosește un bloc `spune`{:class="block3looks"} pentru a afișa primul vers al poeziei:
+        
+        ```blocks3
+        say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
+        ```</ol> 
+    
+    Codul tău ar trebui să arate astfel:
+    
+    ![personaj computer](images/computer-sprite.png)
+    
+    ```blocks3
+    when this sprite clicked
+    say [Here is your poem...] for (2) seconds
+    + say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+    ```
+    
+    \--- /task \---
+    
+    \--- task \---
+    
+    Testează-ți codul de câteva ori. Computer-ul tău ar trebui să aleagă un cuvânt aleatoriu din lista `verbe`{:class="block3variables"} de fiecare dată.
+    
+    ![3 bule de vorbire care spun lucruri diferite](images/poetry-random-test.png)
+    
+    \--- /task \---
