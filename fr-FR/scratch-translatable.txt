@@ -1,27 +1,27 @@
-Hello!
+Bonjour !
 
-Hi, I’m Ada!
+Bonjour, je suis Ada !
 
-What’s your name?
+Quel est ton nom ?
 
-name
+nom
 
-Hi
+Bonjour
 
-Click the computer to generate a poem.
+Clique sur l'ordinateur pour générer un poème.
 
-Here is your poem…
+Voici ton poème …
 
-verbs
+verbes
 
-adverbs
+adverbes
 
-nouns
+noms
 
-adjectives
+adjectifs
 
-I
+Je
 
-by the
+à coté de
 
-I feel
+Je me sens
