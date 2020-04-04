@@ -51,7 +51,7 @@ Pentru a crea acest vers, trebuie să:
     (item (pick random (1) to (length of [verbe v]) :: +) of [verbe v])
     ```
     
-3. `Alătură` {:class="block3operators"} „Eu” cu verbul aleator pentru a crea primul vers al poeziei tale:
+3. `Alătură`{:class="block3operators"} „Eu” cu verbul aleator pentru a crea primul vers al poeziei tale:
         
     ```blocks3
     (join [Eu ] (item (pick random (1) to (length of [verbe v])) of [verbe v] :: +))
