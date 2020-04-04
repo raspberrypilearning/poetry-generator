@@ -1,20 +1,20 @@
-## More poetry
+## Больше поэзии
 
-Your poem is quite short - let's add to it!
+Твое стихотворение довольно короткое - давай дополним его!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Давай использовать наречия в следующей строке твоего стихотворения. **Наречие** - это слово, которое описывает глагол. Создай еще один список под названием наречия и добавь эти 3 слова:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![список со словами громко, тихо, бесконечно](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Добавь эту строку в код твоего компьютера, чтобы сказать случайное наречие в следующей строке твоего стихотворения:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Протестируй свой код несколько раз. Ты должен видеть каждый раз случайное стихотворение.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![случайные облачка текста с наречиями](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Добавь список существительных в твой проект. **Существительное** - это место или вещь.
 
-![computer sprite](images/computer-sprite.png)
+![список существительных со словами море, луна, дерево](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Добавь код, чтобы использовать существительные в твоем стихотворении.
+
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Добавь список прилагательных в твой проект. **Прилагательное** - это описательное слово.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![список прилагательных - счастливый, усталый, голодный](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Добавь код, чтобы использовать прилагательные в твоем стихотворении:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт компьютер](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Ты можешь нажать на галочку рядом со списками, чтобы скрыть их.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![список переменных с поставленными галочками](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Проверь свое новое стихотворение.
 
 \--- /task \---
