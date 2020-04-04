@@ -6,7 +6,7 @@ Poezia ta este destul de scurtă - hai să o mărim!
 
 Să folosim adverbe în următorul vers al poeziei tale. Un ** adverb ** este un cuvânt care descrie un verb. Creează o altă listă numită adverbe și adaugă aceste 3 cuvinte:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![lista cu cuvintele tare, încet, neîncetat](images/poetry-adverbs.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@ Să folosim adverbe în următorul vers al poeziei tale. Un ** adverb ** este un
 
 Adaugă această linie la codul computerului tău pentru ca acesta să pună un adverb aleatoriu pe următorul vers al poeziei:
 
-![computer sprite](images/computer-sprite.png)
+![personaj computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,7 +29,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 Testează-ți codul de câteva ori. Ar trebui să vezi o poezie aleatorie de fiecare dată.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
+![bule de vorbire aleatorii cu adverbe](images/poetry-adverb-test.png)
 
 \--- /task \---
 
@@ -37,7 +37,7 @@ Testează-ți codul de câteva ori. Ar trebui să vezi o poezie aleatorie de fie
 
 Adaugă o listă de substantive la proiectul tău. Un **substantiv** este un loc sau un lucru.
 
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![o listă de substantive cu cuvintele mare, lună, copac](images/poetry-nouns.png)
 
 \--- /task \---
 
@@ -45,7 +45,7 @@ Adaugă o listă de substantive la proiectul tău. Un **substantiv** este un loc
 
 Adaugă cod pentru a folosi substantivele în poezia ta.
 
-![computer sprite](images/computer-sprite.png)
+![personaj computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Adaugă o listă de adjective la proiectul tău. An **adjective** is a describing word.
+Adaugă o listă de adjective la proiectul tău. Un **adjectiv** este un cuvânt descriptiv.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![o listă de adjective fericit, obosit, flămând](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Adaugă cod pentru a folosi substantivele în poezia ta:
 
-![computer sprite](images/computer-sprite.png)
+![personaj computer](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Poți da click pe casetele de lângă listele tale pentru a le ascunde.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![lista variabilelor cu casetele de bifare selectate](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Testează-ți noua poezie.
 
 \--- /task \---
