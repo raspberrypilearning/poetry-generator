@@ -19,7 +19,7 @@ Aggiungi questa riga al codice del tuo computer, per dire un avverbio casuale ne
 ```blocks3
 when this sprite clicked
 say [Ecco la tua poesia…] for (2) seconds
-say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
+say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
 +say (item (pick random (1) to (length of [avverbi v])) of [avverbi v]) for (2) seconds
 ```
 
@@ -50,9 +50,9 @@ Aggiungi il codice per usare i nomi nella tua poesia.
 ```blocks3
 when this sprite clicked
 say [Ecco la tua poesia…] for (2) seconds
-say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
+say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
 say (item (pick random (1) to (length of [avverbi v])) of [avverbi v]) for (2) seconds
-+say (join [by the ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
++say (join [dal ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
 ```
 
 --- /task ---
@@ -74,10 +74,10 @@ Aggiungi il codice per usare gli aggettivi nella tua poesia:
 ```blocks3
 when this sprite clicked
 say [Ecco la tua poesia…] for (2) seconds
-say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
+say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
 say (item (pick random (1) to (length of [avverbi v])) of [avverbi v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
-+ say (join [I feel ](item (pick random (1) to (length of [aggettivi v])) of [aggettivi v])) for (2) seconds
+say (join [dal ](item (pick random (1) to (length of [nomi v])) of [nomi v])) for (2) seconds
++ say (join [Mi sento ](item (pick random (1) to (length of [aggettivi v])) of [aggettivi v])) for (2) seconds
 ```
 
 --- /task ---

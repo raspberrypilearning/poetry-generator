@@ -1,0 +1,24 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: Generator poezji Ady
+description: Świętuj Dzień Ada Lovelace, ucząc się, jak zaprogramować własny generator poezji!
+version: 4
+last_tested: 2019-02-20
+steps:
+  - title: Wprowadzenie
+  - title: Ada Lovelace
+  - title: 'Wyzwanie: zaprogramuj Adę, aby się przedstawiła'
+    challenge: true
+  - title: Powiedz Adzie swoje imię
+  - title: Silnik analityczny
+  - title: Więcej poezji
+  - title: Animowanie silnika analitycznego
+  - title: 'Wyzwanie: spersonalizuj swój wiersz'
+    challenge: true
+  - title: 'Wyzwanie: więcej słów'
+    challenge: true
+  - title: 'Wyzwanie: więcej poezji'
+    challenge: true
+  - title: Co dalej?

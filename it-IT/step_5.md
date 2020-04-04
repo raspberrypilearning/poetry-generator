@@ -54,13 +54,13 @@ Per creare questa riga di poesia, devi fare così:
 3. `Unisci`{:class="block3operators"} "Io " con il verbo scelto a caso per creare la prima riga della tua poesia:
     
     ```blocks3
-    (join [I ] (item (pick random (1) to (length of [verbi v])) of [verbi v] :: +))
+    (join [Io ] (item (pick random (1) to (length of [verbi v])) of [verbi v] :: +))
     ```
 
 4. Usa un blocco `dire`{:class="block3looks"} per visualizzare la riga della poesia:
     
     ```blocks3
-    say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v]) :: +) for (2) seconds
+    say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v]) :: +) for (2) seconds
     ```
 
 Il tuo codice dovrebbe apparire così:
@@ -70,7 +70,7 @@ Il tuo codice dovrebbe apparire così:
 ```blocks3
 when this sprite clicked
 say [Ecco la tua poesia…] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
++ say (join [Io ](item (pick random (1) to (length of [verbi v])) of [verbi v])) for (2) seconds
 ```
 
 --- /task ---
