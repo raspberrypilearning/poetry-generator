@@ -1,27 +1,27 @@
-Hello!
+Γεια σου!
 
-Hi, I’m Ada!
+Γεια, είμαι η Ada!
 
-What’s your name?
+Πώς σε λένε;
 
 name
 
-Hi
+Γεια σου
 
-Click the computer to generate a poem.
+Κάνε κλικ στον υπολογιστή για να δημιουργήσεις ένα ποίημα.
 
-Here is your poem…
+Εδώ είναι το ποίημα σου…
 
-verbs
+ρήματα
 
 adverbs
 
-nouns
+ουσιαστικά
 
-adjectives
+επίθετα
 
-I
+Εγώ
 
 by the
 
-I feel
+Αισθάνομαι
