@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## Défi: Plus de poésie
 
-Can you use your own lists to generate you own poetry?
+Peux-tu utiliser tes propres listes pour générer ta propre poésie?
 
 \--- /challenge \---
