@@ -18,32 +18,32 @@ Se você precisar baixar e instalar o editor offline do Scratch, você pode enco
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Clique no ator 'Ada' e clique na guia `Eventos`{:class="block3events"} na seção 'Código'. Arraste o `quando este ator for clicado`{:class="block3events"} para a área de codificação à direita.
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![arrastando o bloco quando este ator for clicado](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Qualquer código adicionado abaixo deste bloco será executado quando a Ada for clicada!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Clique na guia `Aparência`{:class="block3looks"} e arraste o bloco `diga`{:class="block3looks"} `Olá!` `por 2 segundos`{:class="block3looks"} abaixo do `quando este ator for clicado`{:class="block3events"} que você já adicionou.
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hello!] for (2) seconds
+quando este ator for clicado
+diga [Olá!] por (2) segundos
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Clique em Ada e você a verá falar com você.
 
 ![screenshot](images/poetry-say-test.png)
 
