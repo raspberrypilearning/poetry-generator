@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Πρόσθεσε αυτόν τον κώδικα στο αντικείμενο 'Υπολογιστής', έτσι ώστε να μιλάει όταν κάνεις κλικ:
+Add this code to your 'Computer' sprite, so that it speaks when clicked:
 
 ![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
