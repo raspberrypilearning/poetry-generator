@@ -6,7 +6,7 @@ Ceci est la version **Scratch 3** du projet. Il existe également une version [S
 
 ## Introduction
 
-Tu vas apprendre à programmer ton propre générateur de poésie!
+Tu vas apprendre à programmer ton propre générateur de poésie !
 
 \--- no-print \---
 
@@ -27,9 +27,9 @@ Tu vas apprendre à programmer ton propre générateur de poésie!
 
 ## title: Ce que tu vas apprendre
 
-+ Variables;
-+ Listes et éléments de liste aléatoires;
-+ Répétition (le bloc `repeat`{: class = "block3control"}).
++ Variables ;
++ Listes et éléments de liste aléatoires ;
++ Répétition (le bloc `repeat`{:class="block3control"}).
 
 \--- /collapse \---
 
@@ -43,7 +43,7 @@ Tu vas apprendre à programmer ton propre générateur de poésie!
 
 #### Logiciel
 
-+ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors-ligne](http://rpf.io/scratchoff){:target="_blank"})
 
 #### Téléchargements
 
