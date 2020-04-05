@@ -6,7 +6,7 @@ Vamos programar o computador da Ada (chamado 'Motor Analítico') para gerar a po
 
 Adicione este código ao seu ator 'Computador', para que fale quando for clicado:
 
-![computer sprite](images/computer-sprite.png)
+![ator Computador](images/computer-sprite.png)
 
 ```blocks3
 quando este ator for clicado
@@ -29,7 +29,7 @@ Vamos usar **verbos** (palavras que indicam ações) na primeira linha do seu po
 
 Sua nova lista estará vazia. Clique em `+` no final da sua lista vazia e adicione estes verbos:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![lista com o + destacado](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
@@ -42,19 +42,19 @@ Para criar esta linha de poesia, você precisa:
 1. Escolher `um número aleatório`{:class="block3operators"} entre `1` e o `comprimento da lista de verbos`{:class="block3variables"}:
     
     ```blocks3
-    (número aleatório entre (1) e (tamanho de [verbos v]))
+    (item # de (random) em [verbos v])
     ```
 
 2. Use este bloco para obter um `item` aleatório{:class="block3variables"} a partir da lista de `verbos`{:class="block3variables"}:
     
     ```blocks3
-    (item # de (tamanho de [verbos v]) em [verbos v])
+    (item (random) de [verbos v])
     ```
 
 3. `junte` {:class="block3operators"} a palavra "Eu" com um verbo aleatório, para criar a primeira linha do seu poema:
     
     ```blocks3
-    (junte [Eu] com (item (random) de (verbos)))
+    (junte [Eu] com (item (random) de [verbos v]))
     ```
 
 4. Use o bloco `diga`{:class="block3looks"} para mostrar a linha de poesia:
@@ -68,17 +68,17 @@ Seu código deve ficar assim:
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+quando este ator for clicado
+diga [Aqui está o seu poema...] por (2) segundos
++ diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Teste seu código algumas vezes. A cada vez seu computador deverá escolher uma palavra aleatória da lista de `verbos` {:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 balões de fala dizendo coisas diferentes](images/poetry-random-test.png)
 
 \--- /task \---
