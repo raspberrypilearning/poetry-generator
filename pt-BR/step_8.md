@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## Desafio: Personalize seu poema
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+Você pode usar sua variável `nome`{:class="block3variables"} para personalizar seu poema?
 
 ![screenshot](images/poetry-name-comp.png)
 
