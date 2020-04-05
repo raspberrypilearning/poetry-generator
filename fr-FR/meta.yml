@@ -3,7 +3,7 @@ hero_image: images/banner.png
 listed: true
 ingredient: false
 title: Générateur de poésie d'Ada
-description: Célébrez la journée d'Ada Lovelace en apprenant à programmer votre propre générateur de poésie!
+description: Célèbre la journée d'Ada Lovelace en apprenant à programmer ton propre générateur de poésie !
 version: 4
 last_tested: 2019-02-20
 steps:
@@ -17,11 +17,11 @@ steps:
   - 
     title: Dire à Ada ton nom
   - 
-    title: Le moteur analytique
+    title: La Machine Analytique
   - 
     title: Plus de poésie
   - 
-    title: Animation du moteur analytique
+    title: Animation de la machine analytique
   - 
     title: 'Défi: personnalise ton poème'
     challenge: true
@@ -32,4 +32,4 @@ steps:
     title: 'Défi: plus de poésie'
     challenge: true
   - 
-    title: Et ensuite?
+    title: Et ensuite ?
