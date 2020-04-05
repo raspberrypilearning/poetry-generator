@@ -1,20 +1,20 @@
-## More poetry
+## Περισσότερη ποίηση
 
-Your poem is quite short - let's add to it!
+Το ποίημά σου είναι αρκετά σύντομο - ας το μεγαλώσουμε!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Ας χρησιμοποιήσουμε επιρρήματα στην επόμενη γραμμή του ποιήματός σου. Ένα **επίρρημα** είναι μια λέξη που περιγράφει ένα ρήμα. Δημιούργησε ακόμη μια λίστα που ονομάζεται επιρρήματα και πρόσθεσε αυτές τις 3 λέξεις:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![λίστα με τις λέξεις δυνατά, σιωπηλά, ατελείωτα](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Πρόσθεσε αυτήν τη γραμμή στον κώδικα του υπολογιστή σου, για να δηλώσεις ένα τυχαίο επίρρημα στην επόμενη γραμμή του ποιήματός σου:
 
-![computer sprite](images/computer-sprite.png)
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Δοκίμασε τον κώδικά σου μερικές φορές. Θα πρέπει να δεις ένα τυχαίο ποίημα κάθε φορά.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![τυχαία συννεφάκια με επιρρήματα](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Πρόσθεσε μια λίστα με ουσιαστικά στο έργο σου. Ένα **ουσιαστικό** είναι μια τοποθεσία ή ένα αντικείμενο.
 
-![computer sprite](images/computer-sprite.png)
+![μια λίστα ουσιαστικών με τις λέξεις θάλασσας, φεγγαριού, δέντρου](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Πρόσθεσε κώδικα για να χρησιμοποιήσεις τα ουσιαστικά στο ποίημά σου.
+
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Πρόσθεσε μια λίστα με επίθετα στο έργο σου. Ένα **επίθετο** είναι μια λέξη που περιγράφει ένα ουσιαστικό.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![μια λίστα επιθέτων με τις λέξεις χαρούμενος, κουρασμένος, πεινασμένος](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Πρόσθεσε κώδικα για να χρησιμοποιήσεις τα επίθετα στο ποίημά σου:
 
-![computer sprite](images/computer-sprite.png)
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Μπορείς να κάνεις κλικ στα πλαίσια δίπλα στις λίστες σου για να τα αποκρύψεις.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![λίστα μεταβλητών με τα πλαίσια επιλεγμένα](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Δοκίμασε το νέο σου ποίημα.
 
 \--- /task \---
