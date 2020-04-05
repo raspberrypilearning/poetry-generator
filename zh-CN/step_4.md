@@ -1,12 +1,12 @@
-## Telling Ada your name
+## 告诉艾达你的名字
 
-Ada has introduced herself, but she doesn't know your name!
+艾达已经介绍了自己，但她还不知道你的名字！
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+将 `询问`{:class="block3sensing"} 积木块(在`侦测`{:class="block3sensing"} 分类下)添加到您的代码中。 现在你的代码应如图所示：
 
-![ada sprite](images/ada-sprite.png)
+![艾达精灵](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+单击艾达以测试您的代码。 艾达应该会询问您的名字，等待您的输入！
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![艾达精灵询问您的名字](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+我们可以使用 **变量** 储存您的名字。 点击 `变量`{:class="block3variables"}，然后点击 “建立一个变量”。 此变量将用来存储您的姓名，因此我们将该变量命名为... `名字`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+要存储您的姓名，请单击 `变量`{:class="block3variables"}标签，然后拖动 `将名字设为`{:class="block3variables"} 积木块到代码末尾。
 
-![ada sprite](images/ada-sprite.png)
+![艾达精灵](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+使用 `回答`{:class="block3sensing"} 积木块来存储您输入的答案。
 
-![ada sprite](images/ada-sprite.png)
+![艾达精灵](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+单击艾达以测试您的代码，然后在询问时输入您的姓名。 您会看到您的姓名已存储在 `名字`{:class="block3variables"} 变量中。
 
-![screenshot](images/poetry-name-test.png)
+![截屏](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+现在，您可以在代码中使用您的名字了。 加入这段代码
 
-![ada sprite](images/ada-sprite.png)
+![艾达精灵](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+要创建此代码：
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. 拖动 `连接`{:class="blockoperators"} 模块，使它与 `说`{:class="blocklooks"} 模块链接在一起
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. 拖动 `名字`{:class="blockdata"} 模块，使它与 `连接`{:class="blockoperators"} 模块链接在一起
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+如果要隐藏 `名字`{:class="block3variables"} 变量，点击变量旁边的勾。
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![勾选名字变量](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+测试你的代码。 艾达会用你的名字跟你打招呼！
 
-![ada sprite](images/ada-sprite.png)
+![截屏](images/poetry-name-test2.png)
+
+如果单词 “你好”和您的名字之间没有空格，您需要在代码中添加一个空格！(中文请忽略，译注)
+
+\--- /task \---
+
+\--- task \---
+
+最后，添加以下代码以说明下一步做什么：
+
+![艾达精灵](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+最后一次测试艾达代码，以确保一切正常工作。
 
 \--- /task \---
