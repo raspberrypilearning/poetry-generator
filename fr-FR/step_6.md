@@ -14,7 +14,7 @@ Utilisons des adverbes dans la ligne suivante de ton poème. Un ** adverbe ** es
 
 Ajoute cette ligne au code de ton ordinateur, pour dire un adverbe aléatoire sur la ligne suivante de ton poème :
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -45,7 +45,7 @@ Ajoute une liste de noms à ton projet. Un **nom** est un lieu ou une chose.
 
 Ajoute du code pour utiliser les noms dans ton poème.
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -67,9 +67,9 @@ Ajoute une liste d'adjectifs à ton projet. Un **adjectif** précise le sens d'u
 
 \--- task \---
 
-Ajoute du code pour utiliser les adjectifs dans ton poème:
+Ajoute du code pour utiliser les adjectifs dans ton poème :
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
