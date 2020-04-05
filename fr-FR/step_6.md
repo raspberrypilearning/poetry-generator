@@ -4,7 +4,7 @@ Ton poème est plutôt court, étoffons-le !
 
 \--- task \---
 
-Utilisons des adverbes dans la ligne suivante de ton poème. Un ** adverbe ** est un mot qui décrit un verbe. Crée une autre liste appelée adverbes et ajoute ces 3 mots:
+Utilisons des adverbes dans la ligne suivante de ton poème. Un ** adverbe ** est un mot qui décrit un verbe. Crée une autre liste appelée adverbes et ajoute ces 3 mots :
 
 ![liste avec les mots bruyamment, silencieusement, sans fin](images/poetry-adverbs.png)
 
@@ -12,7 +12,7 @@ Utilisons des adverbes dans la ligne suivante de ton poème. Un ** adverbe ** es
 
 \--- task \---
 
-Ajoute cette ligne au code de ton ordinateur, pour dire un adverbe aléatoire sur la ligne suivante de ton poème:
+Ajoute cette ligne au code de ton ordinateur, pour dire un adverbe aléatoire sur la ligne suivante de ton poème :
 
 ![sprite de l'ordinateur](images/computer-sprite.png)
 
