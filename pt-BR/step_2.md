@@ -1,6 +1,6 @@
 ## Ada Lovelace
 
-Em 1842, Ada Lovelace escreveu sobre o uso de uma máquina chamada 'Analytical Engine' para fazer cálculos e é vista como a primeira programadora de computadores do mundo! Ada também foi a primeira a ver que os computadores poderiam ser mais do que grandes calculadoras.
+Em 1842, Ada Lovelace escreveu sobre o uso de uma máquina chamada 'Motor Analítico' para fazer cálculos e é vista como a primeira programadora de computadores do mundo! Ada também foi a primeira a ver que os computadores poderiam ser mais do que grandes calculadoras.
 
 \--- task \---
 
