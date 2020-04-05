@@ -1,10 +1,10 @@
-## Telling Ada your name
+## Πες στην Ada το όνομά σου
 
-Ada has introduced herself, but she doesn't know your name!
+Η Ada παρουσίασε τον εαυτό της, αλλά δεν ξέρει το όνομά σου!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Σύρε ένα μπλοκ `ρώτησε`{:class="block3sensing"} (από την ενότητα `αισθητήρες`{:class="block3sensing"}) στον κώδικά σου. Έτσι πρέπει να φαίνεται ο κώδικάς σου:
 
 ![ada sprite](images/ada-sprite.png)
 
