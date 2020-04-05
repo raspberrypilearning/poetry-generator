@@ -1,0 +1,27 @@
+Olá!
+
+Olá, eu me chamo Ada!
+
+Qual é o seu nome?
+
+nome
+
+Olá
+
+Clique no computador para gerar um poema.
+
+Aqui está o seu poema…
+
+verbos
+
+advérbios
+
+substantivos
+
+adjetivos
+
+Eu
+
+pelo
+
+Eu me sinto
