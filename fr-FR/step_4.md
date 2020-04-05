@@ -92,7 +92,7 @@ Pour créer ce code :
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Ajoute ton bloc `nom`{: class = "blockdata"} sur le bloc `regrouper`{: class = "blockoperators"}.
+2. Ajoute ton bloc `nom`{:class="blockdata"} sur le bloc `regrouper`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,7 +102,7 @@ Pour créer ce code :
 
 \--- task \---
 
-Pour masquer ta variable `nom`{: class = "block3variables"} sur la scène, clique sur la coche à côté de la variable.
+Pour masquer ta variable `nom`{:class="block3variables"} sur la scène, clique sur la coche à côté de la variable.
 
 ![coche la variable de nom](images/poetry-tick-annotated.png)
 
@@ -110,17 +110,17 @@ Pour masquer ta variable `nom`{: class = "block3variables"} sur la scène, cliqu
 
 \--- task \---
 
-Teste ton nouveau code. Ada devrait te dire bonjour en utilisant ton nom!
+Teste ton nouveau code. Ada devrait te dire bonjour en utilisant ton nom !
 
 ![capture d'écran](images/poetry-name-test2.png)
 
-S'il n'y a pas d'espace entre le mot "Salut" et ton nom, tu dois ajouter toi-même un espace dans le code!
+S'il n'y a pas d'espace entre le mot « Salut » et ton nom, tu dois ajouter toi-même un espace dans le code !
 
 \--- /task \---
 
 \--- task \---
 
-Enfin, ajoute ce code pour expliquer quoi faire ensuite:
+Enfin, ajoute ce code pour expliquer ce qu'il faut faire ensuite :
 
 ![sprite ada](images/ada-sprite.png)
 
