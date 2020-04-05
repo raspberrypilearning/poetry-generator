@@ -22,7 +22,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 ![Αντικείμενο Ada](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![σύροντας το μπλοκ "όταν γίνει κλικ σε αυτό το αντικείμενο"](images/poetry-click.png)
 
 Όποιος κώδικας προστεθεί κάτω από αυτό το μπλοκ θα τρέχει όταν γίνεται κλικ στην Ada!
 
@@ -32,7 +32,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
 
-![ada sprite](images/ada-sprite.png)
+![Αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -45,6 +45,6 @@ say [Hello!] for (2) seconds
 
 Κάνε κλικ στην Ada, και θα τη δεις να σου μιλάει.
 
-![screenshot](images/poetry-say-test.png)
+![στιγμιότυπο οθόνης](images/poetry-say-test.png)
 
 \--- /task \---
