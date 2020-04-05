@@ -1,10 +1,10 @@
-## What next?
+## E agora?
 
-Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
+Dê uma olhada no projeto [Balões](https://projects.raspberrypi.org/en/projects/balloons) no Scratch.
 
 \--- no-print \---
 
-Pop the balloons by clicking on them.
+Estoure os balões clicando neles.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![projeto concluído](images/balloons-final.png)
 
 \--- /print-only \---
