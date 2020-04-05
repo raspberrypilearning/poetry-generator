@@ -77,7 +77,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Maintenant, teste ton code quelques fois. Ton ordinateur doit choisir un mot aléatoire dans la liste `verbes`{:class="block3variables"} à chaque fois.
+Maintenant, teste ton code plusieurs fois. Ton ordinateur doit choisir un mot aléatoire dans la liste `verbes`{:class="block3variables"} à chaque fois.
 
 ![3 bulles de parole disant différentes choses](images/poetry-random-test.png)
 
