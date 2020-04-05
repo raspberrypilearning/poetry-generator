@@ -65,7 +65,7 @@ say [Here is your poem...] for (2) seconds
 
 Ο κώδικάς σου θα πρέπει να μοιάζει κάπως έτσι:
 
-![computer sprite](images/computer-sprite.png)
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
