@@ -30,9 +30,9 @@
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+单击 `外观`{:class="block3events"} 标签，然后拖动 `说`{:class="block3looks"} `你好！`{:class="block3looks"} `2 秒`{:class="block3looks"} 积木块，放入您刚才添加的 `当角色被点击`{:class="block3looks"} 的下面。
 
-![ada sprite](images/ada-sprite.png)
+![艾达精灵](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+单击艾达，她将对您说话。
 
-![screenshot](images/poetry-say-test.png)
+![截屏](images/poetry-say-test.png)
 
 \--- /task \---
