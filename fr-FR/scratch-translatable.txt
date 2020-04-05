@@ -1,0 +1,27 @@
+Bonjour !
+
+Bonjour, je suis Ada !
+
+Quel est ton nom ?
+
+nom
+
+Bonjour
+
+Clique sur l'ordinateur pour générer un poème.
+
+Voici ton poème …
+
+verbes
+
+adverbes
+
+noms
+
+adjectifs
+
+Je
+
+à coté de
+
+Je me sens

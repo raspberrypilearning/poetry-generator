@@ -1,0 +1,24 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: Adas Poesie-Ersteller
+description: Feiere den Ada Lovelace Tag, indem du lernst, wie du deinen eigenen Gedichtsersteller programmierst!
+version: 4
+last_tested: 2019-02-20
+steps:
+  - title: Einleitung
+  - title: Ada Lovelace
+  - title: 'Herausforderung: Codiere Ada, um sich vorzustellen'
+    challenge: true
+  - title: Sag Ada deinen Namen
+  - title: Die analytische Maschine
+  - title: Mehr Poesie
+  - title: Animieren der Analytischen Maschine
+  - title: 'Herausforderung: Personalisiere dein Gedicht'
+    challenge: true
+  - title: 'Herausforderung: Mehr Worte'
+    challenge: true
+  - title: 'Herausforderung: Mehr Poesie'
+    challenge: true
+  - title: Wie geht es weiter?
