@@ -19,10 +19,10 @@ diga [Aqui está o seu poema...] por (2) segundos
     gire > (5) graus
     espere(0.1) seg  
 fim
-diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
-diga ((item (random) de (advérbios))) por (2) segundos
-diga ((junte [pelo] com (item (random) de (substantivo)))) por (2) segundos
-+ diga ((junte [eu sinto] com (item (random) de (adjetivo)))) por (2) segundos
+diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
+diga (item (random) de [advérbios v]) por (2) segundos
+diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v]) por (2) segundos
++ diga ((junte [eu sinto] com (item (número aleatório entre (1) e (tamanho de [adjetivos v])) de [adjetivos v]) por (2) segundos
 ```
 
 \--- /task \---
