@@ -24,13 +24,13 @@ Clique sur ton sprite « Ada », puis sur l'onglet `Evénements`{:class="block3e
 
 ![faire glisser lorsque ce sprite est cliqué sur le bloc](images/poetry-click.png)
 
-Tout code ajouté sous ce bloc s'exécutera lorsque tu cliqueras sur Ada!
+Tout code ajouté sous ce bloc s'exécutera lorsque tu cliqueras sur Ada !
 
 \--- /task \---
 
 \--- task \---
 
-Clique sur l'onglet `Apparence`{: class = "block3looks"}, puis fais glisser les blocs `dire`{: class = "block3looks"} `Bonjour!` `pendant 2 secondes`{: class = "block3looks"} sous le bloc `lorsque ce sprite est cliqué sur`{: class = "block3events"} que tu as déjà ajouté.
+Clique sur l'onglet `Apparence`{:class="block3looks"}, puis fais glisser les blocs `dire`{:class="block3looks"} `Bonjour !` `pendant 2 secondes`{:class="block3looks"} sous le bloc `quand ce sprite est cliqué`{:class="block3events"} que tu as déjà ajouté.
 
 ![sprite ada](images/ada-sprite.png)
 
