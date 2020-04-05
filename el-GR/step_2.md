@@ -12,7 +12,7 @@
 
 **Offline**: άνοιξε το [αρχικό έργο](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} στον επεξεργαστή εκτός σύνδεσης.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή εκτός σύνδεσης για το Scratch, μπορείς να τον βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -30,13 +30,13 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Κάνε κλικ στην καρτέλα `Όψεις`{:class="block3looks"} και σύρε το μπλοκ `πες`{:class="block3looks"} `Γεια σου!` `για 2 δευτερόλεπτα`{:class="block3looks"} κάτω από το μπλοκ `όταν γίνει κλικ σε αυτό το αντικείμενο`{:class="block3events"} που έχεις ήδη προσθέσει.
 
 ![Αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hello!] for (2) seconds
+όταν γίνει κλικ σε αυτό το αντικείμενο
+πες [Γεια σου!] για (2) δευτερόλεπτα
 ```
 
 \--- /task \---
