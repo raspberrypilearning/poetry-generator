@@ -6,7 +6,7 @@
 
 Σύρε ένα μπλοκ `ρώτησε`{:class="block3sensing"} (από την ενότητα `αισθητήρες`{:class="block3sensing"}) στον κώδικά σου. Έτσι πρέπει να φαίνεται ο κώδικάς σου:
 
-![ada sprite](images/ada-sprite.png)
+![αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -20,7 +20,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 Click on Ada to test your code. Ada should ask you your name, which you can type in!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![αντικείμενο Ada που ρωτά ποιο είναι το όνομά σου](images/poetry-input.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
-![ada sprite](images/ada-sprite.png)
+![αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Χρησιμοποίησε το μπλοκ `απάντηση`{:class="block3sensing"} για να αποθηκεύσεις την απάντηση που πληκτρολογείς.
 
-![ada sprite](images/ada-sprite.png)
+![αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Κάνε κλικ στην Ada για να ελέγξεις τον κώδικά σου και συμπλήρωσε το όνομά σου όταν ζητηθεί. Θα δεις ότι το όνομά σου έχει αποθηκευτεί στη μεταβλητή `όνομα`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![στιγμιότυπο οθόνης](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Τώρα μπορείς να χρησιμοποιήσεις το όνομά σου στον κώδικά σου. Πρόσθεσε αυτόν τον κώδικα:
 
-![ada sprite](images/ada-sprite.png)
+![αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,7 +112,7 @@ To hide your `name`{:class="block3variables"} variable on the stage, click the t
 
 Test your new code. Ada should say hello to you, using your name!
 
-![screenshot](images/poetry-name-test2.png)
+![στιγμιότυπο οθόνης](images/poetry-name-test2.png)
 
 If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
 
@@ -122,7 +122,7 @@ If there's no space between the word 'Hi' and your name, you'll need to add a sp
 
 Finally, add this code to explain what to do next:
 
-![ada sprite](images/ada-sprite.png)
+![αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Δοκίμασε τον κώδικα της Ada για τελευταία φορά, για να βεβαιωθείς ότι όλα λειτουργούν σωστά.
 
 \--- /task \---
