@@ -65,7 +65,7 @@ Para criar esta linha de poesia, você precisa:
 
 Seu código deve ficar assim:
 
-![computer sprite](images/computer-sprite.png)
+![ator Computador](images/computer-sprite.png)
 
 ```blocks3
 quando este ator for clicado
