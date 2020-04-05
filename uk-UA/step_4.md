@@ -1,10 +1,10 @@
-## Telling Ada your name
+## Скажи Аді своє ім’я
 
-Ada has introduced herself, but she doesn't know your name!
+Ада представилася, але вона не знає твого імені!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Перетягни блок `запитати`{:class="block3sensing"} (з розділу `Датчики`{:class="block3sensing"}) у свій код. Ось як має виглядати твій код:
 
 ![ada sprite](images/ada-sprite.png)
 
