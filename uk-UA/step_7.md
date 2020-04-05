@@ -1,12 +1,12 @@
-## Animating the Analytical Engine
+## Анімація аналітичної машини
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Давай анімуємо твій комп’ютер, щоб здавалося, що він генерує вірші.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Клацни на спрайт комп’ютера та додай цей код після першого блоку `говорити`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+В розділі `Керування`{:class="block3control"} ти знайдеш блоки `повторити`{:class="block3control"} та `чекати`{:class="block3control"}.
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -29,7 +29,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Перевір свій проєкт. You should see the computer shake before producing a poem!
 
 ![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
