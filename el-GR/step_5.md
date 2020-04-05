@@ -1,10 +1,10 @@
-## The Analytical Engine
+## Η Αναλυτική Μηχανή
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Ας προγραμματίσουμε τον υπολογιστή της Ada (που ονομάζεται 'Αναλυτική Μηχανή') για να δημιουργήσουμε ποίηση.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Πρόσθεσε αυτόν τον κώδικα στο αντικείμενο 'Υπολογιστής', έτσι ώστε να μιλάει όταν κάνεις κλικ:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Για να δημιουργήσεις ένα τυχαίο ποίημα, πρώτα θα χρειαστείς μια **λίστα** των λέξεων που πρέπει να χρησιμοποιηθούν. Για να δημιουργήσεις μια νέα λίστα, κάνε κλικ στην καρτέλα `Μεταβλητές`{:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Ας χρησιμοποιήσουμε τα **ρήματα** (λέξεις δράσης) στην πρώτη γραμμή του ποιήματός σου. Δημιούργησε μια λίστα που ονομάζεται `ρήματα`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,7 +27,7 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Η νέα σου λίστα θα είναι κενή. Click the `+` at the bottom of your empty list and add these verbs:
 
 ![list with the + highlighted](images/poetry-verbs-annotated.png)
 
