@@ -8,9 +8,9 @@
 
 **Online**: άνοιξε το [αρχικό έργο](http://rpf.io/poetry-on){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Αν έχεις λογαριασμό Scratch μπορείς να κάνεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline**: άνοιξε το [αρχικό έργο](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} στον επεξεργαστή εκτός σύνδεσης.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
@@ -18,7 +18,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Κάνε κλικ στο αντικείμενο 'Ada' και κάνε κλικ στην καρτέλα `Συμβάντα`{:class="block3events"} στην ενότητα προγραμματισμού "Σενάρια". Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
 
 ![ada sprite](images/ada-sprite.png)
 
