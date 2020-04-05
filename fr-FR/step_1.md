@@ -29,7 +29,7 @@ Tu vas apprendre à programmer ton propre générateur de poésie !
 
 + Variables ;
 + Listes et éléments de liste aléatoires ;
-+ Répétition (le bloc `repeat`{:class="block3control"}).
++ Répétition (le bloc `répéter`{:class="block3control"}).
 
 \--- /collapse \---
 
