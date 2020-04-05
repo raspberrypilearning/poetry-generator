@@ -37,7 +37,7 @@ say [Here is your poem...] for (2) seconds
 
 诗歌的第一行应该是单词“ 我”，第三行是一个随机动词。
 
-To create this line of poetry, you need to:
+要创建一行诗，您需要：
 
 1. 在 `1` 和 `动词的项目数`{:class="block3variables"} `之间取随机数字`{:class="block3operators"}：
     
@@ -51,13 +51,13 @@ To create this line of poetry, you need to:
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. 
+3. 使用 `说` {：class =“ block3looks”} 模块用来显示这行诗
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. 添加 `说`{:class="block3operators"} “我” 模块到刚才的模块之前，来创建诗的第一行
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
