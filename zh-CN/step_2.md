@@ -30,7 +30,7 @@
 
 \--- task \---
 
-单击 `外观`{:class="block3events"} 标签，然后拖动 `说`{:class="block3looks"} `你好！`{:class="block3looks"} `2 秒`{:class="block3looks"} 积木块，放入您刚才添加的 `当角色被点击`{:class="block3looks"} 的下面。
+单击 `外观`{:class="block3looks"} 标签，然后拖动 `说`{:class="block3looks"} `你好！` `2 秒`{:class="block3looks"} 积木块，放入您刚才添加的 `当角色被点击`{:class="block3events"} 的下面。
 
 ![艾达精灵](images/ada-sprite.png)
 
