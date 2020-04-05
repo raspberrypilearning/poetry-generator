@@ -1,12 +1,12 @@
-## The Analytical Engine
+## 分析引擎
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+让我们对艾达的计算机（又称为“分析引擎”）编程，生成诗歌。
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+将此代码添加到您的“计算机”精灵中，使它在单击时发出声音：
 
-![computer sprite](images/computer-sprite.png)
+![计算机精灵](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
