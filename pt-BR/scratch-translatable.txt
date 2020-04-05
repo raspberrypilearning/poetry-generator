@@ -1,27 +1,27 @@
-Hello!
+Olá!
 
-Hi, I’m Ada!
+Olá, eu me chamo Ada!
 
-What’s your name?
+Qual é o seu nome?
 
-name
+nome
 
-Hi
+Olá
 
-Click the computer to generate a poem.
+Clique no computador para gerar um poema.
 
-Here is your poem…
+Aqui está o seu poema…
 
-verbs
+verbos
 
-adverbs
+advérbios
 
-nouns
+substantivos
 
-adjectives
+adjetivos
 
-I
+Eu
 
-by the
+pelo
 
-I feel
+Eu me sinto
