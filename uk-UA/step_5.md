@@ -1,12 +1,12 @@
-## The Analytical Engine
+## Аналітична машина
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Давай запрограмуємо комп’ютер Ади (що називається "Аналітична машина") для генерації віршів.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Додай цей код до свого спрайта "Комп’ютер", щоб він говорив, якщо клацнути на нього:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт комп’ютера](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Для створення випадкового вірша, спочатку тобі потрібен **список** слів, які можна використовувати. Для створення нового списку, перейди у вкладку `Змінні`{:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Давай будемо використовувати **дієслова** у першому рядку вірша. Створи новий список із назвою `дієслова`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Твій новий список буде порожнім. Клацни на `+` внизу свого порожнього списку, щоб додати наступні дієслова:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![список з виділеним +](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+Перший рядок вірша має починатися зі слова "Я", за яким іде випадкове дієслово.
 
-To create this line of poetry, you need to:
+Для створення такого рядка вірша, тобі треба:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. Вибрати `випадкове` {:class="block3operators"} значення між `1` та `довжиною списка дієслова`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Використати наступний блок, щоб отримати випадковий `елемент`{:class="block3variables"} із списку `дієслова`{:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `З’єднати`{:class="block3operators"} "Я " з випадковим дієсловом для створення першого рядка вірша:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Використати блок `говорити`{:class="block3looks"}, щоб відобразити рядок вірша:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Твій код повинен виглядати так:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт комп’ютера](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Перевір свою програму кілька разів. Твій комп’ютер кожного разу повинен вибирати випадкове слово із списку `дієслова`{:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 хмарки з різними словами](images/poetry-random-test.png)
 
 \--- /task \---
