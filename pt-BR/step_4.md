@@ -1,24 +1,24 @@
-## Telling Ada your name
+## Dizendo seu nome à Ada
 
-Ada has introduced herself, but she doesn't know your name!
+Ada se apresentou, mas ela não sabe o seu nome!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Arraste um bloco de `pergunte () e espere`{:class="block3sensing"} (da categoria `Sensores`{:class="block3sensing"}) ao seu código. Veja como seu código deve ficar:
 
 ![ada sprite](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-+ ask [What's your name?] and wait
+quando este ator for clicado
+diga [Oi, eu sou a Ada!] por (2) segundos
++ pergunte [Qual é o seu nome?] e espere
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Clique na Ada para testar seu código. Ada deve perguntar seu nome, para que possa digitá-lo!
 
 ![ada sprite asking whats your name](images/poetry-input.png)
 
@@ -26,7 +26,7 @@ Click on Ada to test your code. Ada should ask you your name, which you can type
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Podemos usar uma **variável** para armazenar o seu nome. Clique em `Variáveis`{: class = "block3variables"} e depois em 'Criar uma Variável'. Como a variável vai servir para armazenar o seu nome, vamos chamá-la de... `Nome`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Para armazenar seu nome, clique na categoria `Variáveis`{:class="block3variables"} e arraste o bloco `Mude [] para (resposta)`{: class = "block3variables"}, e coloque-o no final do seu código.
 
 ![ada sprite](images/ada-sprite.png)
 
