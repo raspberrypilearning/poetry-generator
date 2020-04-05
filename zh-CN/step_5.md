@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+要随机生成诗歌，首先需要一个**列表** 来存储可使用的词。 要创建新的列表，请单击 `变量`{:class="block3variables"} 标签。
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+让我们在诗歌的第三行使用 **动词**(动作词)。 创建一个名为 `动词`{:class =“block3variables”} 的新列表。
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,15 +27,15 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+您的新列表将是空的。 点击空列表底部的 `+` 并添加这些动词：
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![高亮显示 + 的列表](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+诗歌的第一行应该是单词“ 我”，第三行是一个随机动词。
 
 To create this line of poetry, you need to:
 
