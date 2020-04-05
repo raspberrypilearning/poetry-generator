@@ -2,6 +2,6 @@
 
 ## Πρόκληση: Περισσότερες λέξεις
 
-Can you add more words to your lists, so that you can generate more poems?
+Μπορείς να προσθέσεις περισσότερες λέξεις στις λίστες σου, ώστε να μπορείς να δημιουργήσεις περισσότερα ποιήματα;
 
 \--- /challenge \---
