@@ -6,11 +6,11 @@ Ada se apresentou, mas ela não sabe o seu nome!
 
 Arraste um bloco de `pergunte () e espere`{:class="block3sensing"} (da categoria `Sensores`{:class="block3sensing"}) ao seu código. Veja como seu código deve ficar:
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
 quando este ator for clicado
-diga [Oi, eu sou a Ada!] por (2) segundos
+diga [Oi, eu me chamo Ada!] por (2) segundos
 + pergunte [Qual é o seu nome?] e espere
 ```
 
@@ -20,13 +20,13 @@ diga [Oi, eu sou a Ada!] por (2) segundos
 
 Clique na Ada para testar seu código. Ada deve perguntar seu nome, para que possa digitá-lo!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![ator Ada perguntando o seu nome](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-Podemos usar uma **variável** para armazenar o seu nome. Clique em `Variáveis`{: class = "block3variables"} e depois em 'Criar uma Variável'. Como a variável vai servir para armazenar o seu nome, vamos chamá-la de... `Nome`{: class = "block3variables"}!
+Podemos usar uma **variável** para armazenar o seu nome. Clique em `Variáveis`{: class = "block3variables"} e depois em 'Criar uma Variável'. Como a variável vai servir para armazenar o seu nome, vamos chamá-la de... `nome`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,37 +34,37 @@ Podemos usar uma **variável** para armazenar o seu nome. Clique em `Variáveis`
 
 \--- task \---
 
-Para armazenar seu nome, clique na categoria `Variáveis`{:class="block3variables"} e arraste o bloco `Mude [] para (resposta)`{: class = "block3variables"}, e coloque-o no final do seu código.
+Para armazenar seu nome, clique na categoria `Variáveis`{:class="block3variables"} e arraste o bloco `mude [] para (resposta)`{: class = "block3variables"}, e coloque-o no final do seu código.
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-+ set [name v] to [0]
+quando este ator for clicado
+diga [Oi, eu me chamo Ada!] por (2) segundos
+pergunte [Qual é o seu nome?] e espere
++ mude [nome v] para [0]
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Use o bloco `resposta`{:class="block3sensing"} para armazenar a resposta recebida.
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-set [name v] to (answer :: +)
+quando este ator for clicado
+diga [Oi, eu me chamo Ada!] por (2) segundos
+pergunte [Qual é o seu nome?] e espere
+mude [nome v] para (resposta)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Clique em Ada para testar seu código e digite seu nome quando ela pedir. Você deve observar se seu nome foi armazenado na variável `nome`{:class="block3variables"}.
 
 ![screenshot](images/poetry-name-test.png)
 
@@ -72,71 +72,71 @@ Click on Ada to test your code, and enter your name when asked. You should see t
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Agora você pode usar seu nome no seu código. Adicione este código:
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-set [name v] to (answer)
-+say (join [Hi ] (name)) for (2) seconds 
+quando este ator for clicado
+diga [Oi, eu me chamo Ada!] por (2) segundos
+pergunte [Qual é o seu nome?] e espere
+mude [nome v] para (resposta)
++ diga(junte [Oi] com (nome)) por (2) segundos 
 ```
 
-To create this code:
+Para criar este código:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Arraste o bloco `junte (0 com ()`{:class="blockoperators"} para dentro do bloco `diga`{:class="blocklooks"}
     
     ```blocks3
-    say (join [apple] [banana] :: +) for (2) seconds
+    diga (junte (maçã) com (banana)) por (2) segundos
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Coloque o bloco `nome`{:class="blockdata"} dentro do bloco `junte`{:class="blockoperators"}.
     
     ```blocks3
-    say (join [Hi] (name :: variables +)) for (2) seconds
+    diga (junte [Oi] com (nome)) por (2) segundos
     ```
 
 \--- /task \---
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Para esconder sua variável `nome`{:class="block3variables"} do palco, clique no símbolo de visto ao lado da variável.
 
-![tick name variable](images/poetry-tick-annotated.png)
+![definir variável nome](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test your new code. Ada should say hello to you, using your name!
+Teste o seu novo código. Ada deverá dizer olá para você, usando seu nome!
 
 ![screenshot](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+Se não tiver espaço entre a palavra 'Olá' e seu nome, você precisará adicionar o espaçamento no seu código!
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Finalmente, adicione este código para explicar os próximos passos:
 
-![ada sprite](images/ada-sprite.png)
+![ator Ada](images/ada-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Hi, I'm Ada!] for (2) seconds
-ask [What's your name?] and wait
-set [name v] to (answer)
-say (join [Hi ] (name)) for (2) seconds 
-+ say [Click the computer to generate a poem.] for (2) seconds 
+quando este ator for clicado
+diga [Oi, eu me chamo Ada!] por (2) segundos
+pergunte [Qual é o seu nome?] e espere
+mude [nome v] para (resposta)
+diga(junte [Oi] com (nome)) por (2) segundos
++ diga [Clique no computador para gerar um poema.] por (2) segundos 
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Teste o código da Ada pela última vez, para garantir que tudo está funcionando.
 
 \--- /task \---
