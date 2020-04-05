@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## 给分析引擎添加动画
 
-Let's animate your computer, so that it looks like it's generating poetry.
+让我们给计算机生成一些动画，好让它看起来像在生成诗歌。
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+单击您的计算机精灵，然后在第一个 `说`{:class="block3looks"} 模块之后添加这些代码：
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+您可以在 `控制`{:class="block3control"} 分类下找到 `重复执行`{:class="block3control"} 和 `等待`{:class="block3control"} 模块。
 
-![computer sprite](images/computer-sprite.png)
+![计算机精灵](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+测试你的项目。 你应该看到计算机在产生诗歌前会摇动一会！
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![计算机来回摇动](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+单击 “声音” 选项，然后单击左下方的 “选择一个声音” 图标。
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+选择一个 “computer beeps” 声音，单击确定。
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![计算机发出 1 和 2 声](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+添加一个 `播放声音`{:class="block3sound"} 模块，以便在动画开始之前播放声音。
 
-![computer sprite](images/computer-sprite.png)
+![计算机精灵](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
