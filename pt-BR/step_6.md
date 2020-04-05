@@ -19,8 +19,8 @@ Adicione esta linha ao código do seu computador, para dizer um advérbio aleat�
 ```blocks3
 quando este ator for clicado
 diga [Aqui está o seu poema...] por (2) segundos
-diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
-+ diga ((item (random) de (advérbios))) por (2) segundos
+diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
++ diga (item (random) de [advérbios v]) por (2) segundos
 ```
 
 \--- /task \---
@@ -50,9 +50,9 @@ Adicione o código para usar os substantivos no seu poema.
 ```blocks3
 quando este ator for clicado
 diga [Aqui está o seu poema...] por (2) segundos
-diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
-diga ((item (random) de (advérbios))) por (2) segundos
-+ diga ((junte [pelo] com (item (random) de (substantivo)))) por (2) segundos
+diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
+diga (item (random) de [advérbios v]) por (2) segundos
++ diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v]) por (2) segundos
 ```
 
 \--- /task \---
@@ -74,10 +74,10 @@ Adicione código para usar os adjetivos em seu poema:
 ```blocks3
 quando este ator for clicado
 diga [Aqui está o seu poema...] por (2) segundos
-diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
-diga ((item (random) de (advérbios))) por (2) segundos
-diga ((junte [pelo] com (item (random) de (substantivo)))) por (2) segundos
-+ diga ((junte [eu sinto] com (item (random) de (adjetivo)))) por (2) segundos
+diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
+diga (item (random) de [advérbios v]) por (2) segundos
+diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v]) por (2) segundos
++ diga ((junte [eu sinto] com (item (número aleatório entre (1) e (tamanho de [adjetivos v])) de [adjetivos v]) por (2) segundos
 ```
 
 \--- /task \---
