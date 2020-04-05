@@ -28,8 +28,8 @@
 ## title: Τι θα μάθεις
 
 + Μεταβλητές
-+ Lists and random list items;
-+ Επανάληψη (μπλοκ `επαναλήψεων`{:class="block3control"}).
++ Λίστες και στοιχεία τυχαίας λίστας
++ Επανάληψη (μπλοκ `επαναλήψεων`{:class="block3control"})
 
 \--- /collapse \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Μπορείς να βρεις το [ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
