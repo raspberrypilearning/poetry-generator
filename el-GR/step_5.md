@@ -6,7 +6,7 @@
 
 Πρόσθεσε αυτόν τον κώδικα στο αντικείμενο 'Υπολογιστής', έτσι ώστε να μιλάει όταν κάνεις κλικ:
 
-![computer sprite](images/computer-sprite.png)
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,43 +27,43 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Η νέα σου λίστα θα είναι κενή. Click the `+` at the bottom of your empty list and add these verbs:
+Η νέα σου λίστα θα είναι κενή. Κάνε κλικ στο `+` στο κάτω μέρος της κενής σου λίστας και πρόσθεσε αυτά τα ρήματα:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![λίστα με τονισμένο το +](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+Η πρώτη γραμμή του ποιήματος σου πρέπει να είναι η λέξη "Εγώ", ακολουθούμενη από ένα τυχαίο ρήμα.
 
-To create this line of poetry, you need to:
+Για να δημιουργήσεις αυτή τη γραμμή ποίησης, πρέπει να:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Επίλεξε ένα τυχαίο αριθμό`{:class="block3operators"} ανάμεσα στο `1` και το `μήκος της λίστας των ρημάτων`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Χρησιμοποίησε αυτό το μπλοκ για να πάρεις ένα τυχαίο `αντικείμενο`{:class="block3variables"} από τη λίστα `ρημάτων`{:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Ένωσε`{:class="block3operators"} το "Εγώ" με το τυχαίο ρήμα για να δημιουργήσεις τη πρώτη γραμμή του ποιήματός σου:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Χρησιμοποίησε ένα μπλοκ `πες`{:class="block3looks"} για να εμφανίσεις τη γραμμή του ποιήματός σου:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Ο κώδικάς σου θα πρέπει να μοιάζει κάπως έτσι:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Δοκίμασε τον κώδικά σου μερικές φορές. Ο υπολογιστής σου θα πρέπει να επιλέξει μία τυχαία λέξη από τη λίστα με τα `ρήματα`{:class="block3variables"} κάθε φορά.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 συννεφάκια που λένε διαφορετικά πράγματα](images/poetry-random-test.png)
 
 \--- /task \---
