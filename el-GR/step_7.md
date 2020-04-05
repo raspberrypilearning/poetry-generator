@@ -8,7 +8,7 @@
 
 Θα βρεις ότι τα μπλοκ `επανέλαβε`{:class="block3control"} και `περίμενε`{:class="block3control"} βρίσκονται στην ενότητα `Έλεγχος`{:class="block3control"}.
 
-![αντικείμενο Υπολογιστής](images/computer-sprite.png)
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -31,7 +31,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 Δοκίμασε το έργο σου. Θα πρέπει να δεις τον Υπολογιστή να κουνιέται πριν παράγει ένα ποίημα!
 
-![αντικείμενο Υπολογιστής που κινείται μπρος και πίσω](images/poetry-animate-test.png)
+![αντικείμενο υπολογιστή που κινείται μπρος και πίσω](images/poetry-animate-test.png)
 
 \--- /task \---
 
@@ -55,7 +55,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 Πρόσθεσε ένα μπλοκ `παίξε ήχο`{:class="block3sound"}, για να παίξεις τον ήχο πριν ξεκινήσει η κίνηση.
 
-![αντικείμενο Υπολογιστής](images/computer-sprite.png)
+![αντικείμενο υπολογιστή](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
