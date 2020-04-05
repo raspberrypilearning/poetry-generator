@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Клацни на Аду, щоб перевірити свій код. Ada should ask you your name, which you can type in!
 
 ![ada sprite asking whats your name](images/poetry-input.png)
 
