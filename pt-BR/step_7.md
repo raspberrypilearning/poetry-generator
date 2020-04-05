@@ -1,12 +1,12 @@
-## Animating the Analytical Engine
+## Animando o Motor Analítico
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Vamos animar seu computador, para que pareça estar gerando uma poesia.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Clique em seu ator computador, e adicione este código logo após do primeiro bloco `diga`{:class="block3looks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Você irá encontrar os blocos `repita`{:class="block3control"} e `espere`{:class="block3control"} na categoria `Controle`{:class="block3control"}.
 
 ![computer sprite](images/computer-sprite.png)
 
