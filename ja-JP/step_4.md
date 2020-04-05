@@ -129,8 +129,8 @@ when this sprite clicked
 say [はーい、私はエイダよ！] for (2) seconds
 ask [あなたのお名前は？] and wait
 set [名前 v] to (answer)
-say (join [Hi ] (名前)) for (2) seconds 
-+ say [Click the computer to generate a poem.] for (2) seconds 
+say (join [こんにちは ] (名前)) for (2) seconds 
++ say [コンピュータをクリックすると詩を作ります。] for (2) seconds 
 ```
 
 --- /task ---

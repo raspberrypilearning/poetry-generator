@@ -18,7 +18,7 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 --- task ---
 
-Clique sur ton sprite 'Ada', puis sur l'onglet `Evénements`{:class="block3events"} dans la section de codage 'Scripts'. Faites glisser le `lorsque ce sprite est cliqué sur `bloc {:class="block3events"} dans la zone de codage à droite.
+Clique sur ton sprite 'Ada', puis sur l'onglet `Evénements`{:class="block3events"} dans la section de codage 'Scripts'. Faites glisser le `lorsque ce sprite est cliqué sur`{:class="block3events"} bloc dans la zone de codage à droite.
 
 ![sprite ada](images/ada-sprite.png)
 

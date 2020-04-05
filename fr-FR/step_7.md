@@ -1,4 +1,4 @@
-## Animons le Moteur Analytique
+## Animons la Machine Analytique
 
 Animons l'ordinateur, afin qu'il ait l'air de générer de la poésie.
 

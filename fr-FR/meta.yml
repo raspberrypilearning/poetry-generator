@@ -9,16 +9,16 @@ last_tested: 2019-02-20
 steps:
   - title: Introduction
   - title: Ada Lovelace
-  - title: 'Défi: Code Ada se présente'
+  - title: 'Défi : Code Ada se présente elle-même'
     challenge: true
   - title: Dire à Ada ton nom
-  - title: Le moteur analytique
+  - title: La Machine Analytique
   - title: Plus de poésie
-  - title: Animation du moteur analytique
-  - title: 'Défi: personnalise ton poème'
+  - title: Animons la Machine Analytique
+  - title: 'Défi : Personnalise ton poème'
     challenge: true
-  - title: 'Défi: plus de mots'
+  - title: 'Défi : Plus de mots'
     challenge: true
-  - title: 'Défi: plus de poésie'
+  - title: 'Défi : Plus de poésie'
     challenge: true
   - title: Et ensuite?
