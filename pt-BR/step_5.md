@@ -19,7 +19,7 @@ diga [Aqui está o seu poema] por (2) segundos
 
 Para criar um poema aleatório, primeiro precisará criar uma **lista** de palavras que serão usadas. Para criar uma lista, clica na categoria `Variáveis` {:class="block3variables"}.
 
-Vamos usar **verbos** (palavras que indicam ações) na primeira linha do seu poema. Create a new list called `verbs`{:class="block3variables"}.
+Vamos usar **verbos** (palavras que indicam ações) na primeira linha do seu poema. Crie uma lista chamada `verbos`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,7 +27,7 @@ Vamos usar **verbos** (palavras que indicam ações) na primeira linha do seu po
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Sua nova lista estará vazia. Clique em `+` no final da sua lista vazia e adicione estes verbos:
 
 ![list with the + highlighted](images/poetry-verbs-annotated.png)
 
@@ -35,35 +35,35 @@ Your new list will be empty. Click the `+` at the bottom of your empty list and 
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+A primeira linha do seu poema deve começar com a palavra "Eu", seguida de um verbo aleatório.
 
-To create this line of poetry, you need to:
+Para criar esta linha de poesia, você precisa:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. Escolher `um número aleatório`{:class="block3operators"} entre `1` e o `comprimento da lista de verbos`{:class="block3variables"}:
     
     ```blocks3
-    (pick random (1) to (length of [verbs v]))
+    (número aleatório entre (1) e (tamanho de [verbos v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Use este bloco para obter um `item` aleatório{:class="block3variables"} a partir da lista de `verbos`{:class="block3variables"}:
     
     ```blocks3
-    (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
+    (item # de (tamanho de [verbos v]) em [verbos v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `junte` {:class="block3operators"} a palavra "Eu" com um verbo aleatório, para criar a primeira linha do seu poema:
     
     ```blocks3
-    (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
+    (junte [Eu] com (item (random) de (verbos)))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Use o bloco `diga`{:class="block3looks"} para mostrar a linha de poesia:
     
     ```blocks3
-    say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
+    diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
     ```
 
-Your code should look like this:
+Seu código deve ficar assim:
 
 ![computer sprite](images/computer-sprite.png)
 
