@@ -30,7 +30,7 @@ Haz clic en la imagen de "Ada", y haz click en la pestaña `Eventos`{:class="blo
 
 --- task ---
 
-Haz clic en la pestaña `Apariencia`{:class="block3looks"}, y arrastra el bloque `decir`{:class="block3looks"} `¡Hola!` `durante 2 segundos`{:class="block3looks"} debajo del bloque de ` al hacer clic en este objeto`{:class="block3events"} que ya habías añadido.
+Haz clic en la pestaña `Apariencia`{:class="block3looks"}, y arrastra el bloque `decir`{:class="block3looks"} `¡Hola!` `durante 2 segundos`{:class="block3looks"} debajo del bloque de `al hacer clic en este objeto`{:class="block3events"} que ya habías añadido.
 
 ![imagen ada](images/ada-sprite.png)
 

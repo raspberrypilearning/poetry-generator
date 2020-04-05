@@ -17,10 +17,10 @@ Adicione esta linha ao código do seu computador, para dizer um advérbio aleat�
 ![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-diga [Aqui está o seu poema...] por (2) segundos
-diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
-+ diga (item (random) de [advérbios v]) por (2) segundos
+when this sprite clicked
+say [Aqui está o seu poema...] for (2) seconds
+say (join [Eu ](item (pick random (1) to (length of [verbos v])) of [verbos v])) for (2) seconds
++say (item (pick random (1) to (length of [advérbios v])) of [advérbios v]) for (2) seconds
 ```
 
 --- /task ---
@@ -48,11 +48,11 @@ Adicione o código para usar os substantivos no seu poema.
 ![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-diga [Aqui está o seu poema...] por (2) segundos
-diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
-diga (item (random) de [advérbios v]) por (2) segundos
-+ diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v])) por (2) segundos
+when this sprite clicked
+say [Aqui está o seu poema...] for (2) seconds
+say (join [Eu ](item (pick random (1) to (length of [verbos v])) of [verbos v])) for (2) seconds
+say (item (pick random (1) to (length of [advérbios v])) of [advérbios v]) for (2) seconds
++say (join [junte ](item (pick random (1) to (length of [substantivos v])) of [substantivos v])) for (2) seconds
 ```
 
 --- /task ---
@@ -72,12 +72,12 @@ Adicione código para usar os adjetivos em seu poema:
 ![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-diga [Aqui está o seu poema...] por (2) segundos
-diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
-diga (item (random) de [advérbios v]) por (2) segundos
-diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v])) por (2) segundos
-+ diga (junte [Eu me sinto] com (item (número aleatório entre (1) e (tamanho de [adjetivos v])) de [adjetivos v])) por (2) segundos
+when this sprite clicked
+say [Aqui está o seu poema...] for (2) seconds
+say (join [Eu ](item (pick random (1) to (length of [verbos v])) of [verbos v])) for (2) seconds
+say (item (pick random (1) to (length of [advérbios v])) of [advérbios v]) for (2) seconds
++say (join [junte ](item (pick random (1) to (length of [substantivos v])) of [substantivos v])) for (2) seconds
++ say (join [Eu me sinto ](item (pick random (1) to (length of [adjetivos v])) of [adjetivos v])) for (2) seconds
 ```
 
 --- /task ---

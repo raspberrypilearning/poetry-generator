@@ -57,7 +57,7 @@ Use o bloco `resposta`{:class="block3sensing"} para armazenar a resposta recebid
 quando este ator for clicado
 diga [Oi, eu me chamo Ada!] por (2) segundos
 pergunte [Qual é o seu nome?] e espere
-mude [nome v] para (resposta)
+mude [nome v] para (resposta :: +)
 ```
 
 --- /task ---
@@ -86,16 +86,16 @@ mude [nome v] para (resposta)
 
 Para criar este código:
 
-1. Arraste o bloco `junte (0 com ()`{:class="blockoperators"} para dentro do bloco `diga`{:class="blocklooks"}
+1. Arraste o bloco `junte`{:class="blockoperators"} para dentro do bloco `diga`{:class="blocklooks"}
     
     ```blocks3
-    diga (junte (maçã) com (banana)) por (2) segundos
+    diga (junte [maçã] com [banana] :: +) por (2) segundos
     ```
 
 2. Coloque o bloco `nome`{:class="blockdata"} dentro do bloco `junte`{:class="blockoperators"}.
     
     ```blocks3
-    diga (junte [Oi] com (nome)) por (2) segundos
+    diga (junte [Oi] com (nome :: variables +)) por (2) segundos
     ```
 
 --- /task ---

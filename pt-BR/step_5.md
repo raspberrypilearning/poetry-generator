@@ -17,7 +17,7 @@ diga [Aqui está o seu poema] por (2) segundos
 
 --- task ---
 
-Para criar um poema aleatório, primeiro precisará criar uma **lista** de palavras que serão usadas. Para criar uma lista, clica na categoria `Variáveis` {:class="block3variables"}.
+Para criar um poema aleatório, primeiro precisará criar uma **lista** de palavras que serão usadas. Para criar uma lista, clica na categoria `Variáveis`{:class="block3variables"}.
 
 Vamos usar **verbos** (palavras que indicam ações) na primeira linha do seu poema. Crie uma lista chamada `verbos`{:class="block3variables"}.
 
@@ -45,22 +45,22 @@ Para criar esta linha de poesia, você precisa:
     (número aleatório entre (1) e (tamanho de [verbos v]))
     ```
 
-2. Use este bloco para obter um `item` aleatório{:class="block3variables"} a partir da lista de `verbos`{:class="block3variables"}:
+2. Use este bloco para obter um `item`{:class="block3variables"} aleatório a partir da lista de `verbos`{:class="block3variables"}:
     
     ```blocks3
-    (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])
+    (item (número aleatório entre (1) e (tamanho de [verbos v]) :: +) de [verbos v])
     ```
 
-3. `junte`{:class="block3operators"} a palavra "Eu" com um verbo aleatório, para criar a primeira linha do seu poema:
+3. `junte`{:class="block3operators"} a palavra "Eu " com um verbo aleatório, para criar a primeira linha do seu poema:
     
     ```blocks3
-    (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v]))
+    (junte [Eu ] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v] :: +))
     ```
 
 4. Use o bloco `diga`{:class="block3looks"} para mostrar a linha de poesia:
     
     ```blocks3
-    diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
+    diga (junte [Eu ] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v]) :: +) por (2) segundos
     ```
 
 Seu código deve ficar assim:

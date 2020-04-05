@@ -11,18 +11,18 @@ Você irá encontrar os blocos `repita`{:class="block3control"} e `espere`{:clas
 ![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-diga [Aqui está o seu poema...] por (2) segundos
-+ repita (10) vezes
-    gire < (5) graus
-    espere (0.1) seg
-    gire > (5) graus
-    espere(0.1) seg  
-fim
-diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
-diga (item (random) de [advérbios v]) por (2) segundos
-diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v])) por (2) segundos
-diga (junte [Eu me sinto] com (item (número aleatório entre (1) e (tamanho de [adjetivos v])) de [adjetivos v])) por (2) segundos
+when this sprite clicked
+say [Aqui está o seu poema...] for (2) seconds
++ repeat (10)
+	turn left (5) degrees
+	wait (0.1) seconds
+	turn right (5) degrees
+	wait (0.1) seconds	
+end
+say (join [Eu ](item (pick random (1) to (length of [verbos v])) of [verbos v])) for (2) seconds
+say (item (pick random (1) to (length of [advérbios v])) of [advérbios v]) for (2) seconds
+say (join [pelo ](item (pick random (1) to (length of [substantivos v])) of [substantivos v])) for (2) seconds
+say (join [Eu me sinto ](item (pick random (1) to (length of [adjetivos v])) of [adjetivos v])) for (2) seconds
 ```
 
 --- /task ---
@@ -58,19 +58,19 @@ Adicione o bloco `toque o som`{:class="block3sound"}, para que o som seja reprod
 ![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-quando este ator for clicado
-diga [Aqui está o seu poema...] por (2) segundos
-+ toque o som (sons de computador1 v)
-repita (10) vezes
-    gire < (5) graus
-    espere (0.1) seg
-    gire > (5) graus
-    espere(0.1) seg  
-fim
-diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
-diga (item (random) de [advérbios v]) por (2) segundos
-diga (junte [pelo] com (item (número aleatório entre (1) e (tamanho de [substantivos v])) de [substantivos v])) por (2) segundos
-diga (junte [Eu me sinto] com (item (número aleatório entre (1) e (tamanho de [adjetivos v])) de [adjetivos v])) por (2) segundos
+when this sprite clicked
+say [Aqui está o seu poema...] for (2) seconds
++ start sound (computer beeps1 v)
++ repeat (10)
+	turn left (5) degrees
+	wait (0.1) seconds
+	turn right (5) degrees
+	wait (0.1) seconds	
+end
+say (join [Eu ](item (pick random (1) to (length of [verbos v])) of [verbos v])) for (2) seconds
+say (item (pick random (1) to (length of [advérbios v])) of [advérbios v]) for (2) seconds
+say (join [pelo ](item (pick random (1) to (length of [substantivos v])) of [substantivos v])) for (2) seconds
+say (join [Eu me sinto ](item (pick random (1) to (length of [adjetivos v])) of [adjetivos v])) for (2) seconds
 ```
 
 --- /task ---
