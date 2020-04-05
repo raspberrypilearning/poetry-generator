@@ -1,38 +1,38 @@
-## Ada Lovelace
+## Ада Лавлейс
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+У 1842 році Ада Лавлейс писала про використання для розрахунків машини, яка називалася "Аналітична машина", і вона вважається першим у світі комп'ютерним програмістом! Ада також першою передбачила, що комп'ютери можуть бути не просто великими калькуляторами.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Відкрий початковий проєкт "Генератор віршів".
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Онлайн**: відкрий [початковий проєкт](http://rpf.io/poetry-on){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Якщо у тебе є обліковий запис Скретч, то ти можеш зробити копію проєкту, натиснувши **Ремікс**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Офлайн**: відкрий [початковий проєкт](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Клацни на спрайт "Ада" та перейди у вкладку `Події`{:class="block3events"} у розділі "Код". Перетягни блок `коли спрайт натиснуто`{:class="block3events"} в область коду праворуч.
 
-![ada sprite](images/ada-sprite.png)
+![спрайт Ади](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![перетягування блоку "коли спрайт натиснуто"](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Будь-який код, доданий під цим блоком, буде запущено, коли клацнути на Аду!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Перейди у вкладку `Вигляд`{:class="block3looks"} і перетягни блок `говорити`{:class="block3looks"} `Привіт!` `2 сек`{:class="block3looks"} під вже доданий блок `коли спрайт натиснуто`{:class="block3events"}.
 
-![ada sprite](images/ada-sprite.png)
+![спрайт Ади](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Клацни на Аду, і ти побачиш, як вона розмовляє з тобою.
 
-![screenshot](images/poetry-say-test.png)
+![знімок екрана](images/poetry-say-test.png)
 
 \--- /task \---
