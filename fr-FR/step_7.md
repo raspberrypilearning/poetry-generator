@@ -1,14 +1,14 @@
-## Animons le Moteur Analytique
+## Animons la Machine Analytique
 
 Animons l'ordinateur, afin qu'il ait l'air de générer de la poésie.
 
 \--- task \---
 
-Clique sur ton sprite informatique, et ajoute ce code après le premier bloc `dire`{:class="block3looks"}:
+Clique sur ton sprite ordinateur, et ajoute ce code après le premier bloc `dire`{:class="block3looks"} :
 
 Tu trouveras les blocs `répéter`{:class="block3control"} et `attendre`{:class="block3control"} dans la section `Contrôle`{:class="block3control"}.
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -31,7 +31,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 Teste ton projet. Tu devrais voir l'ordinateur trembler avant de produire un poème !
 
-![sprite de l'ordinateur secouant d'avant en arrière](images/poetry-animate-test.png)
+![sprite ordinateur secouant d'avant en arrière](images/poetry-animate-test.png)
 
 \--- /task \---
 
@@ -45,7 +45,7 @@ Clique sur l’onglet « Sons » et clique sur l’icône « Choisir un son » e
 
 \--- task \---
 
-Choisis le son "computer beep" et clique sur OK.
+Choisis le son « computer beep » et clique sur OK.
 
 ![les deux bips sons dans la bibliothèque de sons](images/poetry-beeps.png)
 
@@ -55,7 +55,7 @@ Choisis le son "computer beep" et clique sur OK.
 
 Ajoute un bloc `commencer le son`{:class="block3sound"}, pour jouer ton son juste avant le début de ton animation.
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
