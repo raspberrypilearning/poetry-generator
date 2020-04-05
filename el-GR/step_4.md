@@ -104,7 +104,7 @@ To create this code:
 
 To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
 
-![tick name variable](images/poetry-tick-annotated.png)
+![επιλογή μεταβλητής ονόματος](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
