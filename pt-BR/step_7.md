@@ -8,36 +8,36 @@ Clique em seu ator computador, e adicione este código logo após do primeiro bl
 
 Você irá encontrar os blocos `repita`{:class="block3control"} e `espere`{:class="block3control"} na categoria `Controle`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ repeat (10)
-    turn left (5) degrees
-    wait (0.1) seconds
-    turn right (5) degrees
-    wait (0.1) seconds  
-end
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+quando este ator for clicado
+diga [Aqui está o seu poema...] por (2) segundos
++ repita (10) vezes
+    gire < (5) graus
+    espere (0.1) seg
+    gire > (5) graus
+    espere(0.1) seg  
+fim
+diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
+diga ((item (random) de (advérbios))) por (2) segundos
+diga ((junte [pelo] com (item (random) de (substantivo)))) por (2) segundos
++ diga ((junte [eu sinto] com (item (random) de (adjetivo)))) por (2) segundos
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Teste seu projeto. Você vai ver o computador tremendo antes de produzir um poema!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![ator computador tremendo para frente e para trás](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Clique na categoria 'Sons', e clique no ícone 'Selecionar um som' no canto inferior esquerdo.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,32 +45,32 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Escolha o som 'sons de computador' e clique em OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![beeps de computador 1 e 2 sons na biblioteca de sons](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Adicione o bloco `toque o som`{:class="block3sound"}, para que o som seja reproduzido imediatamente antes do início da animação.
 
-![computer sprite](images/computer-sprite.png)
+![ator Computador](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ start sound (computer beeps1 v)
-repeat (10)
-    turn left (5) degrees
-    wait (0.1) seconds
-    turn right (5) degrees
-    wait (0.1) seconds  
-end
-say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
-say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) seconds
-say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v])) for (2) seconds
-say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adjectives v])) for (2) seconds
+quando este ator for clicado
+diga [Aqui está o seu poema...] por (2) segundos
++ toque o som (sons de computador1 v)
+repita (10) vezes
+    gire < (5) graus
+    espere (0.1) seg
+    gire > (5) graus
+    espere(0.1) seg  
+fim
+diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
+diga ((item (random) de (advérbios))) por (2) segundos
+diga ((junte [pelo] com (item (random) de (substantivo)))) por (2) segundos
++ diga ((junte [eu sinto] com (item (random) de (adjetivo)))) por (2) segundos
 ```
 
 \--- /task \---
