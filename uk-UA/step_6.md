@@ -1,20 +1,20 @@
 ## Більше поезії
 
-Your poem is quite short - let's add to it!
+Твій вірш досить короткий, давай його доповнимо!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Давай використаємо прислівники в наступному рядку твого вірша. **Прислівник** — це слово, яке описує дієслово. Створи ще один список з назвою "прислівники" і додай наступні 3 слова:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![список слів "голосно", "тихо", "нескінченно"](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Додай наступний рядок до коду комп’ютера, щоб він сказав випадковий прислівник в наступному рядку твого вірша:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт комп’ютера](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Перевір свою програму кілька разів. Кожного разу ти маєш бачити випадковий вірш.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![випадкові хмарки з прислівниками](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Додай список іменників до свого проєкту. **Іменник** — це місце або предмет.
 
-![computer sprite](images/computer-sprite.png)
+![список іменників зі словами "моря", "місяця", "дерева"](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Додай код для використання іменників в своєму вірші.
+
+![спрайт комп’ютера](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Додай список прикметників до свого проєкту. **Прикметник** — це слово, що описує іменник.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![список прикметників "щасливим", "втомленим", "голодним"](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Додай код для використання прикментників в своєму вірші:
 
-![computer sprite](images/computer-sprite.png)
+![спрайт комп’ютера](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Ти можеш клацнути на квадратики поруч зі своїми списками, щоб їх сховати.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![змінні-списки з вибраними галочками](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Перевір свій новий вірш.
 
 \--- /task \---
