@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## Πρόκληση: Εξατομίκευσε το ποίημά σου
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+Μπορείς να χρησιμοποιήσεις τη μεταβλητή `όνομα`{:class="block3variables"} για να εξατομικεύσεις το ποίημα σου;
 
-![screenshot](images/poetry-name-comp.png)
+![στιγμιότυπο οθόνης](images/poetry-name-comp.png)
 
 \--- /challenge \---
