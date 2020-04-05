@@ -6,7 +6,7 @@ Programmons l'ordinateur d'Ada (appelé la « Machine Analytique ») pour géné
 
 Ajoute ce code à ton sprite « Ordinateur », pour qu'il parle lorsqu'il est cliqué :
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,7 +65,7 @@ Pour créer cette ligne de poésie, tu dois :
 
 Ton code devrait ressembler à ceci :
 
-![sprite de l'ordinateur](images/computer-sprite.png)
+![sprite ordinateur](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
