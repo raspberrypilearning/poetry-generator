@@ -1,18 +1,18 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+Em 1842, Ada Lovelace escreveu sobre o uso de uma máquina chamada 'Analytical Engine' para fazer cálculos e é vista como a primeira programadora de computadores do mundo! Ada também foi a primeira a ver que os computadores poderiam ser mais do que grandes calculadoras.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Abra o projeto inicial do Scratch 'Gerador de poesia'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: Abra o projeto [inicial](http://rpf.io/poetry-on){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Off-line**: Abra o [projeto inicial](http://rpf.io/p/en/beat-the-goalie-go){:target="_ blank"} no editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
