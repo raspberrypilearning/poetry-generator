@@ -1,10 +1,10 @@
 ## La Machine Analytique
 
-Programmons l'ordinateur d'Ada (appelé la 'Machine Analytique') pour générer de la poésie.
+Programmons l'ordinateur d'Ada (appelé la « Machine Analytique ») pour générer de la poésie.
 
 \--- task \---
 
-Ajoute ce code à ton sprite "Ordinateur", pour qu'il parle lorsqu'il est cliqué :
+Ajoute ce code à ton sprite « Ordinateur », pour qu'il parle lorsqu'il est cliqué :
 
 ![sprite de l'ordinateur](images/computer-sprite.png)
 
@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Pour créer un poème aléatoire, tu aurasq besoin d'une **liste** de mots à utiliser. Pour créer une nouvelle liste, clique sur l'onglet `Variables`{:class="block3variables"}.
+Pour créer un poème aléatoire, tu auras besoin d'une **liste** de mots à utiliser. Pour créer une nouvelle liste, clique sur l'onglet `Variables`{:class="block3variables"}.
 
 Utilisons **verbes** (mots d'action) dans la première ligne de ton poème. Crée une liste appelée `verbes`{:class="block3variables"}.
 
@@ -35,7 +35,7 @@ Ta nouvelle liste sera vide. Clique sur le `+` en bas de ta liste vide et ajoute
 
 \--- task \---
 
-La première ligne de ton poème devrait être le mot "Je", suivi d'un verbe aléatoire.
+La première ligne de ton poème devrait être le mot « Je », suivi d'un verbe aléatoire.
 
 Pour créer cette ligne de poésie, tu dois :
 
@@ -51,19 +51,19 @@ Pour créer cette ligne de poésie, tu dois :
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Regrouper`{:class="block3operators"} "Je" avec le verbe aléatoire pour créer la première ligne de votre poème:
+3. `Regrouper`{:class="block3operators"} « Je » avec le verbe aléatoire pour créer la première ligne de ton poème :
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Utiliser un bloc `dire`{:class="block3looks"} pour afficher la ligne de la poésie:
+4. Utiliser un bloc `dire`{:class="block3looks"} pour afficher la ligne de la poésie :
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Ton code devrait ressembler à ceci:
+Ton code devrait ressembler à ceci :
 
 ![sprite de l'ordinateur](images/computer-sprite.png)
 
