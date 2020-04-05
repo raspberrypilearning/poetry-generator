@@ -39,28 +39,28 @@ A primeira linha do seu poema deve começar com a palavra "Eu", seguida de um ve
 
 Para criar esta linha de poesia, você precisa:
 
-1. Escolher `um número aleatório`{:class="block3operators"} entre `1` e o `comprimento da lista de verbos`{:class="block3variables"}:
+1. Escolher `um número aleatório`{:class="block3operators"} entre `1` e o `tamanho de verbos`{:class="block3variables"}:
     
     ```blocks3
-    (item # de (random) em [verbos v])
+    (número aleatório entre (1) e (tamanho de [verbos v]))
     ```
 
 2. Use este bloco para obter um `item` aleatório{:class="block3variables"} a partir da lista de `verbos`{:class="block3variables"}:
     
     ```blocks3
-    (item (random) de [verbos v])
+    (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])
     ```
 
-3. `junte` {:class="block3operators"} a palavra "Eu" com um verbo aleatório, para criar a primeira linha do seu poema:
+3. `junte`{:class="block3operators"} a palavra "Eu" com um verbo aleatório, para criar a primeira linha do seu poema:
     
     ```blocks3
-    (junte [Eu] com (item (random) de [verbos v]))
+    (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v]))
     ```
 
 4. Use o bloco `diga`{:class="block3looks"} para mostrar a linha de poesia:
     
     ```blocks3
-    diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
+    diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
     ```
 
 Seu código deve ficar assim:
@@ -70,7 +70,7 @@ Seu código deve ficar assim:
 ```blocks3
 quando este ator for clicado
 diga [Aqui está o seu poema...] por (2) segundos
-+ diga ((junte [Eu] com (item (random) de (verbos)))) por (2) segundos
++ diga (junte [Eu] com (item (número aleatório entre (1) e (tamanho de [verbos v])) de [verbos v])) por (2) segundos
 ```
 
 \--- /task \---
