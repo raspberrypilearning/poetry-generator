@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Κάνε κλικ στην Ada για να ελέγξεις τον κώδικά σου. Η Ada θα σε ρωτήσει το όνομά σου, το οποίο μπορείς να πληκτρολογήσεις!
 
 ![αντικείμενο Ada που ρωτά ποιο είναι το όνομά σου](images/poetry-input.png)
 
@@ -26,7 +26,7 @@ Click on Ada to test your code. Ada should ask you your name, which you can type
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Μπορούμε να χρησιμοποιήσουμε μια **μεταβλητή** για να αποθηκεύσουμε το όνομά σου. Κάνε κλικ στο στοιχείο `Μεταβλητές`{:class="block3variables"} και, στη συνέχεια, "Δημιουργία Μεταβλητής". Δεδομένου ότι αυτή η μεταβλητή θα χρησιμοποιηθεί για την αποθήκευση του ονόματός σου, ας καλέσουμε τη μεταβλητή... `όνομα`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Για να αποθηκεύσεις το όνομά σου, κάνε κλικ στην καρτέλα `Μεταβλητές`{:class="block3variables"} και, στη συνέχεια, σύρε το μπλοκ `όρισε όνομα`{:class="block3variables"} στο τέλος του κώδικά σου.
 
 ![αντικείμενο Ada](images/ada-sprite.png)
 
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Για να δημιουργήσεις αυτόν τον κώδικα:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Σύρε ένα μπλοκ `ένωσε`{:class="blockoperators"} στο μπλοκ `πες`{:class="blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Πρόσθεσε το μπλοκ `όνομα`{:class="blockdata"} στο μπλοκ `ένωσε`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,7 +102,7 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Για να αποκρύψεις τη μεταβλητή `όνομα`{:class="block3variables"} στη σκηνή, κάνε κλικ στην επιλογή που βρίσκεται δίπλα στη μεταβλητή.
 
 ![επιλογή μεταβλητής ονόματος](images/poetry-tick-annotated.png)
 
@@ -110,17 +110,17 @@ To hide your `name`{:class="block3variables"} variable on the stage, click the t
 
 \--- task \---
 
-Test your new code. Ada should say hello to you, using your name!
+Δοκίμασε τον νέο σου κώδικα. Η Ada θα σε χαιρετήσει, χρησιμοποιώντας το όνομά σου!
 
 ![στιγμιότυπο οθόνης](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+Εάν δεν υπάρχει κενό ανάμεσα στη λέξη «Γεια» και το όνομά σου, θα πρέπει να προσθέσεις ένα κενό στον κώδικα!
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Τέλος, πρόσθεσε αυτόν τον κώδικα για να εξηγήσεις τι πρέπει να κάνεις στη συνέχεια:
 
 ![αντικείμενο Ada](images/ada-sprite.png)
 
