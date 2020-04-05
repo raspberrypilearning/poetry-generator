@@ -39,19 +39,19 @@ say [Here is your poem...] for (2) seconds
 
 To create this line of poetry, you need to:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. 在 `1` 和 `动词的项目数`{:class="block3variables"} `之间取随机数字`{:class="block3operators"}：
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. 使用此模块来从 `动词`{:class="block3variables"} 列表中随机获取一个 `列表项`{:class="block3variables"}：
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. 
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
