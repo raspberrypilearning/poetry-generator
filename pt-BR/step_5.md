@@ -1,25 +1,25 @@
-## The Analytical Engine
+## O Motor Analítico
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Vamos programar o computador da Ada (chamado 'Motor Analítico') para gerar a poesia.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Adicione este código ao seu ator 'Computador', para que fale quando for clicado:
 
 ![computer sprite](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
+quando este ator for clicado
+diga [Aqui está o seu poema] por (2) segundos
 ```
 
 \--- /task \---
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Para criar um poema aleatório, primeiro precisará criar uma **lista** de palavras que serão usadas. Para criar uma lista, clica na categoria `Variáveis` {:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Vamos usar **verbos** (palavras que indicam ações) na primeira linha do seu poema. Create a new list called `verbs`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
