@@ -1,12 +1,12 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+Το 1842, η Ada Lovelace έγραψε για τη χρήση μιας μηχανής που ονομάζεται «Αναλυτική Μηχανή» για να κάνει υπολογισμούς και θεωρείται η πρώτη προγραμματιστής στον κόσμο! Η Ada ήταν επίσης η πρώτη που είδε ότι οι υπολογιστές θα μπορούσαν να είναι κάτι περισσότερο από απλά μεγάλες αριθμομηχανές.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Άνοιξε το πρόγραμμα εκκίνησης Scratch 'Γεννήτρια Ποίησης'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: άνοιξε το [αρχικό έργο](http://rpf.io/poetry-on){:target="_ blank"}.
 
 If you have a Scratch account you can make a copy by clicking **Remix**.
 
