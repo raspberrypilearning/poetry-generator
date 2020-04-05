@@ -63,9 +63,9 @@ To create this line of poetry, you need to:
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+你的代码应该是这样的：
 
-![computer sprite](images/computer-sprite.png)
+![计算机精灵](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+多次测试你的代码。 您的计算机每次会从 `动词`{:class="block3variables"} 列表中选择一个随机词。
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 个不同内容的对话框](images/poetry-random-test.png)
 
 \--- /task \---
