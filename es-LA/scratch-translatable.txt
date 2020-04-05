@@ -1,0 +1,27 @@
+¡Hola!
+
+¡Hola, soy Ada!
+
+¿Cuál es tu nombre?
+
+nombre
+
+Hola
+
+Haz clic en la computadora para generar un poema.
+
+Aquí está tu poema…
+
+verbos
+
+adverbios
+
+nombres
+
+adjetivos
+
+Yo
+
+por el
+
+Me siento
