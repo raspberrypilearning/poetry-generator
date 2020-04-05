@@ -1,4 +1,4 @@
-## Ada Lovelace
+## 艾达·洛芙蕾丝（Ada Lovelace）
 
 In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
 
