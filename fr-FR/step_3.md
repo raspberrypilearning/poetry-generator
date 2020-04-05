@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Défi: Code Ada se présente elle-même
+## Défi: Code Ada se présente
 
-Peux-tu changer ton code pour qu'Ada dise « Salut, je suis Ada! » quand tu cliques sur elle ? ![sprite ada disant Salut, je suis Ada!](images/poetry-ada-intro.png)
+Peux-tu changer ton code pour qu'Ada dise « Bonjour, je suis Ada! » quand tu cliques sur elle ? ![sprite ada disant Bonjour, je suis Ada!](images/poetry-ada-intro.png)
 
 \--- /challenge \---
