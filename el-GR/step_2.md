@@ -18,13 +18,13 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \---
 
-Κάνε κλικ στο αντικείμενο 'Ada' και κάνε κλικ στην καρτέλα `Συμβάντα`{:class="block3events"} στην ενότητα προγραμματισμού "Σενάρια". Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Κάνε κλικ στο αντικείμενο 'Ada' και κάνε κλικ στην καρτέλα `Συμβάντα`{:class="block3events"} στην ενότητα προγραμματισμού "Σενάρια". Σύρε το μπλοκ `όταν γίνει κλικ σε αυτό το αντικείμενο`{:class="block3events"} στην περιοχή προγραμματισμού στα δεξιά.
 
 ![ada sprite](images/ada-sprite.png)
 
 ![dragging when this sprite clicked block](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Όποιος κώδικας προστεθεί κάτω από αυτό το μπλοκ θα τρέχει όταν γίνεται κλικ στην Ada!
 
 \--- /task \---
 
