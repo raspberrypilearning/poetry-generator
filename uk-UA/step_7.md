@@ -29,7 +29,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Перевір свій проєкт. You should see the computer shake before producing a poem!
+Перевір свій проєкт. Ти маєш побачити, як комп’ютер хитається перед тим, як видати вірш!
 
 ![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
@@ -37,7 +37,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Перейди у вкладку "Звуки" і клацни "Обрати звук" в нижньому лівому куті.
 
 [[[generic-scratch3-sound-from-library]]]
 
