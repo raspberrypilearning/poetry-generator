@@ -1,10 +1,10 @@
-## What next?
+## 接下来还有什么？
 
-Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
+试试看 [气球](https://projects.raspberrypi.org/en/projects/balloons) 的 Scratch 项目。
 
 \--- no-print \---
 
-Pop the balloons by clicking on them.
+点击气球来戳破它们。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![完成项目](images/balloons-final.png)
 
 \--- /print-only \---
