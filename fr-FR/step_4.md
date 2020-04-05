@@ -114,7 +114,7 @@ Teste ton nouveau code. Ada devrait te dire bonjour en utilisant ton nom !
 
 ![capture d'écran](images/poetry-name-test2.png)
 
-S'il n'y a pas d'espace entre le mot « Salut » et ton nom, tu dois ajouter toi-même un espace dans le code !
+S'il n'y a pas d'espace entre le mot « Bonjour » et ton nom, tu dois ajouter toi-même un espace dans le code !
 
 \--- /task \---
 
