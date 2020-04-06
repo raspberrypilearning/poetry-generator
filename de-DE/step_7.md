@@ -1,6 +1,6 @@
 ## Animiere die Analytische Maschine
 
-Lass uns deinen Computer animieren, so dass es aussieht, als ob es Gedichte erstellen würde.
+Lass uns deinen Computer animieren, so dass es aussieht, als ob er Gedichte erstellen würde.
 
 \--- task \---
 
@@ -53,7 +53,7 @@ Wähle einen 'computer beeps' Klang und klicke auf OK.
 
 \--- task \---
 
-Füge einen `starte Klang`{:class="block3sound"} Block hinzu, um deinen Klang, bevor die Animation startet, abzuspielen.
+Füge einen `spiele Klang`{:class="block3sound"} Block hinzu, um deinen Klang abzuspielen, bevor die Animation startet.
 
 ![Computer Sprite](images/computer-sprite.png)
 
