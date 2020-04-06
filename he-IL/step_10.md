@@ -2,6 +2,6 @@
 
 ## אתגר: עוד שירה
 
-האם אתה יכול להשתמש ברשימות משלך כדי ליצור שירה משלך?
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
