@@ -68,9 +68,9 @@ say [Here is your poem...] for (2) seconds
 ![الكمبيوتر](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+عندما نقر هذا العفريت
+قل [إليكم قصيدتك ...] لمدة (2) ثانية
++ قل (انضم [أنا] (البند (اختر عشوائيًا (1) إلى (طول [الأفعال v])) من [الأفعال v ])) لمدة (2) ثانية
 ```
 
 \--- /task \---
