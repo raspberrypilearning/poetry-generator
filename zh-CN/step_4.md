@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-我们可以使用 **变量** 储存您的名字。 点击 `变量`{:class="block3variables"}，然后点击 “建立一个变量”。 此变量将用来存储您的姓名，因此我们将该变量命名为... `名字`{:class="block3variables"}!
+我们可以使用 **变量** 储存您的名字。 Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. 此变量将用来存储您的姓名，因此我们将该变量命名为... `名字`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-要存储您的姓名，请单击 `变量`{:class="block3variables"}标签，然后拖动 `将名字设为`{:class="block3variables"} 积木块到代码末尾。
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![艾达精灵](images/ada-sprite.png)
 
