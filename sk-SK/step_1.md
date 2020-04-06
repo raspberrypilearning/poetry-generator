@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Toto je verzia projektu pre **Scratch 3**. K dispozícii je tiež verzia projektu pre [Scratch 2](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Úvod
 
-You are going to learn how to program your own poetry generator!
+Dozvieš sa, ako naprogramovať generátor básní!
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![snímka obrazovky hry](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Čo sa naučíš
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ Premenné;
++ Zoznamy a náhodné prvky zoznamu;
++ Opakovanie (blok `opakuj`{:class="block3control"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Čo budeš potrebovať
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### Hardvér
+
++ Počítač, na ktorom je možné spustiť aplikáciu Scratch 3
+
+#### Softvér
+
++ Scratch 3 (buď [online](http://rpf.io/scratchon){:target="_blank"} alebo [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+#### Súbory na stiahnutie
+
+Štartovací projekt nájdeš [tu](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Doplňujúce informácie pre vyučujúcich
+
+Tento projekt bol vytvorený na oslavu [Ada Lovelace Day](https://findingada.com). Ak ste učiteľ/-ka, môžete si stiahnuť školský Resource Pack, ktorý obsahuje aj plán zostavenia ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) a predstaviť tak deťom Adu a jej revolučné nápady.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Ak potrebujete tento projekt vytlačiť, použite [ verziu pre tlač ](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Hotový projekt nájdeš [tu](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
