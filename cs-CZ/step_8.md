@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## Výzva: Přizpůsob svoji báseň
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+Dokážeš použít svoji proměnnou `jméno`{:class="block3variables"} tak, aby se tvoje báseň přizpůsobila?
 
-![screenshot](images/poetry-name-comp.png)
+![snímek obrazovky](images/poetry-name-comp.png)
 
 \--- /challenge \---
