@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Chceš-li vygenerovat náhodnou báseň, nejprve budeš potřebovat **seznam** slov. Pokud chceš vytvořit nový seznam klikni na záložku `Proměnné`{:class="block3variables"}.
+Chceš-li vygenerovat náhodnou báseň, nejprve budeš potřebovat **seznam** slov. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 Pojďme do prvního řádku tvé básně použít **slovesa** (slova, vyjadřující činnost). Vytvoř nový seznam s názvem `slovesa`{:class="block3variables"}.
 
