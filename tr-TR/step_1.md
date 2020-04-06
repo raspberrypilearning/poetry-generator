@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Bu, projenin **Scratch 3** versiyonudur. Ayrıca projenin bir de [Scratch 2 versiyonu](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2) bulunmaktadır.
 
 \--- /no-print \---
 
-## Introduction
+## Giriş
 
-You are going to learn how to program your own poetry generator!
+Kendi şiir jeneratörünüzü nasıl programlayacağınızı öğreneceksiniz!
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![oyun ekran alıntısı](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Ne öğreneceksiniz
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ Değişkenler;
++ Listeler ve rastgele liste öğeleri;
++ Tekrarlama ( `tekrar`{: class = "block3control"} bloğu).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Nelere ihtiyacınız var
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### Donanım
+
++ Scratch 3 çalıştırabilen bir bilgisayar
+
+#### Yazılım
+
++ Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
+
+#### İndirilenler
+
+Başlangıç projesini [burada](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} bulabilirsiniz.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Eğitimciler için ek bilgiler
+
+Bu proje [Ada Lovelace](https://findingada.com)Gününü kutlamak için oluşturuldu. Eğer bir öğretmenseniz, çocukları Ada'ya ve onun devrimci fikirlerine tanıtmak için bir montaj planı ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) içeren bir Okul Kaynak Paketi indirebilirsiniz.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/poetry-generator/print) 'ü kullanın {: target = "_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Tamamlanmış projeye [buradan](http://rpf.io/p/en/poetry-generator-get){:target="_blank"} ulaşabilirsiniz.
 
 \--- /collapse \---
