@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## Zor Görev: Daha fazla şiir
 
-Can you use your own lists to generate you own poetry?
+Kendi şiirlerinizi oluşturmak için kendi listelerinizi kullanabilir misiniz?
 
 \--- /challenge \---
