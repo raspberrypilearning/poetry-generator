@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-हम आपका नाम संग्रहित करने के लिए **variable** का उपयोग कर सकते हैं | `Data`{:class="block3variables"} पर क्लिक करें, और फिर 'Make a Variable' पर क्लिक करें | क्योंकि ये variable आपके नाम को संग्रहीत करने के लिए प्रयोग होगा, चलिए इस variable का नाम हम रखते है... `name`{:class="block3variables"}!
+हम आपका नाम संग्रहित करने के लिए **variable** का उपयोग कर सकते हैं | Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. क्योंकि ये variable आपके नाम को संग्रहीत करने के लिए प्रयोग होगा, चलिए इस variable का नाम हम रखते है... `name`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-अपना नाम संग्रहित करने के लिए, `Data`{:class="block3variables"} बटन को क्लिक करें और फिर `set name`{:class="block3variables"} ब्लॉक को खींच कर अपने कोड के अंत पे लाकर चिपका दीजिये |
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![अदा का स्प्राइट](images/ada-sprite.png)
 
