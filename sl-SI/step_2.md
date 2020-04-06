@@ -1,12 +1,12 @@
 ## Ada Lovelace
 
-Leta 1842 je Ada Lovelace pisala o uporabi stroja, imenovanega "Analitični motor" za izračun, in je ocenjena kot prvi svetovni računalniški programer! Ada je bila tudi prva, ki je videla, da so računalniki lahko več kot le veliki kalkulatorji.
+Leta 1842 je Ada Lovelace pisala o uporabi stroja, imenovanega "analitični stroj" za računanje, zato se jo smatra za prvo računalniško programerko! Ada je bila tudi prva, ki je uvidela, da so računalniki lahko več kot le veliki kalkulatorji.
 
 \--- task \---
 
-Odprite začetni projekt Scratch "Generator poezije".
+Odpri začetni projekt Scratch "Generator poezije".
 
-**Spletna**: odprite projekt [zaganjalnika](http://rpf.io/poetry-on){: target = "_ blank"}.
+**Spletna**: odpri [začetni projekt](http://rpf.io/poetry-on){: target = "_ blank"}.
 
 Če imaš Scratch uporabniški račun, lahko ustvariš kopijo s klikom na **Predelaj**.
 
