@@ -2,6 +2,6 @@
 
 ## 挑戰：更多詩歌
 
-您可以使用自己的清單生成自己的詩歌嗎？
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
