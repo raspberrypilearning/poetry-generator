@@ -1,10 +1,10 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Dyma'r fersiwn ** Scratch 3 ** y prosiect. Mae yna hefyd fersiwn [ Scratch 2 y prosiect ](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Cyflwyniad
 
 You are going to learn how to program your own poetry generator!
 
@@ -19,15 +19,15 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![sgrînlun gêm](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Yr hyn byddi di'n ei ddysgu
 
-+ Variables;
++ Newidynnau;
 + Lists and random list items;
 + Repetition (the `repeat`{:class="block3control"} block).
 
@@ -35,17 +35,17 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Beth fydd ei angen arno ti
 
-#### Hardware
+#### Caledwedd
 
-+ A computer capable of running Scratch 3
++ Cyfrifiadur sy'n gallu rhedeg Scratch 3
 
-#### Software
+#### Meddalwedd
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
 
-#### Downloads
+#### Lawrlwythiadau
 
 The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
@@ -53,16 +53,16 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Gwybodaeth ychwanegol i addysgwyr
 
 This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Gallwch chi ddod o hyd i'r [ateb ar gyfer y prosiect hwn yma](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
