@@ -1,10 +1,10 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Ez a projekt **Scratch 3**-as verziója. A projekt [Scratch 2 változata](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2) is elérhető.
 
 \--- /no-print \---
 
-## Introduction
+## Bevezetés
 
 You are going to learn how to program your own poetry generator!
 
@@ -19,13 +19,13 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![játék képernyőkép](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Mit fogsz megtanulni
 
 + Variables;
 + Lists and random list items;
@@ -35,17 +35,17 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Mire lesz szükséged?
 
-#### Hardware
+#### Hardver
 
-+ A computer capable of running Scratch 3
++ Egy, a Scratch 3 futtatására alkalmas számítógép
 
-#### Software
+#### Szoftver
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (vagy [online](http://rpf.io/scratchon){:target="_ blank"} vagy [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
-#### Downloads
+#### Letöltések
 
 The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
@@ -53,16 +53,16 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: További információk oktatóknak
 
 This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verziót](https://projects.raspberrypi.org/en/projects/poetry-generator/print) {:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Itt található a [befejezett projekt](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
