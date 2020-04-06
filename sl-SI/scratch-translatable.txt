@@ -1,27 +1,27 @@
 Zdravo!
 
-Hi, I’m Ada!
+Pozdravljen, jaz sem Ada!
 
-What’s your name?
+Kako ti je ime?
 
 ime
 
-Hi
+Živjo
 
-Click the computer to generate a poem.
+Klikni na računalnik, da ustvariš pesem.
 
-Here is your poem…
+To je tvoja pesem…
 
-verbs
+glagoli
 
-adverbs
+pridevniki
 
-nouns
+samostalniki
 
-adjectives
+prislovi
 
-I
+Jaz
 
-by the
+ob
 
-I feel
+Čutim
