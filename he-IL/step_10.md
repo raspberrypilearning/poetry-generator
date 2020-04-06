@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## אתגר: עוד שירה
 
-Can you use your own lists to generate you own poetry?
+האם אתה יכול להשתמש ברשימות משלך כדי ליצור שירה משלך?
 
 \--- /challenge \---
