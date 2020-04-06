@@ -4,7 +4,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## Giới thiệu
 
 You are going to learn how to program your own poetry generator!
 
@@ -25,7 +25,7 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## tiêu đề: bạn sẽ học được gì
 
 + Variables;
 + Lists and random list items;
@@ -35,15 +35,15 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will need
+## tiêu đề: Những gì bạn sẽ cần
 
-#### Hardware
+#### Phần cứng
 
-+ A computer capable of running Scratch 3
++ Một máy tính có khả năng chạy Scratch 3
 
-#### Software
+#### Phần mềm
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
 
 #### Downloads
 
@@ -59,7 +59,7 @@ This project has been created to celebrate [Ada Lovelace Day](https://findingada
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Nếu bạn cần in hướng dẫn, vui lòng sử dụng [phiên bản máy in phù hợp](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
