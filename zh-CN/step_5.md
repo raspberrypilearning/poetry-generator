@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-要随机生成诗歌，首先需要一个**列表** 来存储可使用的词。 要创建新的列表，请单击 `变量`{:class="block3variables"} 标签。
+要随机生成诗歌，首先需要一个**列表** 来存储可使用的词。 To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 让我们在诗歌的第三行使用 **动词**(动作词)。 创建一个名为 `动词`{:class =“block3variables”} 的新列表。
 
