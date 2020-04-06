@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-ランダムな詩を作成するには、使用する言葉の**リスト**が最初に必要です。 新しいリストを作成するには、`変数` {:class="block3variables"}タブをクリックします。
+ランダムな詩を作成するには、使用する言葉の**リスト**が最初に必要です。 To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 詩の最初の行に**動詞**(動きを表す言葉)を使いましょう。 `動詞`{:class="block3variables"}という新しいリストを作成します。
 
