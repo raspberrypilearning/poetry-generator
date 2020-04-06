@@ -1,0 +1,24 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: अदा की कविता जनरेटर
+description: अदा लवलेस डे मानाने के लिए, अपना खुद का कविता जनरेटर प्रोग्राम बनाना सीखे!
+version: 4
+last_tested: 2019-02-20
+steps:
+  - title: परिचय
+  - title: अदा लवलेस
+  - title: 'चुनौती: अदा को कोड करिये ताकि वो अपना परिचय दे सके'
+    challenge: true
+  - title: अदा को अपना नाम बताना
+  - title: एनालिटिकल यन्त्र
+  - title: और कविताएँ
+  - title: एनालिटिकल यन्त्र को एनिमेट करना
+  - title: 'चुनौती: अपनी कविता को निजी बनाये'
+    challenge: true
+  - title: 'चुनौती: कुछ और शब्द'
+    challenge: true
+  - title: 'चुनौती: कुछ और कविताएं'
+    challenge: true
+  - title: आगे क्या?
