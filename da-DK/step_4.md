@@ -1,10 +1,10 @@
-## Telling Ada your name
+## Fortæller Ada dit navn
 
-Ada has introduced herself, but she doesn't know your name!
+Ada har præsenteret sig selv, men hun kender ikke dit navn!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Træk en `ask`{: class = "block3sensing"} -blok (fra sektionen `sensing`{: class = "block3sensing"}) til din kode. Sådan ser din kode ud:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Klik på Ada for at teste din kode. Ada skulle bede dig om dit navn, som du kan indtaste!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![ada sprite spørger hvad er dit navn](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Vi kan bruge en **variabel** til at gemme dit navn. Klik på `Data`{: class = "block3variables"}, og derefter på 'Lav en variabel'. Da denne variabel vil blive brugt til at gemme dit navn, lad os kalde variablen ... `navn`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+For at gemme dit navn skal du klikke på fanen `Data`{: class = "block3variables"} og derefter trække `sætnavnet`{: class = "block3variables"} blok til slutningen af din kode.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -49,7 +49,7 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Brug `svaret`{: class = "block3sensing"} -blokken til at gemme det svar, du skriver i.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -64,15 +64,15 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Klik på Ada for at teste din kode, og indtast dit navn, når du bliver spurgt. Du skal se, at dit navn er blevet gemt i variablen `name`{: class = "block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![skærmbillede](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Du kan nu bruge dit navn i din kode. Tilføj denne kode:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -84,43 +84,43 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Sådan opretter du denne kode:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Træk en `sammenføjning`{: class = "blockoperators"} -blok ind på `siger`{: class = "blocklooks"} -blokken
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Tilføj din `navn`{: class = "blockdata"} blok på `join`{: class = "blockoperators"} blokken.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
     ```
 
-\--- /task \---
+\--- /opgave \---
 
-\--- task \---
+\--- opgave \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+For at skjule din `navn`{: class = "block3variables"} -variabel på scenen, skal du klikke på krydset ved siden af variablen.
 
-![tick name variable](images/poetry-tick-annotated.png)
+![kryds navn variabel](images/poetry-tick-annotated.png)
 
-\--- /task \---
+\--- /opgave \---
 
-\--- task \---
+\--- opgave \---
 
-Test your new code. Ada should say hello to you, using your name!
+Test din nye kode. Ada skal sige hej til dig ved hjælp af dit navn!
 
-![screenshot](images/poetry-name-test2.png)
+![skærmbillede](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+Hvis der ikke er noget mellemrum mellem ordet 'Hej' og dit navn, skal du selv tilføje et mellemrum i koden!
 
-\--- /task \---
+\--- /opgave \---
 
-\--- task \---
+\--- opgave \---
 
-Finally, add this code to explain what to do next:
+Til sidst skal du tilføje denne kode for at forklare, hvad du skal gøre næste:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -133,10 +133,10 @@ say (join [Hi ] (name)) for (2) seconds
 + say [Click the computer to generate a poem.] for (2) seconds 
 ```
 
-\--- /task \---
+\--- /opgave \---
 
-\--- task \---
+\--- opgave \---
 
-Test Ada's code one last time, to make sure that everything works.
+Test Adas kode en sidste gang for at sikre dig, at alt fungerer.
 
-\--- /task \---
+\--- /opgave \---
