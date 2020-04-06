@@ -1,38 +1,38 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+V roku 1842, Ada Lovelace opísala počítací stroj s názvom 'Analytical Engine' (analytický stroj). Ada je považovaná za prvú počítačovú programátorku na svete! Ada bola tiež prvá, ktorá tvrdila, že počítače môžu byť viac ako len veľké kalkulačky.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Otvor si štartovací Scratch projekt 'Generátor básní'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: otvor [štartovací projekt](http://rpf.io/poetry-on){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Ak máš účet v Scratch-i, môžeš si vytvoriť kópiu projektu kliknutím na **Remixuj**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline**: v offline editore otvor [štartovací projekt](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"}.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ak potrebuješ stiahnuť a nainštalovať offline Scratch editor, nájdeš ho na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Kliknite na postavu „Ada“ a potom kliknite na časť `Udalosti`{:class="block3events"} v záložke „Scenáre“. Potiahni blok `pri kliknutí na mňa`{:class="block3events"} doprava do oblasti pre scenár.
 
-![ada sprite](images/ada-sprite.png)
+![postava ada](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![ťahaj blok po kliknutí na postavu](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Akýkoľvek scenár pridaný pod tento blok sa spustí po kliknutí na Adu!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Klikni na časť `Vzhľad`{:class="block3looks"}, potiahni blok `bublina`{:class="block3looks"} `Ahoj!` `2 s`{:class="block3looks"} doprava a pripoj ho pod blok `pri kliknutí na mňa`{:class="block3events"}.
 
-![ada sprite](images/ada-sprite.png)
+![postava ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Klikni na Adu a mal/-a by si vidieť, ako sa s tebou rozpráva.
 
-![screenshot](images/poetry-say-test.png)
+![snímka obrazovky](images/poetry-say-test.png)
 
 \--- /task \---
