@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Code Ada to introduce herself
+## Zorluk: Ada'yı Kodla
 
-Can you change your code, so that Ada says 'Hi, I'm Ada!' when you click on her? ![ada sprite saying Hi, I'm Ada!](images/poetry-ada-intro.png)
+Kodunuzu değiştirebilir misiniz, böylece Ada 'Merhaba, ben Ada!' ona tıkladığınızda? ![ada sprite Merhaba, ben Ada!](images/poetry-ada-intro.png)
 
 \--- /challenge \---
