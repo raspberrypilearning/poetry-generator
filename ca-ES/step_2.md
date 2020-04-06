@@ -4,35 +4,35 @@ L'any 1842, Ada Lovelace va escriure sobre l'ús d'una màquina anomenada 'Motor
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Obre el projecte inicial de Scratch 'Generador de Poesia'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**En línia**: obre el [ projecte d’inici](http://rpf.io/poetry-on){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Si tens un compte a Scratch pots fer una còpia fent clic a **Reinventa**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Fora de línia:** obre el [projecte d'inici](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} a l’editor fora de línia.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
-
-\--- /task \---
-
-\--- task \---
-
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
-
-![ada sprite](images/ada-sprite.png)
-
-![dragging when this sprite clicked block](images/poetry-click.png)
-
-Any code added underneath this block will run when Ada is clicked!
+Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Fes clic al personatge de 'Ada', i clic a la pestanya `Esdeveniments`{:class="block3events"} de la secció 'Codi'. Arrossega el bloc `quan es cliqui aquest personatge`{:class="block3events"} a l'àrea de codi de la dreta.
 
-![ada sprite](images/ada-sprite.png)
+![personatge de l'ada](images/ada-sprite.png)
+
+![arrossegar el bloc quan es cliqui aquest personatge](images/poetry-click.png)
+
+Qualsevol codi afegit a sota d'aquest bloc s'executarà quan es faci clic a l'Ada!
+
+\--- /task \---
+
+\--- task \---
+
+Fes clic a la pestanya `Aspecte`{:class="block3looks"}, i arrossega el bloc `digues`{:class="block3looks"} `Hola!` `durant 2 segons`{:class="block3looks"} sota el bloc `quan es cliqui aquest personatge`{:class="block3events"} que has afegit prèviament.
+
+![personatge de l'ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Fes clic a l'Ada i hauries de veure com parla amb tu.
 
-![screenshot](images/poetry-say-test.png)
+![captura de pantalla](images/poetry-say-test.png)
 
 \--- /task \---
