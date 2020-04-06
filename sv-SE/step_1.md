@@ -4,7 +4,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## Inledning
 
 You are going to learn how to program your own poetry generator!
 
@@ -25,7 +25,7 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## titel: Vad du kommer att lära dig
 
 + Variables;
 + Lists and random list items;
@@ -35,13 +35,13 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will need
+## titel: Vad du kommer att behöva
 
-#### Hardware
+#### Hårdvara
 
-+ A computer capable of running Scratch 3
++ En dator som kan hantera Scratch 3
 
-#### Software
+#### Mjukvara
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -59,7 +59,7 @@ This project has been created to celebrate [Ada Lovelace Day](https://findingada
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Om du behöver skriva ut det här projektet, använd den [skrivarvänliga versionen](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target = "_ blank"}.
 
 \--- /no-print \---
 
