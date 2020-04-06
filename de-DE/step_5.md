@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Um ein zufälliges Gedicht zu erstellen, brauchst du als erstes eine **Liste** mit Wörtern, die du benutzen willst. Um eine neue Liste zu erstellen, klicke auf den `Variablen`{:class="block3variables"} Reiter.
+Um ein zufälliges Gedicht zu erstellen, brauchst du als erstes eine **Liste** mit Wörtern, die du benutzen willst. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 Lass uns **Verben** (Aktionswörter) in der ersten Gedichtszeile benutzen. Erstelle eine neue Liste mit dem Namen `Verben`{:class="block3variables"}.
 
