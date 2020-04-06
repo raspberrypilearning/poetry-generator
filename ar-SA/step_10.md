@@ -2,6 +2,6 @@
 
 ## التحدي: المزيد من الشعر
 
-هل يمكنك استخدام قوائمك الخاصة لتوليد الشعر الخاص بك؟
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
