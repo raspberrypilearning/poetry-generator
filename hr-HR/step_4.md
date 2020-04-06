@@ -4,7 +4,7 @@ Ada has introduced herself, but she doesn't know your name!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Ovako bi tvoj kôd trebao izgledati:
 
 ![ada sprite](images/ada-sprite.png)
 
