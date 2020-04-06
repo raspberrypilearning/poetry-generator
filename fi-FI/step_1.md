@@ -4,7 +4,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## Esittely
 
 You are going to learn how to program your own poetry generator!
 
@@ -25,7 +25,7 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Mitä tulet oppimaan
 
 + Variables;
 + Lists and random list items;
@@ -35,17 +35,17 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Mitä tarvitset
 
-#### Hardware
+#### Laitteisto
 
-+ A computer capable of running Scratch 3
++ Tietokone, joka pystyy käyttämään Scratch 3 -ohjelmaa
 
-#### Software
+#### Ohjelmisto
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (joko [verkossa](http://rpf.io/scratchon){:target="_blank"} tai [koneelle asennettuna](http://rpf.io/scratchoff){:target="_blank"})
 
-#### Downloads
+#### Ladattavat tiedostot
 
 The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
@@ -53,16 +53,16 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Lisätietoja kouluttajille
 
 This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Jos haluat tulostaa tämän projektin, käytä [tulostusystävällistä versiota](https://projects.raspberrypi.org/en/projects/poetry-generator/print){: target = "_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Löydät [valmiin projektin täältä](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
