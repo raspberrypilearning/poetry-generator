@@ -1,27 +1,27 @@
-Hello!
+Hola!
 
-Hi, I’m Ada!
+Hola, sóc l'Ada!
 
-What’s your name?
+Quin és el teu nom?
 
-name
+nom
 
-Hi
+Hola
 
-Click the computer to generate a poem.
+Fes clic a l'ordinador per generar un poema.
 
-Here is your poem…
+Aquí tens el teu poema…
 
 verbs
 
-adverbs
+adverbis
 
-nouns
+substantius
 
-adjectives
+adjectius
 
-I
+Jo
 
-by the
+per
 
-I feel
+Em sento
