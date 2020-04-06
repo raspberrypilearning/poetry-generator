@@ -1,12 +1,12 @@
-## Animating the Analytical Engine
+## एनालिटिकल यन्त्र को एनिमेट करना
 
-Let's animate your computer, so that it looks like it's generating poetry.
+चलिए आपके कंप्यूटर को एनिमेट करते है, ताकि ऐसा लगे की वो कवितायेँ जेनेरेट कर रहा हैं |
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+अपने कंप्यूटर के स्प्राइट पर क्लिक करें, और इस कोड को पहले `say`{:class="block3looks"} ब्लॉक के बाद जोड़ें:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+आपको `repeat`{:class="block3control"} और `wait`{:class="block3control"} ब्लॉक्स ये `Control`{:class="block3control"} खाने में मिलेगा |
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -29,7 +29,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+अपने प्रोजेक्ट का परीक्षण करें। कविता निर्माण करने से पहले आपका कंप्यूटर थोड़ा हिलना चाहिए!
 
 ![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
@@ -37,7 +37,7 @@ Test your project. You should see the computer shake before producing a poem!
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+'Sounds' बटन पर क्लिक करें, और नीचे बाईं ओर की तरफ 'Choose a Sound' वाले विकल्प पे क्लिक करें।
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,7 +45,7 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+'computer beeps' वाली ध्वनि को चुनें और OK पर क्लिक करें।
 
 ![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
 
@@ -53,7 +53,7 @@ Choose a 'computer beeps' sound and click OK.
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+अपने एनीमेशन के तुरंत पहले आवाज़ सुनने के लिए, `start sound`{:class="block3sound"} वाला ब्लॉक जोड़ें |
 
 ![computer sprite](images/computer-sprite.png)
 
