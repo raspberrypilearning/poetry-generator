@@ -26,7 +26,7 @@ Kliknij Adę, aby przetestować kod. Ada powinna zapytać cię o imię, które m
 
 \--- task \---
 
-Możemy użyć **zmiennej ** do przechowywania twojego imienia. Kliknij `Zmienne`{: class = "block3variables"}, a następnie „Utwórz zmienną”. Ponieważ ta zmienna będzie używana do przechowywania twojego imienia, wywołajmy zmienną ... `imię`{: class = "block3variables"}!
+Możemy użyć **zmiennej ** do przechowywania twojego imienia. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Ponieważ ta zmienna będzie używana do przechowywania twojego imienia, wywołajmy zmienną ... `imię`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Możemy użyć **zmiennej ** do przechowywania twojego imienia. Kliknij `Zmienne
 
 \--- task \---
 
-Aby zapisać swoje imię, kliknij kartę `Zmienne`{: class = "block3variables"}, a następnie przeciągnij blok `ustaw imię`{: class = "block3variables"} na koniec kodu.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![duszek ady](images/ada-sprite.png)
 
