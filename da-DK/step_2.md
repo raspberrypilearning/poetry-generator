@@ -1,36 +1,36 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+I 1842 skrev Ada Lovelace om at bruge en maskine kaldet 'analytisk motor' til at foretage beregninger og betragtes som verdens første computerprogrammør! Ada var også den første til at se, at computere kunne være mere end bare store regnemaskiner.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Åbn Scratch-startprojektet 'Poetry Generator'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: åbn [startprojekt](http://rpf.io/poetry-on){: target = "_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Hvis du har en Scratch-konto, kan du oprette en kopi ved at klikke på **Remix** .
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+** Offline **: åbn [ startprojektet ](http://rpf.io/p/en/beat-the-goalie-go) {: target = "_ blank"} i offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Hvis du har brug for at downloade og installere Scratch offline-editoren, kan du finde den på [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {: Target = "_ blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Klik på din 'Ada' sprite, og klik på fanen `Begivenheder`{: class = "block3events"} i kodningssektionen 'Scripts'. Træk `når denne sprite klikkede på`{: class = "block3events"} -blok til kodningsområdet til højre.
 
 ![ada sprite](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![trækker når denne sprite klikkede blok](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Enhver kode, der tilføjes under denne blok, kører, når der klikkes på Ada!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Klik på `Looks`{: class = "block3looks"} fanen, og træk `siger`{: class = "block3looks"} `Hej!` `i 2 sek.`{: class = "block3looks"} blok under `da denne sprite klikkede på`{: class = "block3events"} blok, du allerede har tilføjet.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Klik på Ada, så skal du se hende tale med dig.
 
-![screenshot](images/poetry-say-test.png)
+![skærmbillede](images/poetry-say-test.png)
 
 \--- /task \---
