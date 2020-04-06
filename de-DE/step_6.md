@@ -12,7 +12,7 @@ Lass uns Adverbien in der nächsten Gedichtszeile benutzen. Ein **Adverb** ist e
 
 \--- task \---
 
-Füge diese Zeile zu deinem Computer Code hinzu, um ein zufälliges Adverb auf der nächsten Gedichtszeile zu sagen:
+Füge diese Zeile zu deinem Computer Code hinzu, um ein zufälliges Adverb in der nächsten Gedichtszeile zu sagen:
 
 ![Computer Sprite](images/computer-sprite.png)
 
@@ -43,7 +43,7 @@ Füge eine Liste mit Nomen zu deinem Projekt hinzu. Ein **Nomen** ist ein Ort od
 
 \--- task \---
 
-Füge einen Code hinzu, um die Nomen in deinen Gedicht zu benutzen.
+Füge Code hinzu, um die Nomen in deinen Gedicht zu benutzen.
 
 ![Computer Sprite](images/computer-sprite.png)
 
@@ -67,7 +67,7 @@ Füge eine Liste mit Adjektiven zu deinem Projekt hinzu. Ein **Adjektiv** ist ei
 
 \--- task \---
 
-Füge einen Code zu deinen Gedicht hinzu, um Adjektive zu benutzen:
+Füge weiteren Code zu deinen Gedicht hinzu, um Adjektive zu benutzen:
 
 ![Computer Sprite](images/computer-sprite.png)
 
