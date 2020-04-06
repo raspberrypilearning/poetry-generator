@@ -45,6 +45,6 @@ say [Hello!] for (2) seconds
 
 Click on Ada, and you should see her talk to you.
 
-![screenshot](images/poetry-say-test.png)
+![skärmdump](images/poetry-say-test.png)
 
 \--- /task \---
