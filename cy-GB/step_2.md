@@ -8,11 +8,11 @@ Open the 'Poetry Generator' Scratch starter project.
 
 **Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Os oes ganddot ti gyfrif Scratch galli di wneud copi drwy glicio ar ** Remix **.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+** All-lein **: agor y prosiect cychwynnol [ ](http://rpf.io/p/en/beat-the-goalie-go) {: target = "_ wag"} yn y golygydd all-lein.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -45,6 +45,6 @@ say [Hello!] for (2) seconds
 
 Click on Ada, and you should see her talk to you.
 
-![screenshot](images/poetry-say-test.png)
+![sgrinlun](images/poetry-say-test.png)
 
 \--- /task \---
