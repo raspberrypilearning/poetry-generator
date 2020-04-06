@@ -1,38 +1,38 @@
-## Ada Lovelace
+## अदा लवलेस
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+1842 में, अदा लवलेस ने गणना करने के लिए 'एनालिटिकल यन्त्र' नामक मशीन का उपयोग करने के बारे में लिखा, और इसे अब दुनिया के पहले कंप्यूटर प्रोग्रामर के रूप में देखा जाता है! अदा दुनिया में उन चुनिंदा लोगो में से है जिन्होंने यह समझा की कंप्यूटर केवल बड़े कैलकुलेटर जितना नहीं उससे ऊपर बहुत कुछ कर सकता है |
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+कविता जनरेटर स्टार्टर प्रोजेक्ट को खोले |
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**ऑनलाइन**: [स्टार्टर प्रोजेक्ट खोलें](http://rpf.io/poetry-on){: target = "_ blank"}।
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+यदि आपके पास एक Scratch खाता है, तो आप **Remix** पर क्लिक करके कॉपी बना सकते हैं ।
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**ऑफलाइन**: [स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} को ऑफलाइन एडिटर में खोलिये।
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+यदि आपको Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करना चाहते है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+अपने 'अदा' के स्प्राइट पे क्लिक करें, और 'Scripts' कोडिंग खाने से `Events`{:class="block3events"} बटन पर क्लिक करें। `when this sprite clicked`{:class="block3events"} वाले ब्लॉक को दाईं ओर कोडिंग क्षेत्र पर लाकर खींचे |
 
-![ada sprite](images/ada-sprite.png)
+![अदा का स्प्राइट](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![इस स्प्राइट को क्लिक करने वाले ब्लॉक को खींचना](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+इस ब्लॉक के नीचे जोड़ा गया कोई भी कोड तभी चलेगा जब अदा पर क्लिक किया जाएगा!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+आप `Looks`{:class="block3looks"} बटन को क्लिक करें, और `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} वाले ब्लॉक को `when this sprite clicked`{:class="block3events"} ब्लॉक के नीचे खींचकर छोड़ दीजिये |
 
-![ada sprite](images/ada-sprite.png)
+![अदा का स्प्राइट](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+अदा पर क्लिक करें, और अब वो आपसे बात करते हुए नज़र आनी चाहिए |
 
-![screenshot](images/poetry-say-test.png)
+![स्क्रीनशॉट](images/poetry-say-test.png)
 
 \--- /task \---
