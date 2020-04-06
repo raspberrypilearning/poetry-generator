@@ -18,7 +18,7 @@ Wenn du Scratch herunterladen und auf deinem Rechner installieren möchtest, dan
 
 \--- task \---
 
-Klicke auf deine 'Ada'-Figur und klicke im Codierungsabschnitt 'Skripte' auf die Registerkarte `Ereignisse`{:class="block3events"}. Ziehe die `wenn dieses Sprite geklickt wird`{:class="block3events"} Block auf den Codierungsbereich rechts.
+Klicke auf deine 'Ada'-Figur und klicke im Bereich 'Skripte' auf die Registerkarte `Ereignisse`{:class="block3events"}. Ziehe die `wenn diese Figur angeklickt wird`{:class="block3events"} Block auf den Skriptbereich rechts.
 
 ![Ada Sprite](images/ada-sprite.png)
 
@@ -30,7 +30,7 @@ Jeder Code, der unter diesem Block hinzugefügt wird, wird ausgeführt, wenn auf
 
 \--- task \---
 
-Klicke auf die Registerkarte `Aussehen`{:class="block3looks"} und ziehe den `sage`{:class="block3looks"} `Hallo!` `für 2 Sekunden`{:class="block3looks"} Block unter dem `wenn diese Figur angeklickt wird`{:class="block3events"} Block, den Du bereits hinzugefügt haben.
+Klicke auf die Registerkarte `Aussehen`{:class="block3looks"} und ziehe den `sage`{:class="block3looks"} `Hallo!` `für 2 Sekunden`{:class="block3looks"} Block unter den `wenn diese Figur angeklickt wird`{:class="block3events"} Block, den Du bereits hinzugefügt hast.
 
 ![Ada Sprite](images/ada-sprite.png)
 
