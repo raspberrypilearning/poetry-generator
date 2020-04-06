@@ -1,10 +1,10 @@
-Hello!
+哈囉！
 
 Hi, I’m Ada!
 
 What’s your name?
 
-name
+名稱
 
 Hi
 
