@@ -2,34 +2,34 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+title: अदा की कविता जनरेटर
+description: अदा लवलेस डे मानाने के लिए, अपना खुद का कविता जनरेटर प्रोग्राम बनाना सीखे!
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Ada Lovelace
+    title: अदा लवलेस
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: 'चुनौती: अदा को कोड करिये ताकि वो अपना परिचय दे सके'
     challenge: true
   - 
-    title: Telling Ada your name
+    title: अदा को अपना नाम बताना
   - 
-    title: The Analytical Engine
+    title: एनालिटिकल यन्त्र
   - 
-    title: More poetry
+    title: और कविताएँ
   - 
-    title: Animating the Analytical Engine
+    title: एनालिटिकल यन्त्र को एनिमेट करना
   - 
-    title: 'Challenge: Personalise your poem'
+    title: 'चुनौती: अपनी कविता को निजी बनाये'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: 'चुनौती: कुछ और शब्द'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: 'चुनौती: कुछ और कविताएं'
     challenge: true
   - 
-    title: What next?
+    title: आगे क्या?
