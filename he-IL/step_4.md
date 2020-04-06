@@ -1,12 +1,12 @@
-## Telling Ada your name
+## מספרת לעדה את שמך
 
-Ada has introduced herself, but she doesn't know your name!
+עדה הציגה את עצמה, אבל היא לא יודעת מה שמך!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+גרור חסימת `שאל`{: class = "block3sensing"} (מהקטע `sensing`{: class = "block3sensing"}) אל הקוד שלך. כך ייראה הקוד שלך:
 
-![ada sprite](images/ada-sprite.png)
+![אדה ספרייט](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+לחץ על עדה כדי לבדוק את הקוד שלך. עדה צריכה לשאול אותך את שמך, שתוכל להקליד!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![אדה ספרייט שואלת מה שמך](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+אנו יכולים להשתמש **משתנה** לאחסן את שמך. לחץ על `נתונים`{: class = "block3variables"} ואז על 'צור משתנה'. מכיוון שמשתנה זה ישמש לאחסון שמך, בוא נקרא למשתנה ... `שם`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+כדי לאחסן את שמך, לחץ על הכרטיסייה `נתונים`{: class = "block3variables"}, ואז גרור את חסימת `הקבוצות`{: class = "block3variables"} לסוף הקוד שלך.
 
-![ada sprite](images/ada-sprite.png)
+![אדה ספרייט](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+השתמש בחסימה `תשובה`{: class = "block3sensing"} כדי לאחסן את התשובה בה אתה מקליד.
 
-![ada sprite](images/ada-sprite.png)
+![אדה ספרייט](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+לחץ על עדה כדי לבדוק את הקוד שלך, והזן את שמך כשנשאל. אתה צריך לראות ששמך נשמר במשתנה `שם`{: class = "block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![צילום מסך](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+כעת תוכל להשתמש בשמך בקוד שלך. הוסף קוד זה:
 
-![ada sprite](images/ada-sprite.png)
+![אדה ספרייט](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+ליצירת קוד זה:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. גרור חסימת `להצטרף`{: class = "blockoperators"} אל החסימה של `אומרים`{: class = "blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. הוסף את ה `שם`{: class = "blockdata"} לחסימה על חסימה של `join`{: class = "blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+כדי להסתיר את המשתנה `שלך`{: class = "block3variables"} על הבמה, לחץ על הסימון לצד המשתנה.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![משתנה שם לתקתק](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+בדוק את הקוד החדש שלך. עדה צריכה להגיד לך שלום, תוך שימוש בשמך!
 
-![ada sprite](images/ada-sprite.png)
+![צילום מסך](images/poetry-name-test2.png)
+
+אם אין רווח בין המילה 'היי' לשמך, תצטרך להוסיף רווח לקוד בעצמך!
+
+\--- /task \---
+
+\--- task \---
+
+לבסוף, הוסף קוד זה כדי להסביר מה לעשות הלאה:
+
+![אדה ספרייט](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+בדוק את הקוד של עדה בפעם האחרונה, כדי לוודא שהכל עובד.
 
 \--- /task \---
