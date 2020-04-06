@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-임의의 시를 제작하려면, 어떤 단어를 사용할지에 대한 **리스트** 가 필요합니다. 새로운 리스트를 만들기 위해서는 `변수`{:class="block3variables"} 탭을 클릭하세요.
+임의의 시를 제작하려면, 어떤 단어를 사용할지에 대한 **리스트** 가 필요합니다. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 **동사** (행동 단어들) 를 시의 첫번째 줄에 사용합시다. `동사`{:class="block3variables"} 리스트를 새로 만들어 보세요.
 
