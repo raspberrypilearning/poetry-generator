@@ -1,10 +1,10 @@
-## Telling Ada your name
+## Dweud dy enw wrth Ada
 
 Ada has introduced herself, but she doesn't know your name!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Dyma sut y dylai eich cod ymddangos:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -66,7 +66,7 @@ set [name v] to (answer :: +)
 
 Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
 
-![screenshot](images/poetry-name-test.png)
+![sgrinlun](images/poetry-name-test.png)
 
 \--- /task \---
 
