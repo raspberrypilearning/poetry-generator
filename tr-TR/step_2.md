@@ -1,50 +1,49 @@
 ## Ada Lovelace
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+1842'de Ada Lovelace, hesaplama yapmak için 'Analitik Motor' adı verilen bir makineyi kullandığını yazdı ve dünyanın ilk bilgisayar programcısı olarak görülüyor! Ada, bilgisayarların büyük hesap makinelerinden daha fazlası olabileceğini ilk gören Ada oldu.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+'Şiir Jeneratörü' Scratch başlangıç projesini açın.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Çevrimiçi**: [başlangıç projesini açın](http://rpf.io/poetry-on){: target = "_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Eğer bir Scratch hesabınız varsa, **Remix**'e tıklayarak bir kopyasını oluşturabilirsiniz.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+** Çevrimdışı**: [başlangıç projesini](http://rpf.io/p/en/beat-the-goalie-go) Çevrimdışı düzenleyicide {: target = "_ blank"} açın.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [ rpf.io/scratchoff adresinde bulabilirsiniz. ](http://rpf.io/scratchoff) {: Hedef = "_ blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+'Ada' hareketli grafiğinizi tıklayın ve 'Komut Dosyaları' kodlama bölümündeki `Etkinlik`{: class = "block3events"} sekmesini tıklayın. Drag `bu sprite tıklandığında`{: class = "block3events"} bloğu sağdaki kodlama alanı üzerine.
 
 ![ada sprite](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![bu hareketli grafik bloğunu tıkladığında sürükleme](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Ada tıklandığında bu bloğun altına eklenen tüm kodlar çalışacaktır!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+`Görünüş`{: class = "block3looks"} sekmesini tıklayın ve `say`{: class = "block3looks"} `Merhaba!` `için 2 saniye`Bu hareketli grafik daha önce eklediğiniz</code>{: class = "block3events"} bloğunu tıkladığında `altındaki {{class = "block3looks"} bloğu.</p>
 
-![ada sprite](images/ada-sprite.png)
+<p><img src="images/ada-sprite.png" alt="ada sprite" /></p>
 
-```blocks3
-when this sprite clicked
+<pre><code class="blocks3">when this sprite clicked
 say [Hello!] for (2) seconds
-```
+`</pre> 
 
 \--- /task \---
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Ada'ya tıkladığınızda onunla konuşmasını görmelisiniz.
 
-![screenshot](images/poetry-say-test.png)
+![ekran görüntüsü](images/poetry-say-test.png)
 
 \--- /task \---
