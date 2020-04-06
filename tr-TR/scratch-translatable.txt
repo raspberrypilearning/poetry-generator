@@ -1,10 +1,10 @@
-Hello!
+Merhaba!
 
 Hi, I’m Ada!
 
 What’s your name?
 
-name
+isim
 
 Hi
 
