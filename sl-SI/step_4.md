@@ -1,10 +1,10 @@
-## Telling Ada your name
+## Povej Ada svoje ime
 
-Ada has introduced herself, but she doesn't know your name!
+Ada se je predstavila, vendar ne ve tvojega imena!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Na svoj kodi povlecite blok z `vprašanji`:: class = "block3sensing"} (iz razdelka `zaznavanja`{: class = "block3sensing"}). Takole mora izgledati vaša koda:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Kliknite na Ada, da preizkusite svojo kodo. Ada naj vas vpraša svoje ime, ki ga lahko vnesete!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![ada sprite sprašuje, kako je tvoje ime](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Mi lahko uporabite **spremenljivko** za shranjevanje svoje ime. Kliknite `Podatki`{: class = "block3variables"} in nato "Naredi spremenljivko". Ker bo ta spremenljivka uporabljena za shranjevanje vašega imena, pokličimo spremenljivko ... `ime`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Če želite shraniti svoje ime, kliknite zavihek `Podatki`{: class = "block3variables"} in nato povlecite blok `nastavljeno ime`{: class = "block3variables"} na konec kode.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -49,7 +49,7 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Uporabite blok `odgovor`{: class = "block3sensing"}, da shranite odgovor, ki ga vnesete.
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -64,15 +64,15 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Kliknite na Ada, da preizkusite kodo in na vprašanje vnesite svoje ime. Morali bi videti, da je bilo vaše ime shranjeno v spremenljivki `ime`{: class = "block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![posnetek zaslona](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Zdaj lahko svoje ime uporabite v kodi. Dodaj to kodo:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Če želite ustvariti to kodo:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Povlecite blok `pridruži se`{: class = "blockoperators"} na blok `recimo`{: class = "blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Dodajte blok `ime`{: class = "blockdata"} na blok `pridruži`:: class = "blokkoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,25 +102,25 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Če želite na odru skriti svojo spremenljivko `name`{: class = "block3variables"}, kliknite kljuk poleg spremenljivke.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![oznaka spremenljivke imena](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Preizkusite svojo novo kodo. Ada naj se pozdravi s tvojim imenom!
+
+![posnetek zaslona](images/poetry-name-test2.png)
+
+Če med besedo "Živjo" in vašim imenom ni prostora, boste morali v kodo sami dodati presledek!
+
+\--- /task \---
+
+\--- task \---
+
+Na koncu dodajte to kodo in pojasnite, kaj naj naredim naprej:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Zadnjič preizkusite kodo Ade in se prepričajte, ali vse deluje.
 
 \--- /task \---
