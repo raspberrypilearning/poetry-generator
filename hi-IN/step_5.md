@@ -1,12 +1,12 @@
-## The Analytical Engine
+## एनालिटिकल यन्त्र
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+आइए कविता को बनाने के लिए अदा के कंप्यूटर (जिनको 'एनालिटिकल यन्त्र' कहा जाता है) को प्रोग्राम करें।
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+इस कोड को अपने 'कंप्यूटर' स्प्राइट में जोड़ें, ताकि क्लिक करने पर यह बोलें:
 
-![computer sprite](images/computer-sprite.png)
+![कंप्यूटर का स्प्राइट](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+एक अनोखी कविता बनाने के लिए, पहले आपको शब्दों कि **सूची** की आवश्यक्ता होगी | एक नई सूची बनाने के लिए, `Data`{:class="block3variables"} बटन पर क्लिक करें।
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+चलिए, आपके कविता के पहले पंक्ति में हम उपयोग करेंगे **क्रिया** (कार्य दर्शाने वाले शब्द) `verbs`{:class="block3variables"} नामक एक नयी सूची तैयार करें |
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+आपकी नई सूची फिलहाल खाली होगी। अपने खाली लिस्ट के नीचे ये `+` पर क्लिक करें और इन क्रियाओं को जोड़ें:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![सूची जिसमे + गहरे रंग का है](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+आपके कविता की पहली पंक्ति का शब्द "I" ही होना चाहिए, जिसके बाद आप कोई भी क्रिया शब्द का उपयोग कर सकते है |
 
-To create this line of poetry, you need to:
+कविता की इस पंक्ति को बनाने के लिए, आपको ये करना होगा:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Pick a random number`{:class="block3operators"} पर क्लिक करें, `1`और `length of the verbs list`{:class="block3variables"} को ऐसे सजाये:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. `item`{:class="block3variables"} ब्लॉक का उपयोग करें ताकि आपको `verbs`{:class="block3variables"} सूची से एक अनोखा आइटम मिले:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. अपने कविता की पहली पंक्ति बनाने के लिए, "I" शब्द को `Join`{:class="block3operators"} करें उस अनोखे क्रिया से:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. अपनी कविता के पंक्तियों को दिखाने के लिए, `say`{:class="block3looks"} ब्लॉक का उपयोग करें:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+आपका कोड इस प्रकार दिखना चाहिए:
 
-![computer sprite](images/computer-sprite.png)
+![कंप्यूटर का स्प्राइट](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+अपने कोड का कुछ समय परीक्षण करें। आपका कंप्यूटर हर बार `verbs`{:class="block3variables"} सूची से एक अनोखा शब्द चुनना चाहिए |
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 बुलबुले अलग अलग चीज़ें बोलते हुए](images/poetry-random-test.png)
 
 \--- /task \---
