@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Pentru a crea o poezie aleatorie, mai întâi ai nevoie de o **listă** de cuvinte pentru a le folosi. Pentru a crea o nouă listă, dă click pe blocul `Variabile` {:class="block3variables"}.
+Pentru a crea o poezie aleatorie, mai întâi ai nevoie de o **listă** de cuvinte pentru a le folosi. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 Să folosim **verbe** (cuvinte de acțiune) în prima linie a poeziei tale. Creează o nouă listă numită `verbe`{:class="block3variables"}.
 
