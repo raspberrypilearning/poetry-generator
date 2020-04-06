@@ -26,7 +26,7 @@ Dă click pe Ada pentru a-ți testa codul. Ada ar trebui să-ți solicite numele
 
 \--- task \---
 
-Putem folosi o **variabilă** pentru a stoca numele. Dă click pe `Variabile`{:class="block3variables"}, apoi pe „Creează o variabilă”. Deoarece această variabilă va fi folosită pentru a-ți stoca numele, să numim variabila... `nume`{:class="block3variables"}!
+Putem folosi o **variabilă** pentru a stoca numele. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Deoarece această variabilă va fi folosită pentru a-ți stoca numele, să numim variabila... `nume`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Putem folosi o **variabilă** pentru a stoca numele. Dă click pe `Variabile`{:c
 
 \--- task \---
 
-Pentru a-ți stoca numele, dă click pe blocul `Variabile`{:class="block3variables"} și trage apoi numele `setează`{:class="block3variables"} până la sfârșitul codului tău.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![personajul Ada](images/ada-sprite.png)
 
