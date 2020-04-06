@@ -2,6 +2,6 @@
 
 ## Repte: Més poesia
 
-Pots utilitzar les teves pròpies llistes per generar la teva pròpia poesia?
+Can you use your own lists to generate your own poetry?
 
 \--- /repte \---
