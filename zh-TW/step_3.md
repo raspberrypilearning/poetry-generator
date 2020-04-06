@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Code Ada to introduce herself
+## 挑戰：Ada代碼介紹自己
 
-Can you change your code, so that Ada says 'Hi, I'm Ada!' when you click on her? ![ada sprite saying Hi, I'm Ada!](images/poetry-ada-intro.png)
+您可以更改代碼，讓Ada說“嗨，我是Ada！”當你點擊她？ ![ada精靈說：嗨，我是Ada！](images/poetry-ada-intro.png)
 
 \--- /challenge \---
