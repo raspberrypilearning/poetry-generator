@@ -4,9 +4,9 @@ L'Ada s'ha presentat, però ella no sap el teu nom!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Arrossega un bloc `pregunta`{:class="block3sensing"} (de la secció `sensors`{:class="block3sensing"}) al teu codi. Així és com s'hauria de veure el teu codi:
 
-![ada sprite](images/ada-sprite.png)
+![personatge de l'ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Fes clic a l'Ada per provar el teu codi. L'Ada t'hauria de demanar el teu nom, que pots escriure!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![personatge de l'ada preguntant el teu nom](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Podem utilitzar una **variable** per emmagatzemar el teu nom. Fes clic a `Variables`{: class = "blockdata"} i, a continuació, "Crea una variable". Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, anomenem la variable... `nom`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Per emmagatzemar el teu nom, fes clic a la pestanya `Variables`{:class="block3variables"}, i arrossega el bloc `assigna a`{:class="block3variables"} al final del teu codi.
 
-![ada sprite](images/ada-sprite.png)
+![personatge de l'ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Empra el bloc `resposta`{:class="block3sensing"} per emmagatzemar la resposta que has escrit.
 
-![ada sprite](images/ada-sprite.png)
+![personatge de l'ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Fes clic a l'Ada per provar el teu codi i introdueix el teu nom quan se't demani. Hauries de veure que el teu nom ha estat emmagatzemat a la variable `nom`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![captura de pantalla](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Ara ja pots fer ús del del teu nom en el teu codi. Afegeix aquest codi:
 
-![ada sprite](images/ada-sprite.png)
+![personatge de l'ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Per crear aquest codi:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Arrossega el bloc `uneix`{:class="blockoperators"} dins el bloc `digues`{:class="blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Afegeix el bloc `nom`{:class="blockdata"} dins el bloc `uneix`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Per amagar la variable `nom`{:class="block3variables"} de l'escenari, fes clic a la casella que hi ha al costat de la variable.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![casella de la variable nom](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Prova el codi nou. L'Ada hauria de saludar-te amb el teu nom!
 
-![ada sprite](images/ada-sprite.png)
+![captura de pantalla](images/poetry-name-test2.png)
+
+Si no hi ha espai entre la paraula "Hola" i el teu nom, hauràs d'afegir un espai al codi!
+
+\--- /task \---
+
+\--- task \---
+
+Finalment, afegeix aquest codi per explicar què fer a continuació:
+
+![personatge de l'ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Prova el codi de l'Ada per última vegada, per assegurar-te que tot funciona.
 
 \--- /task \---
