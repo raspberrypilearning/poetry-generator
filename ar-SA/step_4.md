@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-يمكننا استخدام **متغير** لتخزين اسمك. انقر فوق `المتغيرات`{: class = "block3variables"} ، ثم "إنشاء متغير". نظرًا لأنه سوف يتم استخدام هذا المتغير لتخزين اسمك، فلندعو المتغير... `الاسم`{: class = "block3variables"}!
+يمكننا استخدام **متغير** لتخزين اسمك. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. نظرًا لأنه سوف يتم استخدام هذا المتغير لتخزين اسمك، فلندعو المتغير... `الاسم`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-لتخزين اسمك، انقر فوق علامة التبويب `المتغيرات`{: class = "block3variables"} ، ثم اسحب كتلة `إجعل الاسم مساوياً`: {= class = "block3variables"} إلى نهاية الكود البرمجي الخاص بك.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![كائن ادا](images/ada-sprite.png)
 
