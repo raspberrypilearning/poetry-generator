@@ -26,7 +26,7 @@ Vyskúšaj scenár kliknutím na Adu. Ada by sa ťa mala opýtať na tvoje meno,
 
 \--- task \---
 
-Pre uloženie mena môžeš použiť **premennú**. Klikni na časť `Premenné`{:class="block3variables"} a potom na 'Nová premenná'. Keďže táto premenná bude použitá na uloženie tvojho mena, nazvi premennú... `meno`{:class="block3variables"}!
+Pre uloženie mena môžeš použiť **premennú**. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Keďže táto premenná bude použitá na uloženie tvojho mena, nazvi premennú... `meno`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Pre uloženie mena môžeš použiť **premennú**. Klikni na časť `Premenné`
 
 \--- task \---
 
-Pre uloženie mena pridaj na koniec scenára blok `nastav meno`{:class="block3variables"}, ktorý nájdeš po kliknutí na časť `Premenné`{:class="block3variables"}.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![postava ada](images/ada-sprite.png)
 
