@@ -1,12 +1,12 @@
-## The Analytical Engine
+## Аналитички мотор
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Програмирамо Адаин рачунар (који се зове „Аналитички мотор“) да генерише поезију.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Додајте овај код у сприте „Рачунар“ да би се говорило кад се кликне:
 
-![computer sprite](images/computer-sprite.png)
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Да бисте направили случајан песму, прво треба да **списак** речи да користе. Да бисте креирали нову листу, кликните картицу `Подаци`{: цласс = "блоцк3вариаблес"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+Користимо **глагола** (радње речи) у првом реду ваше песме. Направите нову листу звану `глагола`{: цласс = "блоцк3вариаблес"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,58 +27,58 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Ваша нова листа биће празна. Кликните `+` на дну празне листе и додајте ове глаголе:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![листа са означеним +](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+Први ред ваше песме треба да буде реч "ја", а затим случајни глагол.
 
-To create this line of poetry, you need to:
+Да бисте створили овај део поезије, морате:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `Изаберите случајни број`{: цласс = "блоцк3операторс"} између `1` и `дужине листе глагола`{: цласс = "блоцк3вариаблес"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Помоћу овог блока добијате насумичну `ставку`{: цласс = "блоцк3вариаблес"} са листе `глагола`{: цласс = "блоцк3вариаблес"} листе:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Придружите се`{: цласс = "блоцк3операторс"} "И" случајним глаголом да бисте створили први ред песме:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Користите блок од `рецимо`{: цласс = "блоцк3лоокс"} за приказ ретка поезије:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Твој код би требао да изгледа овако:
 
-![computer sprite](images/computer-sprite.png)
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
-when this sprite clicked
-say [Here is your poem...] for (2) seconds
-+ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) for (2) seconds
+када је овај сприте кликнуо
+реците [Ево ваше песме ...] током (2) секунде
++ реците (придружите се [И] (ставка (одаберите случајно (1) до (дужина [глагола в])) "[глагола в ])) током (2) секунде
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Тестирајте код неколико пута. Ваш рачунар сваки пут треба да изабере случајну реч са листе `глагола`{: цласс = "блоцк3вариаблес"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 говорни мехурићи који говоре различите ствари](images/poetry-random-test.png)
 
 \--- /task \---
