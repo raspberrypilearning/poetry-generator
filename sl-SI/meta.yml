@@ -2,8 +2,8 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Generator poezije Ade
-description: Praznujte dan Ane Lovelace z učenjem programiranja lastnega generatorja poezije!
+title: Adin generator poezije
+description: Praznujte dan Ane Lovelace, z učenjem programiranja lastnega generatorja poezije!
 version: 4
 last_tested: 2019-02-20
 steps:
@@ -12,18 +12,18 @@ steps:
   - 
     title: Ada Lovelace
   - 
-    title: 'Izziv: Code Ada, da se predstavi'
+    title: 'Izziv: Sprogramiraj Ado, da se predstavi'
     challenge: true
   - 
-    title: Povej Ada svoje ime
+    title: Povej Adi svoje ime
   - 
-    title: Analitični motor
+    title: Analitični pogon
   - 
     title: Več poezije
   - 
-    title: Animacija analitičnega motorja
+    title: Animiranje analitičnega pogona
   - 
-    title: 'Izziv: Prilagodite svojo pesem'
+    title: 'Izziv: Prilagodi svojo pesem'
     challenge: true
   - 
     title: 'Izziv: Več besed'
