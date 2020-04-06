@@ -1,12 +1,12 @@
-## Telling Ada your name
+## Кажем Ади своје име
 
-Ada has introduced herself, but she doesn't know your name!
+Ада се представила, али не зна ваше име!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Превуците блок `аск`{: цласс = "блоцк3сенсинг"} (из одељка `сенсинг`{: цласс = "блоцк3сенсинг"}) на свој код. Ево како би ваш код требао изгледати:
 
-![ada sprite](images/ada-sprite.png)
+![ада сприте](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Кликните на Аду да бисте тестирали свој код. Ада би те требала питати своје име, које можеш уписати!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![ада сприте питајући како се зовеш](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Можемо користити **променљиву** за чување своје име. Кликните на `Подаци`{: цласс = "блоцк3вариаблес"}, а затим на "Маке а Вариабле". Како ће се ова променљива користити за чување вашег имена, назовимо променљиву ... `име`{: цласс = "блоцк3вариаблес"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Да бисте сачували своје име, кликните картицу `Подаци`{: цласс = "блоцк3вариаблес"}, а затим повуците блок `скупа имена`{: цласс = "блоцк3вариаблес"} на крај кода.
 
-![ada sprite](images/ada-sprite.png)
+![ада сприте](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Користите блок `одговор`{: цласс = "блоцк3сенсинг"} да бисте спремили одговор у који сте уписали.
 
-![ada sprite](images/ada-sprite.png)
+![ада сприте](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Кликните на Аду да бисте тестирали свој код и на упит унесите своје име. Требали бисте видети да је ваше име сачувано у променљивој `име`{: цласс = "блоцк3вариаблес"}.
 
-![screenshot](images/poetry-name-test.png)
+![слика екрана](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Сада можете да користите своје име у свом коду. Додајте овај код:
 
-![ada sprite](images/ada-sprite.png)
+![ада сприте](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Да бисте креирали овај код:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Превуците блок `придруживања`{: цласс = "блоцкоператорс"} на блок `рецимо`{: цласс = "блоцклоокс"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Додајте свој блок `наме`{: цласс = "блоцкдата"} у блок `јоин`{: цласс = "блоккоператорс"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Да бисте сакрили променљиву `наме`{: цласс = "блоцк3вариаблес"} на позорници, кликните на дугме поред променљиве.
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![Промените назив променљиве](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Тестирајте свој нови код. Ада би требало да те поздрави, користећи своје име!
 
-![ada sprite](images/ada-sprite.png)
+![слика екрана](images/poetry-name-test2.png)
+
+Ако између речи „Здраво“ и вашег имена нема размака, мораћете сами да додате размак у код!
+
+\--- /task \---
+
+\--- task \---
+
+На крају додајте овај код да објасните шта даље:
+
+![ада сприте](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Испитајте Ади код последњи пут како бисте били сигурни да све функционише.
 
 \--- /task \---
