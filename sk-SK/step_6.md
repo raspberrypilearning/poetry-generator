@@ -1,20 +1,20 @@
-## More poetry
+## Viac poézie
 
-Your poem is quite short - let's add to it!
+Tvoja báseň je pomerne krátka - poďme ju predĺžiť!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+V ďalšom riadku básne použijeme príslovky. **Príslovka** je slovo, ktoré bližšie určuje sloveso. Vytvor ďalší zoznam, ktorý nazveš príslovky a pridaj doň tieto 3 slová:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![zoznam slov hlasno, ticho, nekonečne](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Pridaj tento riadok do tvojho scenára na vyslovenie náhodnej príslovky v ďalšom riadku tvojej básne:
 
-![computer sprite](images/computer-sprite.png)
+![postava počítač](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Párkrát si vyskúšaj scenár. Zakaždým by si mal/-a vidieť náhodnú báseň.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![náhodná bublina s príslovkami](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Do tvojho projektu pridaj zoznam podstatných mien. **Podstatné meno** označuje vec alebo jav.
 
-![computer sprite](images/computer-sprite.png)
+![zoznam slovies so slovami mori, mesiaci, strome](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Pridaj scenár, ktorý použije podstatné mená v básni.
+
+![postava počítač](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Do tvojho projektu pridaj zoznam prídavných mien. **Prídavné meno** opisuje vlastnosť osôb, zvierat, vecí a javov.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![zoznam prídavných mien šťastne, unavene, hladne](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Pridaj scenár, ktorý použije prídavné mená v tvojej básni:
 
-![computer sprite](images/computer-sprite.png)
+![postava počítač](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Kliknutím na políčka vedľa zoznamov ich skryješ.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![premenné zoznam so začiarknutými políčkami](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Vyskúšaj si nový scenár.
 
 \--- /task \---
