@@ -1,38 +1,38 @@
-## Ada Lovelace
+## 艾達·洛芙蕾絲（Ada Lovelace）
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+1842年，阿達·洛夫雷斯（Ada Lovelace）撰寫了有關使用稱為“分析引擎”的機器進行計算的文章，被視為世界上第一位計算機程序員！ 艾達（Ada）也是第一個看到計算機可能不僅僅是大型計算器的人。
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+打開“詩歌生成器” Scratch入門項目。
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**在線**：打開 [入門項目](http://rpf.io/poetry-on){：target =“ _ blank”}。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+如果你有 Scratch 帳戶，你就可以直接**改編**專案。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**離線版**：在離線編輯器裡開啟[材料包](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"}。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+單擊您的“ Ada”精靈，然後單擊“腳本”編碼部分中的 `事件`{：class =“ block3events”}標籤。 當該精靈單擊</code>{：class =“ block3events”}塊時，將 `拖動到右側的編碼區域。</p>
 
-![ada sprite](images/ada-sprite.png)
+<p><img src="images/ada-sprite.png" alt="ada精靈" /></p>
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+<p><img src="images/poetry-click.png" alt="當該精靈點擊塊時拖動" /></p>
 
-Any code added underneath this block will run when Ada is clicked!
+<p>單擊Ada時，將在此塊下面添加任何代碼！</p>
 
-\--- /task \---
+<p>--- /task ---</p>
 
-\--- task \---
+<p>--- task ---</p>
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+<p>單擊 <code>Looks`{：class =“ block3looks”}標籤，然後拖動 `說`{：class =“ block3looks”} `您好！` `2秒鐘`{：類=“block3looks”}的下方塊 `時此sprite點擊`{：類=“block3events”}方框您已經添加。
 
-![ada sprite](images/ada-sprite.png)
+![ada精靈](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+單擊Ada，您將看到她的講話。
 
-![screenshot](images/poetry-say-test.png)
+![截圖](images/poetry-say-test.png)
 
 \--- /task \---
