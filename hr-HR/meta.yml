@@ -2,34 +2,34 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+title: Generator poezije Ada
+description: Proslavite Dan Ada Lovelace naučivši kako programirati vlastiti generator poezije!
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
-    title: Introduction
+    title: Sretan rođendan
   - 
     title: Ada Lovelace
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: 'Izazov: Šifra Ada da se predstavi'
     challenge: true
   - 
-    title: Telling Ada your name
+    title: Rekavši Ada svoje ime
   - 
-    title: The Analytical Engine
+    title: Analitički motor
   - 
-    title: More poetry
+    title: Više poezije
   - 
-    title: Animating the Analytical Engine
+    title: Animiranje analitičkog motora
   - 
-    title: 'Challenge: Personalise your poem'
+    title: 'Izazov: Prilagodite svoju pjesmu'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: 'Izazov: Više riječi'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: 'Izazov: Više poezije'
     challenge: true
   - 
-    title: What next?
+    title: Što dalje?
