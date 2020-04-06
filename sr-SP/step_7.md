@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## Анимирање аналитичког мотора
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Анимирајмо ваш рачунар тако да изгледа као да ствара поезију.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Кликните на рачунарски сприте и додајте овај код после првог блока `рецимо`{: цласс = "блоцк3лоокс"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Пронаћи ћете `понављања`{: цласс = "блоцк3цонтрол"} и `причекајте`{: цласс = "блоцк3цонтрол"} блокови су у одељку `Цонтрол`{: цласс = "блоцк3цонтрол"}.
 
-![computer sprite](images/computer-sprite.png)
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Испробај свој пројекат. Требали бисте видети како се рачунар тресе пре стварања песме!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![компјутерски сприте који се тресе напред-назад](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Кликните картицу „Звукови“ и у доњем левом углу иконе „Изабери звук“.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Изаберите звук „звучни сигнал рачунара“ и кликните на дугме У реду.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![рачунар звучи 1 и 2 звука у библиотеци звука](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Додајте `почетни звук`{: цласс = "блоцк3соунд"} блок да бисте репродуковали свој звук пре него што анимација почне.
 
-![computer sprite](images/computer-sprite.png)
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
