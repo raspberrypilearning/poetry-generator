@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## Animování analytického stroje
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Pojďme tvůj počítač naanimovat tak, aby to vypadalo, že generuje poezii.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Klikni na postavu počítače a po prvním bloku `bublina`{:class="block3looks"} přidej tento kód:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+V sekci `Ovládání`{:class="block3control"} najdeš bloky `opakuj`{:class="block3control"} a `čekej`{:class="block3control"}.
 
-![computer sprite](images/computer-sprite.png)
+![postava počítače](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Otestuj svůj projekt. Před vytvořením básně by se měl tvůj počítač třepat!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![postava počítače třepající se nahoru a dolů](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Klikni na záložku „Zvuky“ a pak vlevo dole klikni na ikonu „Vyber zvuk“.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Vyber zvuk „Computer Beep“ a klikni na OK.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![počítač pípá 1 a 2 zvuky z knihovny zvuků](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Přidej blok `začni hrát zvuk`{:class="block3sound"} aby se začal přehrávat zvuk ještě předtím, než tvoje animace začně.
 
-![computer sprite](images/computer-sprite.png)
+![postava počítače](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
