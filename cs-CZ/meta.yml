@@ -2,34 +2,34 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+title: Ady generátor poezie
+description: Oslav den Ady Lovelaceové tím, že se naučíš, jak naprogramovat svůj vlastní generátor poezie!
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: Ada Lovelace
+    title: Ada Lovelaceová
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: 'Výzva: Nakóduj Adu, aby se představila'
     challenge: true
   - 
-    title: Telling Ada your name
+    title: Řekni Adě své jméno
   - 
-    title: The Analytical Engine
+    title: Analytický stroj
   - 
-    title: More poetry
+    title: Více poezie
   - 
-    title: Animating the Analytical Engine
+    title: Animování analytického stroje
   - 
-    title: 'Challenge: Personalise your poem'
+    title: 'Výzva: Přizpůsob svoji báseň'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: 'Výzva: Více slov'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: 'Výzva: Více poezie'
     challenge: true
   - 
-    title: What next?
+    title: Co dál?
