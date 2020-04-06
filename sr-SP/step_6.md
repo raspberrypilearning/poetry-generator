@@ -1,20 +1,20 @@
-## More poetry
+## Више поезије
 
-Your poem is quite short - let's add to it!
+Ваша песма је прилично кратка - додајмо јој!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+Користимо прилоге у следећем ретку песме. **прилог** је реч која описује глагол. Направите још једну листу која се зове адвербс и додајте ове 3 речи:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![листајте са речима гласно, тихо, бескрајно](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+Додајте ову линију у шифру свог рачунара, да бисте на следећем ретку песме рекли случајни оглас:
 
-![computer sprite](images/computer-sprite.png)
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+Тестирајте код неколико пута. Сваки пут би требало да видите насумичну песму.
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![насумични мјехурићи говора са присловима](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+Додајте листу именица у свој пројекат. **именица** је место или ствар.
 
-![computer sprite](images/computer-sprite.png)
+![листа именица са речима море, месец, дрво](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+Додајте код да бисте користили именице у песми.
+
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+Додајте листу придјева у свој пројекат. **придев** је описује реч.
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![списак придевних речи сретан, уморан, гладан](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+Додајте код да бисте користили придеве у својој песми:
 
-![computer sprite](images/computer-sprite.png)
+![рачунарски сприте](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+Можете да кликнете на поља поред ваших листа да бисте их сакрили.
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![навести променљиве са одабраним пољима](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+Испробајте своју нову песму.
 
 \--- /task \---
