@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+यह इस प्रोजेक्ट का **Scratch 3** संस्करण है। इस प्रोजेक्ट का [Scratch 2 संस्करण भी है](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2)।
 
 \--- /no-print \---
 
-## Introduction
+## परिचय
 
-You are going to learn how to program your own poetry generator!
+आप अपना कविता जनरेटर का प्रोग्राम बनाना सीखने वाले है!
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![खेल का स्क्रीनशॉट](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## शीर्षक: आप क्या सीखेंगे
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ वेरिएबल;
++ सूचियां और अनोखी सूची के आइटम्स;
++ दोहराना (यह `repeat`{:class="block3control"} ब्लॉक)|
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## शीर्षक: आपको किन चीज़ों की आवश्यकता होगी
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### हार्डवेयर
+
++ एक RunScratch 3 चलाने में सक्षम कंप्यूटर
+
+#### सॉफ्टवेयर
+
++ Scratch 3 (यदि [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"})
+
+#### डाउनलोड
+
+स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}|
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## शीर्षक: शिक्षकों के लिए अतिरिक्त जानकारी
+
+यह प्रोजेक्ट [अदा लवलेस डे](https://findingada.com) को मनाने के लिए बनाया गया है। यदि आप एक शिक्षक हैं, तो आप बच्चों को अदा और उसके क्रांतिकारी विचारों से परिचित कराने के लिए एक स्कूल रिसोर्स पैक डाउनलोड कर सकते हैं जिसमें एक असेंबली प्लान([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) भी शामिल है।
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+यदि आपको यह प्रोजेक्ट प्रिंट करना हो, कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"} का उपयोग करें।
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/en/poetry-generator-get){:target="_blank"} देख सकते हैं ।
 
 \--- /collapse \---
