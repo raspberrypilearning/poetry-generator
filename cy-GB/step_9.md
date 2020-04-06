@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More words
+## Her: Mwy o eiriau
 
 Can you add more words to your lists, so that you can generate more poems?
 
