@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-**変数** を使用すればあなたの名前を保存できます。 `変数`{:class="block3variables"}をクリックし、次に「変数を作る」をクリックします。 この変数はあなたの名前を保存するために使用されるので、変数名は... `名前`{:class="block3variables"}にしましょう！
+**変数** を使用すればあなたの名前を保存できます。 Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. この変数はあなたの名前を保存するために使用されるので、変数名は... `名前`{:class="block3variables"}にしましょう！
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-名前を保存するには、`変数`{:class="block3variables"}タブをクリックし、 `名前を(0)にする`{:class="block3variables"}ブロックをコードの最後にドラッグします。
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![ada スプライト](images/ada-sprite.png)
 
