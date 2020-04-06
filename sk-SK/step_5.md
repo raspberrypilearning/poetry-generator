@@ -1,12 +1,12 @@
-## The Analytical Engine
+## Analytický stroj
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Naprogramujme Adin počítač (nazývaný „analytický stroj“) na generovanie básní.
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+Pridaj tento scenár k postave „Počítač“ tak, aby po kliknutí na neho hovoril:
 
-![computer sprite](images/computer-sprite.png)
+![postava počítač](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+Na vytvorenie náhodnej básne, potrebuješ **zoznam** slov, ktoré v nej použiješ. Pre vytvorenie takéhoto zoznamu klikni na časť `Premenné`{:class="block3variables"}.
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+V prvom riadku básne použime **slovesá** (akčné slová). Vytvor nový zoznam, ktorý nazvi `slovesá`{:class="block3variables"}.
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,45 +27,45 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+Tvoj nový zoznam bude prázdny. Klikni na `+` na spodnej časti prázdneho zoznamu a pridaj tieto slovesá:
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![zoznam so zvýrazneným +](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+V prvom riadku básne by malo byť slovo „Ja“, za ktorým nasleduje náhodné sloveso.
 
-To create this line of poetry, you need to:
+Pre vytvorenie tohto riadku básne musíš:
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. Vyber `náhodne`{:class="block3operators"} číslo od `1` do `dĺžka zoznamu slovesá`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. Použi tento blok na získanie náhodného `prvku`{:class="block3variables"} zo zoznamu `slovesá`{:class="block3variables"}:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `Spoj`{:class="block3operators"} "Ja " s náhodne vybraným slovesom na vytvorenie prvého riadku básne:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. Na zobrazenie riadku básne použi blok `bublina`{:class="block3looks"}:
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Tvoj scenár by mal vyzerať takto:
 
-![computer sprite](images/computer-sprite.png)
+![postava počítač](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+Párkrát vyskúšaj scenár. Tvoj počítač by mal zakaždým vybrať náhodné slovo zo `slovies`{:class="block3variables"}.
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3 bubliny s rôznym obsahom](images/poetry-random-test.png)
 
 \--- /task \---
