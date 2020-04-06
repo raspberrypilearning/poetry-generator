@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Dette er ** Scratch 3 ** versionen af projektet. Der er også en [ Scratch 2-version af projektet ](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introduktion
 
-You are going to learn how to program your own poetry generator!
+Du kommer til at lære at programmere din egen digtergenerator!
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![spilskærmbillede](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## titel: Du kommer til at lære følgende
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
++ variabler;
++ Lister og tilfældige lister;
++ Gentagelse ( `gentagelse`{: class = "block3control"} -blok).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## titel: Du får brug for følgende
 
 #### Hardware
 
-+ A computer capable of running Scratch 3
++ En computer, der er i stand til at køre Scratch 3
 
 #### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (enten [ online ](http://rpf.io/scratchon) {: target = "_ blank"} eller [ offline ](http://rpf.io/scratchoff) {: Target = "_ blank"})
 
 #### Downloads
 
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Startprojektet kan findes [her](http://rpf.io/p/en/poetry-generator-go){: target = "_ blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## titel: Yderligere oplysninger til undervisere
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Dette projekt er oprettet for at fejre [Ada Lovelace Day](https://findingada.com). Hvis du er lærer, kan du downloade en skoleressourcepakke, der også indeholder en samlingsplan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) for at introducere børn til Ada og hendes revolutionerende ideer.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Hvis du har brug for at udskrive dette projekt, skal du bruge den [ printervenlige version ](https://projects.raspberrypi.org/en/projects/poetry-generator/print) {: Target = "_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Du kan finde det [ færdige projekt her ](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
