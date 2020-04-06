@@ -2,7 +2,7 @@
 
 ## Repte: Personalitza el teu poema
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+Pots utilitzar la teva variable `nom`{:class="blockdata"} per personalitzar el teu poema?
 
 ![captura de pantalla](images/poetry-name-comp.png)
 
