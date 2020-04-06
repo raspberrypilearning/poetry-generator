@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Per crear un poema a l'atzar, primer es necessita una **llista** de paraules. Per crear una llista nova, fes clic a la pestanya `Variables`{:class="block3variables"}.
+Per crear un poema a l'atzar, primer es necessita una **llista** de paraules. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 Ara utilitzarem **verbs** (paraules d'acció) a la primera línia del teu poema. Crea una llista nova que es digui `verbs`{:class="block3variables"}.
 
