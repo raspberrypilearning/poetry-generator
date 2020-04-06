@@ -26,7 +26,7 @@ Kliknite na Ada, da preizkusite svojo kodo. Ada naj vas vpraša svoje ime, ki ga
 
 \--- task \---
 
-Mi lahko uporabite **spremenljivko** za shranjevanje svoje ime. Kliknite `Podatki`{: class = "block3variables"} in nato "Naredi spremenljivko". Ker bo ta spremenljivka uporabljena za shranjevanje vašega imena, pokličimo spremenljivko ... `ime`{: class = "block3variables"}!
+Mi lahko uporabite **spremenljivko** za shranjevanje svoje ime. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Ker bo ta spremenljivka uporabljena za shranjevanje vašega imena, pokličimo spremenljivko ... `ime`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Mi lahko uporabite **spremenljivko** za shranjevanje svoje ime. Kliknite `Podatk
 
 \--- task \---
 
-Če želite shraniti svoje ime, kliknite zavihek `Podatki`{: class = "block3variables"} in nato povlecite blok `nastavljeno ime`{: class = "block3variables"} na konec kode.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![ada sprite](images/ada-sprite.png)
 
