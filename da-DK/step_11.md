@@ -1,4 +1,4 @@
-## What next?
+## Hvad er næste skridt?
 
 Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
 
