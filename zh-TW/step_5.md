@@ -63,7 +63,7 @@ To create this line of poetry, you need to:
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+你的程式應該會像這樣：
 
 ![computer sprite](images/computer-sprite.png)
 
