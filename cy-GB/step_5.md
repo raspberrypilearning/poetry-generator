@@ -1,4 +1,4 @@
-## The Analytical Engine
+## Y Peiriant Dadansoddol
 
 Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
 
@@ -63,7 +63,7 @@ To create this line of poetry, you need to:
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
     ```
 
-Your code should look like this:
+Fe ddylai dy gôd edrych fel hyn:
 
 ![computer sprite](images/computer-sprite.png)
 
