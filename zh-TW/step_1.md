@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+這個專案是 **Scratch 3** 版本。 另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2) 版本。
 
 \--- /no-print \---
 
-## Introduction
+## 介紹
 
-You are going to learn how to program your own poetry generator!
+您將學習如何編程自己的詩歌生成器！
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![遊戲截圖](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 你會學到
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ 變量；
++ 清單和隨機清單項目；
++ 重複（ `重複`{：class =“ block3control”}塊）。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 你會用到
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### 硬體
+
++ 可運行 Scratch 3 的電腦
+
+#### 軟體
+
++ Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
+
+#### 下載
+
+可以在 [](http://rpf.io/p/en/poetry-generator-go){：target =“ _ blank”}處找到啟動項目。
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: 給教師的其它資訊
+
+創建該項目是為了慶祝 [Ada Lovelace Day](https://findingada.com)。 如果您是老師，則可以下載學校資源包，其中包含一個組裝計劃（[downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)），向孩子介紹Ada及其革命性想法。
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+如果您需要列印此專案內容，請下載 [列印版本](https://projects.raspberrypi.org/en/projects/poetry-generator/print){：target =“_ blank”}。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}。
 
 \--- /collapse \---
