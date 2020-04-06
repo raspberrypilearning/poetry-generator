@@ -2,6 +2,6 @@
 
 ## Izazov: Više poezije
 
-Možete li koristiti vlastite popise za stvaranje vlastite poezije?
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
