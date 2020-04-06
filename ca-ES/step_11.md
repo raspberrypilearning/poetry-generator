@@ -1,10 +1,10 @@
-## What next?
+## I ara què ve?
 
-Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
+Feu un cop d'ull al projecte de Scratch [Globus](https://projects.raspberrypi.org/en/projects/balloons).
 
 \--- no-print \---
 
-Pop the balloons by clicking on them.
+Selecciona els globus fent-hi clic.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![projecte acabat](images/balloons-final.png)
 
 \--- /print-only \---
