@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## चुनौती: अपनी कविता को निजी बनाये
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+क्या आप अपने `name`{:class="block3variables"} वेरियबल (variable) का उपयोग करके कविता को निजीकृत बना सकते हैं?
 
 ![screenshot](images/poetry-name-comp.png)
 
