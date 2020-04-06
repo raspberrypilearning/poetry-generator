@@ -1,27 +1,27 @@
-Hello!
+Ahoj!
 
-Hi, I’m Ada!
+Ahoj, já jsem Ada!
 
-What’s your name?
+Jak se jmenuješ?
 
-name
+jméno
 
-Hi
+Ahoj,
 
-Click the computer to generate a poem.
+Klikni na počítač pro vygenerování básně.
 
-Here is your poem…
+Tady je tvoje báseň,
 
-verbs
+slovesa
 
-adverbs
+příslovce
 
-nouns
+podstatná jména
 
-adjectives
+přídavná jména
 
-I
+Já
 
-by the
+u
 
-I feel
+cítím se
