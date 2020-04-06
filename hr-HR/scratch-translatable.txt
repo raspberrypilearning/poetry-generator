@@ -1,10 +1,10 @@
-Hello!
+Pozdrav!
 
 Hi, I’m Ada!
 
 What’s your name?
 
-name
+naziv
 
 Hi
 
