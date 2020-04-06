@@ -1,38 +1,38 @@
-## Ada Lovelace
+## עדה לאבלייס
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+בשנת 1842 כתבה עדה לבלייס על שימוש במכונה המכונה 'המנוע האנליטי' לצורך ביצוע חישובים, והיא נתפסת כמתכנת המחשבים הראשון בעולם! עדה הייתה גם הראשונה שראתה שמחשבים יכולים להיות יותר מסתם מחשבונים גדולים.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+פתח את פרויקט המתחילים 'מחולל השירה'.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**מקוון**: פתח את פרויקט [המתנעים](http://rpf.io/poetry-on){: target = "_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+אם יש לך חשבון Scratch, באפשרותך ליצור עותק על-ידי לחיצה על ** כניסה **.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**מקוון**: פתח את פרויקט [המתנעים](http://rpf.io/p/en/beat-the-goalie-go){: target = "_ blank"} בעורך הלא מקוון.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+אם עליך להוריד ולהתקין את העורך הלא מקוון של Scratch, תוכל למצוא אותו בכתובת [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+לחץ על 'ספרייט' עדה ולחץ על הכרטיסייה `אירועים`{: class = "block3events"} בקטע קידוד 'סקריפטים'. גרור את ה- `כאשר ספרייט זה לחץ על`{: class = "block3events"} לחסום לאזור הקידוד מצד ימין.
 
-![ada sprite](images/ada-sprite.png)
+![אדה ספרייט](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![גרירה כאשר לחיצה על ספרייט זה](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+כל קוד שנוסף מתחת לחסימה זו יפעל כאשר לחיצה על עדה!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+לחץ על הכרטיסייה `מבט`{: class = "block3looks"} וגרור את הכרטיסייה `אומר`{: class = "block3looks"} `שלום!` `במשך 2 שניות`{: class = "block3looks"} חסום מתחת ל `כאשר ספרייט זה לחץ על`{: class = "block3events"} חסימת שכבר הוספת.
 
-![ada sprite](images/ada-sprite.png)
+![אדה ספרייט](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+לחץ על עדה, ואתה אמור לראות אותה מדברת איתך.
 
-![screenshot](images/poetry-say-test.png)
+![צילום מסך](images/poetry-say-test.png)
 
 \--- /task \---
