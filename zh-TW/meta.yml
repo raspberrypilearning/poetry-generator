@@ -2,34 +2,34 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada's Poetry Generator
-description: Celebrate Ada Lovelace Day, by learning how to program your own poetry generator!
+title: 艾達的詩歌生成器
+description: 通過學習如何編寫自己的詩歌生成器來慶祝Ada Lovelace日！
 version: 4
 last_tested: 2019-02-20
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: Ada Lovelace
+    title: 艾達·洛芙蕾絲（Ada Lovelace）
   - 
-    title: 'Challenge: Code Ada to introduce herself'
+    title: '挑戰：Ada代碼介紹自己'
     challenge: true
   - 
-    title: Telling Ada your name
+    title: 告訴阿達你的名字
   - 
-    title: The Analytical Engine
+    title: 分析引擎
   - 
-    title: More poetry
+    title: 多詩
   - 
-    title: Animating the Analytical Engine
+    title: 動畫分析引擎
   - 
-    title: 'Challenge: Personalise your poem'
+    title: '挑戰：個性化您的詩'
     challenge: true
   - 
-    title: 'Challenge: More words'
+    title: '挑戰：更多單詞'
     challenge: true
   - 
-    title: 'Challenge: More poetry'
+    title: '挑戰：更多詩歌'
     challenge: true
   - 
-    title: What next?
+    title: 然後呢？
