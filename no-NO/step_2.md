@@ -12,7 +12,7 @@ If you have a Scratch account you can make a copy by clicking **Remix**.
 
 **Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Hvis du trenger å laste ned og installere Scratch editoren, finner du den på [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -45,6 +45,6 @@ say [Hello!] for (2) seconds
 
 Click on Ada, and you should see her talk to you.
 
-![screenshot](images/poetry-say-test.png)
+![skjermbilde](images/poetry-say-test.png)
 
 \--- /task \---
