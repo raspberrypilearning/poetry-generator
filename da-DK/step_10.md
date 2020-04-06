@@ -2,6 +2,6 @@
 
 ## Udfordring: Mere poesi
 
-Kan du bruge dine egne lister til at generere din egen poesi?
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
