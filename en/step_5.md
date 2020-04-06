@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 --- task ---
 
-To create a random poem, first you'll need a __list__ of words to use. To create a new list, click the `Data`{:class="block3variables"} tab.
+To create a random poem, first you'll need a __list__ of words to use. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 Let's use __verbs__ (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
 

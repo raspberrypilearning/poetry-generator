@@ -26,7 +26,7 @@ Click on Ada to test your code. Ada should ask you your name, which you can type
 
 --- task ---
 
-We can use a __variable__ to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+We can use a __variable__ to store your name. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We can use a __variable__ to store your name. Click `Data`{:class="block3variabl
 
 --- task ---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![ada sprite](images/ada-sprite.png)
 
