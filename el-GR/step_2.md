@@ -35,8 +35,8 @@
 ![Αντικείμενο Ada](images/ada-sprite.png)
 
 ```blocks3
-όταν γίνει κλικ σε αυτό το αντικείμενο
-πες [Γεια σου!] για (2) δευτερόλεπτα
+when this sprite clicked
+say [Hello!] for (2) seconds
 ```
 
 \--- /task \---
