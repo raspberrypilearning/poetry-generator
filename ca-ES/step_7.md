@@ -4,11 +4,11 @@ Ara animarem el teu ordinador, de manera que sembli que està generant poesia.
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+Fes clic al personatge de l'ordinador, i afegeix aquest codi després del primer bloc `digues`{:class="blocklooks"}:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Trobaràs els blocs `repeteix`{:class="blockcontrol"} i `espera`{:class="blockcontrol"} a la secció `Control`{:class="blockcontrol"}.
 
-![computer sprite](images/computer-sprite.png)
+![personatge de l'ordinador](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Prova el teu projecte. Hauries de veure tremolar l'ordinador abans de crear un poema!
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![personatge de l’ordinador tremolant](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+Fes clic a la pestanya "Sons", i a continuació clic a la icona "Tria un so" de la part inferior esquerra.
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+Tria un so de "sonorització de l'ordinador"(ho trobaràs en anglès amb el nom de "computer beep") i fes clic per confirmar.
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![sons "computer beeps 1 i 2" de la biblioteca de sons](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+Afegeix un bloc `inicia el so`{:class="blocksound"}, per reproduir el so abans que comenci l'animació.
 
-![computer sprite](images/computer-sprite.png)
+![personatge de l'ordinador](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
