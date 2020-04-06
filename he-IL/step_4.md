@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-אנו יכולים להשתמש **משתנה** לאחסן את שמך. לחץ על `נתונים`{: class = "block3variables"} ואז על 'צור משתנה'. מכיוון שמשתנה זה ישמש לאחסון שמך, בוא נקרא למשתנה ... `שם`{: class = "block3variables"}!
+אנו יכולים להשתמש **משתנה** לאחסן את שמך. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. מכיוון שמשתנה זה ישמש לאחסון שמך, בוא נקרא למשתנה ... `שם`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-כדי לאחסן את שמך, לחץ על הכרטיסייה `נתונים`{: class = "block3variables"}, ואז גרור את חסימת `הקבוצות`{: class = "block3variables"} לסוף הקוד שלך.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![אדה ספרייט](images/ada-sprite.png)
 
