@@ -26,7 +26,7 @@ Klik på Ada for at teste din kode. Ada skulle bede dig om dit navn, som du kan 
 
 \--- task \---
 
-Vi kan bruge en **variabel** til at gemme dit navn. Klik på `Data`{: class = "block3variables"}, og derefter på 'Lav en variabel'. Da denne variabel vil blive brugt til at gemme dit navn, lad os kalde variablen ... `navn`{: class = "block3variables"}!
+Vi kan bruge en **variabel** til at gemme dit navn. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Da denne variabel vil blive brugt til at gemme dit navn, lad os kalde variablen ... `navn`{: class = "block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Vi kan bruge en **variabel** til at gemme dit navn. Klik på `Data`{: class = "b
 
 \--- task \---
 
-For at gemme dit navn skal du klikke på fanen `Data`{: class = "block3variables"} og derefter trække `sætnavnet`{: class = "block3variables"} blok til slutningen af din kode.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![ada sprite](images/ada-sprite.png)
 
