@@ -4,7 +4,7 @@ Ada has introduced herself, but she doesn't know your name!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Kodunuzun nasıl gözükmesi gerektiği buradaki gibi olmalı:
 
 ![ada sprite](images/ada-sprite.png)
 
@@ -66,7 +66,7 @@ set [name v] to (answer :: +)
 
 Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
 
-![screenshot](images/poetry-name-test.png)
+![ekran görüntüsü](images/poetry-name-test.png)
 
 \--- /task \---
 
@@ -112,7 +112,7 @@ To hide your `name`{:class="block3variables"} variable on the stage, click the t
 
 Test your new code. Ada should say hello to you, using your name!
 
-![screenshot](images/poetry-name-test2.png)
+![ekran görüntüsü](images/poetry-name-test2.png)
 
 If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
 
