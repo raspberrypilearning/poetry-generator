@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Toto je verze **Scratch 3** projektu. K dispozici je také [verze Scratch 2 projektu](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Úvod
 
-You are going to learn how to program your own poetry generator!
+V této lekci se naučíš, jak naprogramovat svůj vlastní generátor poezie!
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![snímek obrazovky ze hry](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Co se naučíš
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
++ Proměnné;
++ Seznamy a náhodné položky seznamu;
++ Opakování (blok `opakuj`{: class = "block3control"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Co budeš potřebovat
 
 #### Hardware
 
-+ A computer capable of running Scratch 3
++ Počítač schopný spustit aplikaci Scratch 3
 
 #### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (buď [online](http://rpf.io/scratchon){:target="_blank"} nebo [offline](http://rpf.io/scratchoff){:target="_blank"} verzi"})
 
-#### Downloads
+#### Ke stažení
 
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Startovací projekt najdete [zde](http://rpf.io/p/en/poetry-generator-go){: target = "_ blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Dodatečné informace pro učitele
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Tento projekt byl vytvořen k oslavě [dne Ady Lovelaceové](https://findingada.com). Pokud jste učitel, můžete si stáhnout školní zdrojový balíček, který obsahuje také plán sestavení ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) a představit děti Adě a jejím revolučním myšlenkám.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro-tisk](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Dokončený projekt [naleznete zde](http://rpf.io/p/en/poetry-generator-get){: target = "_ blank"}.
 
 \--- /collapse \---
