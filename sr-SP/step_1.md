@@ -1,12 +1,12 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
+Ово је **Scratch 3** верзија пројекта. Постоји, такође, и [Scratch 2 верзија пројекта](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Увод
 
-You are going to learn how to program your own poetry generator!
+Научићете како да програмирате сопствени генератор поезије!
 
 \--- no-print \---
 
@@ -19,50 +19,50 @@ You are going to learn how to program your own poetry generator!
 
 \--- print-only \---
 
-![game screenshot](images/poetry-final.png)
+![снимак екрана игре](images/poetry-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Шта ћеш научити
 
-+ Variables;
-+ Lists and random list items;
-+ Repetition (the `repeat`{:class="block3control"} block).
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
-
-#### Downloads
-
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
++ Променљиве;
++ Листе и насумичне ставке пописа;
++ Понављање (блок `понављања`{: цласс = "блоцк3цонтрол"}).
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Шта ће ти бити потребно
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+#### Хардвер
+
++ Рачунар који може да покрене Scratch 3
+
+#### Софтвер
+
++ Scratch 3 ([на мрежи](http://rpf.io/scratchon){:target="_blank"} или [ван мреже](http://rpf.io/scratchoff){:target="_blank"})
+
+#### Преузимање
+
+Стартер пројекат може се наћи [овде](http://rpf.io/p/en/poetry-generator-go){: таргет = "_ бланк"}.
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Додатне информације за наставнике
+
+Овај пројекат је створен за прославу [Ада Ловелаце Даи](https://findingada.com). Ако сте учитељ, можете преузети пакет школских ресурса који садржи и план за састављање ([довнлоадс.цодецлуб.орг.ук/ада.зип](http://downloads.codeclub.org.uk/ada.zip)) да бисте упознали децу са Адом и њеним револуционарним идејама.
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Завршени пројекат можете пронаћи [овде](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
