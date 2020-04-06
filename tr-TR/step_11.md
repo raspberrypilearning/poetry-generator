@@ -1,4 +1,4 @@
-## What next?
+## Sırada ne var?
 
 Take a look at the [Balloons](https://projects.raspberrypi.org/en/projects/balloons) Scratch project.
 
@@ -15,6 +15,6 @@ Pop the balloons by clicking on them.
 
 \--- print-only \---
 
-![complete project](images/balloons-final.png)
+![tamamlanmış proje](images/balloons-final.png)
 
 \--- /print-only \---
