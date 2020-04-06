@@ -2,6 +2,6 @@
 
 ## Výzva: Více poezie
 
-Dokážeš použít svoje vlastní seznamy pro vygenerování poezie?
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
