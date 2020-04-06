@@ -1,12 +1,12 @@
-## Telling Ada your name
+## Povedz Ade svoje meno
 
-Ada has introduced herself, but she doesn't know your name!
+Ada sa už predstavila, ale ešte nepozná tvoje meno!
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+Presuň blok `otázka`{:class="block3sensing"} (z časti `Zisťovanie`{:class="block3sensing"}) do scenára Ady. Tvoj scenár by mal vyzerať takto:
 
-![ada sprite](images/ada-sprite.png)
+![postava ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+Vyskúšaj scenár kliknutím na Adu. Ada by sa ťa mala opýtať na tvoje meno, ktoré jej môžeš napísať do poľa v spodnej časti scény!
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![postava ada sa pýta, aké je tvoje meno](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Data`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+Pre uloženie mena môžeš použiť **premennú**. Klikni na časť `Premenné`{:class="block3variables"} a potom na 'Nová premenná'. Keďže táto premenná bude použitá na uloženie tvojho mena, nazvi premennú... `meno`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Data`{:class="block3variabl
 
 \--- task \---
 
-To store your name, click the `Data`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Pre uloženie mena pridaj na koniec scenára blok `nastav meno`{:class="block3variables"}, ktorý nájdeš po kliknutí na časť `Premenné`{:class="block3variables"}.
 
-![ada sprite](images/ada-sprite.png)
+![postava ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+Pre uloženie odpovede, použi blok `odpoveď`{:class="block3sensing"}, ktorý vložíš do bloku "nastav meno".
 
-![ada sprite](images/ada-sprite.png)
+![postava ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,17 +64,17 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+Kliknutím na Adu vyskúšaj doplnený scenár a na požiadanie zadaj svoje meno. Mal/-a by si vidieť, že tvoje meno je uložené v premennej `meno`{:class="block3variables"}.
 
-![screenshot](images/poetry-name-test.png)
+![snímka obrazovky](images/poetry-name-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+Teraz môžeš použiť svoje meno v scenári. Pridaj tento scenár:
 
-![ada sprite](images/ada-sprite.png)
+![postava ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+Postup vytvorenia tohto scenára:
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. Potiahni blok `spoj`{:class="blockoperators"} na blok `bublina`{:class="blocklooks"}
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. Pridaj blok premennej `meno`{:class="blockdata"} do bloku `spoj`{:class="blockoperators"}.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+Ak chceš, aby sa premenná `meno`{:class="block3variables"} nezobrazovala na scéne, klikni na modrú značku výberu vedľa premennej v záložke "Scenáre".
 
-![tick name variable](images/poetry-tick-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Test your new code. Ada should say hello to you, using your name!
-
-![screenshot](images/poetry-name-test2.png)
-
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+![označ premennú meno](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+Vyskúšaj nový scenár. Ada by ťa mala pozdraviť s použitím tvojho mena!
 
-![ada sprite](images/ada-sprite.png)
+![snímka obrazovky](images/poetry-name-test2.png)
+
+Ak medzi slovom „Ahoj“ a tvojím menom nie je medzera, musíš do ju scenára v bloku "bublina - spoj" pridať za slovo "Ahoj"!
+
+\--- /task \---
+
+\--- task \---
+
+Nakoniec pridaj tento scenár a vysvetli v ňom, ako pokračovať:
+
+![postava ada](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+Vyskúšaj si scenár ešte raz, aby si sa uistil/-a, že všetko funguje.
 
 \--- /task \---
