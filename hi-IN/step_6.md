@@ -1,10 +1,10 @@
-## More poetry
+## और कविताएँ
 
-Your poem is quite short - let's add to it!
+आपकी कविता काफी छोटी है - आइए इसे और बड़ा बनाते है!
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+चलिए आपके कविता की अगली पंक्ति में क्रिया विशेषणों (adverbs) का उपयोग करें। एक **क्रिया विशेषण (adverb)** ऐसा शब्द है जो किसी क्रिया (verb) का वर्णन करता है। क्रिया विशेषण नामक एक और सूची बनाएं, और इन 3 शब्दों को जोड़ें:
 
 ![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
 
@@ -12,7 +12,7 @@ Let's use adverbs in the next line of your poem. An **adverb** is a word that de
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+इस पंक्ति को अपने कंप्यूटर के कोड में जोड़ें, अपनी कविता की अगली पंक्ति पर एक अनोखी क्रिया विशेषण कहने के लिए:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -27,7 +27,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+अपने कोड का कुछ समय परीक्षण करें। आपको हर बार एक अनोखी कविता दिखनी चाहिए।
 
 ![random speech bubbles with adverbs](images/poetry-adverb-test.png)
 
@@ -35,7 +35,7 @@ Test your code a few times. You should see a random poem each time.
 
 \--- task \---
 
-Add a list of nouns to your project. A **noun** is a place or a thing.
+अपने प्रोजेक्ट में संज्ञा (nouns) की एक सूची जोड़ें। **संज्ञा (noun)** एक जगह या एक चीज होती है।
 
 ![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
 
@@ -43,7 +43,7 @@ Add a list of nouns to your project. A **noun** is a place or a thing.
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+अपनी कविता में संज्ञाओं (nouns) का उपयोग करने के लिए कोड जोड़ें।
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -59,7 +59,7 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+अपने प्रोजेक्ट में विशेषणों (adjectives) की एक सूची जोड़ें। एक **विशेषण (adjective)** वर्णनात्मक शब्द होते हैं।
 
 ![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
 
@@ -67,7 +67,7 @@ Add a list of adjectives to your project. An **adjective** is a describing word.
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+अपनी कविता में विशेषणों (adjectives) का उपयोग करने के लिए कोड जोड़ें:
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -84,7 +84,7 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+आप उन्हें छिपाने के लिए अपनी सूचियों के बगल में स्थित बक्सों पर क्लिक कर सकते हैं।
 
 ![list variables with the tick boxes selected](images/poetry-lists-tick.png)
 
@@ -92,6 +92,6 @@ You can click the boxes next to your lists to hide them.
 
 \--- task \---
 
-Test out your new poem.
+अपनी नई कविता का परीक्षण करें।
 
 \--- /task \---
