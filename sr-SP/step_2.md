@@ -1,38 +1,38 @@
-## Ada Lovelace
+## Ада Ловелаце
 
-In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine' to make calculations, and is seen as the world's first computer programmer! Ada was also the first to see that computers could be more than just big calculators.
+Године 1842. Ада Ловелаце писала је о коришћењу машине која се зове „Аналитички мотор“ за израчун, а сматра се првим рачунарским програмером на свету! Ада је такође прва видела да рачунари могу бити више од великог рачунара.
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Отворите почетни пројекат „Генератор поезије“.
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Онлине**: отворите пројекат [стартера](http://rpf.io/poetry-on){: таргет = "_ бланк"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Ако имаш Скреч налог, можеш да направиш копију тако што ћеш кликнути на **Преради**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Ван мреже**: отвори [почетни пројекат](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} у уређивачу ван мреже.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ако је потребно да преузмеш и инсталираш Скреч уређивач ван мреже, можеш га пронаћи на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your 'Ada' sprite, and click the `Events`{:class="block3events"} tab in the 'Scripts' coding section. Drag the `when this sprite clicked`{:class="block3events"} block onto the coding area on the right.
+Кликните свој спрат 'Ада' и кликните на картицу `Догађаји`{: цласс = "блоцк3евентс"} у одељку за кодирање 'Скрипте'. Повуците `када је овај сприте кликнуо`{: цласс = "блоцк3евентс"} блок на подручје кодирања с десне стране.
 
-![ada sprite](images/ada-sprite.png)
+![ада сприте](images/ada-sprite.png)
 
-![dragging when this sprite clicked block](images/poetry-click.png)
+![повлачењем када је овај сприте кликнуо блок](images/poetry-click.png)
 
-Any code added underneath this block will run when Ada is clicked!
+Сваки код додан испод овог блока покренут ће се кад се кликне на Ада!
 
 \--- /task \---
 
 \--- task \---
 
-Click the `Looks`{:class="block3looks"} tab, and drag the `say`{:class="block3looks"} `Hello!` `for 2 secs`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block you've already added.
+Кликните картицу `Изгледа`{: цласс = "блоцк3лоокс"} и превуците `рецимо`{: цласс = "блоцк3лоокс"} `Поздрав!` `трајању од 2 секунде`{: цласс = "блоцк3лоокс"} блок испод `када је овај сприте кликнуо`{: цласс = "блоцк3евентс"} блок који сте већ додали.
 
-![ada sprite](images/ada-sprite.png)
+![ада сприте](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,8 +43,8 @@ say [Hello!] for (2) seconds
 
 \--- task \---
 
-Click on Ada, and you should see her talk to you.
+Кликните на Аду и требало би да је видите како разговара са вама.
 
-![screenshot](images/poetry-say-test.png)
+![слика екрана](images/poetry-say-test.png)
 
 \--- /task \---
