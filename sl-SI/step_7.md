@@ -29,7 +29,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-Test your project. You should see the computer shake before producing a poem!
+Preizkusi projekt. You should see the computer shake before producing a poem!
 
 ![computer sprite shaking back and forth](images/poetry-animate-test.png)
 
