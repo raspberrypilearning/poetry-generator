@@ -4,7 +4,7 @@ Programmieren wir Adas Computer (genannt "Analytische Maschine"), um Gedichte zu
 
 \--- task \---
 
-Füge diesen Code zu deiner Computer Figur hinzu, so dass es spricht, wenn es geklickt wird:
+Füge diesen Code zu deiner Computer Figur hinzu, so dass sie spricht, wenn sie geklickt wird:
 
 ![Computer Sprite](images/computer-sprite.png)
 
@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Um ein zufälliges Gedicht zu erstellen, brauchst du als erstes eine **Liste** mit Wörtern, die du benutzen willst. Um eine neue Liste zu erstellen, klicke auf die `Daten`{:class="block3variables"} Tabelle.
+Um ein zufälliges Gedicht zu erstellen, brauchst du als erstes eine **Liste** mit Wörtern, die du benutzen willst. Um eine neue Liste zu erstellen, klicke auf den `Variablen`{:class="block3variables"} Reiter.
 
 Lass uns **Verben** (Aktionswörter) in der ersten Gedichtszeile benutzen. Erstelle eine neue Liste mit dem Namen `Verben`{:class="block3variables"}.
 
@@ -35,17 +35,17 @@ Deine neue Liste wird leer sein. Klicke auf das `+` am unteren Teil deiner leere
 
 \--- task \---
 
-Die erste Linie deines Gedichtes sollte das Wort "Ich" gefolgt von einem zufälligen Verb sein.
+Die erste Zeile deines Gedichtes sollte das Wort "Ich" gefolgt von einem zufälligen Verb sein.
 
 Um eine neue Gedichtszeile zu erstellen, musst du:
 
-1. `Wähle eine zufällige (englisch: random) Zahl`{:class="block3operators"} zwischen `1` und der `Länge der Liste mit Verben`{:class="block3variables"}:
+1. `Wähle eine zufällige Zahl`{:class="block3operators"} zwischen `1` und der `Länge der Liste mit Verben`{:class="block3variables"}:
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Benutze diesen Codeblock, um ein zufälliges `Element`{:class="block3variables"} von der `Verben`{:class="block3variables"} Liste:
+2. Benutze diesen Codeblock, um ein zufälliges `Element`{:class="block3variables"} von der `Verben`{:class="block3variables"} Liste zu erhalten:
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
