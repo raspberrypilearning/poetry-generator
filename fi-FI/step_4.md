@@ -66,7 +66,7 @@ set [name v] to (answer :: +)
 
 Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
 
-![screenshot](images/poetry-name-test.png)
+![ruutukaappaus](images/poetry-name-test.png)
 
 \--- /task \---
 
