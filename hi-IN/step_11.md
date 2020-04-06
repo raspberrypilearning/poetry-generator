@@ -4,7 +4,7 @@
 
 --- no-print ---
 
-गुब्बारे पर क्लिक करके उन्हें फोड़े |
+गुब्बारे पर क्लिक करके उन्हें फोड़े ।
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/299206746/?autostart=false" frameborder="0" scrolling="no"></iframe>

@@ -129,8 +129,8 @@ when this sprite clicked
 say [Γεια σου, είμαι η Ada!] for (2) seconds
 ask [Πώς σε λένε;] and wait
 set [όνομα v] to (answer)
-say (join [Hi ] (όνομα)) for (2) seconds 
-+ say [Click the computer to generate a poem.] for (2) seconds 
+say (join [Γεια σου ] (όνομα)) for (2) seconds 
++ say [Κάνε κλικ στον υπολογιστή για να δημιουργήσεις ένα ποίημα.] for (2) seconds 
 ```
 
 --- /task ---

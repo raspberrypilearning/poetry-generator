@@ -1,12 +1,12 @@
 ## एनालिटिकल यन्त्र को एनिमेट करना
 
-चलिए आपके कंप्यूटर को एनिमेट करते है, ताकि ऐसा लगे की वो कवितायेँ जेनेरेट कर रहा हैं |
+चलिए आपके कंप्यूटर को एनिमेट करते है, ताकि ऐसा लगे की वो कवितायेँ जेनेरेट कर रहा हैं ।
 
 --- task ---
 
 अपने कंप्यूटर के स्प्राइट पर क्लिक करें, और इस कोड को पहले `say`{:class="block3looks"} ब्लॉक के बाद जोड़ें:
 
-आपको `repeat`{:class="block3control"} और `wait`{:class="block3control"} ब्लॉक्स ये `Control`{:class="block3control"} खाने में मिलेगा |
+आपको `repeat`{:class="block3control"} और `wait`{:class="block3control"} ब्लॉक्स ये `Control`{:class="block3control"} खाने में मिलेगा ।
 
 ![computer sprite](images/computer-sprite.png)
 
@@ -53,7 +53,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 --- task ---
 
-अपने एनीमेशन के तुरंत पहले आवाज़ सुनने के लिए, `start sound`{:class="block3sound"} वाला ब्लॉक जोड़ें |
+अपने एनीमेशन के तुरंत पहले आवाज़ सुनने के लिए, `start sound`{:class="block3sound"} वाला ब्लॉक जोड़ें ।
 
 ![computer sprite](images/computer-sprite.png)
 
