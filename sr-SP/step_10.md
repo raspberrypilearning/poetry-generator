@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More poetry
+## Изазов: Више поезије
 
-Can you use your own lists to generate you own poetry?
+Можете ли да користите сопствене спискове за генерисање сопствене поезије?
 
 \--- /challenge \---
