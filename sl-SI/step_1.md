@@ -6,7 +6,7 @@ To je ** Scratch 3 ** različica projekta. Obstaja tudi [Scratch 2](https://proj
 
 ## Uvod
 
-Naučili se boste programirati svoj lastni generator poezije!
+Naučil-a se boš, kako sprogramirati svoj lastni generator poezije!
 
 \--- no-print \---
 
@@ -27,9 +27,9 @@ Naučili se boste programirati svoj lastni generator poezije!
 
 ## title: Kaj se boš naučil-a?
 
-+ spremenljivke;
++ Spremenljivke;
 + Seznami in naključni elementi;
-+ Ponovitev (blok `ponovitev`{: class = "block3control"}).
++ Ponavljanje (blok `ponavljaj`{: class = "block3control"}).
 
 \--- /collapse \---
 
@@ -47,7 +47,7 @@ Naučili se boste programirati svoj lastni generator poezije!
 
 #### Prenosi
 
-Projekt starter najdemo [tod](http://rpf.io/p/en/poetry-generator-go){: target = "_ blank"}.
+Začetni projekt najdete [ tukaj ](http://rpf.io/p/en/poetry-generator-go) {: target = "_ prazno"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@ Projekt starter najdemo [tod](http://rpf.io/p/en/poetry-generator-go){: target =
 
 ## title: Dodatne informacije za izobraževalce
 
-Ta projekt je bil ustvarjen za praznovanje [Ada Lovelace Day](https://findingada.com). Če ste učitelj, lahko naložite paket šolskih virov, ki vsebuje tudi načrt sestavljanja ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) in tako seznanite otroke z Ado in njenimi revolucionarnimi idejami.
+Ta projekt je bil ustvarjen za praznovanje [Ada Lovelace Day](https://findingada.com). Če ste učitelj, lahko naložite paket šolskih virov, ki vsebuje tudi ustvarjalni načrt ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) in tako seznanite otroke z Ado in njenimi revolucionarnimi idejami.
 
 \--- no-print \---
 
