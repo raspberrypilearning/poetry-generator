@@ -2,6 +2,6 @@
 
 ## Desafio: Mais poesia
 
-Consegues usar as tuas próprias listas para criar a tua própria poesia?
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
