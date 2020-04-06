@@ -2,6 +2,6 @@
 
 ## Herausforderung: Mehr Poesie
 
-Kannst du eigene Listen verwenden, um deine eigenen Gedichte zu erstellen?
+Can you use your own lists to generate your own poetry?
 
 \--- /challenge \---
