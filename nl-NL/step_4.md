@@ -26,7 +26,7 @@ Klik op Ada om de code te testen. Ada zou om je naam moeten vragen, die je kunt 
 
 \--- task \---
 
-We kunnen een **variabele** gebruiken om je naam op te slaan. Klik op `Variabelen`{:class="block3variables"} en vervolgens op 'Maak een variabele'. Omdat deze variabele wordt gebruikt om naam op te slaan, noemen we de variabele... `naam`{:class="block3variables"}!
+We kunnen een **variabele** gebruiken om je naam op te slaan. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Omdat deze variabele wordt gebruikt om naam op te slaan, noemen we de variabele... `naam`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ We kunnen een **variabele** gebruiken om je naam op te slaan. Klik op `Variabele
 
 \--- task \---
 
-Om je naam op te slaan, klik je op het tabblad `Variabelen`{:class="block3variables"} en sleep je vervolgens het blok `maak naam`{:class="block3variables"} naar het einde van de code.
+To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
 
 ![ada sprite](images/ada-sprite.png)
 
