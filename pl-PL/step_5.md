@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Aby utworzyć losowy wiersz, najpierw potrzebujesz **listy** słów. Aby utworzyć nową listę, kliknij kartę `Zmienne`{:class="block3variables"}.
+Aby utworzyć losowy wiersz, najpierw potrzebujesz **listy** słów. To create a new list, click the `Variables`{:class="block3variables"} tab.
 
 Użyjmy **czasowników** (słów czynności) w pierwszej linii Twojego wiersza. Utwórz nową listę o nazwie `czasowniki`{:class="block3variables"}.
 
