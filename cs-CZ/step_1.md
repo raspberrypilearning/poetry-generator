@@ -55,7 +55,7 @@ Startovací projekt najdete [zde](http://rpf.io/p/en/poetry-generator-go){: targ
 
 ## title: Dodatečné informace pro učitele
 
-Tento projekt byl vytvořen k oslavě [dne Ady Lovelaceové](https://findingada.com). Pokud jste učitel, můžete si stáhnout školní zdrojový balíček, který obsahuje také plán sestavení ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) a představit děti Adě a jejím revolučním myšlenkám.
+Tento projekt byl vytvořen k oslavě [dne Ady Lovelaceové](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
