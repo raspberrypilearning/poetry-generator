@@ -17,7 +17,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Per creare una poesia casuale, per prima cosa avrai bisogno di una **lista** di parole da usare. To create a new list, click the `Variables`{:class="block3variables"} tab.
+Per creare una poesia casuale, per prima cosa avrai bisogno di una **lista** di parole da usare. Per creare una nuova lista, fai clic sulla scheda `Variabili`{:class="block3variables"}.
 
 Usiamo dei **verbi** (azioni) nella prima riga della tua poesia. Crea una nuova lista chiamata `verbi`{:class="block3variables"}.
 
