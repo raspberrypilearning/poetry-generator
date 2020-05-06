@@ -55,7 +55,7 @@
 
 ## title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-Το έργο αυτό έχει δημιουργηθεί για τη γιορτή της [Ημέρας Ada Lovelace](https://findingada.com). Εάν είσαι δάσκαλος, μπορείς να κατεβάσεις ένα πακέτο σχολικού υλικού το οποίο περιέχει επίσης ένα σχέδιο συναρμολόγησης ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), για να εισαγάγει τα παιδιά στην Ada και τις επαναστατικές ιδέες της.
+Το έργο αυτό έχει δημιουργηθεί για τη γιορτή της [Ημέρας Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
