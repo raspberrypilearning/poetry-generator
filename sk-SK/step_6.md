@@ -6,7 +6,7 @@ Tvoja báseň je pomerne krátka - poďme ju predĺžiť!
 
 V ďalšom riadku básne použijeme príslovky. **Príslovka** je slovo, ktoré bližšie určuje sloveso. Vytvor ďalší zoznam, ktorý nazveš príslovky a pridaj doň tieto 3 slová:
 
-![zoznam slov hlasno, ticho, nekonečne](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
