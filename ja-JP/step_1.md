@@ -55,7 +55,7 @@
 
 ## title: 教育者向けの追加情報
 
-このプロジェクトは、 [エイダ・ラブレースの日](https://findingada.com)を祝うために作成されました。 あなたが教師の場合、集会の手引きを含む学校用のリソースパックをダウンロード([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip))し、子供たちにエイダと彼女の革新的なアイデアを紹介することもできます。
+このプロジェクトは、 [エイダ・ラブレースの日](https://findingada.com)を祝うために作成されました。 If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
