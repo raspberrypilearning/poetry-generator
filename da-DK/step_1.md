@@ -55,7 +55,7 @@ Startprojektet kan findes [her](http://rpf.io/p/en/poetry-generator-go){: target
 
 ## titel: Yderligere oplysninger til undervisere
 
-Dette projekt er oprettet for at fejre [Ada Lovelace Day](https://findingada.com). Hvis du er lærer, kan du downloade en skoleressourcepakke, der også indeholder en samlingsplan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) for at introducere børn til Ada og hendes revolutionerende ideer.
+Dette projekt er oprettet for at fejre [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
