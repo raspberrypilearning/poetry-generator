@@ -15,6 +15,6 @@
 
 \--- print-only \---
 
-![पूरा प्रोजेक्ट](images/balloons-final.png)
+![complete project](images/balloons-final.png)
 
 \--- /print-only \---
