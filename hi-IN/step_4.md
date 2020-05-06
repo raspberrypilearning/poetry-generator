@@ -4,7 +4,7 @@
 
 \--- task \---
 
-अब आप ` ask `{:class="block3sensing"} ब्लॉक (यहाँ से `sensing`{:class="block3sensing"}) अपने कोड पर खींचें | आपका कोड ऐसा दिखना चाहिए:
+अब आप `ask`{:class="block3sensing"} ब्लॉक (`sensing`{:class="block3sensing"} सेक्शन में से) अपने कोड पर खींचें | आपका कोड ऐसा दिखना चाहिए:
 
 ![अदा का स्प्राइट](images/ada-sprite.png)
 
@@ -18,7 +18,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-अदा के स्प्राइट पर क्लिक करके अपना कोड टेस्ट करें | अदा कोआपसे आपका नाम पूछना चाहिए, जिसे आप टाइप कर सकते हैं!
+अदा के स्प्राइट पर क्लिक करके अपना कोड का परीक्षण करें | अदा को आपसे आपका नाम पूछना चाहिए, जिसे आप टाइप कर सकते हैं!
 
 ![अदा का स्प्राइट पूछ रहा है कि, आपका नाम क्या है](images/poetry-input.png)
 
@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-हम आपका नाम संग्रहित करने के लिए **variable** का उपयोग कर सकते हैं | Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. क्योंकि ये variable आपके नाम को संग्रहीत करने के लिए प्रयोग होगा, चलिए इस variable का नाम हम रखते है... `name`{:class="block3variables"}!
+हम आपका नाम संग्रहित करने के लिए **variable** का उपयोग कर सकते हैं | `Variables`{:class="block3variables"} पर क्लिक करें और फिर 'Make a Variable' पर क्लिक करें। क्योंकि ये variable आपके नाम को संग्रहीत करने के लिए प्रयोग होगा, चलिए इस variable का नाम हम रखते है... `name`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+आपका नाम संग्रहित करने के लिए `Variables`{:class="block3variables"} टैब पर क्लिक करें, और फिर `set name`{:class="block3variables"} ब्लॉक को कोड के अंत में खींचकर जोड़ें।
 
 ![अदा का स्प्राइट](images/ada-sprite.png)
 
@@ -102,7 +102,7 @@ set [name v] to (answer)
 
 \--- task \---
 
-अपने `name`{:class="block3variables"} variable को स्टेज पर छुपाने के लिए, variable के पास बने हुए खांचे में क्लिक करके सही का निशान बनाये |
+अपने `name`{:class="block3variables"} variable को स्टेज पर छुपाने के लिए, variable के पास बने हुए खांचे में क्लिक करें|
 
 ![सही निशान variable](images/poetry-tick-annotated.png)
 
