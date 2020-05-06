@@ -55,7 +55,7 @@ O projeto inicial pode ser encontrado [aqui](http://rpf.io/p/en/poetry-generator
 
 ## informações adicionais para educadores
 
-Este projeto foi criado para comemorar [Ada Lovelace Day](https://findingada.com). Se você é professor, pode baixar um School Resource Pack que também contém um plano de montagem ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), para apresentar às crianças Ada e suas idéias revolucionárias.
+Este projeto foi criado para comemorar [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
