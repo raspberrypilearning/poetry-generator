@@ -6,7 +6,7 @@ Your poem is quite short - let's add to it!
 
 Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
