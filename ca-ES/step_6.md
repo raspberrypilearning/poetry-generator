@@ -6,7 +6,7 @@ El teu poema és bastant curt: afegim més text!
 
 Ara utilitzarem adverbis a la següent línia del teu poema. Un **adverbi** és una paraula que descriu un verb. Crea una altra llista que es digui adverbis i afegeix aquestes 3 paraules:
 
-![llista amb les paraules en veu alta, silenciosament, sense fi](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
