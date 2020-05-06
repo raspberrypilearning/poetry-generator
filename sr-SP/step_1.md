@@ -55,7 +55,7 @@
 
 ## title: Додатне информације за наставнике
 
-Овај пројекат је створен за прославу [Ада Ловелаце Даи](https://findingada.com). Ако сте учитељ, можете преузети пакет школских ресурса који садржи и план за састављање ([довнлоадс.цодецлуб.орг.ук/ада.зип](http://downloads.codeclub.org.uk/ada.zip)) да бисте упознали децу са Адом и њеним револуционарним идејама.
+Овај пројекат је створен за прославу [Ада Ловелаце Даи](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
