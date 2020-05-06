@@ -6,7 +6,7 @@ Poezia ta este destul de scurtă - hai să o mărim!
 
 Să folosim adverbe în următorul vers al poeziei tale. Un ** adverb ** este un cuvânt care descrie un verb. Creează o altă listă numită adverbe și adaugă aceste 3 cuvinte:
 
-![lista cu cuvintele tare, încet, neîncetat](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
