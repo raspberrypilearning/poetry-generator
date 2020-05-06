@@ -47,7 +47,7 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 选择一个 “computer beeps” 声音，单击确定。
 
-![计算机发出 1 和 2 声](images/poetry-beeps.png)
+![计算机发出哔哔叭叭的蜂鸣声](images/poetry-beeps.png)
 
 \--- /task \---
 
