@@ -6,7 +6,7 @@ Je gedicht is vrij kort - laten we er wat aan toevoegen!
 
 Laten we bijwoorden in de volgende regel van je gedicht gebruiken. Een **bijwoord** is een woord dat een werkwoord beschrijft. Maak nog een lijst met als naam bijwoorden en voeg deze 3 woorden toe:
 
-![lijst met de woorden luidruchtig, stilletjes, oneindig](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
