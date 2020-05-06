@@ -55,7 +55,7 @@
 
 ## title: מידע נוסף למורי המועדון
 
-פרויקט זה נוצר כדי לחגוג [עדה לאבלייס יום](https://findingada.com). אם אתה מורה, אתה יכול להוריד חבילת משאבים לבית ספר הכוללת גם תוכנית הרכבה ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), כדי להכיר לילדים את עדה ואת הרעיונות המהפכניים שלה.
+פרויקט זה נוצר כדי לחגוג [עדה לאבלייס יום](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
