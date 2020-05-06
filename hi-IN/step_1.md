@@ -1,6 +1,6 @@
 \--- no-print \---
 
-यह इस प्रोजेक्ट का **Scratch 3** संस्करण है। इस प्रोजेक्ट का [Scratch 2 संस्करण भी है](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2)।
+यह इस प्रोजेक्ट का **Scratch 3** संस्करण है। [इस प्रोजेक्ट का Scratch 2 संस्करण](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2) भी है।
 
 \--- /no-print \---
 
@@ -25,7 +25,7 @@
 
 ## \--- collapse \---
 
-## शीर्षक: आप क्या सीखेंगे
+## title: आप क्या सीखेंगे
 
 + वेरिएबल;
 + सूचियां और अनोखी सूची के आइटम्स;
@@ -35,11 +35,11 @@
 
 ## \--- collapse \---
 
-## शीर्षक: आपको किन चीज़ों की आवश्यकता होगी
+## title: आपको किन चीज़ों की आवश्यकता होगी
 
 #### हार्डवेयर
 
-+ एक RunScratch 3 चलाने में सक्षम कंप्यूटर
++ Scratch 3 चलाने में सक्षम कंप्यूटर
 
 #### सॉफ्टवेयर
 
@@ -53,9 +53,9 @@
 
 ## \--- collapse \---
 
-## शीर्षक: शिक्षकों के लिए अतिरिक्त जानकारी
+## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
-यह प्रोजेक्ट [अदा लवलेस डे](https://findingada.com) को मनाने के लिए बनाया गया है। यदि आप एक शिक्षक हैं, तो आप बच्चों को अदा और उसके क्रांतिकारी विचारों से परिचित कराने के लिए एक स्कूल रिसोर्स पैक डाउनलोड कर सकते हैं जिसमें एक असेंबली प्लान([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) भी शामिल है।
+यह प्रोजेक्ट [अदा लवलेस डे](https://findingada.com) को मनाने के लिए बनाया गया है। If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
