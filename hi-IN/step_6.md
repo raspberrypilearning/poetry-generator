@@ -6,7 +6,7 @@
 
 चलिए आपके कविता की अगली पंक्ति में क्रिया विशेषणों (adverbs) का उपयोग करें। एक **क्रिया विशेषण (adverb)** ऐसा शब्द है जो किसी क्रिया (verb) का वर्णन करता है। क्रिया विशेषण नामक एक और सूची बनाएं, और इन 3 शब्दों को जोड़ें:
 
-![list with the words loudly, silently, endlessle](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
