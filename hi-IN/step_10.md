@@ -2,6 +2,6 @@
 
 ## चुनौती: और कविताएँ
 
-Can you use your own lists to generate your own poetry?
+क्या आप अपनी खुद की कविताएँ बनाने के लिए अपनी खुद की सूचियों का उपयोग कर सकते हैं?
 
 \--- /challenge \---
