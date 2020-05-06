@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Μπορούμε να χρησιμοποιήσουμε μια **μεταβλητή** για να αποθηκεύσουμε το όνομά σου. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Δεδομένου ότι αυτή η μεταβλητή θα χρησιμοποιηθεί για την αποθήκευση του ονόματός σου, ας καλέσουμε τη μεταβλητή... `όνομα`{:class="block3variables"}!
+Μπορούμε να χρησιμοποιήσουμε μια **μεταβλητή** για να αποθηκεύσουμε το όνομά σου. Κάνε κλικ στις `Μεταβλητές`{:class="block3variables"} και μετά στη "Δημιουργία Μεταβλητής". Δεδομένου ότι αυτή η μεταβλητή θα χρησιμοποιηθεί για την αποθήκευση του ονόματός σου, ας καλέσουμε τη μεταβλητή... `όνομα`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Για να αποθηκεύσεις το όνομά σου, κάνε κλικ στην καρτέλα `Μεταβλητές`{:class="block3variables"} και μετά σύρε το μπλοκ `όρισε όνομα`{:class="block3variables"} στο τέλος του κώδικά σου.
 
 ![αντικείμενο Ada](images/ada-sprite.png)
 
