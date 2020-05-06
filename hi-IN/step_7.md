@@ -6,7 +6,7 @@
 
 अपने कंप्यूटर के स्प्राइट पर क्लिक करें, और इस कोड को पहले `say`{:class="block3looks"} ब्लॉक के बाद जोड़ें:
 
-आपको `repeat`{:class="block3control"} और `wait`{:class="block3control"} ब्लॉक्स ये `Control`{:class="block3control"} खाने में मिलेगा |
+आपको `repeat`{:class="block3control"} और `wait`{:class="block3control"} ब्लॉक्स ये `Control`{:class="block3control"} खाने में मिलेंगे |
 
 ![computer sprite](images/computer-sprite.png)
 
