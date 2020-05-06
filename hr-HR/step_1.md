@@ -55,7 +55,7 @@ Početni projekt možete pronaći [ovdje](http://rpf.io/p/en/poetry-generator-go
 
 ## title: Dodatne informacije za edukatore
 
-Ovaj projekt je stvoren kako bi proslavili [Ada Lovelace Day](https://findingada.com). Ako ste učitelj, možete preuzeti paket školskih resursa koji sadrži i plan okupljanja ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) kako biste upoznali djecu s Adom i njezinim revolucionarnim idejama.
+Ovaj projekt je stvoren kako bi proslavili [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
