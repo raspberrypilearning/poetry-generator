@@ -6,7 +6,7 @@ Twój wiersz jest dość krótki - dodajmy coś do niego!
 
 Użyjmy przysłówków w następnej linijce twojego wiersza. **Przysłówek** to słowo, które opisuje czasownik. Utwórz kolejną listę o nazwie przysłówki i dodaj te 3 słowa:
 
-![lista ze słowami głośno, cicho, nieskończenie](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
