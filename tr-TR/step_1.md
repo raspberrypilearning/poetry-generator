@@ -55,7 +55,7 @@ Başlangıç projesini [burada](http://rpf.io/p/en/poetry-generator-go){:target=
 
 ## title: Eğitimciler için ek bilgiler
 
-Bu proje [Ada Lovelace](https://findingada.com)Gününü kutlamak için oluşturuldu. Eğer bir öğretmenseniz, çocukları Ada'ya ve onun devrimci fikirlerine tanıtmak için bir montaj planı ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) içeren bir Okul Kaynak Paketi indirebilirsiniz.
+Bu proje [Ada Lovelace](https://findingada.com)Gününü kutlamak için oluşturuldu. If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
