@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-要随机生成诗歌，首先需要一个**列表** 来存储可使用的词。 To create a new list, click the `Variables`{:class="block3variables"} tab.
+要随机生成诗歌，首先需要一个**列表** 来存储可使用的词。 要创建新的列表，请单击 `变量`{:class="block3variables"} 标签。
 
-让我们在诗歌的第三行使用 **动词**(动作词)。 创建一个名为 `动词`{:class =“block3variables”} 的新列表。
+让我们在诗歌的第一行使用 **动词**(动作词)。 创建一个名为 `动词`{:class =“block3variables”} 的新列表。
 
 [[[generic-scratch3-make-list]]]
 
@@ -35,11 +35,11 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-诗歌的第一行应该是单词“ 我”，第三行是一个随机动词。
+诗歌的第一行应该是单词“我”，然后是一个随机动词。
 
 要创建一行诗，您需要：
 
-1. 在 `1` 和 `动词的项目数`{:class="block3variables"} `之间取随机数字`{:class="block3operators"}：
+1. 在 `1` 和 `动词列的项目数`{:class="block3variables"} `之间取随机数`{:class="block3operators"}：
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
@@ -51,13 +51,13 @@ say [Here is your poem...] for (2) seconds
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. 使用 `说` {：class =“ block3looks”} 模块用来显示这行诗
+3. 用 `连接`{:class="block3operators"} 模块 将 "我" 和 随机生成的动词连接起来, 产生第一行诗：
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. 添加 `说`{:class="block3operators"} “我” 模块到刚才的模块之前，来创建诗的第一行
+4. 使用 `说`{:class="block3looks"} 模块来显示这行诗：
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
