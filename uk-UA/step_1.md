@@ -55,7 +55,7 @@
 
 ## title: Додаткова інформація для викладачів
 
-Цей проєкт було створено до [Дня Ади Лавлейс](https://findingada.com). Якщо ви вчитель, то можете завантажити пакет шкільних ресурсів, який містить збірку матеріалів ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), щоб познайомити дітей з Адою та її революційними ідеями.
+Цей проєкт було створено до [Дня Ади Лавлейс](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
