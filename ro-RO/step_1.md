@@ -55,7 +55,7 @@ Proiectul inițial poate fi găsit [aici](http://rpf.io/p/en/poetry-generator-go
 
 ## title: Informații suplimentare pentru educatori
 
-Acest proiect a fost creat pentru a sărbători [Ziua Adei Lovelace](https://findingada.com). Dacă ești profesor, poți descărca un pachet de resurse școlare care conține și un plan de asamblare ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), pentru a-i introduce pe copii în ideile revoluționare ale Adei.
+Acest proiect a fost creat pentru a sărbători [Ziua Adei Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
