@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-एक अनोखी कविता बनाने के लिए, पहले आपको शब्दों कि **सूची** की आवश्यक्ता होगी | To create a new list, click the `Variables`{:class="block3variables"} tab.
+एक अनोखी कविता बनाने के लिए, पहले आपको शब्दों कि **सूची** की आवश्यक्ता होगी | एक नई सूची बनाने के लिए, `Variables`{:class="block3variables"} टैब पर क्लिक करें।
 
-चलिए, आपके कविता के पहले पंक्ति में हम उपयोग करेंगे **क्रिया** (कार्य दर्शाने वाले शब्द) `verbs`{:class="block3variables"} नामक एक नयी सूची तैयार करें |
+चलिए, आपके कविता के पहले पंक्ति में हम **क्रिया** (कार्य दर्शाने वाले शब्द) का उपयोग करेंगे। `verbs`{:class="block3variables"} नामक एक नयी सूची तैयार करें |
 
 [[[generic-scratch3-make-list]]]
 
@@ -39,7 +39,7 @@ say [Here is your poem...] for (2) seconds
 
 कविता की इस पंक्ति को बनाने के लिए, आपको ये करना होगा:
 
-1. `Pick a random number`{:class="block3operators"} पर क्लिक करें, `1`और `length of the verbs list`{:class="block3variables"} को ऐसे सजाये:
+1. `Pick a random number`{:class="block3operators"} और `length of the verbs list`{:class="block3variables"} का इस्तमाल करके `1` और अपने क्रिया के सूची से एक अनोखा अंक चुनें।
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
@@ -51,7 +51,7 @@ say [Here is your poem...] for (2) seconds
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. अपने कविता की पहली पंक्ति बनाने के लिए, "I" शब्द को `Join`{:class="block3operators"} करें उस अनोखे क्रिया से:
+3. अपने कविता की पहली पंक्ति बनाने के लिए, "I" शब्द को `Join`{:class="block3operators"} का इस्तमाल करके उस अनोखे क्रिया से जोड़ें:
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
@@ -77,7 +77,7 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-अपने कोड का कुछ समय परीक्षण करें। आपका कंप्यूटर हर बार `verbs`{:class="block3variables"} सूची से एक अनोखा शब्द चुनना चाहिए |
+अपने कोड का कुछ समय के लिए परीक्षण करें। आपका कंप्यूटर हर बार `verbs`{:class="block3variables"} सूची से एक अनोखा शब्द चुनना चाहिए |
 
 ![3 बुलबुले अलग अलग चीज़ें बोलते हुए](images/poetry-random-test.png)
 
