@@ -26,7 +26,7 @@ Fes clic a l'Ada per provar el teu codi. L'Ada t'hauria de demanar el teu nom, q
 
 \--- task \---
 
-Podem utilitzar una **variable** per emmagatzemar el teu nom. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, anomenem la variable... `nom`{:class="block3variables"}!
+Podem utilitzar una **variable** per emmagatzemar el teu nom. Fes clic a `Variables`{:class="block3variables"}, i després a 'Crea una Variable'. Com que aquesta variable s'utilitzarà per emmagatzemar el vostre nom, anomenem la variable... `nom`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Podem utilitzar una **variable** per emmagatzemar el teu nom. Click `Variables`{
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Per emmagatzemar el teu nom, fes clic a la pestanya `Variables`{:class="block3variables"}, i llavors arrossega el bloc `assigna a`{:class="block3variables"} al final del teu codi.
 
 ![personatge de l'ada](images/ada-sprite.png)
 
