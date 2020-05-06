@@ -6,7 +6,7 @@
 
 让我们在诗歌的下一行中使用副词。 **副词** 是描述动词的单词。 创建另一个名为副词的列表，并添加以下三个单词：
 
-![副词列表：大声地、默默地、连续不断地](images/poetry-adverbs.png)
+![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
 
 \--- /task \---
 
@@ -37,7 +37,7 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 在您的项目中添加一个名词列表。 **名词**是一个地方或事物。
 
-![名词列表：大海里、月球上、树上](images/poetry-nouns.png)
+![名词列表：海边、月球上、树上](images/poetry-nouns.png)
 
 \--- /task \---
 
