@@ -55,7 +55,7 @@ Dozvieš sa, ako naprogramovať generátor básní!
 
 ## title: Doplňujúce informácie pre vyučujúcich
 
-Tento projekt bol vytvorený na oslavu [Ada Lovelace Day](https://findingada.com). Ak ste učiteľ/-ka, môžete si stiahnuť školský Resource Pack, ktorý obsahuje aj plán zostavenia ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) a predstaviť tak deťom Adu a jej revolučné nápady.
+Tento projekt bol vytvorený na oslavu [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
