@@ -55,7 +55,7 @@ El projecte inicial es pot trobar [aquí](http://rpf.io/p/en/poetry-generator-go
 
 ## títol: Informació addicional per educadors
 
-Aquest projecte ha estat creat per celebrar el [Dia de l'Ada Lovelace](https://findingada.com). Si sou un professor, podeu descarregar un paquet de recursos escolars que conté un pla de muntatge ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) per presentar l'Ada i les seves idees revolucionàries als alumnes.
+Aquest projecte ha estat creat per celebrar el [Dia de l'Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
