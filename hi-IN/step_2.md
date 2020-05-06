@@ -12,7 +12,7 @@
 
 **ऑफलाइन**: [स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} को ऑफलाइन एडिटर में खोलिये।
 
-यदि आपको Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करना चाहते है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
+यदि आप Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करना चाहते है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
 \--- /task \---
 
