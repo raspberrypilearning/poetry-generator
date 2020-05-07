@@ -29,7 +29,7 @@ V této lekci se naučíš, jak naprogramovat svůj vlastní generátor poezie!
 
 + Proměnné;
 + Seznamy a náhodné položky seznamu;
-+ Opakování (blok `opakuj`{: class = "block3control"}).
++ Opakování (blok `opakuj`{:class="block3control"}).
 
 \--- /collapse \---
 
@@ -47,7 +47,7 @@ V této lekci se naučíš, jak naprogramovat svůj vlastní generátor poezie!
 
 #### Ke stažení
 
-Startovací projekt najdete [zde](http://rpf.io/p/en/poetry-generator-go){: target = "_ blank"}.
+Startovací projekt najdeš [zde](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
 
 \--- /collapse \---
 
@@ -59,10 +59,10 @@ Tento projekt byl vytvořen k oslavě [dne Ady Lovelaceové](https://findingada.
 
 \--- no-print \---
 
-Potřebujete-li tento projekt vytisknout, použijte verzi [pro-tisk](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
+Pokud potřebuješ tento projekt vytisknout, použij verzi [pro tisk](https://projects.raspberrypi.org/en/projects/poetry-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Dokončený projekt [naleznete zde](http://rpf.io/p/en/poetry-generator-get){: target = "_ blank"}.
+[Dokončený projekt najdeš zde](http://rpf.io/p/en/poetry-generator-get){:target="_ blank"}.
 
 \--- /collapse \---
