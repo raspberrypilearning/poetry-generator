@@ -37,7 +37,7 @@ Svůj kód párkrát vyzkoušej. Pokaždé by se měla zobrazit jiná báseň.
 
 Do svého projektu přidej seznam s podstatnými jmény. **Podstatné jméno** označuje název osoby, zvířete, věci, vlastnosti a děje.
 
-![seznam s podstatnými jmény vody, měsíce, stromu](images/poetry-nouns.png)
+![seznam s podstatnými jmény moře, měsíce, stromu](images/poetry-nouns.png)
 
 \--- /task \---
 
@@ -86,7 +86,7 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 Pokud chceš seznamy skrýt, můžeš vedle nich odškrtnout políčka.
 
-![seznam s proměnnými s zaškrtnutými políčky](images/poetry-lists-tick.png)
+![seznam proměnných se zaškrtnutými políčky](images/poetry-lists-tick.png)
 
 \--- /task \---
 
