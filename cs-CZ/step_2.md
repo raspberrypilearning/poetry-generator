@@ -6,11 +6,11 @@ V roce 1842 psala Ada Lovelaceová o používání výpočetního stroje nazvan�
 
 Otevři ve Scratchi začáteční projekt „Generátor poezie“.
 
-**Online**: otevři [začáteční projekt](http://rpf.io/poetry-on){: target = "_ blank"}.
+**Online**: otevři [začáteční projekt](http://rpf.io/poetry-on){:target="_ blank"}.
 
-Pokud máte účet Scratch, můžete vytvořit kopii kliknutím na **Remix**.
+Pokud máš Scratch účet, můžeš vytvořit kopii kliknutím na **Remix**.
 
-**Offline**: otevři [začáteční projekt](http://rpf.io/p/en/beat-the-goalie-go){: target = "_ blank"} v offline editoru.
+**Offline**: otevři [začáteční projekt](http://rpf.io/p/en/beat-the-goalie-go){:target="_ blank"} v offline editoru.
 
 Offline editor Scratche si můžeš stáhnout na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
