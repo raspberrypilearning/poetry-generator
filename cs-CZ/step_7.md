@@ -53,7 +53,7 @@ Vyber zvuk „Computer Beep“ a klikni na OK.
 
 \--- task \---
 
-Přidej blok `začni hrát zvuk`{:class="block3sound"} aby se začal přehrávat zvuk ještě předtím, než tvoje animace začně.
+Přidej blok `začni hrát zvuk`{:class="block3sound"} aby se začal přehrávat zvuk ještě předtím, než tvoje animace začne.
 
 ![postava počítače](images/computer-sprite.png)
 
