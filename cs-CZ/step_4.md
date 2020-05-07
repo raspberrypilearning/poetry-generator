@@ -4,7 +4,7 @@ Ada se představila, ale tvoje jméno ještě nezná!
 
 \--- task \---
 
-Přetáhni do svého kódu blok `otázka`{: class = "block3sensing"} (ze sekce `vnímání`{: class = "block3sensing"}). Tvůj kód by měl vypadat takto:
+Přetáhni do svého kódu blok `otázka`{:class="block3sensing"} (ze sekce `vnímání`{:class="block3sensing"}). Tvůj kód by měl vypadat takto:
 
 ![postava ady](images/ada-sprite.png)
 
@@ -26,7 +26,7 @@ Klikni na Adu a otestuj svůj kód. Ada by se měla zeptat na tvé jméno, kter�
 
 \--- task \---
 
-Pro uložení tvého jméno můžeme použít **proměnnou**. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Jelikož bude tato proměnná použita pro uložení tvého jména, pojďme ji nazvat třeba... `jméno`{: class = "block3variables"}!
+Pro uložení tvého jméno můžeme použít **proměnnou**. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Jelikož bude tato proměnná použita pro uložení tvého jména, pojďme ji nazvat třeba... `jméno`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
