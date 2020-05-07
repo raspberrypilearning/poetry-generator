@@ -1,6 +1,6 @@
 ## Co dál?
 
-Podívej se na Scratch projektu [Balónky](https://projects.raspberrypi.org/en/projects/balloons).
+Podívej se na Scratch projekt [Balónky](https://projects.raspberrypi.org/en/projects/balloons).
 
 \--- no-print \---
 
