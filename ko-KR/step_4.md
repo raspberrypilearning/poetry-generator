@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-여러분은 자신의 이름을 저장 하기 위해 **변수** 를 사용해 볼 수 있습니다. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. 이 변수는 이름을 저장하는 데 사용되므로, 변수를 이렇게 부릅시다... `이름`{:class="block3variables"}!
+여러분은 자신의 이름을 저장 하기 위해 **변수** 를 사용해 볼 수 있습니다. `이름`{:class="block3variables"}! 이 변수는 이름을 저장하는 데 사용되므로, 변수를 이렇게 부릅시다... `이름`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+여러분의 이름을 저장하려면, `변수`{:class="block3variables"} 탭을 클릭하여, `이름을 ~로 정하기`{:class="block3variables"} 블록을 코드의 끝에 추가하세요.
 
 ![에이다 스프라이트](images/ada-sprite.png)
 
