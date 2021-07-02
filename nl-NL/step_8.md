@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Uitdaging: maak je gedicht persoonlijker
+## Uitdaging: personaliseer je gedicht
 
 Kun je de variabele `naam`{:class="block3variables"} gebruiken om je gedicht te personaliseren?
 
