@@ -25,9 +25,9 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: Yr hyn byddi di'n ei ddysgu
+## title: Nodiadau i arweinydd y clwb
 
-+ Newidynnau;
++ PoetryGenerator.sb2
 + Lists and random list items;
 + Repetition (the `repeat`{:class="block3control"} block).
 
@@ -35,15 +35,15 @@ You are going to learn how to program your own poetry generator!
 
 ## \--- collapse \---
 
-## title: Beth fydd ei angen arno ti
+## Diwrnod Ada Lovelace
 
 #### Caledwedd
 
-+ Cyfrifiadur sy'n gallu rhedeg Scratch 3
++ PoetryGeneratorResources.sb2
 
 #### Meddalwedd
 
-+ Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
++ Newidyn;
 
 #### Lawrlwythiadau
 
@@ -53,7 +53,7 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## \--- collapse \---
 
-## title: Gwybodaeth ychwanegol i addysgwyr
+## Nodau Dysgu
 
 This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
