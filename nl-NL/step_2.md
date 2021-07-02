@@ -1,6 +1,6 @@
 ## Ada Lovelace
 
-In 1842 schreef Ada Lovelace over het gebruik van een machine genaamd de 'Analytische Machine' om berekeningen te maken, en ze wordt het gezien als 's werelds eerste computerprogrammeur! Ada was ook de eerste die zag dat computers meer konden zijn dan alleen grote rekenmachines.
+In 1842 schreef Ada Lovelace over het gebruik van een machine genaamd de 'Analytische Machine' om berekeningen te maken, en ze wordt gezien als 's werelds eerste computerprogrammeur! Ada was ook de eerste die zag dat computers meer konden zijn dan alleen grote rekenmachines.
 
 --- task ---
 
