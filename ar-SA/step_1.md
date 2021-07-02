@@ -55,7 +55,7 @@
 
 ## title: معلومات إضافية للمعلمين
 
-تم إنشاء هذا المشروع للاحتفال بـيوم آدا لوفلاس [ Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+تم إنشاء هذا المشروع للاحتفال بـيوم آدا لوفلاس [ Ada Lovelace Day](https://findingada.com). إذا كنت معلمًا، يمكنك تنزيل حزمة موارد المدرسة التي تحتوي أيضًا على خطة تجميع ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) ، لتقديم الأطفال إلى ادا وأفكارها الثورية.
 
 \--- no-print \---
 
