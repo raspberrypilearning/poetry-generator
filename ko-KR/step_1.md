@@ -55,7 +55,7 @@
 
 ## title: 교육자를 위한 추가 정보
 
-이 프로젝트는 [Ada Lovelace Day](https://findingada.com)를 기념하기 위해 만들어졌습니다. If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+이 프로젝트는 [Ada Lovelace Day](https://findingada.com)를 기념하기 위해 만들어졌습니다. 교사인 경우, Ada의 혁신적인 아이디어를 소개하는 어샘블리 플랜이 포함된 School Resource Pack ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) 을 다운로드 받을 수 있습니다.
 
 \--- no-print \---
 
