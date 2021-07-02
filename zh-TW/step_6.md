@@ -1,20 +1,20 @@
-## More poetry
+## 更多的詩
 
-Your poem is quite short - let's add to it!
+您的詩很短-讓我們加一首吧！
 
 \--- task \---
 
-Let's use adverbs in the next line of your poem. An **adverb** is a word that describes a verb. Create another list called adverbs, and add these 3 words:
+讓我們在詩歌的下一行中使用副詞。 **副詞**是描述動詞的單詞。 創建另一個名為副詞的列表，並添加以下三個單詞：
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![大聲地，無聲地，無休止地列出單詞](images/poetry-adverbs.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this line to your computer's code, to say a random adverb on the next line of your poem:
+將此行添加到計算機的代碼中，以便在詩歌的下一行說一個隨機副詞：
 
-![computer sprite](images/computer-sprite.png)
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -27,25 +27,25 @@ say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v])) fo
 
 \--- task \---
 
-Test your code a few times. You should see a random poem each time.
+測試您的代碼幾次。 您應該每次都獲得一個新的隨機用戶名。
 
-![random speech bubbles with adverbs](images/poetry-adverb-test.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a list of nouns to your project. A **noun** is a place or a thing.
-
-![a list of nouns with the words sea, moon, tree](images/poetry-nouns.png)
+![帶有副詞的隨機氣泡](images/poetry-adverb-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the nouns in your poem.
+在項目中添加名詞列表。 **名詞**是一個地方或事物。
 
-![computer sprite](images/computer-sprite.png)
+![帶有單詞sea，moon，tree的名詞列表](images/poetry-nouns.png)
+
+\--- /task \---
+
+\--- task \---
+
+添加代碼以在詩歌中使用名詞。
+
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -59,17 +59,17 @@ say (item (pick random (1) to (length of [adverbs v])) of [adverbs v]) for (2) s
 
 \--- task \---
 
-Add a list of adjectives to your project. An **adjective** is a describing word.
+在項目中添加形容詞列表。 **形容詞**是一個形容詞。
 
-![a list of adjective words happy, tired, hungry](images/poetry-adjectives.png)
+![形容詞列表，快樂，疲倦，飢餓](images/poetry-adjectives.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to use the adjectives in your poem:
+添加代碼以在詩歌中使用形容詞。
 
-![computer sprite](images/computer-sprite.png)
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,14 +84,14 @@ say (join [by the ](item (pick random (1) to (length of [nouns v])) of [nouns v]
 
 \--- task \---
 
-You can click the boxes next to your lists to hide them.
+您可以單擊列表旁邊的框將其隱藏。
 
-![list variables with the tick boxes selected](images/poetry-lists-tick.png)
+![列出選中復選框的變量](images/poetry-lists-tick.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test out your new poem.
+測試你的新程式。
 
 \--- /task \---
