@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More words
+## Meydan Okuma: Daha fazla kelime
 
-Can you add more words to your lists, so that you can generate more poems?
+Daha fazla şiir oluşturabilmek için listelerinize daha fazla kelime ekleyebilir misiniz?
 
 \--- /challenge \---
