@@ -6,7 +6,7 @@
 
 دعونا نستخدم ظروف الحال في السطر التالي من قصيدتك. **الحال** هي كلمة تصف الفعل. أنشئ قائمة أخرى تسمى الظروف الحال، وأضف هذه الكلمات الثلاث:
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![قائمة الكلمات هي بصوت عال، بصمت، لا نهاية لها](images/poetry-adverbs.png)
 
 \--- /task \---
 
