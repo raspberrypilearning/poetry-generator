@@ -4,13 +4,13 @@ L'any 1842, Ada Lovelace va escriure sobre l'ús d'una màquina anomenada 'Motor
 
 \--- task \---
 
-Obre el projecte inicial de Scratch 'Generador de Poesia'.
+Qualsevol codi agregat sota aquest bloc s'executarà quan es fa clic a Ada!
 
 **En línia**: obre el [ projecte d’inici](http://rpf.io/poetry-on){:target="_ blank"}.
 
 Si tens un compte a Scratch pots fer una còpia fent clic a **Reinventa**.
 
-**Fora de línia:** obre el [projecte d'inici](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} a l’editor fora de línia.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
