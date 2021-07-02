@@ -1,12 +1,12 @@
-## Telling Ada your name
+## 告訴Ada你的名字
 
-Ada has introduced herself, but she doesn't know your name!
+Ada介紹了自己，但她不知道你的名字！
 
 \--- task \---
 
-Drag an `ask`{:class="block3sensing"} block (from the `sensing`{:class="block3sensing"} section) onto your code. Here's how your code should look:
+拖動`詢問` {：class =“ block3sensing”}塊（來自` sensing ` {：class =“ block3sensing”}部分）添加到您的代碼中。 你的程式看起來應該像這樣：
 
-![ada sprite](images/ada-sprite.png)
+![ada精靈](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -18,15 +18,15 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Click on Ada to test your code. Ada should ask you your name, which you can type in!
+現在，點擊綠色旗標來測試您的程式。 艾達（Ada）應該問您您的名字，您可以輸入！
 
-![ada sprite asking whats your name](images/poetry-input.png)
+![ada精靈問你叫什麼名字](images/poetry-input.png)
 
 \--- /task \---
 
 \--- task \---
 
-We can use a **variable** to store your name. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. As this variable will be used to store your name, let's call the variable... `name`{:class="block3variables"}!
+我們可以使用**變量**存儲您的名字。 點擊`變量` {：class =“ block3variables”}，然後“製作變量”。 由於此變量將用於存儲您的姓名，因此我們將該變量稱為... `名稱` {：class =“ block3variables”}！
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,9 +34,9 @@ We can use a **variable** to store your name. Click `Variables`{:class="block3va
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+要存儲您的姓名，請單擊`變量` {：class =“ block3variables”}標籤，然後拖動`設置名稱` {：class =“ block3variables”}阻止到代碼末尾。
 
-![ada sprite](images/ada-sprite.png)
+![ada精靈](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -49,9 +49,9 @@ ask [What's your name?] and wait
 
 \--- task \---
 
-Use the `answer`{:class="block3sensing"} block to store the answer you type in.
+使用` answer ` {：class =“ block3sensing”}塊存儲您鍵入的答案。
 
-![ada sprite](images/ada-sprite.png)
+![ada精靈](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -64,7 +64,7 @@ set [name v] to (answer :: +)
 
 \--- task \---
 
-Click on Ada to test your code, and enter your name when asked. You should see that your name has been stored in the `name`{:class="block3variables"} variable.
+單擊Ada測試您的代碼，並在詢問時輸入您的姓名。 還要詢問玩家的姓名，把它儲存在`名稱`{:class="block3variables"}變數裡。
 
 ![截圖](images/poetry-name-test.png)
 
@@ -72,9 +72,9 @@ Click on Ada to test your code, and enter your name when asked. You should see t
 
 \--- task \---
 
-You can now make use of your name in your code. Add this code:
+現在，您可以在代碼中使用您的名字了。 找到這段代碼：
 
-![ada sprite](images/ada-sprite.png)
+![ada精靈](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -84,15 +84,15 @@ set [name v] to (answer)
 +say (join [Hi ] (name)) for (2) seconds 
 ```
 
-To create this code:
+要創建此代碼：
 
-1. Drag a `join`{:class="blockoperators"} block onto the `say`{:class="blocklooks"} block
+1. 拖動`聯接` {：class =“ blockoperators”}阻止`語句` {：class =“ blocklooks”}塊
     
     ```blocks3
     say (join [apple] [banana] :: +) for (2) seconds
     ```
 
-2. Add your `name`{:class="blockdata"} block onto the `join`{:class="blockoperators"} block.
+2. 拖動`聯接` {：class =“ blockoperators”}阻止`語句` {：class =“ blocklooks”}塊.
     
     ```blocks3
     say (join [Hi] (name :: variables +)) for (2) seconds
@@ -102,27 +102,27 @@ To create this code:
 
 \--- task \---
 
-To hide your `name`{:class="block3variables"} variable on the stage, click the tick next to the variable.
+隱藏您的`名稱` {：class =“ block3variables”}變量，單擊變量旁邊的對勾。
 
-![tick name variable](images/poetry-tick-annotated.png)
+![用戶名變數](images/poetry-tick-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Test your new code. Ada should say hello to you, using your name!
+測試您的新程式。 Ada 應該用你的名字跟你打招呼！
 
 ![截圖](images/poetry-name-test2.png)
 
-If there's no space between the word 'Hi' and your name, you'll need to add a space into the code yourself!
+如果單詞“ Hi”和您的名字之間沒有空格，則需要自己在代碼中添加空格！
 
 \--- /task \---
 
 \--- task \---
 
-Finally, add this code to explain what to do next:
+最後，添加以下代碼以說明下一步做什麼：
 
-![ada sprite](images/ada-sprite.png)
+![ada精靈](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -137,6 +137,6 @@ say (join [Hi ] (name)) for (2) seconds
 
 \--- task \---
 
-Test Ada's code one last time, to make sure that everything works.
+最後一次測試Ada的代碼，以確保一切正常。
 
 \--- /task \---
