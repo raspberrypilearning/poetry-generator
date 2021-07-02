@@ -6,7 +6,7 @@ Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie 
 
 ## Inleiding
 
-Je gaat leren hoe je je eigen poëzegenerator kunt programmeren!
+Je gaat leren hoe je je eigen poëziegenerator kunt programmeren!
 
 \--- no-print \---
 
@@ -55,7 +55,7 @@ Het startproject kan [hier](http://rpf.io/p/en/poetry-generator-go){:target="_bl
 
 ## title: Aanvullende informatie voor docenten
 
-Dit project is gemaakt om [Ada Lovelace dag](https://findingada.com)te vieren. If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Dit project is gemaakt om [Ada Lovelace dag](https://findingada.com) te vieren. Als je een leraar bent, kun je een School Resource Pack downloaden dat ook een plan bevat ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)) om kinderen kennis te laten maken met Ada en haar revolutionaire ideeën.
 
 \--- no-print \---
 
