@@ -10,7 +10,7 @@
 
 Scratchのアカウントをお持ちの場合は**リミックス**をクリックしてコピーを作成できます。
 
-**オフライン**: オフラインエディタで[スタータープロジェクト](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"}を開きます。
+**オフライン**: オフラインエディタで[スタータープロジェクト](http://rpf.io/p/ja-JP/beat-the-goalie-go){:target="_blank"}を開きます。
 
 Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}にあります。
 
