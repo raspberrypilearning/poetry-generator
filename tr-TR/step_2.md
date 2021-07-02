@@ -10,7 +10,7 @@
 
 Eğer bir Scratch hesabınız varsa, **Remix**'e tıklayarak bir kopyasını oluşturabilirsiniz.
 
-** Çevrimdışı**: [başlangıç projesini](http://rpf.io/p/en/beat-the-goalie-go) Çevrimdışı düzenleyicide {: target = "_ blank"} açın.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [ rpf.io/scratchoff adresinde bulabilirsiniz. ](http://rpf.io/scratchoff) {: Hedef = "_ blank"}.
 
