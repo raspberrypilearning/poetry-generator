@@ -6,7 +6,7 @@ Anem a programar l'ordinador de l'Ada (anomenat 'motor analític') per generar p
 
 Afegeix aquest codi al teu personatge "Ordinador", perquè parli quan el cliquis:
 
-![personatge de l'ordinador](images/computer-sprite.png)
+![captura de pantalla](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
