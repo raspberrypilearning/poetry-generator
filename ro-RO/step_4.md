@@ -34,7 +34,7 @@ Putem folosi o **variabilă** pentru a stoca numele. Click `Variables`{:class="b
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Pentru a-ți stoca numele, dă click pe blocul `Variabile`{:class="block3variables"} și trage apoi numele `setează`{:class="block3variables"} până la sfârșitul codului tău.
 
 ![personajul Ada](images/ada-sprite.png)
 
