@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## 挑戰：個性化您的詩
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+您能添加`分數` {：class =“ block3variables”}變量在你的遊戲中嗎？
 
 ![截圖](images/poetry-name-comp.png)
 
