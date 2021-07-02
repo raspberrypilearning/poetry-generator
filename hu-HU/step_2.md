@@ -10,7 +10,7 @@ Open the 'Poetry Generator' Scratch starter project.
 
 Ha már van Scratch fiókod, készíthetsz egy másolatot a **Remixelés** gombbal.
 
-**Offline**: nyisd meg a [kezdő projektet](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} az offline szerkesztőben.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Ha le szeretnéd tölteni és telepíteni a Scratch offline szerkesztőt, akkor azt itt találod: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
