@@ -6,7 +6,7 @@ L'Ada s'ha presentat, però ella no sap el teu nom!
 
 Arrossega un bloc `pregunta`{:class="block3sensing"} (de la secció `sensors`{:class="block3sensing"}) al teu codi. Així és com s'hauria de veure el teu codi:
 
-![personatge de l'ada](images/ada-sprite.png)
+![captura de pantalla](images/ada-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -20,7 +20,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 Fes clic a l'Ada per provar el teu codi. L'Ada t'hauria de demanar el teu nom, que pots escriure!
 
-![personatge de l'ada preguntant el teu nom](images/poetry-input.png)
+![captura de pantalla](images/poetry-input.png)
 
 \--- /task \---
 
