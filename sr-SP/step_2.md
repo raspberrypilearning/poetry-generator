@@ -10,7 +10,7 @@
 
 Ако имаш Скреч налог, можеш да направиш копију тако што ћеш кликнути на **Преради**.
 
-**Ван мреже**: отвори [почетни пројекат](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} у уређивачу ван мреже.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Ако је потребно да преузмеш и инсталираш Скреч уређивач ван мреже, можеш га пронаћи на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
