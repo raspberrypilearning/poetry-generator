@@ -6,7 +6,7 @@ Ton poème est plutôt court, étoffons-le !
 
 Utilisons des adverbes dans la ligne suivante de ton poème. Un ** adverbe ** est un mot qui décrit un verbe. Crée une autre liste appelée adverbes et ajoute ces 3 mots :
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![liste avec les mots bruyamment, silencieusement, sans fin](images/poetry-adverbs.png)
 
 \--- /task \---
 
