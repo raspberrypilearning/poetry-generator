@@ -1,6 +1,6 @@
 ## Dweud dy enw wrth Ada
 
-Ada has introduced herself, but she doesn't know your name!
+Mae Ada wedi cyflwyno ei hunan, ond dyw hi ddim yn gwybod dy enw di!
 
 \--- task \---
 
