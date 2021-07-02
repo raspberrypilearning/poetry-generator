@@ -6,7 +6,7 @@
 
 시의 다음 줄에서는 부사를 사용해 볼 것입니다. **부사**는 동사를 묘사하는 단어입니다. 부사라는 다른 리스트를 만들고 이 세 단어를 추가하세요.
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![큰 소리로, 조용히, 끝없이가 있는 리스트](images/poetry-adverbs.png)
 
 \--- /task \---
 
