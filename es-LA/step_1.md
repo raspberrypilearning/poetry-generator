@@ -39,7 +39,7 @@ Esta es la versión **Scratch 3** del proyecto. También hay una [versión del p
 
 #### Equipo
 
-+ Una computadora capaz de correr Scratch 3
++ Una computadora capaz de ejecutar Scratch 3
 
 #### Programas
 
@@ -55,7 +55,7 @@ El proyecto de iniciación puede encontrarse [aquí](http://rpf.io/p/en/poetry-g
 
 ## title: Información adicional para educadores
 
-El proyecto se ha creado para celebrar [ El día de Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+El proyecto se ha creado para celebrar [ El día de Ada Lovelace](https://findingada.com). Si es maestro, puede descargar un paquete de recursos escolares que también contiene un plan de montaje ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), para presentar a los niños a Ada y sus ideas revolucionarias.
 
 \--- no-print \---
 
