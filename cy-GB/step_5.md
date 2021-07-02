@@ -1,12 +1,12 @@
 ## Y Peiriant Dadansoddol
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+Fe awn ati i raglenni cyfrifiadur Ada (sef y 'Peiriant Dadansoddol') i greu barddoniaeth.
 
 \--- task \---
 
 Add this code to your 'Computer' sprite, so that it speaks when clicked:
 
-![computer sprite](images/computer-sprite.png)
+![screenshot](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
