@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More words
+## 挑戰：更多步驟
 
-Can you add more words to your lists, so that you can generate more poems?
+您可以在列表中添加更多單詞，以便生成更多詩歌嗎？
 
 \--- /challenge \---
