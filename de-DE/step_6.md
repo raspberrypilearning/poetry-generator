@@ -6,7 +6,7 @@ Dein Gedicht ist sehr kurz - lass uns etwas hinzufügen!
 
 Lass uns Adverbien in der nächsten Gedichtszeile benutzen. Ein **Adverb** ist ein Wort, welches ein Verb beschreibt. Erstelle eine weitere Liste namens Adverbien und füge diese 3 Wörter hinzu:
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![Liste mit den Wörtern geräuschvoll, lautlos, unendlich](images/poetry-adverbs.png)
 
 \--- /task \---
 
