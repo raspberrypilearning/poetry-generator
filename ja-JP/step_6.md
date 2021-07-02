@@ -6,7 +6,7 @@
 
 詩の次の行で副詞を使ってみましょう。 **副詞**は動詞を説明する言葉です。 副詞という名前のリストを作成し、次の3つの単語を追加します。
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![うるさく、静かに、終わりなくの言葉が入ったリスト](images/poetry-adverbs.png)
 
 \--- /task \---
 
