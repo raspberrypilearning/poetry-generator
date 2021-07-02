@@ -4,7 +4,7 @@ In 1842 schreef Ada Lovelace over het gebruik van een machine genaamd de 'Analyt
 
 \--- task \---
 
-Open het Scratch startproject 'Poetry Generator'.
+Open het Scratch startproject 'Gedichten Generator'.
 
 **Online**: open het [starter project](http://rpf.io/poetry-on){:target="_ blank"}.
 
