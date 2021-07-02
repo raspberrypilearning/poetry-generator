@@ -26,7 +26,7 @@ Klikni na Adu a otestuj svůj kód. Ada by se měla zeptat na tvé jméno, kter�
 
 \--- task \---
 
-Pro uložení tvého jméno můžeme použít **proměnnou**. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Jelikož bude tato proměnná použita pro uložení tvého jména, pojďme ji nazvat třeba... `jméno`{:class="block3variables"}!
+Pro uložení tvého jméno můžeme použít **proměnnou**. Klikni na `Proměnné`{: class = "block3variables"} a poté na „Vytvoř proměnnou“. Jelikož bude tato proměnná použita pro uložení tvého jména, pojďme ji nazvat třeba... `jméno`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Pro uložení tvého jméno můžeme použít **proměnnou**. Click `Variables`{
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Abychom tvoje jméno uložili, klikni na záložku `Proměnné`{:class="block3variables"} a poté přetáhni na konec kódu blok `nastav jméno`{:class="block3variables"}.
 
 ![postava ady](images/ada-sprite.png)
 
