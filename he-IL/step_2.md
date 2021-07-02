@@ -10,7 +10,7 @@
 
 אם יש לך חשבון Scratch, באפשרותך ליצור עותק על-ידי לחיצה על ** כניסה **.
 
-**מקוון**: פתח את פרויקט [המתנעים](http://rpf.io/p/en/beat-the-goalie-go){: target = "_ blank"} בעורך הלא מקוון.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 אם עליך להוריד ולהתקין את העורך הלא מקוון של Scratch, תוכל למצוא אותו בכתובת [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {:target="_blank"}.
 
