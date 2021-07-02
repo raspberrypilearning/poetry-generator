@@ -10,7 +10,7 @@ Odpri začetni projekt Scratch "Generator poezije".
 
 Če imaš Scratch uporabniški račun, lahko ustvariš kopijo s klikom na **Predelaj**.
 
-** Brez povezave ** : odpri začetni projekt [ ](http://rpf.io/p/en/beat-the-goalie-go) {: target = "_ blank"} v namiznem urejevalniku.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
