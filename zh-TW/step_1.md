@@ -55,7 +55,7 @@
 
 ## title: 給教師的其它資訊
 
-創建該項目是為了慶祝 [Ada Lovelace Day](https://findingada.com)。 If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+創建該項目是為了慶祝 [Ada Lovelace Day](https://findingada.com)。 如果您是老師，則可以下載學校資源包，其中還包含一個大會計劃（[ downloads.codeclub.org.uk/ada.zip ](http://downloads.codeclub.org.uk/ada.zip) ），向孩子介紹Ada及其革命思想。
 
 \--- no-print \---
 
