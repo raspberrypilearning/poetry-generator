@@ -17,7 +17,7 @@ decir [Aquí está tu poema...] durante (2) segundos
 
 \--- task \---
 
-Para crear un poema aleatorio, primero necesitarás una **lista** de palabras que usar. To create a new list, click the `Variables`{:class="block3variables"} tab.
+Para crear un poema aleatorio, primero necesitarás una **lista** de palabras que usar. Para crear una lista nueva, haz clic en la pestaña `Variables`{:class="block3variables"}.
 
 Vamos a usar **verbos** (palabras de acción) en la primera línea de tu poema. Crea una nueva lista llamada `verbos`{:class="block3variables"}.
 
