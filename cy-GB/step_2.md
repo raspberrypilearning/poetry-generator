@@ -4,13 +4,13 @@ In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine'
 
 \--- task \---
 
-Open the 'Poetry Generator' Scratch starter project.
+Bydd unrhyw gôd sydd yn cael ei ychwanegu o dan y bloc yma yn rhedeg pan mae Ada yn cael ei chlicio!
 
 **Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
 
 Os oes ganddot ti gyfrif Scratch galli di wneud copi drwy glicio ar ** Remix **.
 
-** All-lein **: agor y prosiect cychwynnol [ ](http://rpf.io/p/en/beat-the-goalie-go) {: target = "_ wag"} yn y golygydd all-lein.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
