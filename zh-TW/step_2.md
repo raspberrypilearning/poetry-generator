@@ -10,7 +10,7 @@
 
 如果你有 Scratch 帳戶，你就可以直接**改編**專案。
 
-**離線版**：在離線編輯器裡開啟[材料包](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"}。
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
