@@ -10,7 +10,7 @@
 
 यदि आपके पास एक Scratch खाता है, तो आप **Remix** पर क्लिक करके कॉपी बना सकते हैं ।
 
-**ऑफलाइन**: [स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} को ऑफलाइन एडिटर में खोलिये।
+**ऑफलाइन**: [स्टार्टर प्रोजेक्ट](http://rpf.io/p/hi-IN/poetry-generator-go){:target="_blank"} को ऑफलाइन एडिटर में खोलिये।
 
 यदि आप Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करना चाहते है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
