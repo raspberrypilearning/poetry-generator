@@ -17,7 +17,7 @@ zeg [Hier is je gedicht ...] (2) sec.
 
 \--- task \---
 
-Om een willekeurig gedicht te maken, heb je eerst een **lijst** met woorden nodig om te gebruiken. To create a new list, click the `Variables`{:class="block3variables"} tab.
+Om een willekeurig gedicht te maken, heb je eerst een **lijst** met woorden nodig om te gebruiken. Klik op het tabblad `Variabelen`{:class="block3variables"} om een nieuwe lijst te maken.
 
 Laten we **werkwoorden** gebruiken in de eerste regel van je gedicht. Maak een nieuwe lijst met de naam `werkwoorden`{:class="block3variables"}.
 
