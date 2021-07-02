@@ -2,6 +2,6 @@
 
 ## Provocare: Mai multă poezie
 
-Can you use your own lists to generate your own poetry?
+Poți folosi propriile liste pentru a-ți genera propria poezie?
 
 \--- /challenge \---
