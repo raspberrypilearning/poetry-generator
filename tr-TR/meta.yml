@@ -2,8 +2,8 @@
 hero_image: images/banner.png
 listed: true
 ingredient: false
-title: Ada'nın Şiir Jeneratörü
-description: Kendi şiir jeneratörünüzü nasıl programlayacağınızı öğrenerek Ada Lovelace Günü'nü kutlayın!
+title: Ada'nın Şiir Oluşturucusu
+description: Kendi şiir oluşturucunuzu nasıl programlayacağınızı öğrenerek Ada Lovelace Günü'nü kutlayın!
 version: 4
 last_tested: 2019-02-20
 steps:
@@ -12,10 +12,10 @@ steps:
   - 
     title: Ada Lovelace
   - 
-    title: 'Zorluk: Ada''yı Kodla'
+    title: 'Görev: Ada''yı kendini tanıtması için kodla'
     challenge: true
   - 
-    title: Ada'ya ismini söylemek
+    title: Ada'ya ismini söyle
   - 
     title: Analitik Motor
   - 
@@ -23,13 +23,13 @@ steps:
   - 
     title: Analitik Motorun Canlandırılması
   - 
-    title: 'Zor Görev: Şiirinizi kişiselleştirin'
+    title: 'Görev: Şiirinizi kişiselleştirin'
     challenge: true
   - 
-    title: 'Zor Görev: Daha fazla kelime'
+    title: 'Görev: Daha fazla kelime'
     challenge: true
   - 
-    title: 'Zor Görev: Daha fazla şiir'
+    title: 'Görev: Daha fazla şiir'
     challenge: true
   - 
     title: Sırada ne var?
