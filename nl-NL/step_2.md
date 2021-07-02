@@ -1,6 +1,6 @@
 ## Ada Lovelace
 
-In 1842 schreef Ada Lovelace over het gebruik van een machine genaamd de 'Analytische Machine' om berekeningen te maken, en ze wordt het gezien als 's werelds eerste computerprogrammeur! Ada was ook de eerste die zag dat computers meer konden zijn dan alleen grote rekenmachines.
+In 1842 schreef Ada Lovelace over het gebruik van een machine genaamd de 'Analytische Machine' om berekeningen te maken, en ze wordt gezien als 's werelds eerste computerprogrammeur! Ada was ook de eerste die zag dat computers meer konden zijn dan alleen grote rekenmachines.
 
 \--- task \---
 
@@ -10,7 +10,7 @@ Open het Scratch startproject 'Poetry Generator'.
 
 Als je een Scratch account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open het [startproject](http://rpf.io/p/en/beat-the-goalie-go){:target="_ blank"} in de offline editor.
+**Offline**: open het [startproject](http://rpf.io/p/nl-NL/poetry-generator-go){:target="_blank"} in de offline editor.
 
 Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
