@@ -10,7 +10,7 @@ Open the 'Poetry Generator' Scratch starter project.
 
 If you have a Scratch account you can make a copy by clicking **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/beat-the-goalie-go){:target="_blank"} in the offline editor.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Hvis du trenger å laste ned og installere Scratch editoren, finner du den på [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
