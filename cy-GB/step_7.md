@@ -1,14 +1,14 @@
 ## Animeiddio'r Peiriant Dadansoddol
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Awn ati i animeiddio dy gyfrifiadur, fel ei fod yn edrych fel ei fod yn creu cerddi.
 
 \--- task \---
 
 Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+Fe wnei di ddod o hyd i'r blociau `ailadrodd`{:class="blockcontrol"} ac `aros`{:class="blockcontrol"} yn yr adran `Rheoli`{:class="blockcontrol"}.
 
-![computer sprite](images/computer-sprite.png)
+![screenshot](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
