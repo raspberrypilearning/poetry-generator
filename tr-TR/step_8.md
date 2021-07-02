@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Personalise your poem
+## Meydan Okuma: Şiirinizi kişiselleştirin
 
-Can you use your `name`{:class="block3variables"} variable to personalise your poem?
+Şiirinizi kişiselleştirmek için `isim`{:class="block3variables"} değişkeninizi kullanabilir misiniz?
 
 ![ekran görüntüsü](images/poetry-name-comp.png)
 
