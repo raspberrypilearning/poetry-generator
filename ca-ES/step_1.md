@@ -35,7 +35,7 @@ Aprendràs a programar el teu propi generador de poesia!
 
 ## \--- collapse \---
 
-## títol: Què necessitaràs
+## Dia d'Ada Lovelace
 
 #### Maquinari
 
@@ -43,7 +43,7 @@ Aprendràs a programar el teu propi generador de poesia!
 
 #### Programari
 
-+ Scratch 3 (ja sigui [en línia](http://rpf.io/scratchon){:target="_ blank"} o [fora de línia](http://rpf.io/scratchoff){:target="_ blank"})
++ Les variables;
 
 #### Descàrregues
 
