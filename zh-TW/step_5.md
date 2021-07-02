@@ -1,12 +1,12 @@
-## The Analytical Engine
+## 分析引擎
 
-Let's program Ada's computer (called the 'Analytical Engine') to generate poetry.
+讓我們對Ada的計算機（稱為“分析引擎”）進行編程以生成詩歌。
 
 \--- task \---
 
-Add this code to your 'Computer' sprite, so that it speaks when clicked:
+將此代碼添加到您的“計算機”精靈中，以便在單擊時發出聲音：
 
-![computer sprite](images/computer-sprite.png)
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -17,9 +17,9 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-To create a random poem, first you'll need a **list** of words to use. To create a new list, click the `Variables`{:class="block3variables"} tab.
+要創建隨機詩，首先需要一個**列表**使用的單詞。 要創建新列表，請單擊`變量` {：class =“ block3variables”}標籤。
 
-Let's use **verbs** (action words) in the first line of your poem. Create a new list called `verbs`{:class="block3variables"}.
+讓我們使用**動詞** （動作詞）在詩歌的第一行。 建立一個清單，命名為 `序列`{:class="block3variables"}。
 
 [[[generic-scratch3-make-list]]]
 
@@ -27,37 +27,37 @@ Let's use **verbs** (action words) in the first line of your poem. Create a new 
 
 \--- task \---
 
-Your new list will be empty. Click the `+` at the bottom of your empty list and add these verbs:
+您的新列表將為空。 點擊` + `在空列表的底部，添加以下動詞：
 
-![list with the + highlighted](images/poetry-verbs-annotated.png)
+![列出並突出顯示+](images/poetry-verbs-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-The first line of your poem should be the word "I", followed by a random verb.
+詩歌的第一行應該是單詞“ I”，然後是一個隨機動詞。
 
-To create this line of poetry, you need to:
+要創建這一行詩，您需要：
 
-1. `Pick a random number`{:class="block3operators"} between `1` and the `length of the verbs list`{:class="block3variables"}:
+1. `選擇一個隨機數` {：class =“ block3operators”}在` 1之間`和動詞列表的`長度` {：class =“ block3variables”}：
     
     ```blocks3
     (pick random (1) to (length of [verbs v]))
     ```
 
-2. Use this block to get a random `item`{:class="block3variables"} from the `verbs`{:class="block3variables"} list:
+2. 使用此塊獲取隨機的`物品`來自`動詞的{：class =“ block3variables”} ` {：class =“ block3variables”}列表：
     
     ```blocks3
     (item (pick random (1) to (length of [verbs v]) :: +) of [verbs v])
     ```
 
-3. `Join`{:class="block3operators"} "I " with the random verb to create the first line of your poem:
+3. `加入` {：class =“ block3operators”}“ I”與隨機動詞一起創建詩歌的第一行：
     
     ```blocks3
     (join [I ] (item (pick random (1) to (length of [verbs v])) of [verbs v] :: +))
     ```
 
-4. Use a `say`{:class="block3looks"} block to display the line of poetry:
+4. 使用` ` {：class =“ block3looks”}塊以顯示詩歌行：
     
     ```blocks3
     say (join [I ](item (pick random (1) to (length of [verbs v])) of [verbs v]) :: +) for (2) seconds
@@ -65,7 +65,7 @@ To create this line of poetry, you need to:
 
 你的程式應該會像這樣：
 
-![computer sprite](images/computer-sprite.png)
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -77,8 +77,8 @@ say [Here is your poem...] for (2) seconds
 
 \--- task \---
 
-Test your code a few times. Your computer should choose a random word from the `verbs`{:class="block3variables"} list each time.
+測試您的代碼幾次。 您的計算機應該從`動詞中選擇一個隨機詞` {：class =“ block3variables”}每次都列出。
 
-![3 speech bubbles saying different things](images/poetry-random-test.png)
+![3泡泡說不同的話](images/poetry-random-test.png)
 
 \--- /task \---
