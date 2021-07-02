@@ -1,6 +1,6 @@
-## Animating the Analytical Engine
+## Analitik Motorun Canlandırılması
 
-Let's animate your computer, so that it looks like it's generating poetry.
+Haydi bilgisayarınızı canlandıralım, böylece şiir üretiyor gibi görünecektir.
 
 \--- task \---
 
