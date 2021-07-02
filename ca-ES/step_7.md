@@ -6,9 +6,9 @@ Ara animarem el teu ordinador, de manera que sembli que està generant poesia.
 
 Fes clic al personatge de l'ordinador, i afegeix aquest codi després del primer bloc `digues`{:class="blocklooks"}:
 
-Trobaràs els blocs `repeteix`{:class="blockcontrol"} i `espera`{:class="blockcontrol"} a la secció `Control`{:class="blockcontrol"}.
+Trobareu el `repeteix`{:class="blockcontrol"} i `espera`{:class="blockcontrol"} blocs estan a la secció `Control`{:class="blockcontrol"}.
 
-![personatge de l'ordinador](images/computer-sprite.png)
+![captura de pantalla](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
