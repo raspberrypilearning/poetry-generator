@@ -2,6 +2,6 @@
 
 ## Her: Mwy o eiriau
 
-Can you add more words to your lists, so that you can generate more poems?
+Alli di ychwanegu mwy o eiriau i dy restrau, fel eu bod yn cynhyrchu mwy o gerddi?
 
 \--- /challenge \---
