@@ -6,7 +6,7 @@ Tu poema es bastante corto, ¡vamos a añadir más versos!
 
 Vamos a usar adverbios en la siguiente línea de tu poema. Un **adverbio** es una palabra que describe un verbo. Crea otra lista que se llame adverbios, y añade estas 3 palabras:
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![lista con las palabras ruidosamente, silenciosamente, interminablemente](images/poetry-adverbs.png)
 
 \--- /task \---
 
