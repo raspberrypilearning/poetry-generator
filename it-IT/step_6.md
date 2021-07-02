@@ -6,7 +6,7 @@ La tua poesia è piuttosto breve - allunghiamola!
 
 Usiamo gli avverbi nella riga successiva della tua poesia. Un **avverbio** è una parola che descrive un verbo. Crea un'altra lista chiamata avverbi, e aggiungi queste 3 parole:
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![lista con le parole rumorosamente, silenziosamente, all'infinito](images/poetry-adverbs.png)
 
 \--- /task \---
 
