@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+名前を保存するには、`変数`{:class="block3variables"}タブをクリックし、 `名前を(0)にする`{:class="block3variables"}ブロックをコードの最後にドラッグします。
 
 ![ada スプライト](images/ada-sprite.png)
 
