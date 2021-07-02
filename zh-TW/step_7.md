@@ -1,14 +1,14 @@
-## Animating the Analytical Engine
+## 動畫分析引擎
 
-Let's animate your computer, so that it looks like it's generating poetry.
+讓我們對計算機進行動畫處理，以使其看起來像在生成詩歌。
 
 \--- task \---
 
-Click on your computer sprite, and add this code after the first `say`{:class="block3looks"} block:
+單擊您的計算機精靈，然後在第一個`語句之後添加此代碼` {：class =“ block3looks”}塊：
 
-You'll find the `repeat`{:class="block3control"} and `wait`{:class="block3control"} blocks are in the `Control`{:class="block3control"} section.
+您會發現`重複` {：class =“ block3control”}和`等待` {：class =“ block3control”}塊位於` Control中` {：class =“ block3control”}部分。
 
-![computer sprite](images/computer-sprite.png)
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -29,15 +29,15 @@ say (join [I feel ](item (pick random (1) to (length of [adjectives v])) of [adj
 
 \--- task \---
 
-測試你的專案。 You should see the computer shake before producing a poem!
+測試你的專案。 在寫詩之前，您應該看到計算機震動！
 
-![computer sprite shaking back and forth](images/poetry-animate-test.png)
+![電腦精靈來回搖動](images/poetry-animate-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
+單擊“聲音”選項卡，然後單擊左下方的“選擇聲音”圖標。
 
 [[[generic-scratch3-sound-from-library]]]
 
@@ -45,17 +45,17 @@ Click the 'Sounds' tab, and click the 'Choose a Sound' icon in the bottom left.
 
 \--- task \---
 
-Choose a 'computer beeps' sound and click OK.
+選擇“計算機發出嗶聲”的聲音，然後單擊“確定”。
 
-![computer beeps 1 and 2 sounds in sound library](images/poetry-beeps.png)
+![聲音庫中計算機發出嗶嗶聲1和2](images/poetry-beeps.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a `start sound`{:class="block3sound"} block, to play your sound just before your animation starts.
+添加`開始聲音` {：class =“ block3sound”}塊，以在動畫開始之前播放聲音。
 
-![computer sprite](images/computer-sprite.png)
+![電腦精靈](images/computer-sprite.png)
 
 ```blocks3
 when this sprite clicked
