@@ -10,7 +10,7 @@ I 1842 skrev Ada Lovelace om at bruge en maskine kaldet 'analytisk motor' til at
 
 Hvis du har en Scratch-konto, kan du oprette en kopi ved at klikke på **Remix** .
 
-** Offline **: åbn [ startprojektet ](http://rpf.io/p/en/beat-the-goalie-go) {: target = "_ blank"} i offline editor.
+**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
 Hvis du har brug for at downloade og installere Scratch offline-editoren, kan du finde den på [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {: Target = "_ blank"}.
 
