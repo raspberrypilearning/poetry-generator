@@ -2,6 +2,6 @@
 
 ## Her: Mwy o gerddi
 
-Can you use your own lists to generate your own poetry?
+Alli di wneud rhestrau dy hunan i greu cerddi?
 
 \--- /challenge \---
