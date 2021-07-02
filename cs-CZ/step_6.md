@@ -6,7 +6,7 @@ Tvoje báseň je tak trochu krátká. Pojďme ji udělat delší!
 
 V dalším řádku tvé básně použijme příslovce. **Příslovce** je slovo, které vyjadřuje bližší okolnosti dějů. Vytvoř další seznam s názvem příslovce a přidej tato 3 slova:
 
-![list with the words loudly, silently, endlessly](images/poetry-adverbs.png)
+![seznam se slovy hlasitě, tiše, nekonečně](images/poetry-adverbs.png)
 
 \--- /task \---
 
