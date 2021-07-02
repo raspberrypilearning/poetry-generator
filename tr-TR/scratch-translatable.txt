@@ -1,27 +1,27 @@
 Merhaba!
 
-Hi, I’m Ada!
+Ben Ada.
 
-What’s your name?
+Adınız nedir?
 
 isim
 
-Hi
+Selam
 
-Click the computer to generate a poem.
+Bir şiir oluşturmak için bilgisayara tıklayın.
 
-Here is your poem…
+İşte şiiriniz…
 
-verbs
+fiiller
 
-adverbs
+zarflar
 
-nouns
+isimler
 
-adjectives
+sıfatlar
 
-I
+Ben
 
-by the
+karşısında
 
-I feel
+Hissediyorum
