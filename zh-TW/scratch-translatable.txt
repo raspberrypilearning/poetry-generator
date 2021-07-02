@@ -1,27 +1,27 @@
 哈囉！
 
-Hi, I’m Ada!
+嗨，我是Ada！
 
-What’s your name?
+你叫什麼名字？
 
 名稱
 
-Hi
+你好
 
-Click the computer to generate a poem.
+點擊計算機以生成一首詩。
 
-Here is your poem…
+這是你的詩…
 
-verbs
+動詞
 
-adverbs
+副詞
 
-nouns
+名詞
 
-adjectives
+形容詞
 
-I
+我
 
-by the
+由
 
-I feel
+我覺得
