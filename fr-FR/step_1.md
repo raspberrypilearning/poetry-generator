@@ -55,7 +55,7 @@ Le projet de démarrage peut être trouvé [ici](http://rpf.io/p/en/poetry-gener
 
 ## title: Informations supplémentaires pour les éducateurs
 
-Ce projet a été créé pour célébrer la [Journée d'Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Ce projet a été créé pour célébrer la [Journée d'Ada Lovelace](https://findingada.com). Si vous êtes enseignant, vous pouvez télécharger un pack de ressources scolaires contenant également un plan de montage ([Downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), pour présenter aux enfants Ada et ses idées révolutionnaires.
 
 \--- no-print \---
 
