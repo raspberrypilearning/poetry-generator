@@ -92,7 +92,7 @@ Om deze code te maken:
     zeg (voeg [appel] en [banaan] samen :: +) (2) sec.
     ```
 
-2. Voeg je `naam`{:class="block3data"} blok toe aan het `voeg samen`{:class="block3operators"} blok.
+2. Voeg je `naam`{:class="blockdata"} blok toe aan het `voeg samen`{:class="block3operators"} blok.
     
     ```blocks3
     zeg (voeg [Hoi] en (naam :: variables +) samen) (2) sec.
