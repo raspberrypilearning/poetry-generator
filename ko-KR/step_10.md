@@ -2,6 +2,6 @@
 
 ## 도전과제: 더 많은시
 
-Can you use your own lists to generate your own poetry?
+여러분만의 리스트를 사용하여 자신만의 시를 생성할 수 있습니까?
 
 \--- /challenge \---
