@@ -26,7 +26,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-Мы можем использовать **переменную**, чтобы сохранить имя. Click `Variables`{:class="block3variables"}, and then 'Make a Variable'. Поскольку эта переменная будет использоваться для хранения твоего имени, давай назовем переменную... `имя`{:class="block3variables"}!
+Мы можем использовать **переменную**, чтобы сохранить имя. `имя`{:class="block3variables"}! Поскольку эта переменная будет использоваться для хранения твоего имени, давай назовем переменную... `имя`{:class="block3variables"}!
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ say [Hi, I'm Ada!] for (2) seconds
 
 \--- task \---
 
-To store your name, click the `Variables`{:class="block3variables"} tab, and then drag the `set name`{:class="block3variables"} block onto the end of your code.
+Чтобы сохранить свое имя, перейди на вкладку `Переменные`{:class="block3variables"} и перетащи блок `задать имя`{:class="block3variables"} в конец кода.
 
 ![спрайт ада](images/ada-sprite.png)
 
