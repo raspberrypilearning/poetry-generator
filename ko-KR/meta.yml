@@ -7,18 +7,20 @@ description: 여러분 만의 시 생성기를 프로그래밍하는 방법을 �
 version: 4
 last_tested: 2019-02-20
 steps:
-  - title: 소개
-  - title: 에이다 러브레이스
-  - title: '도전 과제: Code Ada의 자기소개'
-    challenge: true
-  - title: 에이다에게 여러분의 이름을 알려주기
-  - title: 분석 엔진
-  - title: 더 많은 시
-  - title: 분석 엔진 애니메이션
-  - title: '도전 과제: 여러분의 시를 개인화하세요.'
-    challenge: true
-  - title: '도전과제: 더 많은 단어'
-    challenge: true
-  - title: '도전과제: 더 많은시'
-    challenge: true
-  - title: 더 나아가기
+- title: 소개
+  completion: engaged
+- title: 에이다 러브레이스
+- title: '도전 과제: Code Ada의 자기소개'
+  challenge: true
+- title: 에이다에게 여러분의 이름을 알려주기
+- title: 분석 엔진
+- title: 더 많은 시
+  completion: internal
+- title: 분석 엔진 애니메이션
+- title: '도전 과제: 여러분의 시를 개인화하세요.'
+  challenge: true
+- title: '도전과제: 더 많은 단어'
+  challenge: true
+- title: '도전과제: 더 많은시'
+  challenge: true
+- title: 더 나아가기

@@ -3,22 +3,25 @@ hero_image: images/banner.png
 listed: true
 ingredient: false
 title: Generatorul de poezie al Adei
-description: Sărbătorește ziua Adei Lovelace învățând cum să programezi propriul generator de poezie!
+description: Sărbătorește ziua Adei Lovelace învățând cum să programezi propriul generator
+  de poezie!
 version: 4
 last_tested: 2019-02-20
 steps:
-  - title: Introducere
-  - title: Ada Lovelace
-  - title: 'Provocare: Programeaz-o pe Ada să se prezinte'
-    challenge: true
-  - title: Spune-i Adei numele tău
-  - title: Motorul analitic
-  - title: Mai multă poezie
-  - title: Animarea motorului analitic
-  - title: 'Provocare: Personalizează-ți poezia'
-    challenge: true
-  - title: 'Provocare: Mai multe cuvinte'
-    challenge: true
-  - title: 'Provocare: Mai multă poezie'
-    challenge: true
-  - title: Ce urmează?
+- title: Introducere
+  completion: engaged
+- title: Ada Lovelace
+- title: 'Provocare: Programeaz-o pe Ada să se prezinte'
+  challenge: true
+- title: Spune-i Adei numele tău
+- title: Motorul analitic
+- title: Mai multă poezie
+  completion: internal
+- title: Animarea motorului analitic
+- title: 'Provocare: Personalizează-ți poezia'
+  challenge: true
+- title: 'Provocare: Mai multe cuvinte'
+  challenge: true
+- title: 'Provocare: Mai multă poezie'
+  challenge: true
+- title: Ce urmează?
