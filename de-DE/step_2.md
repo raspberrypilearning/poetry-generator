@@ -10,9 +10,9 @@
 
 Wenn du bereits einen Scratch-Account besitzt, kannst du dir durch Klick auf **Remix** eine Kopie anlegen.
 
-**Offline**: Öffne das [Starter-Projekt](http://rpf.io/p/de-DE/beat-the-goalie-go){:target="_blank"} im Offline-Editor.
+**Offline**: Öffne das [Starter-Projekt](https://rpf.io/p/de-DE/beat-the-goalie-go){:target="_blank"} im Offline-Editor.
 
-Wenn du Scratch herunterladen und auf deinem Rechner installieren möchtest, dann findest du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du Scratch herunterladen und auf deinem Rechner installieren möchtest, dann findest du die Datei unter diesem Link: [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

@@ -10,9 +10,9 @@
 
 Если у тебя есть учетная запись в Scratch, то ты можешь сделать копию, нажав **Ремикс**.
 
-**Оффлайн**: открыть [стартовый проект](http://rpf.io/p/ru-RU/beat-the-goalie-go){:target="_blank"} в оффлайн-редакторе.
+**Оффлайн**: открыть [стартовый проект](https://rpf.io/p/ru-RU/beat-the-goalie-go){:target="_blank"} в оффлайн-редакторе.
 
-Если тебе нужно скачать и установить оффлайн редактор Scratch, ты можешь найти его по адресу [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Если тебе нужно скачать и установить оффлайн редактор Scratch, ты можешь найти его по адресу [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

@@ -45,11 +45,11 @@ title: Lo que vas a necesitar
 
 #### Programas
 
-+ Scratch 3 (ya sea [en línea](http://rpf.io/scratchon){:target="_blank"} o [sin conexión](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [en línea](https://rpf.io/scratchon){:target="_blank"} o [sin conexión](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Descargas
 
-El proyecto de iniciación puede encontrarse [aquí](http://rpf.io/p/es-LA/poetry-generator-go){:target="_blank"}.
+El proyecto de iniciación puede encontrarse [aquí](https://rpf.io/p/es-LA/poetry-generator-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ Si necesitas imprimir este proyecto, por favor utiliza la [versión para imprimi
 
 --- /no-print ---
 
-Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/es-LA/poetry-generator-get){:target="_blank"}.
+Puedes encontrar el [ proyecto completo aquí ](https://rpf.io/p/es-LA/poetry-generator-get){:target="_blank"}.
 
 --- /collapse ---

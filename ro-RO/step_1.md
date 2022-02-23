@@ -45,11 +45,11 @@ title: De ce vei avea nevoie
 
 #### Software
 
-+ Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"}, fie [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (fie [online](https://rpf.io/scratchon){:target="_blank"}, fie [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Fișiere descărcabile
 
-Proiectul inițial poate fi găsit [aici](http://rpf.io/p/ro-RO/poetry-generator-go){:target="_blank"}.
+Proiectul inițial poate fi găsit [aici](https://rpf.io/p/ro-RO/poetry-generator-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -66,6 +66,6 @@ Dacă ai nevoie să tipărești acest proiect, folosește [versiunea printabilă
 
 --- /no-print ---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/ro-RO/poetry-generator-get){:target="_blank"}.
+Poți găsi [proiectul finalizat aici](https://rpf.io/p/ro-RO/poetry-generator-get){:target="_blank"}.
 
 --- /collapse ---
