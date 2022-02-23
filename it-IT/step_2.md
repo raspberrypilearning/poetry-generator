@@ -10,9 +10,9 @@ Apri il progetto di avvio Scratch 'Generatore di Poesie'.
 
 Se hai un account su Scratch, puoi farne una copia facendo clic su **Remix**.
 
-**Offline:** apri il [progetto per principianti](http://rpf.io/p/it-IT/beat-the-goalie-go){:target="_blank"} nell'editor offline.
+**Offline:** apri il [progetto per principianti](https://rpf.io/p/it-IT/beat-the-goalie-go){:target="_blank"} nell'editor offline.
 
-Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

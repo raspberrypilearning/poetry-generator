@@ -10,9 +10,9 @@ Abre el proyecto de iniciación "Generador de Poesías" en Scratch.
 
 Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Reinventar**.
 
-**Sin conexión**: abre el [proyecto de iniciación](http://rpf.io/p/es-LA/beat-the-goalie-go){:target=_blank"} en el editor offline.
+**Sin conexión**: abre el [proyecto de iniciación](https://rpf.io/p/es-LA/beat-the-goalie-go){:target=_blank"} en el editor offline.
 
-Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

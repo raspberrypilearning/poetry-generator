@@ -10,9 +10,9 @@
 
 Αν έχεις λογαριασμό Scratch μπορείς να κάνεις ένα αντίγραφο, κάνοντας κλικ στο κουμπί **Ανάμειξη**.
 
-**Offline**: άνοιξε το [αρχικό έργο](http://rpf.io/p/el-GR/poetry-generator-go){:target="_blank"} στον επεξεργαστή εκτός σύνδεσης.
+**Offline**: άνοιξε το [αρχικό έργο](https://rpf.io/p/el-GR/poetry-generator-go){:target="_blank"} στον επεξεργαστή εκτός σύνδεσης.
 
-Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή εκτός σύνδεσης για το Scratch, μπορείς να τον βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή εκτός σύνδεσης για το Scratch, μπορείς να τον βρεις στο [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

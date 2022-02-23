@@ -43,11 +43,11 @@ title: 必要なもの
 
 #### ソフトウェア
 
-+ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"})
 
 #### ダウンロードするもの
 
-基本(きほん)のプロジェクトは [こちら](http://rpf.io/p/ja-JP/poetry-generator-go){:target="_blank"}にあります。
+基本(きほん)のプロジェクトは [こちら](https://rpf.io/p/ja-JP/poetry-generator-go){:target="_blank"}にあります。
 
 --- /collapse ---
 
@@ -63,6 +63,6 @@ title: 教育者向けの追加情報
 
 --- /no-print ---
 
-[完成したプロジェクトはこちらに](http://rpf.io/p/ja-JP/poetry-generator-get){:target="_blank"}あります 。
+[完成したプロジェクトはこちらに](https://rpf.io/p/ja-JP/poetry-generator-get){:target="_blank"}あります 。
 
 --- /collapse ---

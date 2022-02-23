@@ -49,7 +49,7 @@ Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos.
 * Llistes i elements de la llista a l'atzar;
 * Repetició (el bloc de `repetició`{:class="blockcontrol"}).
 
-Aquest projecte abasta elements de les següents línies del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Aquest projecte abasta elements de les següents línies del [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Utilitzeu les construccions de programació bàsiques per crear programes senzills.](https://www.raspberrypi.org/curriculum/programming/creator)
 

@@ -48,7 +48,7 @@ Sicrhewch fod gan bob plentyn fynediad i gopi o'r adnoddau yma.
 + Rhestrau a rhestrau ar hap; 
 + Ailadrodd (y bloc `ailadrodd`{:class="blockcontrol"}).
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](https://rpf.io/curriculum):
 
 + [Defnyddio rhaglenni sylfaenol i greu rhaglen syml](https://www.raspberrypi.org/curriculum/programming/creator)
 
