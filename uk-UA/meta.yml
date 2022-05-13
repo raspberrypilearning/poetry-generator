@@ -3,22 +3,25 @@ hero_image: images/banner.png
 listed: true
 ingredient: false
 title: Генератор віршів Ади
-description: Відзначай День Ади Лавлейс, навчившись програмувати власний генератор віршів!
+description: Відзначай День Ади Лавлейс, навчившись програмувати власний генератор
+  віршів!
 version: 4
 last_tested: 2019-02-20
 steps:
-  - title: Вступ
-  - title: Ада Лавлейс
-  - title: 'Завдання: запрограмуй Аду, щоб вона представилась'
-    challenge: true
-  - title: Скажи Аді своє ім’я
-  - title: Аналітична машина
-  - title: Більше поезії
-  - title: Анімація аналітичної машини
-  - title: 'Завдання: персоналізуй свій вірш'
-    challenge: true
-  - title: 'Завдання: більше слів'
-    challenge: true
-  - title: 'Завдання: більше поезії'
-    challenge: true
-  - title: Що далі?
+- title: Вступ
+  completion: engaged
+- title: Ада Лавлейс
+- title: 'Завдання: запрограмуй Аду, щоб вона представилась'
+  challenge: true
+- title: Скажи Аді своє ім’я
+- title: Аналітична машина
+- title: Більше поезії
+  completion: internal
+- title: Анімація аналітичної машини
+- title: 'Завдання: персоналізуй свій вірш'
+  challenge: true
+- title: 'Завдання: більше слів'
+  challenge: true
+- title: 'Завдання: більше поезії'
+  challenge: true
+- title: Що далі?

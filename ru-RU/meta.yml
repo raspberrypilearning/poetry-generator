@@ -3,22 +3,25 @@ hero_image: images/banner.png
 listed: true
 ingredient: false
 title: Генератор поэзии Ады
-description: Отпразднуй День Ады Лавлейс, научившись программировать собственный генератор стихов!
+description: Отпразднуй День Ады Лавлейс, научившись программировать собственный генератор
+  стихов!
 version: 4
 last_tested: 2019-02-20
 steps:
-  - title: Введение
-  - title: Ада Лавлейс
-  - title: 'Задача: Напиши код, который заставит Аду представиться'
-    challenge: true
-  - title: Говорим Аде свое имя
-  - title: Аналитический двигатель
-  - title: Больше поэзии
-  - title: Анимируем аналитический двигатель
-  - title: 'Задача: Персонализируй свое стихотворение'
-    challenge: true
-  - title: 'Задача: Больше слов'
-    challenge: true
-  - title: 'Задача: Больше поэзии'
-    challenge: true
-  - title: Что дальше?
+- title: Введение
+  completion: engaged
+- title: Ада Лавлейс
+- title: 'Задача: Напиши код, который заставит Аду представиться'
+  challenge: true
+- title: Говорим Аде свое имя
+- title: Аналитический двигатель
+- title: Больше поэзии
+  completion: internal
+- title: Анимируем аналитический двигатель
+- title: 'Задача: Персонализируй свое стихотворение'
+  challenge: true
+- title: 'Задача: Больше слов'
+  challenge: true
+- title: 'Задача: Больше поэзии'
+  challenge: true
+- title: Что дальше?
