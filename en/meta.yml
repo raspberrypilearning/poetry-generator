@@ -1,6 +1,6 @@
 ---
 hero_image: images/banner.png
-listed: false
+listed: true
 ingredient: false
 title: Ada's Poetry Generator
 description: Celebrate Ada Lovelace Day, by learning how to program your own poetry
