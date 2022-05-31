@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Ada Lovelace
 - title: 'Herausforderung: Codiere Ada, um sich vorzustellen'
   challenge: true
 - title: Sag Ada deinen Namen
 - title: Die analytische Maschine
 - title: Mehr Poesie
-  completion: internal
 - title: Animiere die Analytische Maschine
 - title: 'Herausforderung: Personalisiere dein Gedicht'
   challenge: true

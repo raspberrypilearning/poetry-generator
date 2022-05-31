@@ -18,13 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
-  completion: engaged
 - title: Ada Lovelace
 - title: 'Her: Codio Ada i gyflwyno ei hunan'
 - title: Dweud dy enw wrth Ada
 - title: Y Peiriant Dadansoddol
 - title: Mwy o farddoniaeth
-  completion: internal
 - title: Animeiddio'r Peiriant Dadansoddol
 - title: 'Her: Personoleiddio dy gerdd'
 - title: 'Her: Mwy o eiriau'

@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: Вступ
-  completion: engaged
 - title: Ада Лавлейс
 - title: 'Завдання: запрограмуй Аду, щоб вона представилась'
   challenge: true
 - title: Скажи Аді своє ім’я
 - title: Аналітична машина
 - title: Більше поезії
-  completion: internal
 - title: Анімація аналітичної машини
 - title: 'Завдання: персоналізуй свій вірш'
   challenge: true

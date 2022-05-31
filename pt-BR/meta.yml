@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: Introdução
-  completion: engaged
 - title: Ada Lovelace
 - title: 'Desafio: Codifique Ada para se apresentar'
   challenge: true
 - title: Dizendo seu nome à Ada
 - title: O Motor Analítico
 - title: Mais poesia
-  completion: internal
 - title: Animando o Motor Analítico
 - title: 'Desafio: Personalize seu poema'
   challenge: true

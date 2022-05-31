@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: Introducere
-  completion: engaged
 - title: Ada Lovelace
 - title: 'Provocare: Programeaz-o pe Ada să se prezinte'
   challenge: true
 - title: Spune-i Adei numele tău
 - title: Motorul analitic
 - title: Mai multă poezie
-  completion: internal
 - title: Animarea motorului analitic
 - title: 'Provocare: Personalizează-ți poezia'
   challenge: true

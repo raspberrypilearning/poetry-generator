@@ -8,14 +8,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: 介绍
-  completion: engaged
 - title: 艾达·洛芙蕾丝（Ada Lovelace）
 - title: 挑战：通过艾达来介绍自己
   challenge: true
 - title: 告诉艾达你的名字
 - title: 分析引擎
 - title: 更多的诗歌
-  completion: internal
 - title: 给分析引擎添加动画
 - title: 挑战：个性化您的诗
   challenge: true

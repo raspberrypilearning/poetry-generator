@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: परिचय
-  completion: engaged
 - title: अदा लवलेस
 - title: 'चुनौती: अदा को कोड करिये ताकि वो अपना परिचय दे सके'
   challenge: true
 - title: अदा को अपना नाम बताना
 - title: एनालिटिकल यन्त्र
 - title: और कविताएँ
-  completion: internal
 - title: एनालिटिकल यन्त्र को एनिमेट करना
 - title: 'चुनौती: अपनी कविता को निजी बनाये'
   challenge: true

@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: Введение
-  completion: engaged
 - title: Ада Лавлейс
 - title: 'Задача: Напиши код, который заставит Аду представиться'
   challenge: true
 - title: Говорим Аде свое имя
 - title: Аналитический двигатель
 - title: Больше поэзии
-  completion: internal
 - title: Анимируем аналитический двигатель
 - title: 'Задача: Персонализируй свое стихотворение'
   challenge: true
