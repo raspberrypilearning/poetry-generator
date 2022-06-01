@@ -9,14 +9,12 @@ version: 4
 last_tested: 2019-02-20
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Ada Lovelace
 - title: 'Uitdaging: programmeer Ada om zichzelf voor te stellen'
   challenge: true
 - title: Ada je naam vertellen
 - title: De analytische machine
 - title: Meer poëzie
-  completion: internal
 - title: Animatie van de analytische machine
 - title: 'Uitdaging: personaliseer je gedicht'
   challenge: true

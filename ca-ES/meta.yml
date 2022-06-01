@@ -19,13 +19,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducció
-  completion: engaged
 - title: Ada Lovelace
 - title: 'Desafiament: Programa l''Ada per a què es presenti'
 - title: Digueu-li a l'Ada el vostre nom
 - title: El motor analític
 - title: Més poesia
-  completion: internal
 - title: Animació del motor analític
 - title: 'Desafiament: personalitzeu el vostre poema'
 - title: 'Desafiament: més paraules'
