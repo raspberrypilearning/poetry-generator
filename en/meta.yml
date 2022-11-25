@@ -11,11 +11,15 @@ steps:
 - title: Introduction
 - title: Ada Lovelace
 - title: 'Challenge: Code Ada to introduce herself'
+  completion:
+  - engaged
   challenge: true
 - title: Telling Ada your name
 - title: The Analytical Engine
 - title: More poetry
 - title: Animating the Analytical Engine
+  completion:
+  - internal
 - title: 'Challenge: Personalise your poem'
   challenge: true
 - title: 'Challenge: More words'
