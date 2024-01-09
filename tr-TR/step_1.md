@@ -43,11 +43,11 @@ Kendi şiir jeneratörünüzü nasıl programlayacağınızı öğreneceksiniz!
 
 #### Yazılım
 
-+ Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### İndirilenler
 
-Başlangıç projesini [burada](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} bulabilirsiniz.
+The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@ Başlangıç projesini [burada](http://rpf.io/p/en/poetry-generator-go){:target=
 
 ## title: Eğitimciler için ek bilgiler
 
-Bu proje [Ada Lovelace](https://findingada.com)Gününü kutlamak için oluşturuldu. Eğer öğretmenseniz, çocukları Ada onun devrim niteliğindeki fikirleriyle tanıştırmak için bir montaj planı da içeren bir Okul Kaynak Paketi indirebilirsiniz ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)).
+Bu proje [Ada Lovelace](https://findingada.com)Gününü kutlamak için oluşturuldu. If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://p
 
 \--- /no-print \---
 
-Tamamlanmış projeye [buradan](http://rpf.io/p/en/poetry-generator-get){:target="_blank"} ulaşabilirsiniz.
+You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
