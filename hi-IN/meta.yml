@@ -13,6 +13,8 @@ steps:
     title: अदा लवलेस
   - 
     title: 'चुनौती: अदा को कोड करिये ताकि वो अपना परिचय दे सके'
+    completion:
+      - engaged
     challenge: true
   - 
     title: अदा को अपना नाम बताना
@@ -22,6 +24,8 @@ steps:
     title: और कविताएँ
   - 
     title: एनालिटिकल यन्त्र को एनिमेट करना
+    completion:
+      - internal
   - 
     title: 'चुनौती: अपनी कविता को निजी बनाये'
     challenge: true
