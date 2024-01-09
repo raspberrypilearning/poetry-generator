@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Wyzwanie: Zaprogramuj Adę, aby się przedstawiła'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Powiedz Adzie swoje imię
@@ -22,6 +24,8 @@ steps:
     title: Więcej poezji
   - 
     title: Animowanie silnika analitycznego
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: spersonalizuj swój wiersz'
     challenge: true
