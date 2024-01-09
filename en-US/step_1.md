@@ -43,11 +43,11 @@ You are going to learn how to program your own poetry generator!
 
 #### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Downloads
 
-The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@ The starter project can be found [here](http://rpf.io/p/en/poetry-generator-go){
 
 ## title: Additional information for educators
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
