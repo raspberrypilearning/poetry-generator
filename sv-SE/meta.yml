@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Challenge: Code Ada to introduce herself'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Telling Ada your name
@@ -22,6 +24,8 @@ steps:
     title: More poetry
   - 
     title: Animating the Analytical Engine
+    completion:
+      - internal
   - 
     title: 'Challenge: Personalise your poem'
     challenge: true
