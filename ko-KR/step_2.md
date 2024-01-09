@@ -6,13 +6,13 @@
 
 '시 생성기' 스크래치 스타터 프로젝트를 여세요.
 
-**온라인**: [스타터 프로젝트](http://rpf.io/poetry-on){: target = "_ blank"}을 엽니다.
+**온라인**: [스타터 프로젝트](https://scratch.mit.edu/projects/382660700){:target="_blank"}을 엽니다.
 
 스크래치 계정이 있는 경우 **Remix를 클릭** 하여 사본을 만들 수 있습니다.
 
-**오프라인**: [스타터 프로젝트](http://rpf.io/p/ko-KR/poetry-generator-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
+**오프라인**: [스타터 프로젝트](https://rpf.io/p/ko-KR/poetry-generator-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
 \--- /task \---
 
