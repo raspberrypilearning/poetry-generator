@@ -6,13 +6,13 @@ Em 1842, Ada Lovelace escreveu sobre o uso de uma máquina chamada 'Motor Analí
 
 Abra o projeto inicial do Scratch 'Gerador de poesia'.
 
-**Online**: Abra o projeto [inicial](http://rpf.io/poetry-on){:target="_ blank"}.
+**Online**: Abra o projeto [inicial](https://scratch.mit.edu/projects/382936783){:target="_blank"}.
 
 Se você tiver uma conta do Scratch, pode fazer uma cópia clicando em **Remix**.
 
-**Off-line**: Abra o [projeto inicial](http://rpf.io/p/pt-BR/beat-the-goalie-go){:target="_blank"} no editor offline.
+**Off-line**: Abra o [projeto inicial](https://rpf.io/p/pt-BR/beat-the-goalie-go){:target="_blank"} no editor offline.
 
-Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
