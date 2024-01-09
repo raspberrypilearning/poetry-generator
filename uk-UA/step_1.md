@@ -43,11 +43,11 @@
 
 #### Програмне забезпечення
 
-+ Скретч 3 (або [онлайн](http://rpf.io/scratchon){:target="_ blank"}, або [офлайн](http://rpf.io/scratchoff){:target="_ blank"})
++ Скретч 3 (або [онлайн](https://rpf.io/scratchon){:target="_blank"}, або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Завантаження
 
-Початковий проєкт можна знайти [тут](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
+Початковий проєкт можна знайти [тут](https://rpf.io/p/uk-UA/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@
 
 ## title: Додаткова інформація для викладачів
 
-Цей проєкт було створено до [Дня Ади Лавлейс](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Цей проєкт було створено до [Дня Ади Лавлейс](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-Ви можете знайти [завершений проєкт тут](http://rpf.io/p/en/poetry-generator-get){:target="_ blank"}.
+Ви можете знайти [завершений проєкт тут](https://rpf.io/p/uk-UA/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
