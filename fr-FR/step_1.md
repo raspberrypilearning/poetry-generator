@@ -43,11 +43,11 @@ Tu vas apprendre à programmer ton propre générateur de poésie !
 
 #### Logiciel
 
-+ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors-ligne](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([en ligne](https://rpf.io/scratchon){:target="_blank"} ou [hors ligne](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Téléchargements
 
-Le projet de démarrage peut être trouvé [ici](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Le projet de démarrage peut être trouvé [ici](https://rpf.io/p/fr-FR/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -63,6 +63,6 @@ Si vous besoin d'imprimer ce projet, utilisez la [ version imprimable. ](https:/
 
 \--- /no-print \---
 
-Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/fr-FR/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
