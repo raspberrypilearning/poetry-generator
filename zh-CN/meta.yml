@@ -13,6 +13,8 @@ steps:
     title: 艾达·洛芙蕾丝（Ada Lovelace）
   - 
     title: '挑战：通过艾达来介绍自己'
+    completion:
+      - engaged
     challenge: true
   - 
     title: 告诉艾达你的名字
@@ -22,6 +24,8 @@ steps:
     title: 更多的诗歌
   - 
     title: 给分析引擎添加动画
+    completion:
+      - internal
   - 
     title: '挑战：个性化您的诗'
     challenge: true
