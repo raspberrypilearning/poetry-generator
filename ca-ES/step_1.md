@@ -47,7 +47,7 @@ Aprendràs a programar el teu propi generador de poesia!
 
 #### Descàrregues
 
-El projecte inicial es pot trobar [aquí](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
+The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- / collapse \---
 
@@ -55,7 +55,7 @@ El projecte inicial es pot trobar [aquí](http://rpf.io/p/en/poetry-generator-go
 
 ## títol: Informació addicional per educadors
 
-Aquest projecte ha estat creat per celebrar el [Dia de l'Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Aquest projecte ha estat creat per celebrar el [Dia de l'Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imp
 
 \--- / no-print \---
 
-Pots trobar el [projecte acabat aquí](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- / collapse \---
