@@ -13,6 +13,8 @@ steps:
     title: Ада Ловелаце
   - 
     title: 'Изазов: Код Ада да се представи'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Кажем Ади своје име
@@ -22,6 +24,8 @@ steps:
     title: Више поезије
   - 
     title: Анимирање аналитичког мотора
+    completion:
+      - internal
   - 
     title: 'Изазов: Прилагодите своју песму'
     challenge: true
