@@ -6,13 +6,13 @@ In 1842 schreef Ada Lovelace over het gebruik van een machine genaamd de 'Analyt
 
 Open het Scratch startproject 'Gedichten Generator'.
 
-**Online**: open het [starter project](http://rpf.io/poetry-on){:target="_ blank"}.
+**Online**: open het [starter project](https://scratch.mit.edu/projects/381619826){:target="_blank"}.
 
 Als je een Scratch account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open het [startproject](http://rpf.io/p/nl-NL/poetry-generator-go){:target="_blank"} in de offline editor.
+**Offline**: open het [startproject](https://rpf.io/p/nl-NL/poetry-generator-go){:target="_blank"} in de offline editor.
 
-Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
