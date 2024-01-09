@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Desafio: Programa a Ada para te apresentares'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Dizer à Ada o teu nome
@@ -22,6 +24,8 @@ steps:
     title: Mais poesia
   - 
     title: Animar o Motor Analítico
+    completion:
+      - internal
   - 
     title: 'Desafio: Personaliza o teu poema'
     challenge: true
