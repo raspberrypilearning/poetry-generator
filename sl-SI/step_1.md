@@ -43,11 +43,11 @@ Naučil-a se boš, kako sprogramirati svoj lastni generator poezije!
 
 #### Programska oprema
 
-+ Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Prenosi
 
-Začetni projekt najdete [ tukaj ](http://rpf.io/p/en/poetry-generator-go) {: target = "_ prazno"}.
+The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@ Začetni projekt najdete [ tukaj ](http://rpf.io/p/en/poetry-generator-go) {: ta
 
 ## title: Dodatne informacije za izobraževalce
 
-Ta projekt je bil ustvarjen za praznovanje [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Ta projekt je bil ustvarjen za praznovanje [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ Ta projekt je bil ustvarjen za praznovanje [Ada Lovelace Day](https://findingada
 
 \--- /no-print \---
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/poetry-generator-get)"}.
+You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
