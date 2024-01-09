@@ -6,13 +6,13 @@ Nel 1842, Ada Lovelace scrisse a proposito dell'uso di una macchina chiamata "Mo
 
 Apri il progetto di avvio Scratch 'Generatore di Poesie'.
 
-**Online**: apri il [progetto iniziale](http://rpf.io/poetry-on){:target="_ blank"}.
+**Online**: apri il [progetto per principianti](https://scratch.mit.edu/projects/382370095){:target="_blank"}.
 
 Se hai un account su Scratch, puoi farne una copia facendo clic su **Remix**.
 
-**Offline:** apri il [progetto per principianti](http://rpf.io/p/it-IT/beat-the-goalie-go){:target="_blank"} nell'editor offline.
+**Offline:** apri il [progetto per principianti](https://rpf.io/p/it-IT/beat-the-goalie-go){:target="_blank"} nell'editor offline.
 
-Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
