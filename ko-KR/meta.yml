@@ -13,6 +13,8 @@ steps:
     title: 에이다 러브레이스
   - 
     title: '도전 과제: Code Ada의 자기소개'
+    completion:
+      - engaged
     challenge: true
   - 
     title: 에이다에게 여러분의 이름을 알려주기
@@ -22,6 +24,8 @@ steps:
     title: 더 많은 시
   - 
     title: 분석 엔진 애니메이션
+    completion:
+      - internal
   - 
     title: '도전 과제: 여러분의 시를 개인화하세요.'
     challenge: true
