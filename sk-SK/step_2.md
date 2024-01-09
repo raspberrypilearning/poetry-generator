@@ -6,13 +6,13 @@ V roku 1842, Ada Lovelace opísala počítací stroj s názvom 'Analytical Engin
 
 Otvor si štartovací Scratch projekt 'Generátor básní'.
 
-**Online**: otvor [štartovací projekt](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: open the [starter project](https://rpf.io/poetry-on){:target="_blank"}.
 
 Ak máš účet v Scratch-i, môžeš si vytvoriť kópiu projektu kliknutím na **Remixuj**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
+**Offline**: open the [starter project](https://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
-Ak potrebuješ stiahnuť a nainštalovať offline Scratch editor, nájdeš ho na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
