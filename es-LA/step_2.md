@@ -6,13 +6,13 @@ En 1842, Ada Lovelace escribió sobre el uso de una máquina llamada 'Motor Anal
 
 Abre el proyecto de iniciación "Generador de Poesías" en Scratch.
 
-**En línea**: abre el [proyecto de iniciación](http://rpf.io/poetry-on){:target="_blank"}.
+**En línea**: abre el [proyecto de iniciación](https://scratch.mit.edu/projects/382936238){:target="_blank"}.
 
 Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Reinventar**.
 
-**Sin conexión**: abre el [proyecto de iniciación](http://rpf.io/p/es-LA/beat-the-goalie-go){:target=_blank"} en el editor offline.
+**Sin conexión**: abre el [proyecto de iniciación](https://rpf.io/p/es-LA/beat-the-goalie-go){:target=_blank"} en el editor offline.
 
-Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
