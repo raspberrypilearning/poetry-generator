@@ -13,6 +13,8 @@ steps:
     title: Ада Лавлейс
   - 
     title: 'Завдання: запрограмуй Аду, щоб вона представилась'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Скажи Аді своє ім’я
@@ -22,6 +24,8 @@ steps:
     title: Більше поезії
   - 
     title: Анімація аналітичної машини
+    completion:
+      - internal
   - 
     title: 'Завдання: персоналізуй свій вірш'
     challenge: true
