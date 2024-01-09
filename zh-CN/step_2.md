@@ -6,13 +6,13 @@
 
 打开 “诗歌生成器” Scratch 初始项目。
 
-**在线版本**：打开 [初始项目](http://rpf.io/poetry-on){:target="_blank"}。
+**在线版本**：打开 [初始项目](https://scratch.mit.edu/projects/392421881){:target="_blank"}。
 
 如果您有 Scratch 帐户，可以单击 **改编** 制作副本。
 
-**离线版本**：在离线编辑器中打开 [初始项目](http://rpf.io/p/zh-CN/beat-the-goalie-go){:target="_blank"}。
+**离线版本**：在离线编辑器中打开 [初始项目](https://rpf.io/p/zh-CN/beat-the-goalie-go){:target="_blank"}。
 
-如果您需要下载并安装 Scratch 离线编辑器，可以点击链接[ rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 获取。
+如果您需要下载并安装 Scratch 离线编辑器，可以点击链接[ rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} 获取。
 
 \--- /task \---
 
