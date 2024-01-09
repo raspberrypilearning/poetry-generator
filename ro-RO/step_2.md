@@ -6,13 +6,13 @@
 
 Deschide proiectul Scratch de început „Generatorul de poezie”.
 
-**Offline**: deschide [proiectul de bază](http://rpf.io/poetry-on){:target="_blank"} în editorul offline.
+**Offline**: deschide [proiectul de bază](https://scratch.mit.edu/projects/382738814){:target="_blank"} în editorul offline.
 
 Dacă ai un cont Scratch, poți să creezi o copie dând click pe **Remix**.
 
-**Offline**: deschide [proiectul de bază](http://rpf.io/p/ro-RO/beat-the-goalie-go){:target="_blank"} în editorul offline.
+**Offline**: deschide [proiectul de bază](https://rpf.io/p/ro-RO/beat-the-goalie-go){:target="_blank"} în editorul offline.
 
-Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți găsi la [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți găsi la [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
