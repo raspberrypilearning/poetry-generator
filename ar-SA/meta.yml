@@ -13,6 +13,8 @@ steps:
     title: آدا لوفيلاس
   - 
     title: 'التحدي: برمج آدا لتقديم نفسها'
+    completion:
+      - engaged
     challenge: true
   - 
     title: إخبار آدا بأسمك
@@ -22,6 +24,8 @@ steps:
     title: المزيد من الشِعر
   - 
     title: تحريك المحرك التحليلي
+    completion:
+      - internal
   - 
     title: 'التحدي: أضف الطابع الشخصي على قصيدتك'
     challenge: true
