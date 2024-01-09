@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Udfordring: Kode Ada for at præsentere sig selv'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Fortæller Ada dit navn
@@ -22,6 +24,8 @@ steps:
     title: Mere poesi
   - 
     title: Animering af den analytiske motor
+    completion:
+      - internal
   - 
     title: 'Udfordring: Tilpas dit digt'
     challenge: true
