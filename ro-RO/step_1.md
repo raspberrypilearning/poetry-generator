@@ -43,11 +43,11 @@ Vei învăța cum să-ți programezi propriul generator de poezie!
 
 #### Software
 
-+ Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"}, fie [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (fie [online](https://rpf.io/scratchon){:target="_blank"}, fie [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Fișiere descărcabile
 
-Proiectul inițial poate fi găsit [aici](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Proiectul inițial poate fi găsit [aici](https://rpf.io/p/ro-RO/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@ Proiectul inițial poate fi găsit [aici](http://rpf.io/p/en/poetry-generator-go
 
 ## title: Informații suplimentare pentru educatori
 
-Acest proiect a fost creat pentru a sărbători [Ziua Adei Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Acest proiect a fost creat pentru a sărbători [Ziua Adei Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ Dacă ai nevoie să tipărești acest proiect, folosește [versiunea printabilă
 
 \--- /no-print \---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Poți găsi [proiectul finalizat aici](https://rpf.io/p/ro-RO/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
