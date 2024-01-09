@@ -26,7 +26,7 @@ Clique sur Ada pour tester ton code. Ada devrait te demander ton nom, que tu peu
 
 \--- task \---
 
-Nous pouvons utiliser une variable **** pour stocker ton nom. `nom`{:class="block3variables"}! Comme cette variable sera utilisée pour stocker ton nom, appelons la variable ... `nom`{: class = "block3variables"} !
+Nous pouvons utiliser une variable **** pour stocker ton nom. Clique sur `Variables`{:class="block3variables"}, puis sur « Créer une variable ». Comme cette variable sera utilisée pour stocker ton nom, appelons la variable ... `nom`{: class = "block3variables"} !
 
 [[[generic-scratch3-add-variable]]]
 
@@ -34,7 +34,7 @@ Nous pouvons utiliser une variable **** pour stocker ton nom. `nom`{:class="bloc
 
 \--- task \---
 
-Pour stocker ton nom, clique sur l'onglet `variables`{:class="block3variables"}, puis fais glisser le bloc `mettre nom`{:class="block3variables"} à la fin de votre code.
+Pour stocker ton nom, clique sur l'onglet `variables`{:class="block3variables"}, puis fais glisser le bloc `mettre nom`{:class="block3variables"} à la fin de ton code.
 
 ![sprite ada](images/ada-sprite.png)
 
