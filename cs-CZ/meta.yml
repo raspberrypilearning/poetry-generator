@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelaceová
   - 
     title: 'Výzva: Nakóduj Adu, aby se představila'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Řekni Adě své jméno
@@ -22,6 +24,8 @@ steps:
     title: Více poezie
   - 
     title: Animování analytického stroje
+    completion:
+      - internal
   - 
     title: 'Výzva: Přizpůsob svoji báseň'
     challenge: true
