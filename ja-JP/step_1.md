@@ -43,11 +43,11 @@
 
 #### ソフトウェア
 
-+ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"})
 
 #### ダウンロードするもの
 
-基本(きほん)のプロジェクトは [こちら](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}にあります。
+基本(きほん)のプロジェクトは [こちら](https://rpf.io/p/ja-JP/poetry-generator-go){:target="_blank"}にあります。
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@
 
 ## title: 教育者向けの追加情報
 
-このプロジェクトは、 [エイダ・ラブレースの日](https://findingada.com)を祝うために作成されました。 If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+このプロジェクトは、 [エイダ・ラブレースの日](https://findingada.com)を祝うために作成されました。 If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-[完成したプロジェクトはこちらに](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}あります 。
+[完成したプロジェクトはこちらに](https://rpf.io/p/ja-JP/poetry-generator-get){:target="_blank"}あります 。
 
 \--- /collapse \---
