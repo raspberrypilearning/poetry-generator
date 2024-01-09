@@ -43,11 +43,11 @@
 
 #### सॉफ्टवेयर
 
-+ Scratch 3 (यदि [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (यदि [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 #### डाउनलोड
 
-स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}|
+स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](https://rpf.io/p/hi-IN/poetry-generator-go){:target="_blank"}।
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@
 
 ## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
-यह प्रोजेक्ट [अदा लवलेस डे](https://findingada.com) को मनाने के लिए बनाया गया है। If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+यह प्रोजेक्ट [अदा लवलेस डे](https://findingada.com) को मनाने के लिए बनाया गया है। If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/en/poetry-generator-get){:target="_blank"} देख सकते हैं ।
+आप इधर [पूरा किया हुआ प्रोजेक्ट](https://rpf.io/p/hi-IN/poetry-generator-get){:target="_blank"} देख सकते हैं ।
 
 \--- /collapse \---
