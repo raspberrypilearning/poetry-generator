@@ -43,11 +43,11 @@
 
 #### 軟體
 
-+ Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### 下載
 
-可以在 [](http://rpf.io/p/en/poetry-generator-go){：target =“ _ blank”}處找到啟動項目。
+The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@
 
 ## title: 給教師的其它資訊
 
-創建該項目是為了慶祝 [Ada Lovelace Day](https://findingada.com)。 如果您是老師，則可以下載學校資源包，其中還包含一個大會計劃（[ downloads.codeclub.org.uk/ada.zip ](http://downloads.codeclub.org.uk/ada.zip) ），向孩子介紹Ada及其革命思想。
+創建該項目是為了慶祝 [Ada Lovelace Day](https://findingada.com)。 If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}。
+You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
