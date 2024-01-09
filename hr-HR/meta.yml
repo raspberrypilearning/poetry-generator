@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Izazov: Šifra Ada da se predstavi'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Rekavši Ada svoje ime
@@ -22,6 +24,8 @@ steps:
     title: Više poezije
   - 
     title: Animiranje analitičkog motora
+    completion:
+      - internal
   - 
     title: 'Izazov: Prilagodite svoju pjesmu'
     challenge: true
