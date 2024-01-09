@@ -6,13 +6,13 @@
 
 افتح مشروع بداية سكراتش "مولد الشعر".
 
-**متصل بالانترنيت**: افتح مشروع البداية [](http://rpf.io/poetry-on){: target = "_ blank"}.
+**متصل بالانترنيت**: افتح مشروع البداية [scratch.mit.edu/projects/382656129](https://scratch.mit.edu/projects/382656129){:target="_blank"}.
 
 اذا كنت تملك حساب على منصة السكراتش (Scratch) فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/ar-SA/poetry-generator-go){:target="_blank"} عبر المحرر الموجود على جهازك.
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](https://rpf.io/p/ar-SA/poetry-generator-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-اذا كنت تحتاج الى تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج الى تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
