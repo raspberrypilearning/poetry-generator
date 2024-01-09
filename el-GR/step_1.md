@@ -43,11 +43,11 @@
 
 #### Λογισμικό
 
-+ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [online](https://rpf.io/scratchon){:target="_blank"} είτε [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Λήψεις
 
-Το αρχικό project μπορεί να βρεθεί [εδώ](http://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Το αρχικό project μπορεί να βρεθεί [εδώ](https://rpf.io/p/el-GR/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@
 
 ## title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-Το έργο αυτό έχει δημιουργηθεί για τη γιορτή της [Ημέρας Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Το έργο αυτό έχει δημιουργηθεί για τη γιορτή της [Ημέρας Ada Lovelace](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-Μπορείς να βρεις το [ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Μπορείς να βρεις το [ολοκληρωμένο έργο εδώ](https://rpf.io/p/el-GR/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
