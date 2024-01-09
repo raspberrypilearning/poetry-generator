@@ -6,13 +6,13 @@ W 1842 r. Ada Lovelace pisała o używaniu maszyny o nazwie „Silnik analityczn
 
 Otwórz projekt startowy Scratch „Poetry Generator”.
 
-**Online**: otwórz [projekt początkowy](http://rpf.io/poetry-on){: target = "_ blank"}.
+**Online**: otwórz [projekt początkowy](https://scratch.mit.edu/projects/382663369){:target="_blank"}.
 
 Jeśli masz konto Scratch, możesz wykonać kopię klikając **Remiks**.
 
-**Offline**: otwórz projekt początkowy [ ](http://rpf.io/p/pl-PL/poetry-generator-go){:target="_blank"} w edytorze offline.
+**Offline**: otwórz projekt początkowy [ ](https://rpf.io/p/pl-PL/poetry-generator-go){:target="_blank"} w edytorze offline.
 
-Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
