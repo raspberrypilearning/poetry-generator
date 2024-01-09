@@ -43,11 +43,11 @@
 
 #### Программное обеспечение
 
-+ Scratch 3 (либо [онлайн](http://rpf.io/scratchon){:target="_blank"}, либо [оффлайн (без подключения к Интернету) версия](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (либо [онлайн](https://rpf.io/scratchon){:target="_blank"}, либо [оффлайн (без подключения к Интернету) версия](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Загрузки
 
-Начальный проект можно найти [здесь](http://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
+Начальный проект можно найти [здесь](https://rpf.io/p/ru-RU/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-Здесь ты можешь найти [завершённый проект](http://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Здесь ты можешь найти [завершённый проект](https://rpf.io/p/ru-RU/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
