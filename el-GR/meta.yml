@@ -13,6 +13,8 @@ steps:
     title: Ada Lovelace
   - 
     title: 'Πρόκληση: Προγραμμάτισε την Ada να παρουσιάσει τον εαυτό της'
+    completion:
+      - engaged
     challenge: true
   - 
     title: Πες στην Ada το όνομά σου
@@ -22,6 +24,8 @@ steps:
     title: Περισσότερη ποίηση
   - 
     title: Ενεργοποιώντας την Αναλυτική Μηχανή
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: Εξατομίκευσε το ποίημά σου'
     challenge: true
