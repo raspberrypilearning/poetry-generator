@@ -6,13 +6,13 @@
 
 Отворите почетни пројекат „Генератор поезије“.
 
-**Онлине**: отворите пројекат [стартера](http://rpf.io/poetry-on){: таргет = "_ бланк"}.
+**Online**: open the [starter project](https://rpf.io/poetry-on){:target="_blank"}.
 
 Ако имаш Скреч налог, можеш да направиш копију тако што ћеш кликнути на **Преради**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
+**Offline**: open the [starter project](https://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
-Ако је потребно да преузмеш и инсталираш Скреч уређивач ван мреже, можеш га пронаћи на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
