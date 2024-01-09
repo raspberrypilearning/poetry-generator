@@ -6,13 +6,13 @@ Godine 1842. Ada Lovelace pisala je o korištenju stroja nazvanog "Analitički m
 
 Otvorite početni projekt „Generator poezije“.
 
-**Online**: otvaranje [projekta startera](http://rpf.io/poetry-on){: target = "_ blank"}.
+**Online**: open the [starter project](https://rpf.io/poetry-on){:target="_blank"}.
 
 Ako imate Scratch račun, možete napraviti kopiju klikom na ** Remix **.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
+**Offline**: open the [starter project](https://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
-Ako trebaš preuzeti i instalirati offline Scratch uređivač, to možeš napraviti na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
