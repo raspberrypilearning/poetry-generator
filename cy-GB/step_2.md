@@ -6,13 +6,13 @@ In 1842, Ada Lovelace wrote about using a machine called the 'Analytical Engine'
 
 Bydd unrhyw gôd sydd yn cael ei ychwanegu o dan y bloc yma yn rhedeg pan mae Ada yn cael ei chlicio!
 
-**Online**: open the [starter project](http://rpf.io/poetry-on){:target="_blank"}.
+**Online**: open the [starter project](https://rpf.io/poetry-on){:target="_blank"}.
 
 Os oes ganddot ti gyfrif Scratch galli di wneud copi drwy glicio ar ** Remix **.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
+**Offline**: open the [starter project](https://rpf.io/p/en/poetry-generator-go){:target="_blank"} in the offline editor.
 
-Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
