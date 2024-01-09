@@ -6,13 +6,13 @@ Em 1842, Ada Lovelace escreveu sobre da utilização de uma máquina chamada 'Mo
 
 Abre o projeto inicial do Scratch 'Gerador de Poesia'.
 
-**Online**: abre o projeto [inicial](http://rpf.io/poetry-on){:target="_ blank"}.
+**Online**: abre o projeto [inicial](https://scratch.mit.edu/projects/382665491){:target="_ blank"}.
 
 Se tiveres uma conta Scratch podes fazer uma cópia ao clicar em **Remisturar**.
 
-**Offline**: Abre o [projecto inicial](http://rpf.io/p/pt-PT/poetry-generator-go){:target="_blank"} no editor offline.
+**Offline**: Abre o [projecto inicial](https://rpf.io/p/pt-PT/poetry-generator-go){:target="_blank"} no editor offline.
 
-Se for necessário descarregar e instalar o editor offline do Scratch, podes encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se for necessário descarregar e instalar o editor offline do Scratch, podes encontrá-lo em [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
