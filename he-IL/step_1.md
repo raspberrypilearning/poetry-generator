@@ -43,11 +43,11 @@
 
 #### תוכנה
 
-+ Scratch 3 (או [מכוון](http://rpf.io/scratchon){:target="_blank"} or [לא מקוון](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### הורדות
 
-ניתן למצוא את פרויקט המתנע [כאן](http://rpf.io/p/en/poetry-generator-go){: target = "_ blank"}.
+The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@
 
 ## title: מידע נוסף למורי המועדון
 
-פרויקט זה נוצר כדי לחגוג [עדה לאבלייס יום](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+פרויקט זה נוצר כדי לחגוג [עדה לאבלייס יום](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@
 
 \--- /no-print \---
 
-אתה יכול למצוא את [הפרויקט השלם כאן ](http://rpf.io/p/en/poetry-generator-get) {:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
 
 \--- /collapse \---
