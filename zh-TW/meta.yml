@@ -13,6 +13,8 @@ steps:
     title: 艾達·洛芙蕾絲（Ada Lovelace）
   - 
     title: '挑戰：Ada代碼介紹自己'
+    completion:
+      - engaged
     challenge: true
   - 
     title: 告訴阿達你的名字
@@ -22,6 +24,8 @@ steps:
     title: 多詩
   - 
     title: 動畫分析引擎
+    completion:
+      - internal
   - 
     title: '挑戰：個性化您的詩'
     challenge: true
