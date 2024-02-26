@@ -43,11 +43,11 @@ V této lekci se naučíš, jak naprogramovat svůj vlastní generátor poezie!
 
 #### Software
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (buď [online](https://rpf.io/scratchon){:target="_blank"} nebo [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Ke stažení
 
-The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go){:target="_blank"}.
+Startovací projekt najdeš [zde](https://rpf.io/p/en/poetry-generator-go){:target="_ blank"}.
 
 \--- /collapse \---
 
@@ -55,7 +55,7 @@ The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go)
 
 ## title: Dodatečné informace pro učitele
 
-Tento projekt byl vytvořen k oslavě [dne Ady Lovelaceové](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
+Tento projekt byl vytvořen k oslavě [dne Ady Lovelaceové](https://findingada.com). Pokud jste učitel, můžete si stáhnout školní materiál, který také obsahuje plán sestavení ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), abyste dětem představili Adu a její revoluční myšlenky.
 
 \--- no-print \---
 
@@ -63,6 +63,6 @@ Pokud potřebuješ tento projekt vytisknout, použij verzi [pro tisk](https://pr
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/poetry-generator-get){:target="_blank"}.
+Dokončený projekt [naleznete zde](https://rpf.io/p/en/poetry-generator-get){: target = "_ blank"}.
 
 \--- /collapse \---
