@@ -29,7 +29,7 @@ Nauczysz się programować własny generator poezji!
 
 + Zmienne
 + Listy i losowe elementy listy;
-+ Powtórzenie (blok `powtarzaj`blok {: class = "block3control"}).
++ Powtórzenie (blok `powtarzaj`blok{:class="block3control"}).
 
 \--- /collapse \---
 
