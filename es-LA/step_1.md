@@ -39,11 +39,11 @@ Esta es la versión **Scratch 3** del proyecto. También hay una [versión del p
 
 #### Equipo
 
-+ Una computadora capaz de ejecutar Scratch 3
++ Una computadora capaz de correr Scratch 3
 
 #### Programas
 
-+ Scratch 3 (ya sea [en línea](https://rpf.io/scratchon){:target="_blank"} o [sin conexión](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [con Internet](https://rpf.io/scratchon){:target="_blank"} o [sin Internet](https://rpf.io/scratchoff){:target="_blank"})
 
 #### Descargas
 
