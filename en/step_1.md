@@ -58,9 +58,7 @@ The starter project can be found [here](https://rpf.io/p/en/poetry-generator-go)
 title: Additional information for educators
 ---
 
-This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). 
-
-If you're a teacher, you can download a [School Resource Pack](resources/ada.zip), which also contains an assembly plan to introduce children to Ada and her revolutionary ideas.
+This project has been created to celebrate [Ada Lovelace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack which also contains an assembly plan ([downloads.codeclub.org.uk/ada.zip](https://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
 --- no-print ---
 
