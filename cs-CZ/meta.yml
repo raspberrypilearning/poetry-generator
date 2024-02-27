@@ -1,0 +1,28 @@
+---
+hero_image: images/banner.png
+listed: true
+ingredient: false
+title: Ady generátor poezie
+description: Oslav den Ady Lovelaceové tím, že se naučíš, jak naprogramovat svůj vlastní generátor poezie!
+version: 4
+last_tested: 2019-02-20
+steps:
+  - title: Úvod
+  - title: Ada Lovelaceová
+  - title: 'Výzva: Nakóduj Adu, aby se představila'
+    completion:
+      - engaged
+    challenge: true
+  - title: Řekni Adě své jméno
+  - title: Analytický stroj
+  - title: Více poezie
+  - title: Animování analytického stroje
+    completion:
+      - internal
+  - title: 'Výzva: Přizpůsob svoji báseň'
+    challenge: true
+  - title: 'Výzva: Více slov'
+    challenge: true
+  - title: 'Výzva: Více poezie'
+    challenge: true
+  - title: Co dál?
