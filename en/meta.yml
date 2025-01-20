@@ -26,4 +26,6 @@ steps:
   challenge: true
 - title: 'Challenge: More poetry'
   challenge: true
-- title: What next?
+- title: What can you do now?
+  completion:
+  - external
